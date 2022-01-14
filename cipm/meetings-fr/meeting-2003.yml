@@ -1,0 +1,58 @@
+---
+metadata:
+  title: CIPM, 2003
+  date: '2003-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2003-01-01'
+  title: Révision de la liste des radiations recommandées pour la mise en pratique
+    de la définition du mètre
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2003/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      Le Comité international des poids et mesures,
+  considerations:
+  - type: considering
+    date_effective: '2003-01-01'
+    message: considérant que l'on dispose depuis peu de meilleures valeurs des fréquences
+      des radiations de certains étalons à ions refroidis trè stables, déjà publiées
+      dans la liste des radiations recommandées ;
+  - type: considering
+    date_effective: '2003-01-01'
+    message: considérant que l'on a déterminé de meilleures valeurs des fréquences
+      des étalons de fréquence optique dans l'infrarouge, fondés sur des cuves à gaz,
+      dans le domaine des télécommunications optiques, valeurs déjà publiées dans
+      la liste des radiations recommandées ;
+  - type: considering
+    date_effective: '2003-01-01'
+    message: considérant que l'on a effectué récemment et pour la première fois des
+      mesures de fréquence à l'aide de peignes à impulsions femtosecondes de certains
+      étalons fondés sur des cuves à iode, qui figurent sur la liste complémentaire
+      de radiations recommandées, mesures qui conduisent à une réduction considérable
+      de l'incertitude ;
+  actions:
+  - type: encourages
+    date_effective: '2003-01-01'
+    message: |-
+      *propose* que la liste des radiations recommandées soit révisée pour inclure :
+
+      * les valeurs mises à jour des fréquences de la transition quadripolaire de l'ion piégé de ^stem:[88^(Sr)]+^ et de la transition octupolaire de l'ion piégé de ^stem:[171^(Yb)]+^ ;
+      * la valeur mise à jour de la fréquence de l'étalon asservi sur l'acétylène à 1.54 µm ;
+      * des valeurs mises à jour de la fréquence d'étalons asservis sur l'iode à 543 nm et à 515 nm.
+- dates:
+  - '2003-01-01'
+  title: Symbole du séparateur décimal dans le Système international d'unités (SI)
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/2003/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

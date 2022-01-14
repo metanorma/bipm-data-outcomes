@@ -1,0 +1,34 @@
+---
+metadata:
+  title: CIPM, 1956
+  date: '1956-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1956-01-01'
+  title: Definition of the unit of time (second)
+  identifier: 1
+  url: https://www.bipm.org/en/CIPM/db/1956/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      In virtue of the powers invested in it by cgpm-resolution:en/10/5[Resolution 5] of the 10th Conférence Générale des Poids et Mesures, the Comité International des Poids et Mesures,
+  considerations:
+  - type: considering
+    date_effective: '1956-01-01'
+    message: considering that the 9th General Assembly of the International Astronomical
+      Union (Dublin, 1955) declared itself in favour of linking the second to the
+      tropical year,
+  - type: considering
+    date_effective: '1956-01-01'
+    message: |-
+      considering that, according to the decisions of the 8th General Assembly of the International Astronomical Union (Rome, 1952), the second of ephemeris time (ET) is the fraction +
+      (12 960 276 813 / 408 986 496) ´ stem:[10^(-9)] of the tropical year for 1900 January 0 at stem:[12 "h"] ET,
+  actions:
+  - type: decides
+    date_effective: '1956-01-01'
+    message: decides "The second is the fraction 1/31 556 925.9747 of the tropical
+      year for 1900 January 0 at 12 hours ephemeris time."

@@ -1,0 +1,18 @@
+---
+metadata:
+  title: CIPM, 2004
+  date: '2004-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2004-01-01'
+  title: Relations entre les laboratoires nationaux de métrologie et les organismes
+    d'accréditation reconnus au niveau national
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2004/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

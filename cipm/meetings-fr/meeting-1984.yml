@@ -1,0 +1,32 @@
+---
+metadata:
+  title: CIPM, 1984
+  date: '1984-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1984-01-01'
+  title: Au sujet du sievert
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1984/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      Le Comité international des poids et mesures,
+  considerations:
+  - type: considering
+    date_effective: '1984-01-01'
+    message: considérant la confusion qui continue d'exister au sujet de la cgpm-resolution:fr/16/5[Résolution
+      5, votée par la 16^e^ Conférence générale des poids et mesures (1979)],
+  actions:
+  - type: decides
+    date_effective: '1984-01-01'
+    message: |-
+      décide d'introduire l'explication suivante dans la brochure « Le Système international d'unités (SI) » : +
+
+      La grandeur équivalent de dose stem:[H] est le produit de la dose absorbée stem:[D] de rayonnements ionisants et de deux facteurs sans dimension stem:[Q] (facteur de qualité) et stem:[N] (produit de tous les autres facteurs de multiplication) prescrits par l'International Commission on Radiological Protection :_H = Q · stem:["N"] · D._
+
+      Ainsi, pour une radiation donnée, la valeur numérique de stem:[H] en joules par kilogramme peut être différente de la valeur numérique de stem:[D] en joules par kilogramme, puisqu'elle est fonction de la valeur de stem:[Q] et de stem:[N]. Afin d'éviter tout risque de confusion entre la dose absorbée stem:[D] et l'équivalent de dose stem:[H], il faut employer les noms spéciaux pour les unités correspondantes, c'est-à-dire qu'il faut utiliser le nom gray au lieu de joule par kilogramme pour l'unité de dose absorbée stem:[D] et le nom sievert au lieu de joule par kilogramme pour l'unité d'équivalent de dose stem:[H].

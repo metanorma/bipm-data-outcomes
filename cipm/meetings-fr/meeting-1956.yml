@@ -1,0 +1,34 @@
+---
+metadata:
+  title: CIPM, 1956
+  date: '1956-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1956-01-01'
+  title: Définition de l'unité de temps (seconde)
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1956/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      En vertu des pouvoirs que lui a conférés la Dixième Conférence générale des poids et mesures par sa cgpm-resolution:fr/10/5[Résolution 5], le Comité international des poids et mesures,
+  considerations:
+  - type: considering
+    date_effective: '1956-01-01'
+    message: considérant que la Neuvième Assemblée générale de l'Union astronomique
+      internationale (Dublin, 1955) a émis un avis favorable au rattachement de la
+      seconde à l'année tropique,
+  - type: considering
+    date_effective: '1956-01-01'
+    message: |-
+      considérant que, selon les décisions de la Huitième Assemblée générale de l'Union astronomique internationale (Rome, 1952), la seconde de temps des éphémérides (T.E.) est la fraction +
+      (12 960 276 813 / 408 986 496) ´ stem:[10^(-9)] de l'année tropique pour 1900 janvier 0 à stem:[12 "h"] T.E.,
+  actions:
+  - type: decides
+    date_effective: '1956-01-01'
+    message: 'décide : La seconde est la fraction 1/31 556 925,9747 de l''année tropique
+      pour 1900 janvier 0 à 12 heures de temps des éphémérides.'

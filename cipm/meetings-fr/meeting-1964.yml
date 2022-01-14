@@ -1,0 +1,31 @@
+---
+metadata:
+  title: CIPM, 1964
+  date: '1964-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1964-01-01'
+  title: Étalons de fréquence
+  identifier: 0
+  url: https://www.bipm.org/fr/CIPM/db/1964/0/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      Le Comité international des poids et mesures,
+  considerations:
+  - type: acknowledging
+    date_effective: '1964-01-01'
+    message: habilité par la Résolution 5 de la Douzième Conférence générale des poids
+      et mesures à désigner les étalons atomiques ou moléculaires de fréquence à employer
+      temporairement pour les mesures physiques de temps,
+  actions:
+  - type: decides
+    date_effective: '1964-01-01'
+    message: déclare que l'étalon à employer est la transition entre les niveaux hyperfins
+      stem:[F = 4], stem:[M = 0] et stem:[F = 3], _M =_ 0 de l'état fondamental ^2^S~1/2~
+      de l'atome de césium 133 non perturbé par des champs extérieurs, et que la valeur
+      9 192 631 770 hertz est assignée à la fréquence de cette transition.

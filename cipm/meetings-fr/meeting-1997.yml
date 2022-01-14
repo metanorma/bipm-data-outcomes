@@ -1,0 +1,28 @@
+---
+metadata:
+  title: CIPM, 1997
+  date: '1997-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1997-01-01'
+  title: Révision de la mise en pratique de la définition du mètre
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1997/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1997-01-01'
+  title: Métrologie en chimie
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1997/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

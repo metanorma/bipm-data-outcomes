@@ -1,0 +1,82 @@
+---
+metadata:
+  title: CIPM, 1989
+  date: '1989-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1989-01-01'
+  title: Synchronisation des UTC(k) avec UTC
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1989/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1989-01-01'
+  title: Amélioration de l'exactitude en fréquence des étalons primaires
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1989/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1989-01-01'
+  title: Coordonnées de référence des antennes
+  identifier: 3
+  url: https://www.bipm.org/fr/CIPM/db/1989/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1989-01-01'
+  title: Installation d'horloges au BIPM
+  identifier: 4
+  url: https://www.bipm.org/fr/CIPM/db/1989/4/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1989-01-01'
+  title: Échelle internationale de température de 1990
+  identifier: 5
+  url: https://www.bipm.org/fr/CIPM/db/1989/5/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      Le Comité international des poids et mesures (CIPM),
+  considerations:
+  - type: recognizing
+    date_effective: '1989-01-01'
+    message: |-
+      conformément à l'invitation formulée par la 18^e^ Conférence générale des poids et mesures en 1987 ( cgpm-resolution:fr/18/7[Résolution 7]), a adopté l'Échelle internationale de température de 1990 ( https://www.bipm.org/fr/publications/its-90.html[EIT-90]) en remplacement de l'Échelle internationale pratique de température de 1968 (EIPT-68).
+
+      Le CIPM *souligne* que, par rapport à l'EIPT-68, l'EIT-90
+
+      * s'étend vers des températures plus basses, jusqu'à stem:[0","65 "K"], et remplace, de ce fait, aussi l'Échelle provisoire de température de 1976 (EPT-76),
+      * est en bien meilleur accord avec les températures thermodynamiques correspondantes,
+      * a une continuité, une précision et une reproductibilité nettement améliorées sur toute son étendue,
+      * comporte des sous-domaines et donne, dans certains domaines, des définitions équivalentes qui facilitent grandement son utilisation.
+
+      Le CIPM *note* de plus, que le texte de l'EIT-90 sera accompagné de deux documents, _Supplementary Information for the ITS-90_ et _Techniques for Approximating the ITS-90_, qui seront publiés par le Bureau international des poids et mesures et remis à jour périodiquement.
+
+      Le CIPM *recommande*
+
+      * que l'EIT-90 soit mise en application le 1^er^ janvier 1990,
+      * et que, à la même date, l'EIPT-68 et l'EPT-76 soient abrogées.
+  actions: []

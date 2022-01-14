@@ -1,0 +1,17 @@
+---
+metadata:
+  title: CIPM, 1981
+  date: '1981-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1981-01-01'
+  title: Expression des incertitudes expérimentales
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1981/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

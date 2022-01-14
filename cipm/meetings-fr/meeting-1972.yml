@@ -1,0 +1,28 @@
+---
+metadata:
+  title: CIPM, 1972
+  date: '1972-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1972-01-01'
+  title: Efficacités lumineuses relatives spectrales en vision photopique [V()]
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1972/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1972-01-01'
+  title: Réseau Gravimétrique International Unifié 1971 (IGSN-71)
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1972/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

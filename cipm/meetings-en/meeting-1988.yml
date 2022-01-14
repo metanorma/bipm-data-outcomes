@@ -1,0 +1,129 @@
+---
+metadata:
+  title: CIPM, 1988
+  date: '1988-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1988-01-01'
+  title: Representation of the volt by means of the Josephson effect
+  identifier: 1
+  url: https://www.bipm.org/en/CIPM/db/1988/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures
+  considerations:
+  - type: recognizing
+    date_effective: '1988-01-01'
+    message: acting in accordance with instructions given in Resolution 6 of the 18th
+      Conférence Générale des Poids et Mesures concerning the forthcoming adjustment
+      of the representations of the volt and the ohm,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: considering that a detailed study of the results of the most recent determinations
+      leads to a value of stem:[483 597.9 "GHz"/"V"] for the Josephson constant, stem:[K_("J")],
+      that is to say, for the quotient of frequency divided by the potential difference
+      corresponding to the stem:[n = 1] step in the Josephson effect,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: considering that the Josephson effect, together with this value of stem:[K_("J")],
+      can be used to establish a reference standard of electromotive force having
+      a one-standard-deviation uncertainty with respect to the volt estimated to be
+      4 parts in stem:[10^(7)], and a reproducibility which is significantly better,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: is of the opinion that no change in this recommended value of the Josephson
+      constant will be necessary in the foreseeable future, and
+  actions:
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that stem:[483 597.9 "GHz"/"V"] exactly be adopted as a conventional
+      value, denoted by stem:[K_(J-90)] for the Josephson constant, stem:[K_("J")],
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that this new value be used from 1 January 1990, and not before,
+      to replace the values currently in use,
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that this new value be used from this same date by all laboratories
+      which base their measurements of electromotive force on the Josephson effect,
+      and
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that from this same date all other laboratories adjust the
+      value of their laboratory reference standards to agree with the new adopted
+      value,
+  - type: calls upon
+    date_effective: '1988-01-01'
+    message: draws the attention of laboratories to the fact that the new value is
+      greater by stem:[3.9 "GHz"/"V"], or about 8 parts in stem:[10^(6)], than the
+      value given in 1972 by the Comité Consultatif d'Électricité in its Declaration
+      E-72.
+- dates:
+  - '1988-01-01'
+  title: Representation of the ohm by means of the quantum Hall effect
+  identifier: 2
+  url: https://www.bipm.org/en/CIPM/db/1988/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures,
+  considerations:
+  - type: recognizing
+    date_effective: '1988-01-01'
+    message: "*acting* in accordance with instructions given in cgpm-resolution:en/18/6[Resolution
+      6] of the 18th Conférence Générale des Poids et Mesures concerning the forthcoming
+      adjustment of the representations of the volt and the ohm,"
+  - type: considering
+    date_effective: '1988-01-01'
+    message: considering that most existing laboratory reference standards of resistance
+      change significantly with time,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: considering that a laboratory reference standard of resistance based
+      on the quantum Hall effect would be stable and reproducible,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: considering that a detailed study of the results of the most recent determinations
+      leads to a value of 25 812.807 Ω for the von Klitzing constant, stem:[R_("K")],
+      that is to say, for the quotient of the Hall potential difference divided by
+      current corresponding to the plateau stem:[i = 1] in the quantum Hall effect,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: considering that the quantum Hall effect, together with this value of
+      stem:[R_("K")], can be used to establish a reference standard of resistance
+      having a one-standard-deviation uncertainty with respect to the ohm estimated
+      to be 2 parts in stem:[10^(7)], and a reproducibility which is significantly
+      better,
+  - type: considering
+    date_effective: '1988-01-01'
+    message: "*is of the opinion* that no change in this recommended value of the
+      von Kiltzing constant will be necessary in the foreseeable future."
+  actions:
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that 25 812.807 Ω exactly be adopted as a conventional value,
+      denoted by stem:[R_(K-90)], for the von Klitzing constant, stem:[R_("K")],
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that this value be used from 1 January 1990, and not before,
+      by all laboratories which base their measurements of resistance on the quantum
+      Hall effect,
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that from this same date all other laboratories adjust the
+      value of their laboratory reference standards to agree with stem:[R_(K-90)],
+  - type: recommends
+    date_effective: '1988-01-01'
+    message: recommends that in the use of the quantum Hall effect to establish a
+      laboratory reference standard of resistance, laboratories follow the most recent
+      edition of the technical guidelines for reliable measurements of the quantized
+      Hall resistance drawn up by the Comité Consultatif d'Électricité and published
+      by the Bureau International des Poids et Mesures, and

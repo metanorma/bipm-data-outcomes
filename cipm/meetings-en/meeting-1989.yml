@@ -1,0 +1,38 @@
+---
+metadata:
+  title: CIPM, 1989
+  date: '1989-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1989-01-01'
+  title: The International Temperature Scale of 1990
+  identifier: 5
+  url: https://www.bipm.org/en/CIPM/db/1989/5/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures (CIPM)
+  considerations:
+  - type: recognizing
+    date_effective: '1989-01-01'
+    message: |-
+      acting in accordance with cgpm-resolution:en/18/7[Resolution 7] of the 18th Conférence Générale des Poids et Mesures (1987) has adopted the International Temperature Scale of 1990 ( https://www.bipm.org/en/publications/its-90.html[ITS-90]) to supersede the International Practical Temperature Scale of 1968 (IPTS-68).
+
+      The CIPM *notes* that, by comparison with the IPTS-68, the ITS-90
+
+      * extends to lower temperatures, down to stem:[0.65 "K"], and hence also supersedes the EPT-76,
+      * is in substantially better agreement with corresponding thermodynamic temperatures,
+      * has much improved continuity, precision and reproducibility throughout its range and
+      * has subranges and alternative definitions in certain ranges which greatly facilitate its use.
+
+      The CIPM also *notes* that, to accompany the text of the ITS-90 there will be two further documents, the _Supplementary Information for the ITS-90_ and _Techniques for Approximating the ITS-90_. These documents will be published by the BIPM and periodically updated.
+
+      The CIPM *recommends*
+
+      * that on 1 January 1990 the ITS-90 come into force and
+      * that from this same date the IPTS-68 and the EPT-76 be abrogated.
+  actions: []

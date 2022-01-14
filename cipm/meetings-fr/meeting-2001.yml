@@ -1,0 +1,17 @@
+---
+metadata:
+  title: CIPM, 2001
+  date: '2001-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2001-01-01'
+  title: Le neper et le bel
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2001/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

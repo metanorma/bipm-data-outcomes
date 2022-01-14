@@ -1,0 +1,492 @@
+---
+metadata:
+  title: 'Resolutions of the CGPM: 26th meeting'
+  date: '2018-11-16'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/CGPM/db/26
+resolutions:
+- dates:
+  - '2018-11-16'
+  title: On the revision of the International System of Units (SI)
+  identifier: 1
+  url: https://www.bipm.org/en/CGPM/db/26/1/
+  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=472
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  considerations:
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering the essential requirement for an International System of
+      Units (SI) that is uniform and accessible world-wide for international trade,
+      high-technology manufacturing, human health and safety, protection of the environment,
+      global climate studies and the basic science that underpins all these,
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering that the SI units must be stable in the long term, internally
+      self consistent and practically realizable being based on the present theoretical
+      description of nature at the highest level,
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering that a revision of the SI to meet these requirements was
+      proposed in Resolution 1 adopted unanimously by the CGPM at its 24th meeting
+      (2011) that laid out in detail a new way of defining the SI based on a set of
+      seven defining constants, drawn from the fundamental constants of physics and
+      other constants of nature, from which the definitions of the seven base units
+      are deduced,
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering that the conditions set by the CGPM at its 24th meeting (2011),
+      confirmed at its 25th meeting (2014), before such a revised SI could be adopted
+      have now been met,
+  - type: noting
+    date_effective: '2018-11-16'
+    message: "*notes* the consequences as set out in Resolution 1 adopted by the CGPM
+      at its 24th meeting (2011) in respect of the base units of the SI and confirms
+      these in the following Appendices to this Resolution, which have the same force
+      as the Resolution itself,"
+  actions:
+  - type: decides
+    date_effective: '2018-11-16'
+    message: |-
+      *decides* that, effective from 20 May 2019, the International System of Units, the SI, is the system of units in which:
+
+      * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom stem:[ sf Delta  nu _(Cs)] is stem:[9 192 631 770 "Hz"],
+      * the speed of light in vacuum stem:[c] is stem:[299 792 458 "m"/"s"],
+      * the Planck constant stem:[h] is stem:[6.626 070 15 * 10^(-34) "J" * "s"],
+      * the elementary charge stem:[e] is stem:[1.602 176 634 * 10^(-19) "C"],
+      * the Boltzmann constant stem:[k] is stem:[1.380 649 * 10^(-23) "J"/"K"],
+      * the Avogadro constant stem:[N_("A")] is stem:[6.022 140 76 * 10^(23) "mol"^(-1)],
+      * the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:[K_("cd")], is stem:[683 "lm"/"W"],
+
+      where the hertz, joule, coulomb, lumen, and watt, with unit symbols stem:["Hz"], stem:["J"], stem:["C"], stem:["lm"], and stem:["W"], respectively, are related to the units second, metre, kilogram, ampere, kelvin, mole, and candela, with unit symbols stem:["s"], stem:["m"], stem:["kg"], stem:["A"], stem:["K"], stem:["mol"], and stem:["cd"], respectively, according to stem:["Hz" = "s"^(-1)], stem:["J" = "kg" * "m"^(2) * "s"^(-2)], stem:["C" = "A" * "s"], stem:["lm" = "cd" * "m"^(2) * "m"^(-2) = "cd" * "sr"], and stem:["W" = "kg" * "m"^(2) * "s"^(-3)]
+  - type: invites / further invites
+    date_effective: '2018-11-16'
+    message: '*invites* the International Committee for Weights and Measures (CIPM)
+      to produce a new edition of its Brochure entitled "_The International System
+      of Units_" in which a full description of the revised SI will be given.'
+  appendices:
+  - identifier: 1
+    message: "*Appendix 1. Abrogation of former definitions of the base units*\n\nIt
+      follows from the new definition of the SI described above that, effective from
+      20 May 2019:\n\n* the definition of the second in force since 1967/68 (13th
+      meeting of the CGPM, Resolution 1) is abrogated,\n* the definition of the metre
+      in force since 1983 (17th meeting of the CGPM, Resolution 1) is abrogated,\n*
+      the definition of the kilogram in force since 1889 (1st meeting of the CGPM,
+      1889, 3rd meeting of the CGPM, 1901) based upon the mass of the international
+      prototype of the kilogram is abrogated,\n* the definition of the ampere in force
+      since 1948 (9th meeting of the CGPM) based upon the definition proposed by the
+      CIPM (1946, Resolution 2) is abrogated,\n* the definition of the kelvin in force
+      since 1967/68 (13th meeting of the CGPM, Resolution 4) is abrogated, \n* the
+      definition of the mole in force since 1971 (14th meeting of the CGPM, Resolution
+      3) is abrogated,\n* the definition of the candela in force since 1979 (16th
+      meeting of the CGPM, Resolution 3) is abrogated,\n* the decision to adopt the
+      conventional values of the Josephson constant stem:[K_(J-90)] and of the von
+      Klitzing constant stem:[R_(K-90)] taken by the CIPM (1988, Recommendations 1
+      and 2) at the request of the CGPM (18th meeting of the CGPM, 1987, Resolution
+      6) for the establishment of representations of the volt and the ohm using the
+      Josephson and quantum Hall effects, respectively, is abrogated."
+  - identifier: 2
+    message: |-
+      *Appendix 2. Status of constants previously used in the former definitions*
+
+      It follows from the new definition of the SI described above, and from the recommended values of the 2017 special adjustment of the Committee on Data for Science and Technology (CODATA) on which the values of the defining constants are based, that effective from 20 May 2019:
+
+      * the mass of the international prototype of the kilogram stem:[m("K")] is equal to stem:[1 "kg"] within a relative standard uncertainty equal to that of the recommended value of stem:[h] at the time this Resolution was adopted, namely stem:[1.0 * 10^(-8)] and that in the future its value will be determined experimentally,
+      * the vacuum magnetic permeability stem:[ mu _(0)] is equal to stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] within a relative standard uncertainty equal to that of the recommended value of the fine-structure constant stem:[ alpha ] at the time this Resolution was adopted, namely stem:[2.3 * 10^(-10)] and that in the future its value will be determined experimentally,
+      * the thermodynamic temperature of the triple point of water stem:["T"_(TPW)] is equal to stem:[273.16 "K"] within a relative standard uncertainty closely equal to that of the recommended value of stem:[k] at the time this Resolution was adopted, namely stem:[3.7 * 10^(-7)], and that in the future its value will be determined experimentally,
+      * the molar mass of carbon 12, stem:[M(""_(12) "C")], is equal to stem:[0.012 "kg" * "mol"^(-1)] within a relative standard uncertainty equal to that of the recommended value of stem:[N_("A") h] at the time this Resolution was adopted, namely stem:[4.5 * 10^(-10)], and that in the future its value will be determined experimentally.
+  - identifier: 3
+    message: |-
+      *Appendix 3. The base units of the SI*
+
+      Starting from the new definition of the SI described above in terms of fixed numerical values of the defining constants, definitions of each of the seven base units are deduced by taking, as appropriate, one or more of these defining constants to give the following set of definitions, effective from 20 May 2019:
+
+      * The second, symbol stem:["s"], is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency stem:[ sf Delta  nu _(Cs)], the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"], which is equal to stem:["s"^(-1)].
+      * The metre, symbol stem:["m"], is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum stem:[c] to be 299 792 458 when expressed in the unit stem:["m"/"s"], where the second is defined in terms of stem:[ sf Delta  nu _(Cs)].
+      * The kilogram, symbol stem:["kg"], is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant stem:[h] to be stem:[6.626 070 15 * 10^(-34)] when expressed in the unit stem:["J" * "s"], which is equal to stem:["kg" * "m"^(2) * "s"^(-1)], where the metre and the second are defined in terms of stem:[c] and stem:[ sf Delta  nu _(Cs)].
+      * The ampere, symbol stem:["A"], is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge stem:[e] to be stem:[1.602 176 634 * 10^(-19)] when expressed in the unit stem:["C"], which is equal to stem:["A" * "s"], where the second is defined in terms of stem:[ sf Delta  nu _(Cs)].
+      * The kelvin, symbol stem:["K"], is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant stem:[k] to be stem:[1.380 649 * 10^(-23)] when expressed in the unit stem:["J" * "K"^(-1)], which is equal to stem:["kg" * "m"^(2) * "s"^(-2) * "K"^(-1)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu _(Cs)].
+      * The mole, symbol stem:["mol"], is the SI unit of amount of substance. One mole contains exactly stem:[6.022 140 76 * 10^(23)] elementary entities. This number is the fixed numerical value of the Avogadro constant, stem:[N_("A")], when expressed in the unit stem:["mol"^(-1)] and is called the Avogadro number. +
+      The amount of substance, symbol stem:[n], of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.
+      * The candela, symbol stem:["cd"], is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:["K"_("cd")], to be 683 when expressed in the unit stem:["lm" * "W"^(-1)], which is equal to stem:["cd" * "sr" * "W"^(-1)], or stem:["cd" * "sr" * "kg"^(-1) * "m"^(-2) * "s"^(3)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu _(Cs)].
+- dates:
+  - '2018-11-16'
+  title: On the definition of time scales
+  identifier: 2
+  url: https://www.bipm.org/en/CGPM/db/26/2/
+  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=475
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  considerations:
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering that cgpm-resolution:en/14/1[Resolution 1 adopted by the
+      CGPM at its 14th meeting (1971)] requested the CIPM to define International
+      Atomic Time (TAI), '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering that no complete self-contained definition of TAI has been
+      provided officially by the CIPM, '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering that the Consultative Committee for the Definition of the
+      Second (CCDS) proposed in its Recommendation S2 (1970) a definition which was
+      extended by a Declaration of the CCDS in 1980, '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering that the CGPM at its 15th meeting (1975) noted that Coordinated
+      Universal Time (UTC), derived from TAI, provides the basis of civil time, and
+      strongly endorsed this usage,
+  - type: recognizing
+    date_effective: '2018-11-16'
+    message: 'recognizing that the mission of the BIPM is to ensure and promote the
+      global comparability of measurements, including the provision of a coherent
+      international system of units, '
+  - type: recognizing
+    date_effective: '2018-11-16'
+    message: 'recognizing that the International Astronomical Union (IAU) and the
+      International Union of Geodesy and Geophysics (IUGG) with the International
+      Association of Geodesy (IAG) are responsible for defining reference systems
+      for Earth and space applications, '
+  - type: recognizing
+    date_effective: '2018-11-16'
+    message: 'recognizing that the International Telecommunication Union Radiocommunication
+      Sector (ITU-R) is responsible for coordinating the dissemination of time and
+      frequency signals and making relevant recommendations, '
+  - type: recognizing
+    date_effective: '2018-11-16'
+    message: recognizing that the International Earth Rotation and Reference Systems
+      Service (IERS), a service of the IAU and IUGG, is responsible for providing
+      information required to relate terrestrial and celestial reference systems,
+      including time-varying measurements of the Earth's rotation angle, UT1 - UTC,
+      the low-precision prediction of UT1 - UTC for time signal broadcasts, DUT1,
+      and for deciding and announcing leap second insertions,
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that Resolution A4 (1991) of the IAU defined, in Recommendations
+      I and II, the Geocentric Reference System as a system of space-time coordinates
+      for the Earth within the framework of general relativity, and, in Recommendation
+      III, named the time coordinate of that reference system "Geocentric Coordinate
+      Time" (TCG), '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that Resolution A4 (1991) of the IAU further defined, in Recommendation
+      IV, Terrestrial Time stem:[("TT")] as another time coordinate in the Geocentric
+      Reference System, differing from TCG by a constant rate; the unit of measurement
+      of stem:["TT"] being chosen to agree with the SI second on the geoid, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that Resolution B1.9 (2000) of the IAU redefined stem:["TT"]
+      to be a time scale differing from TCG by a constant rate: stem:[(d "TT")/(d
+      "TCG") = 1 - L_(G)], where stem:[L_(G) = 6.969 290 134 * 10^(-10)] is a defining
+      constant (the numerical value of stem:[L_(G)] was chosen to conform to the value
+      stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] for the gravity potential on the
+      geoid as recommended by Special Commission 3 of the IAG in 1999), '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: noting that the redefinition of stem:["TT"] in 2000 introduced an ambiguity
+      between stem:["TT"] and TAI as the CCDS had stated in 1980 that TAI was to have
+      "_the SI second as realized on the rotating geoid as the scale unit_" while
+      the definition of stem:["TT"] does not refer to the geoid,
+  actions:
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: 'states that TAI is a continuous time scale produced by the BIPM based
+      on the best realizations of the SI second, and is a realization of stem:["TT"]
+      as defined by IAU Resolution B1.9 (2000), '
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: states that in the transformation from the proper time of a clock to
+      TAI, the relativistic rate shift is computed with respect to the conventionally
+      adopted equipotential stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] of the Earth's
+      gravity potential, which conforms to the constant stem:[L_(G)] defining the
+      rate of stem:["TT"],
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: 'states that as stated in the IAU Resolution A4 (1991), stem:["TT"] -
+      TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre,
+      in order to ensure continuity of stem:["TT"] with Ephemeris Time, '
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: 'states that UTC produced by the BIPM, based on TAI, is the only recommended
+      time scale for international reference and the basis of civil time in most countries, '
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: 'states that UTC differs from TAI only by an integral number of seconds
+      as published by the BIPM, '
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: 'states that users can derive the rotation angle of the Earth by applying
+      to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS, '
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: 'states that UTC provides a means to measure time intervals and to disseminate
+      the standard of frequency during intervals in which leap seconds do not occur, '
+  - type: affirms / reaffirming
+    date_effective: '2018-11-16'
+    message: states that traceability to UTC is obtained through local real-time realizations
+      "stem:["UTC" (k)]" maintained by laboratories contributing data to the calculation
+      of UTC, identified by "stem:[k]",
+  - type: confirms
+    date_effective: '2018-11-16'
+    message: "*confirms* that\n\n* International Atomic Time (TAI) is a continuous
+      time scale produced by the BIPM based on the best realizations of the SI second.
+      TAI is a realization of Terrestrial Time stem:[(\"TT\")] with the same rate
+      as that of stem:[\"TT\"], as defined by the IAU Resolution B1.9 (2000), \n*
+      Coordinated Universal Time (UTC) is a time scale produced by the BIPM with the
+      same rate as TAI, but differing from TAI only by an integral number of seconds,
+      \n\nand *recommends* that\n\n* all relevant unions and organizations consider
+      these definitions and work together to develop a common understanding on reference
+      time scales, their realization and dissemination with a view to consider the
+      present limitation on the maximum magnitude of UT1 - UTC so as to meet the needs
+      of the current and future user communities, \n* all relevant unions and organizations
+      work together to improve further the accuracy of the prediction of UT1 - UTC
+      and the method for its dissemination to satisfy the future requirements of users."
+- dates:
+  - '2018-11-16'
+  title: On the objectives of the BIPM
+  identifier: 3
+  url: https://www.bipm.org/en/CGPM/db/26/3/
+  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=477
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  considerations:
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering the world-wide use of the metric system - now the International
+      System of Units (SI), '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering cgpm-resolution:en/21/3[Resolution 3 adopted by the CGPM
+      at its 21st meeting (1999)], which
+  - type: considering
+    date_effective: '2018-11-16'
+    message: "considers that all States, not only those that are Parties to the Metre
+      Convention, engage in measurements which are related to trade and need to be
+      traceable to the SI,\n\n  cgpm-resolution:en/22/4[Resolution 4 adopted by the
+      CGPM at its 22nd meeting (2003)], which considers the desirability of extending
+      the number of Member States or Associates so as to increase the impact and benefit
+      of participation in the Mutual Recognition Arrangement (CIPM MRA) drawn up by
+      the International Committee for Weights and Measures (CIPM), \n that best practice
+      in communication, transparency and governance has been implemented following
+      adoption of Resolution 10 by the CGPM at its 24th meeting (2011), on the role,
+      mission, objectives, long-term strategy and governance of the International
+      Bureau of Weights and Measures (BIPM), \n  cgpm-resolution:en/25/4[Resolution
+      4 adopted by the CGPM at its 25th meeting (2014)] on the Dotation of the BIPM
+      for the years 2016 - 2019, which urges Member States, as well as international
+      organizations, private organizations and foundations to maintain the provision
+      of additional voluntary support of all kinds to support specific BIPM mission-related
+      activities, particularly those that facilitate participation in the activities
+      of the BIPM by those States with emerging metrology systems,"
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting the importance of the use of the SI for innovation, industrial
+      and societal needs, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting the continuing role of the BIPM following the revision of the
+      International System of Units (SI), '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting the success of the CIPM MRA and the implementation of the recommendations
+      following its recent review, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting the core role of metrology within the international Quality Infrastructure
+      and the importance of international recognition of measurements for conformity
+      assessment, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: noting the growing interest in participation in the activities of the
+      BIPM, particularly from States with emerging metrology systems,
+  actions:
+  - type: welcomes
+    date_effective: '2018-11-16'
+    message: 'welcomes the revised strategy and objectives for the BIPM, agreed by
+      the CIPM, allowing planning beyond the four-year cycle of the BIPM Work Programme
+      and leading to best use of resources, including investment in people, infrastructure
+      and equipment, '
+  - type: welcomes
+    date_effective: '2018-11-16'
+    message: 'welcomes the development of a long-term strategic view which, together
+      with a consolidated planning process, underpins the development of the BIPM
+      Work Programme in consultation with Member States, '
+  - type: welcomes
+    date_effective: '2018-11-16'
+    message: 'welcomes the continuous efforts of the BIPM to engage more States in
+      its activities, '
+  - type: welcomes
+    date_effective: '2018-11-16'
+    message: welcomes the recognition of a common definition for the Quality Infrastructure
+      by the World Bank and the ten international and intergovernmental organizations
+      that form the network on metrology, accreditation, standardization and conformity
+      assessment for developing countries (DCMAS Network), including the BIPM,
+  - type: confirms
+    date_effective: '2018-11-16'
+    message: "*confirms*\n\nthat the objectives of the BIPM are to:\n\n* represent
+      the world-wide measurement community, aiming to maximize its uptake and impact,
+      \n* be a centre for scientific and technical collaboration between Member States,
+      providing capabilities for international measurement comparisons on a shared-cost
+      basis, \n* be the coordinator of the world-wide measurement system, ensuring
+      it gives comparable and internationally accepted measurement results, \n\nthat
+      fulfilling the BIPM mission and objectives is complemented by its work in:\n\n*
+      capacity building, which aims to achieve a global balance between the metrology
+      capabilities in Member States, \n* knowledge transfer, which ensures that the
+      work of the BIPM has the greatest impact."
+- dates:
+  - '2018-11-16'
+  title: On the dotation of the BIPM for the years 2020 to 2023
+  identifier: 4
+  url: https://www.bipm.org/en/CGPM/db/26/4/
+  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=479
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  considerations:
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering the increased importance of the work of the International
+      Bureau of Weights and Measures (BIPM) to international trade, to industrial
+      innovation, to monitor the global environment, to human health and medicine,
+      to food and forensic science in all Member States, '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering the recognition of the BIPM as the scientifically expert
+      intergovernmental organization in metrology and the added value and cost efficiency
+      it provides to all Member States in technical and economic terms, '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: 'considering the manner in which the BIPM continues to adopt best management
+      practice and to improve the efficiency of its operation, '
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering cgpm-resolution:en/16/7[Resolution 7 adopted by the CGPM
+      at its 16th meeting (1979)] establishing a principle for the determination of
+      the base dotation,
+  - type: noting
+    date_effective: '2018-11-16'
+    message: noting the current world financial situation and the financial constraints
+      that Member States continue to experience,
+  actions:
+  - type: welcomes
+    date_effective: '2018-11-16'
+    message: welcomes the support of all kinds provided to the BIPM by National Metrology
+      Institutes, in particular by way of secondment of staff to the BIPM, and support
+      for the BIPM Capacity Building and Knowledge Transfer programme,
+  - type: decides
+    date_effective: '2018-11-16'
+    message: "*decides* that\n\nthe annual dotation of the BIPM, as defined in https://www.bipm.org/utils/common/documents/official/metre-convention.pdf#page=16[Article
+      6 (1921) of the Regulations annexed to the Metre Convention], will be set in
+      such a way that, for those States that are Parties to the Metre Convention at
+      the time of the 26th meeting of the CGPM, it shall be: \n\n|===\n| 12 356 526
+      euros in 2020\n\n| 12 480 091 euros in 2021\n| 12 604 892 euros in 2022\n| 12
+      730 941 euros in 2023\n\n|==="
+  - type: encourages
+    date_effective: '2018-11-16'
+    message: encourages Member States, as well as international organizations, private
+      organizations and foundations to maintain the provision of additional voluntary
+      support of all kinds to support specific BIPM mission related activities, particularly
+      those that facilitate participation in the activities of the BIPM by those countries
+      without well-developed metrology infrastructure.
+- dates:
+  - '2018-11-16'
+  title: On the financial arrears of Member States and the process of exclusion
+  identifier: 5
+  url: https://www.bipm.org/en/CGPM/db/26/5/
+  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=480
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2018-11-16'
+    message: "*recalling* that\n\n* Article 6 paragraphs 6 to 8 (1921) of the Regulations
+      annexed to the Metre Convention reads as follows: \n\"_6. Si un État est demeuré
+      trois années sans effectuer le versement de sa contribution, celle-ci est répartie
+      entre les autres États, au prorata de leurs propres contributions. Les sommes
+      supplémentaires, versées ainsi par les États pour parfaire le montant de la
+      dotation du Bureau, sont considérées comme une avance faite à l'État retardataire,
+      et leur sont remboursées si celui ci vient à acquitter ses contributions arriérées.
+      +\n7. Les avantages et prérogatives conférés par l'adhésion à la Convention
+      du Mètre sont suspendus à l'égard des États déficitaires de trois années. +\n8.
+      Après trois nouvelles années, l'État déficitaire est exclu de la Convention,
+      et le calcul des contributions est rétabli conformément aux dispositions de
+      l?article 20 du présent Règlement._\"[[_ftnref1]] +\n* cgpm-resolution:en/23/8[Resolution
+      8 adopted by the CGPM at its 23rd meeting (2007)] on financial arrears of Member
+      States sets a procedure concerning States who fail to fulfil their financial
+      obligations,"
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'observing that paragraphs 6 and 7 of Article 6 of the Annexed Regulations
+      foresee that whilst the advantages and prerogatives of Member States are suspended
+      for those States in arrears by three years, their contributions remain due, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: observing that historical practice has always been to apply paragraphs
+      6 and 7 of Article 6 of the Annexed Regulations,
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that historical practice has been at variance with the provisions
+      of paragraph 8 of Article 6 of the Annexed Regulations by not excluding Member
+      States when they have defaulted on their contributions for more than six years
+      and by not re-establishing the calculation of contributions, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that historical practice has resulted in certain Member States
+      remaining in a state of suspension for periods considerably exceeding the three-year
+      period envisaged in the Annexed Regulations, leading to the accumulation of
+      their arrears and the consequent distribution of their contributions among all
+      other Member States, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that cgpm-resolution:en/23/8[Resolution 8 adopted by the CGPM
+      at its 23rd meeting (2007)] introduced a procedure for the exclusion of a defaulting
+      Member State that requires a decision of the CGPM, and consequently, the period
+      of suspension prior to exclusion depends on the scheduling of CGPM meetings
+      and thus defaulting Member States may not be treated equally, '
+  - type: noting
+    date_effective: '2018-11-16'
+    message: noting that cgpm-resolution:en/23/8[Resolution 8 (2007)] partly addressed
+      the issues raised by historical practice,
+  - type: recalling / further recalling
+    date_effective: '2018-11-16'
+    message: 'further recalling that procedural clarity and fair treatment of Member
+      States are matters of good governance and are beneficial to all parties, '
+  - type: recalling / further recalling
+    date_effective: '2018-11-16'
+    message: further recalling that the International Committee for Weights and Measures
+      (CIPM), as the permanent supervisory organ of the BIPM, could apply Article
+      6 paragraph 8 of the Annexed Regulations in a timely manner,
+  actions:
+  - type: decides
+    date_effective: '2018-11-16'
+    message: 'decides that the CIPM shall implement Article 6 paragraph 8 of the Annexed
+      Regulations, '
+  - type: decides
+    date_effective: '2018-11-16'
+    message: decides that the CIPM shall address the situation where historical practice
+      has resulted in the accumulation of arrears,
+  - type: confirms
+    date_effective: '2018-11-16'
+    message: "*confirms* that\n\n* the CIPM shall notify the French Ministry for Europe
+      and Foreign Affairs of any exclusion, which shall accordingly inform the excluded
+      State and all other Member States, \n* an excluded Member State may only again
+      accede to the Metre Convention if its remaining arrears have been paid, \n*
+      pursuant to Article 11 of the Metre Convention, that such a Member State shall
+      pay an entrance contribution equal to its first annual contribution. \n +\n
+      +"
+  appendices:
+  - identifier: 1
+    message: |-
+      [[_ftn1]] English translation for easy reference of the authoritative French version: +
+      6. If a State remains three years without paying its contribution, the said contribution is distributed among the other States pro-rata to their own contributions. The supplementary sums thus paid by these States to make up the dotation of the Bureau are considered as advances made to the State in arrears, and are reimbursed to them in the event that it repays its arrears of contributions. +
+      7. The advantages and prerogatives conferred by accession to the Metre Convention are suspended for those States in arrears by three years. +
+      8. After three more years, the State in arrears is excluded from the Convention and the calculation of contributions is re-established in accordance with the provisions of Article 20 of the present Regulations.

@@ -1,0 +1,17 @@
+---
+metadata:
+  title: CIPM, 2000
+  date: '2000-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2000-01-01'
+  title: Extension de l'Échelle internationale de température au-dessous de 0,65 K
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2000/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

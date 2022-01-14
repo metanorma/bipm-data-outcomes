@@ -1,0 +1,29 @@
+---
+metadata:
+  title: CIPM, 2006
+  date: '2006-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2006-01-01'
+  title: Au sujet des représentations secondaires de la seconde
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2006/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '2006-01-01'
+  title: "Coordination de la mise au point de techniques avancées de comparaison\r\nde
+    temps et de fréquences"
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/2006/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

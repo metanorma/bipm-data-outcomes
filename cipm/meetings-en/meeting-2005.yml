@@ -1,0 +1,28 @@
+---
+metadata:
+  title: CIPM, 2005
+  date: '2005-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2005-01-01'
+  title: Clarification of the definition of the kelvin, unit of thermodynamic temperature
+  identifier: 2
+  url: https://www.bipm.org/en/CIPM/db/2005/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '2005-01-01'
+  title: Revision of the Mise en pratique list of recommended radiations
+  identifier: 3
+  url: https://www.bipm.org/en/CIPM/db/2005/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

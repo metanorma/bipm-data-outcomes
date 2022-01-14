@@ -1,0 +1,29 @@
+---
+metadata:
+  title: CIPM, 2015
+  date: '2015-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2015-01-01'
+  title: CIPM Recommendation to NMIs on managing the consequences of the corrections
+    to the BIPM "as-maintained" mass unit
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2015/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '2015-01-01'
+  title: Mises à jour de la liste des fréquences étalons
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/2015/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

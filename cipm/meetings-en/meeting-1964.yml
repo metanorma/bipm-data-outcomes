@@ -1,0 +1,32 @@
+---
+metadata:
+  title: CIPM, 1964
+  date: '1964-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1964-01-01'
+  title: Atomic and molecular frequency standards
+  identifier: 0
+  url: https://www.bipm.org/en/CIPM/db/1964/0/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures,
+  considerations:
+  - type: acknowledging
+    date_effective: '1964-01-01'
+    message: empowered by cgpm-resolution:en/12/5[Resolution 5] of the 12th Conférence
+      Générale des Poids et Mesures to name atomic or molecular frequency standards
+      for temporary use for time measurements in physics,
+  actions:
+  - type: decides
+    date_effective: '1964-01-01'
+    message: declares that the standard to be employed is the transition between the
+      hyperfine levels stem:[F = 4], stem:[M = 0] and stem:[F = 3], _M =_ 0 of the
+      ground state ^2^S~1/2~ of the caesium 133 atom, unperturbed by external fields,
+      and that the frequency of this transition is assigned the value 9 192 631 770
+      hertz.

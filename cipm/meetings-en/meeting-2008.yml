@@ -1,0 +1,41 @@
+---
+metadata:
+  title: CIPM, 2008
+  date: '2008-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2008-01-01'
+  title: Système International d'Unités
+  identifier: 3
+  url: https://www.bipm.org/en/CIPM/db/2008/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures,
+  considerations:
+  - type: considering
+    date_effective: '2008-01-01'
+    message: |-
+      considering
+
+       the task entrusted to it by cgpm-resolution:en/9/6[Resolution 6] of the 9th Conférence Générale des Poids et Mesures (CGPM) concerning the establishment of a practical system of units of measurement suitable for adoption by all countries adhering to the Metre Convention,
+       the documents received from twenty-one countries in reply to the enquiry requested by the 9th CGPM,
+        cgpm-resolution:en/10/6[Resolution 6] of the 10th CGPM, fixing the base units of the system to be established,
+  actions:
+  - type: recommends
+    date_effective: '2008-01-01'
+    message: |-
+      recommends
+
+      . that the name "Système International d'Unités" be given to the system founded on the base units adopted by the 10th CGPM, viz.: +
+       +
+      [This is followed by the list of the cgpm-resolution:en/11/12[six base units] with their symbols, reproduced in Resolution 12 of the 11th CGPM (1960)].
+       +
+       +
+      . that the units listed in the table below be used, without excluding others which might be added later: +
+       +
+      [This is followed by the cgpm-resolution:en/11/12#derived[table of units] reproduced in paragraph 4 of Resolution 12 of the 11th CGPM (1960)].

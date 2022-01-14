@@ -1,0 +1,28 @@
+---
+metadata:
+  title: CIPM, 1963
+  date: '1963-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1963-01-01'
+  title: Étalons secondaires de longueur d'onde
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1963/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1963-01-01'
+  title: Unité spéciale pour l'activité (curie)
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1963/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

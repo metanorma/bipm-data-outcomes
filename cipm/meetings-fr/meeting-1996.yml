@@ -1,0 +1,39 @@
+---
+metadata:
+  title: CIPM, 1996
+  date: '1996-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1996-01-01'
+  title: Coordination des systèmes satellitaires qui diffusent le temps
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1996/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1996-01-01'
+  title: Multiples de deux pour les unités utilisées dans les techniques informatiques
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1996/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1996-01-01'
+  title: Échelle de température au-dessous de 1 K
+  identifier: 3
+  url: https://www.bipm.org/fr/CIPM/db/1996/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

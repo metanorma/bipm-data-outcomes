@@ -1,0 +1,67 @@
+---
+metadata:
+  title: CIPM, 2002
+  date: '2002-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '2002-01-01'
+  title: Révision de la mise en pratique de la définition du mètre
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/2002/1/
+  reference: https://www.bipm.org/utils/fr/pdf/CIPM/CIPM2002-FR.pdf#page=88
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '2002-01-01'
+  title: Équivalent de dose
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/2002/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      Le Comité international des poids et mesures,
+  considerations:
+  - type: considering
+    date_effective: '2002-01-01'
+    message: |-
+      *considérant* que
+
+      * la définition actuelle de l'unité SI d'équivalent de dose (sievert) comprend un facteur « stem:[N] » (produit de tous les autres facteurs de multiplication) prescrit par l'International Commission on Radiological Protection (ICRP),
+       +
+      * l'ICRP et l'International Commission on Radiation Units and Measurements (ICRU) ont décidé de supprimer ce facteur stem:[N] qui n'est plus considéré comme nécessaire,
+       +
+      * la définition actuelle de l'équivalent de dose stem:[H] dans le Système international d'unités, qui comprend le facteur stem:[N], porte à confusion,
+  actions:
+  - type: decides
+    date_effective: '2002-01-01'
+    message: |-
+      *décide* de modifier l'explication donnée dans la Brochure sur « Le Système International d'Unités (SI) » de la manière suivante :
+
+      La grandeur équivalent de dose stem:[H] est le produit de la dose absorbée stem:[D] de rayonnements ionisants et du facteur sans dimension stem:[Q] (facteur de qualité) prescrit par l'ICRU, facteur défini en fonction du transfert d'énergie linéaire : +
+
+      stem:[H = Q * D]
+
+      Ainsi, pour une radiation donnée, la valeur numérique de stem:[H] en joules par kilogramme peut être différente de la valeur de stem:[D] en joules par kilogramme, puisqu'elle est fonction de la valeur de stem:[Q].
+
+      Le Comité *décide* donc de maintenir la dernière phrase de l'explication sous la forme suivante :
+
+      Afin d'éviter tout risque de confusion entre la dose absorbée stem:[D] et l'équivalent de dose stem:[H], il faut employer les noms spéciaux pour les unités correspondantes, c'est-à-dire qu'il faut utiliser le nom gray au lieu de joule par kilogramme pour l'unité de dose absorbée stem:[D] et le nom sievert au lieu de joule par kilogramme pour l'unité d'équivalent de dose stem:[H].
+- dates:
+  - '2002-01-01'
+  title: Constante d'Avogadro
+  identifier: 3
+  url: https://www.bipm.org/fr/CIPM/db/2002/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

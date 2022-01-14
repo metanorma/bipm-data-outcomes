@@ -1,0 +1,39 @@
+---
+metadata:
+  title: CIPM, 1969
+  date: '1969-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1969-01-01'
+  title: Système International d'Unités, Rules for application of Resolution 12  of
+    the 11th CGPM (1960)
+  identifier: 1
+  url: https://www.bipm.org/en/CIPM/db/1969/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures,
+  considerations:
+  - type: considering
+    date_effective: '1969-01-01'
+    message: considering that cgpm-resolution:en/11/12[Resolution 12] of the 11th
+      Conférence Générale des Poids et Mesures (CGPM) (1960), concerning the Système
+      International d'Unités, has provoked discussions on certain of its aspects,
+  actions:
+  - type: decides
+    date_effective: '1969-01-01'
+    message: |-
+      declares
+
+      . the base units, the supplementary units and the derived units of the Système International d'Unités, which form a coherent set, are denoted by the name "SI units";
+      . the prefixes adopted by the CGPM for the formation of decimal multiples and submultiples of SI units are called "SI prefixes";
+
+      and *recommends*
+
+      . the use of SI units and of their decimal multiples and submultiples whose names are formed by means of SI prefixes.
+
+      Note: The name "supplementary units", appearing in cgpm-resolution:en/11/12[Resolution 12] of the 11th CGPM (and in the present Recommendation) is given to SI units for which the General Conference declines to state whether they are base units or derived units.

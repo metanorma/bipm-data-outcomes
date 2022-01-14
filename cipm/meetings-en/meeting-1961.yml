@@ -1,0 +1,24 @@
+---
+metadata:
+  title: CIPM, 1961
+  date: '1961-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1961-01-01'
+  title: Cubic decimetre and litre
+  identifier: 0
+  url: https://www.bipm.org/en/CIPM/db/1961/0/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: |-
+      +
+
+      The Comité International des Poids et Mesures
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '1961-01-01'
+    message: recommends that the results of accurate measurements of volume be expressed
+      in units of the International System and not in litres.

@@ -1,0 +1,61 @@
+---
+metadata:
+  title: CIPM, 1993
+  date: '1993-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1993-01-01'
+  title: Exactitude des étalons primaires de fréquence
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1993/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1993-01-01'
+  title: Chronométrie des pulsars-milliseconde
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1993/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1993-01-01'
+  title: Comparaison d'horloges à l'aide de techniques par laser visant des satellites
+  identifier: 3
+  url: https://www.bipm.org/fr/CIPM/db/1993/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1993-01-01'
+  title: Contrôle de la stabilité du prototype international du kilogramme
+  identifier: 4
+  url: https://www.bipm.org/fr/CIPM/db/1993/4/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1993-01-01'
+  title: Mesures de la température thermodynamique
+  identifier: 5
+  url: https://www.bipm.org/fr/CIPM/db/1993/5/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []

@@ -1,0 +1,39 @@
+---
+metadata:
+  title: CIPM, 1992
+  date: '1992-01-01'
+  source: BIPM - Pavillon de Breteuil
+resolutions:
+- dates:
+  - '1992-01-01'
+  title: Reconnaissance mondiale des résultats de comparaisons d'étalons de mesure
+  identifier: 1
+  url: https://www.bipm.org/fr/CIPM/db/1992/1/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1992-01-01'
+  title: Besoins de recherches métrologiques à long terme
+  identifier: 2
+  url: https://www.bipm.org/fr/CIPM/db/1992/2/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
+- dates:
+  - '1992-01-01'
+  title: Révision de la mise en pratique de la définition du mètre
+  identifier: 3
+  url: https://www.bipm.org/fr/CIPM/db/1992/3/
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions: []
