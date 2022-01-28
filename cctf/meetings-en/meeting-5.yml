@@ -1,0 +1,25 @@
+---
+metadata:
+  title: 5th meeting of the CCTF then CCDS
+  date: '1970-06-19'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/cctf/5-1970
+resolutions:
+- dates:
+  - '1970-06-19'
+  title: Definition of TAI
+  identifier: 2
+  url: https://www.bipm.org/en/committees/cc/cctf/5-1970/resolution-2
+  reference: https://www.bipm.org/documents/20126/63968654/CCDS5.pdf/4bf254ab-82f6-7a42-8198-762bc2d5d1f2?version=1.1&download=true#page=22
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '1970-06-19'
+    message: International Atomic Time (TAI) is the time reference coordinate established
+      by the Bureau International de l'Heure on the basis of the readings of atomic
+      clocks operating in various establishments in accordance with the definition
+      of the second, the unit of time of the International System of Units.
