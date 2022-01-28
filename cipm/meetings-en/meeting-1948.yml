@@ -1,0 +1,25 @@
+---
+metadata:
+  title: 42nd meeting of the CIPM
+  date: '1948-10-22'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/ci/cipm/42-1948
+resolutions:
+- dates:
+  - '1948-10-22'
+  title: Adoption of "degree Celsius"
+  identifier: 1948
+  url: https://www.bipm.org/en/committees/ci/cipm/42-1948/resolution-
+  reference: https://www.bipm.org/en/committees/ci/cipm/42-1948/resolution-#page=88
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '1948-10-22'
+    message: From three names (“degree centigrade”, “centesimal degree”, “degree Celsius”)
+      proposed to denote the degree of temperature, the CIPM has chosen “degree Celsius”
+      (PV, *21*, 88).
+  notes: This name is also adopted by the 9th CGPM (CR, 64).

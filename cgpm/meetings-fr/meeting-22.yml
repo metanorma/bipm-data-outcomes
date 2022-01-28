@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Résolutions de la CGPM : 22e réunion'
+  title: 22e réunion de la CGPM
   date: '2003-10-17'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/fr/CGPM/db/22
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003
+pdf: https://www.bipm.org/documents/20126/35777985/CGPM22-EN.pdf/fd67556f-5824-9b38-b1e2-c273cd9d1843
 resolutions:
 - dates:
   - '2003-10-17'
   title: Liaisons avec d'autres organisations
   identifier: 1
-  url: https://www.bipm.org/fr/CGPM/db/22/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=162
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=162
   approvals:
   - type: affirmative
     degree: unanimous
@@ -36,15 +37,15 @@ resolutions:
       de métrologie légale (OIML),
   - type: noting
     date_effective: '2003-10-17'
-    message: prend acte des arrangements officiels récemment établis par le BIPM avec
-      l'International Laboratory Accreditation Cooperation (ILAC), l'Organisation
+    message: "*prend acte* des arrangements officiels récemment établis par le BIPM
+      avec l'International Laboratory Accreditation Cooperation (ILAC), l'Organisation
       mondiale de la santé (OMS) et l'Organisation météorologique mondiale (OMM),
       ainsi que des efforts déployés par le BIPM pour établir des arrangements similaires
-      avec d'autres organisations,
+      avec d'autres organisations,"
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: accueille favorablement ces arrangements, et
+    message: "*accueille favorablement* ces arrangements, et"
   - type: invites / further invites
     date_effective: '2003-10-17'
     message: invite les organisations internationales et intergouvernementales, ayant
@@ -53,18 +54,18 @@ resolutions:
       communs,
   - type: invites / further invites
     date_effective: '2003-10-17'
-    message: "invite tous les États membres de la Convention du Mètre à aider à la
-      mise en \x9Cuvre des mesures qui résultent de cette collaboration et des efforts
+    message: invite tous les États membres de la Convention du Mètre à aider à la
+      mise en œuvre des mesures qui résultent de cette collaboration et des efforts
       conjoints pour étendre l'influence et l'impact de la Convention du Mètre et
       de la traçabilité des résultats de mesure et des étalonnages à d'autres communautés
       d'utilisateurs, lorsque les responsabilités mises en jeu se situent au niveau
-      national plutôt qu'au niveau international."
+      national plutôt qu'au niveau international.
 - dates:
   - '2003-10-17'
   title: Métrologie et commerce
   identifier: 2
-  url: https://www.bipm.org/fr/CGPM/db/22/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=162
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=162
   approvals:
   - type: affirmative
     degree: unanimous
@@ -72,36 +73,25 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant l'importance croissante de la fiabilité des mesures et de
-      l'équivalence des résultats de mesure dans le commerce international,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant le rôle joué par l'Organisation mondiale du commerce (OMC)
-      dans la réduction des obstacles au commerce de nature non tarifaire,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant le récent rapport demandé par le Bureau international des
-      poids et mesures (BIPM) à une société d'audit commerciale sur l'impact économique
-      de l'Arrangement de reconnaissance mutuelle du Comité international des poids
-      et mesures sur le commerce international,
-  - type: noting
-    date_effective: '2003-10-17'
-    message: prend acte de la demande faite de longue date par le BIPM d'obtenir le
-      statut d'observateur du Comité sur les obstacles techniques au commerce de l'OMC,
-      et
-  actions:
-  - type: requests
-    date_effective: '2003-10-17'
-    message: demande aux États membres de la Convention du Mètre de faire pression
-      pour que cette candidature soit agréée dès que possible.
+    message: |-
+      *considérant*
+
+      * l'importance croissante de la fiabilité des mesures et de l'équivalence des résultats de mesure dans le commerce international,
+      * le rôle joué par l'Organisation mondiale du commerce (OMC) dans la réduction des obstacles au commerce de nature non tarifaire,
+      * le récent rapport demandé par le Bureau international des poids et mesures (BIPM) à une société d'audit commerciale sur l'impact économique de l'Arrangement de reconnaissance mutuelle du Comité international des poids et mesures sur le commerce international,
+
+      *prend acte* de la demande faite de longue date par le BIPM d'obtenir le statut d'observateur du Comité sur les obstacles techniques au commerce de l'OMC, et
+
+      *demande* aux États membres de la Convention du Mètre de faire pression pour que cette candidature soit agréée dès que possible.
+  actions: []
 - dates:
   - '2003-10-17'
   title: Coordination des initiatives en faveur des actions liées à la métrologie,
     à l'accréditation et à la normalisation dans les pays et les entités économiques
     en voie de dévelopement
   identifier: 3
-  url: https://www.bipm.org/fr/CGPM/db/22/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=163
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=163
   approvals:
   - type: affirmative
     degree: unanimous
@@ -115,8 +105,8 @@ resolutions:
       et les entités économiques en voie de développement,
   - type: considering
     date_effective: '2003-10-17'
-    message: "considérant l'intérêt de mettre en \x9Cuvre une approche cohérente et
-      coordonnée dans les domaines de la métrologie, de l'accréditation et de la normalisation,"
+    message: considérant l'intérêt de mettre en œuvre une approche cohérente et coordonnée
+      dans les domaines de la métrologie, de l'accréditation et de la normalisation,
   - type: considering
     date_effective: '2003-10-17'
     message: considérant la création d'un Comité commun pour la coordination de l'assistance
@@ -134,14 +124,14 @@ resolutions:
       Convention du Mètre en faveur de la métrologie dans les pays en voie de développement,
   - type: noting
     date_effective: '2003-10-17'
-    message: prenant acte de relations indépendantes entre des États membres de la
-      Convention du Mètre et un certain nombre de partenaires du JCDCMAS,
+    message: "*prenant acte* de relations indépendantes entre des États membres de
+      la Convention du Mètre et un certain nombre de partenaires du JCDCMAS,"
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: "accueille favorablement et apporte son soutien à la participation de
-      la Convention du Mètre aux activités du JCDCMAS, qui est chargé d'aider à une
-      mise en \x9Cuvre technique cohérente dans les domaines de la métrologie, de
+    message: "*accueille favorablement et apporte son soutien* à la participation
+      de la Convention du Mètre aux activités du JCDCMAS, qui est chargé d'aider à
+      une mise en œuvre technique cohérente dans les domaines de la métrologie, de
       l'accréditation et de la normalisation dans les pays et entités économiques
       en voie de développement, de façon à éviter tout conflit avec les politiques
       et activités indépendantes des laboratoires nationaux de métrologie des États
@@ -151,8 +141,8 @@ resolutions:
   title: Valeur et avantages de la Convention du Mètre pour les États membres et les
     associés à la Conférence générale
   identifier: 4
-  url: https://www.bipm.org/fr/CGPM/db/22/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=164
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=164
   approvals:
   - type: affirmative
     degree: unanimous
@@ -188,18 +178,18 @@ resolutions:
       ceux qui ne sont pas encore membres à l'intérêt de ce statut, et
   - type: invites / further invites
     date_effective: '2003-10-17'
-    message: invite les États membres à promouvoir l'accroissement du nombre des membres
-      et des associés par leurs initiatives, telles que des programmes d'aide aux
-      pays en voie de développement, et lors de discussions dans des forums internationaux
-      appropriés.
+    message: "*invite* les États membres à promouvoir l'accroissement du nombre des
+      membres et des associés par leurs initiatives, telles que des programmes d'aide
+      aux pays en voie de développement, et lors de discussions dans des forums internationaux
+      appropriés."
 - dates:
   - '2003-10-17'
   title: Rapport sur l'évolution des besoins métrologiques dans les domaines des échanges
     commerciaux, de l'industrie et de la société, et le rôle du Bureau international
     des poids et mesures
   identifier: 5
-  url: https://www.bipm.org/fr/CGPM/db/22/5/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=164
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-5
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=164
   approvals:
   - type: affirmative
     degree: unanimous
@@ -207,14 +197,14 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant la cgpm-resolution:fr/20/11[Résolution 11] de la 20^e^ Conférence
-      générale, qui recommandait au Comité international d'étudier les besoins à long
-      terme dans le domaine de la métrologie,
+    message: considérant la Résolution 11 de la 20^e^ Conférence générale, qui recommandait
+      au Comité international d'étudier les besoins à long terme dans le domaine de
+      la métrologie,
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant la cgpm-resolution:fr/21/1[Résolution 1] de la 21^e^ Conférence
-      générale, qui a pris acte du Rapport à la Conférence générale sur les besoins
-      à long terme dans le domaine de la métrologie,
+    message: considérant la Résolution 1 de la 21^e^ Conférence générale, qui a pris
+      acte du Rapport à la Conférence générale sur les besoins à long terme dans le
+      domaine de la métrologie,
   - type: considering
     date_effective: '2003-10-17'
     message: considérant le nouveau Rapport approuvé par le Comité international en
@@ -234,8 +224,8 @@ resolutions:
   actions:
   - type: thanks / expresses-appreciation
     date_effective: '2003-10-17'
-    message: remercie les nombreuses organisations et personnalités qui ont contribué
-      aux travaux du Comité international, et
+    message: "*remercie* les nombreuses organisations et personnalités qui ont contribué
+      aux travaux du Comité international, et"
   - type: invites / further invites
     date_effective: '2003-10-17'
     message: invite le Comité international à continuer de suivre de près les demandes
@@ -259,8 +249,8 @@ resolutions:
   title: Sur l'importance de l'Arrangement de reconnaissance mutuelle du Comité international
     des poids et mesures
   identifier: 6
-  url: https://www.bipm.org/fr/CGPM/db/22/6/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=165
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-6
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=165
   approvals:
   - type: affirmative
     degree: unanimous
@@ -269,19 +259,19 @@ resolutions:
   - type: noting
     date_effective: '2003-10-17'
     message: |-
-      prenant acte de
+      *prenant acte de*
 
-       l'impact économique et social positif, en particulier la diminution des coûts liés aux obstacles au commerce de nature non tarifaire, pouvant résulter de l'adoption, par les organismes législatifs et réglementaires, de l'Arrangement de reconnaissance mutuelle (MRA) du Comité international des poids et mesures (CIPM),
-       l'influence du MRA du CIPM pour établir la confiance entre partenaires commerciaux,
-       l'intérêt qu'il a déjà suscité auprès de certaines autorités dans le domaine réglementaire, des organisations commerciales et des autorités nationales,
-       l'utilisation du MRA du CIPM, par exemple, pour faciliter les accords commerciaux entre l'Union européenne et les États-Unis,
-       ce que la crédibilité du MRA du CIPM repose sur des fondements techniques solides, à savoir les comparaisons clés, les systèmes qualité et les autres dispositions prises pour assurer la qualité,
-       ce que le MRA du CIPM a été signé avec l'approbation des autorités officielles compétentes de chaque pays,
+      * l'impact économique et social positif, en particulier la diminution des coûts liés aux obstacles au commerce de nature non tarifaire, pouvant résulter de l'adoption, par les organismes législatifs et réglementaires, de l'Arrangement de reconnaissance mutuelle (MRA) du Comité international des poids et mesures (CIPM),
+      * l'influence du MRA du CIPM pour établir la confiance entre partenaires commerciaux,
+      * l'intérêt qu'il a déjà suscité auprès de certaines autorités dans le domaine réglementaire, des organisations commerciales et des autorités nationales,
+      * l'utilisation du MRA du CIPM, par exemple, pour faciliter les accords commerciaux entre l'Union européenne et les États-Unis,
+      * ce que la crédibilité du MRA du CIPM repose sur des fondements techniques solides, à savoir les comparaisons clés, les systèmes qualité et les autres dispositions prises pour assurer la qualité,
+      * ce que le MRA du CIPM a été signé avec l'approbation des autorités officielles compétentes de chaque pays,
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: accueille favorablement l'intérêt manifesté par ces divers organismes,
-      et
+    message: "*accueille* favorablement l'intérêt manifesté par ces divers organismes,
+      et"
   - type: invites / further invites
     date_effective: '2003-10-17'
     message: invite tous les États membres à promouvoir le MRA du CIPM auprès de leurs
@@ -300,18 +290,18 @@ resolutions:
       du MRA du CIPM figurent dans les accords intergouvernementaux si nécessaire,
   - type: encourages
     date_effective: '2003-10-17'
-    message: encourage le Comité international à prendre toutes les dispositions possibles
-      pour augmenter le nombre des signataires du MRA du CIPM, laboratoires nationaux
-      de métrologie et autres laboratoires désignés qui font partie de l'infrastructure
+    message: "*encourage* le Comité international à prendre toutes les dispositions
+      possibles pour augmenter le nombre des signataires du MRA du CIPM, laboratoires
+      nationaux de métrologie et autres laboratoires désignés qui font partie de l'infrastructure
       métrologique des États membres de la Convention du Mètre et des associés à la
-      Conférence générale.
+      Conférence générale."
 - dates:
   - '2003-10-17'
   title: Implication des laboratoires nationaux de métrologie dans les activités de
     la Convention du Mètre
   identifier: 7
-  url: https://www.bipm.org/fr/CGPM/db/22/7/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=166
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-7
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=166
   approvals:
   - type: affirmative
     degree: unanimous
@@ -333,11 +323,11 @@ resolutions:
       participent aux comparaisons clés dans ces domaines,
   - type: noting
     date_effective: '2003-10-17'
-    message: prenant acte de la notification officielle au Bureau international des
-      poids et mesures des changements apportés à la liste des laboratoires désignés
+    message: "*prenant acte* de la notification officielle au Bureau international
+      des poids et mesures des changements apportés à la liste des laboratoires désignés
       dans l'annexe A de l'Arrangement de reconnaissance mutuelle (MRA) du Comité
       international des poids et mesures (CIPM), par les laboratoires nationaux de
-      métrologie signataires du MRA,
+      métrologie signataires du MRA,"
   actions:
   - type: recommends
     date_effective: '2003-10-17'
@@ -356,8 +346,8 @@ resolutions:
   - '2003-10-17'
   title: Révision de la mise en pratique de la définition du mètre
   identifier: 8
-  url: https://www.bipm.org/fr/CGPM/db/22/8/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=167
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-8
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=167
   approvals:
   - type: affirmative
     degree: unanimous
@@ -409,21 +399,21 @@ resolutions:
       à venir des étalons de fréquence optiques et micro-ondes,
   - type: recommends
     date_effective: '2003-10-17'
-    message: recommande que les laboratoires nationaux de métrologie continuent à
-      mettre au point des techniques fiables et éprouvées pour la fabrication d'étalons
+    message: "*recommande* que les laboratoires nationaux de métrologie continuent
+      à mettre au point des techniques fiables et éprouvées pour la fabrication d'étalons
       de fréquence optiques et leur comparaison aux étalons de fréquence micro-ondes,
-      et
+      et"
   - type: invites / further invites
     date_effective: '2003-10-17'
-    message: invite le Comité international à suivre cette question en permanence,
-      en particulier en vue d'une éventuelle redéfinition de la seconde.
+    message: "*invite* le Comité international à suivre cette question en permanence,
+      en particulier en vue d'une éventuelle redéfinition de la seconde."
 - dates:
   - '2003-10-17'
   title: Exigences pour le transport transfrontalier d'étalons de mesure, d'équipements
     métrologiques et de matériaux de référence
   identifier: 9
-  url: https://www.bipm.org/fr/CGPM/db/22/9/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=168
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-9
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=168
   approvals:
   - type: affirmative
     degree: unanimous
@@ -458,8 +448,8 @@ resolutions:
       systématiquement le déplacement de ces produits en grande quantité,
   - type: considering
     date_effective: '2003-10-17'
-    message: "considérant la nécessité de mettre en \x9Cuvre de nouvelles procédures
-      susceptibles de faciliter le transport sans encombre de tels matériels,"
+    message: considérant la nécessité de mettre en œuvre de nouvelles procédures susceptibles
+      de faciliter le transport sans encombre de tels matériels,
   - type: considering
     date_effective: '2003-10-17'
     message: considérant que cela pourrait se faire par des modifications, directives
@@ -468,22 +458,16 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2003-10-17'
-    message: "recommande que les laboratoires nationaux de métrologie, les organismes
-      gouvernementaux et les organisations internationales responsables du contrôle
-      et des règlements sur le transport des biens et substances travaillent tous
-      avec les organismes concernés pour étudier, proposer et mettre en \x9Cuvre des
-      procédures spéciales relatives au transport libre et sans encombre de matériaux
-      et d'équipements métrologiques entre les laboratoires nationaux de métrologie,
-      les laboratoires désignés et le Bureau international des poids et mesures,\n\net
-      *recommande* aussi que le Comité international attire l'attention des autres
-      organisations internationales ayant des responsabilités dans ce domaine sur
-      cette Résolution."
+    message: |-
+      *recommande* que les laboratoires nationaux de métrologie, les organismes gouvernementaux et les organisations internationales responsables du contrôle et des règlements sur le transport des biens et substances travaillent tous avec les organismes concernés pour étudier, proposer et mettre en œuvre des procédures spéciales relatives au transport libre et sans encombre de matériaux et d'équipements métrologiques entre les laboratoires nationaux de métrologie, les laboratoires désignés et le Bureau international des poids et mesures,
+
+      et *recommande* aussi que le Comité international attire l'attention des autres organisations internationales ayant des responsabilités dans ce domaine sur cette Résolution.
 - dates:
   - '2003-10-17'
   title: Symbole du séparateur décimal
   identifier: 10
-  url: https://www.bipm.org/fr/CGPM/db/22/10/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=169
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-10
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=169
   approvals:
   - type: affirmative
     degree: unanimous
@@ -505,10 +489,10 @@ resolutions:
       décimale,
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant que la 9^e^ Conférence générale dans sa cgpm-resolution:fr/9/7[Résolution
-      7] (1948) avait décidé que « Dans les nombres, la virgule (usage français) ou
-      le point (usage britannique) sont utilisés seulement pour séparer la partie
-      entière des nombres de leur partie décimale »,
+    message: considérant que la 9^e^ Conférence générale dans sa Résolution 7 (1948)
+      avait décidé que « Dans les nombres, la virgule (usage français) ou le point
+      (usage britannique) sont utilisés seulement pour séparer la partie entière des
+      nombres de leur partie décimale »,
   - type: considering
     date_effective: '2003-10-17'
     message: considérant que conformément à la décision du Comité international des
@@ -541,22 +525,22 @@ resolutions:
       la virgule sur la ligne suivant la langue,
   - type: reaffirming
     date_effective: '2003-10-17'
-    message: réaffirme que « Pour faciliter la lecture, les nombres peuvent être partagés
-      en tranches de trois chiffres ; ces tranches ne sont jamais séparées par des
-      points, ni par des virgules », comme le recommande la cgpm-resolution:fr/9/7[Résolution
-      7] de la 9^e^ Conférence générale de 1948.
+    message: "*réaffirme* que « Pour faciliter la lecture, les nombres peuvent être
+      partagés en tranches de trois chiffres ; ces tranches ne sont jamais séparées
+      par des points, ni par des virgules », comme le recommande la Résolution 7 de
+      la 9^e^ Conférence générale de 1948."
   actions:
   - type: decides
     date_effective: '2003-10-17'
-    message: déclare que le symbole du séparateur décimal pourra être le point sur
-      la ligne ou la virgule sur la ligne,
+    message: "*déclare* que le symbole du séparateur décimal pourra être le point
+      sur la ligne ou la virgule sur la ligne,"
 - dates:
   - '2003-10-17'
   title: Relations entre les laboratoires nationaux de métrologie et les organismes
     d'accréditation reconnus au niveau national
   identifier: 11
-  url: https://www.bipm.org/fr/CGPM/db/22/11/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=170
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-11
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=170
   approvals:
   - type: affirmative
     degree: unanimous
@@ -593,9 +577,9 @@ resolutions:
       et d'essais,
   - type: considering
     date_effective: '2003-10-17'
-    message: "considérant que la détermination et la mise en \x9Cuvre des pratiques
-      nationales concernant la métrologie et les systèmes d'accréditation nationaux
-      sont en dernière instance de la responsabilité des Gouvernements nationaux,"
+    message: considérant que la détermination et la mise en œuvre des pratiques nationales
+      concernant la métrologie et les systèmes d'accréditation nationaux sont en dernière
+      instance de la responsabilité des Gouvernements nationaux,
   - type: considering
     date_effective: '2003-10-17'
     message: considérant que la relation entre le laboratoire national de métrologie
@@ -605,40 +589,40 @@ resolutions:
       ou en être complètement séparés,
   - type: emphasizing
     date_effective: '2003-10-17'
-    message: soulignant l'importance d'une pratique équitable et harmonisée à l'égard
+    message: "*soulignant* l'importance d'une pratique équitable et harmonisée à l'égard
       des systèmes métrologiques et d'accréditation, petits ou grands, dans toutes
-      les régions du monde,
+      les régions du monde,"
   - type: recognizing
     date_effective: '2003-10-17'
-    message: reconnaissant l'importance de l'harmonisation mondiale de ces pratiques,
+    message: "*reconnaissant* l'importance de l'harmonisation mondiale de ces pratiques,"
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: accueille favorablement le https://www.bipm.org/fr/convention/mou/ilac.html[protocole
-      d'accord] entre le Comité international des poids et mesures (CIPM) et l'International
-      Laboratory Accreditation Conference (ILAC) conclu récemment,
+    message: "*accueille favorablement* le protocole d'accord entre le Comité international
+      des poids et mesures (CIPM) et l'International Laboratory Accreditation Conference
+      (ILAC) conclu récemment,"
   - type: requests
     date_effective: '2003-10-17'
-    message: demande à tous les organismes d'accréditation de reconnaître que les
+    message: "*demande* à tous les organismes d'accréditation de reconnaître que les
       laboratoires nationaux de métrologie et les laboratoires d'étalonnage accrédités
       fournissent ensemble l'accès indispensable à la traçabilité au SI et donc la
       fiabilité des mesures et de l'équivalence internationale des résultats de mesure
-      pour l'économie et la société tout entières et travaillent ensemble étroitement,
+      pour l'économie et la société tout entières et travaillent ensemble étroitement,"
   - type: recommends
     date_effective: '2003-10-17'
     message: |-
-      recommande que
+      *recommande* que
 
-       les Gouvernements des États membres de la Convention du Mètre s'assurent qu'une relation appropriée existe entre les laboratoires nationaux de métrologie et les organismes d'accréditation reconnus au niveau national,
-       cette relation stimule la collaboration en matière de traçabilité des résultats de mesure et assure que des actions efficaces et complémentaires soient entreprises dans le cadre de l'Arrangement de reconnaissance mutuelle du CIPM et de l'Arrangement de l'ILAC,
+      * les Gouvernements des États membres de la Convention du Mètre s'assurent qu'une relation appropriée existe entre les laboratoires nationaux de métrologie et les organismes d'accréditation reconnus au niveau national,
+      * cette relation stimule la collaboration en matière de traçabilité des résultats de mesure et assure que des actions efficaces et complémentaires soient entreprises dans le cadre de l'Arrangement de reconnaissance mutuelle du CIPM et de l'Arrangement de l'ILAC,
 
       et *note* que les étalonnages ne sont pas une évaluation de la conformité.
 - dates:
   - '2003-10-17'
   title: Dotation du Bureau international pour les années 2005 à 2008
   identifier: 12
-  url: https://www.bipm.org/fr/CGPM/db/22/12/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM22.pdf#page=171
+  url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-12
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=171
   approvals:
   - type: affirmative
     degree: unanimous
@@ -698,45 +682,37 @@ resolutions:
   - type: invites / further invites
     date_effective: '2003-10-17'
     message: |-
-      invite les laboratoires nationaux de métrologie
+      *invite* les laboratoires nationaux de métrologie
 
-       à organiser, de manière continue et à leurs frais, la mise à disposition ou le détachement au BIPM, pour des séjours de courte durée, de membres de leur personnel afin de travailler sur des projets d'intérêt mutuel intégrés au programme de travail du BIPM,
-       à accepter la participation de membres du personnel du BIPM aux activités de leur laboratoire pour travailler à des programmes d'intérêt mutuel,
-       à subventionner un programme permanent de chercheurs associés au BIPM visant à mettre à sa disposition du personnel répondant aux besoins, sur la base de quatre chercheurs associés à la fin de l'année 2004, pour des projets d'intérêt mutuel au laboratoire national de métrologie qui fournit la subvention et au BIPM,
+      * à organiser, de manière continue et à leurs frais, la mise à disposition ou le détachement au BIPM, pour des séjours de courte durée, de membres de leur personnel afin de travailler sur des projets d'intérêt mutuel intégrés au programme de travail du BIPM,
+      * à accepter la participation de membres du personnel du BIPM aux activités de leur laboratoire pour travailler à des programmes d'intérêt mutuel,
+      * à subventionner un programme permanent de chercheurs associés au BIPM visant à mettre à sa disposition du personnel répondant aux besoins, sur la base de quatre chercheurs associés à la fin de l'année 2004, pour des projets d'intérêt mutuel au laboratoire national de métrologie qui fournit la subvention et au BIPM,
   - type: invites / further invites
     date_effective: '2003-10-17'
-    message: et invite aussi les Gouvernements, les laboratoires nationaux de métrologie,
+    message: "*et invite* aussi les Gouvernements, les laboratoires nationaux de métrologie,
       les organisations internationales, ainsi que les organismes et fondations privés
       à verser des contributions financières supplémentaires ou à effectuer des dons
-      en nature au BIPM,
+      en nature au BIPM,"
   - type: decides
     date_effective: '2003-10-17'
     message: |-
-      décide que la partie fixe de la dotation annuelle du Bureau international des poids et mesures sera augmentée de telle façon que l'ensemble de la partie fixe et de la partie complémentaire (définie à l'article 6, 1921) du Règlement annexé à la Convention du Mètre (1875) soit, pour les États parties à la Convention à l'époque de la 22^e^ Conférence porté à
+      *décide* que la partie fixe de la dotation annuelle du Bureau international des poids et mesures sera augmentée de telle façon que l'ensemble de la partie fixe et de la partie complémentaire (définie à l'article 6, 1921) du Règlement annexé à la Convention du Mètre (1875) soit, pour les États parties à la Convention à l'époque de la 22^e^ Conférence porté à
 
-      |===
-      | >| 9 587 000 | euros en 2005
-
-      | >| 9 779 000 | euros en 2006
-      | >| 9 974 000 | euros en 2007 |
-      | >| 10 174 000 | euros en 2008,
-
-      |===
+      9 587 000 euros en 2005 +
+       9 779 000 euros en 2006 +
+       9 974 000 euros en 2007 +
+       10 174 000 euros en 2008, +
   - type: decides
     date_effective: '2003-10-17'
     message: |-
-      et décide aussi de soutenir la charge de travail croissante du BIPM par une contribution supplémentaire discrétionnaire de
+      *et décide* aussi de soutenir la charge de travail croissante du BIPM par une contribution supplémentaire discrétionnaire de
 
-      |===
-      | | 130 000 | euros en 2005
-
-      | | 132 000 | euros en 2006
-      | | 136 000 | euros en 2007
-      | | 138 000 | euros en 2008,
-
-      |===
+      130 000 euros en 2005 +
+       132 000 euros en 2006 +
+       136 000 euros en 2007 +
+       138 000 euros en 2008, +
   - type: requests
     date_effective: '2003-10-17'
-    message: demande aux États membres de déclarer au BIPM, au plus tard le 1^er^
+    message: "*demande* aux États membres de déclarer au BIPM, au plus tard le 1^er^
       avril 2004, s'ils ont l'intention de payer leur part de cette contribution discrétionnaire
-      pour les quatre années ci-dessus.
+      pour les quatre années ci-dessus."

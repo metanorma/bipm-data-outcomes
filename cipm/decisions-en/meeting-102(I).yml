@@ -1,77 +1,83 @@
 ---
 metadata:
-  title: 102(I)
-  date: '2013-06-01'
+  title: 102nd meeting of the CIPM (Session I)
+  date: '2013-06-21'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
 resolutions:
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-1
+  - '2013-06-21'
+  title: Decision CIPM/102-1 (2013)
   identifier: 102-1
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Meetings
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: agreed that the minutes of the 101st meeting (2012) were confirmed by
       correspondence.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-2
+  - '2013-06-21'
+  title: Decision CIPM/102-2 (2013)
   identifier: 102-2
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Finance
+  - SCs and WGs
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: approved the revised Terms of Reference of the CIPM Standing Sub Committee
       on Finance; these revisions were to take primary responsibility with regard
       to due diligence studies and the effective and timely preparation of the BIPM
       financial statements.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-3
+  - '2013-06-21'
+  title: Decision CIPM/102-3 (2013)
   identifier: 102-3
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Finance
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: After due consideration of the 2012 audited BIPM financial statements,
       the CIPM approved the 2012 BIPM financial statements without objection and decided
       to transfer to 'Other reserves' the net result for the 2012 period which amounts
       to -3.654 million Euros. The CIPM discharged the Director of the BIPM from all
       liability in respect of his administration for the 2012 financial period.
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-4
+  - '2013-06-21'
+  title: Decision CIPM/102-4 (2013)
   identifier: 102-4
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Finance
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: |-
       After due consideration of the 2012 audited BIPM Pension and Provident Fund financial statements, the CIPM approved the 2012 BIPM Pension and Provident Fund financial statements without objection and decided to transfer to 'Other reserves' of the Pension and Provident Fund the net result for the 2012 period which amounts to -10.105 million Euros.
 
       The CIPM discharged the Director of the BIPM from all liability in respect of his administration of the BIPM Pension and Provident Fund for the 2012 financial period.
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-5
+  - '2013-06-21'
+  title: Decision CIPM/102-5 (2013)
   identifier: 102-5
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Internal rules
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: |-
       approved the changes to Rule 16.3 'Notice of resignation' of the Regulations, Rules and Instructions applicable to staff members of the BIPM (RRI) without objection. The modifications were the insertion of two rules, 16.3.1 'Exemption from duty during the notice period' and 16.3.2 'Salary payment and exemption from duty'.
 
@@ -88,44 +94,48 @@ resolutions:
       Where the staff member requests to cease work before the expiry of the notice period and where, before the end of the notice period, the staff member leaves the BIPM for another appointment, the emoluments corresponding to the remaining notice period shall not be paid.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-6
+  - '2013-06-21'
+  title: Decision CIPM/102-6 (2013)
   identifier: 102-6
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Internal rules
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: approved the principle of the changes to Rule 11.10.10 'Health and safety
       at work' of the Regulations, Rules and Instructions applicable to staff members
       of the BIPM (RRI) without objection and will confirm the final draft text by
       correspondence.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-7
+  - '2013-06-21'
+  title: Decision CIPM/102-7 (2013)
   identifier: 102-7
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Internal rules
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: approved the principle of the changes to Rule 14.5.17 'Therapeutic part
       time' of the Regulations, Rules and Instructions applicable to staff members
       of the BIPM (RRI) and will confirm the final draft text by correspondence.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-8
+  - '2013-06-21'
+  title: Decision CIPM/102-8 (2013)
   identifier: 102-8
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CCs and WGs
+  - Membership
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: approved the document 'Draft Criteria and Process for Election of CIPM
       Members' prepared by the CIPM _ad hoc_ Working Group on CIPM Membership, as
       amended following discussion. The CIPM agreed to present it to the representatives
@@ -133,15 +143,16 @@ resolutions:
       Institutes at their meeting in October 2013.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-9
+  - '2013-06-21'
+  title: Decision CIPM/102-9 (2013)
   identifier: 102-9
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: decides
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: decided to charge the CIPM _ad hoc_ Working Group on CIPM Membership
       with developing procedures for the election of Presidents, Working Group Chairs
       and Deputy Chairs of Consultative Committees. The _ad hoc_ Working Group on
@@ -150,73 +161,80 @@ resolutions:
       of the BIPM.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-10
+  - '2013-06-21'
+  title: Decision CIPM/102-10 (2013)
   identifier: 102-10
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Membership
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: agreed unanimously to elect Prof. E.O. Göbel as an Honorary Member of
       the CIPM in recognition of his contribution to the CIPM as a member from 1997
       to 2012 and as President from 2004 to 2010. The CIPM President will inform Prof.
       E.O. Göbel.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-11
+  - '2013-06-21'
+  title: Decision CIPM/102-11 (2013)
   identifier: 102-11
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Membership
   considerations: []
   actions:
   - type: requests
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: were requested to consider potential candidates for CIPM membership and
       submit their names and CVs to the Secretary of the CIPM by the end of September
       2013 in order for the CIPM to review the CVs at Session II of the 102nd meeting
       of the CIPM in October 2013.
   subject: The CIPM members
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-12
+  - '2013-06-21'
+  title: Decision CIPM/102-12 (2013)
   identifier: 102-12
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - General
   considerations: []
   actions:
   - type: decides
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: will provide an electronic copy of the 'Compendium of main rules and
       practices applicable to the BIPM' to CIPM members by the end of July 2013.
   subject: The BIPM Director
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-13
+  - '2013-06-21'
+  title: Decision CIPM/102-13 (2013)
   identifier: 102-13
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - SI
+  - CCs and WGs
   considerations: []
   actions:
   - type: recommends
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: endorsed the initiative of both the President of the Consultative Committee
       for Mass and Related Quantities (CCM) and the CCM in developing a roadmap showing
       the steps required in mass metrology to achieve a redefinition of the SI by
       2018.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-14
+  - '2013-06-21'
+  title: Decision CIPM/102-14 (2013)
   identifier: 102-14
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Work Programme
+  - SI
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: approved the plans for an extraordinary campaign of measurements with
       the international prototype of the kilogram, presented by the Acting Director
       of the Mass Department, and confirmed their agreement that the BIPM Director
@@ -224,15 +242,16 @@ resolutions:
       kilogram for use in this campaign.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-15
+  - '2013-06-21'
+  title: Decision CIPM/102-15 (2013)
   identifier: 102-15
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: recommends
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: endorsed the work done by the Consultative Committees in preparing the
       strategy documents. It acknowledged the useful and supportive feedback from
       the Directors of National Metrology Institutes. It supported the BIPM Director
@@ -240,59 +259,64 @@ resolutions:
       develop a global perspective.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-16
+  - '2013-06-21'
+  title: Decision CIPM/102-16 (2013)
   identifier: 102-16
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: encourages
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: encouraged Presidents and Executive Secretaries of the Consultative Committees
       (CCs) to reflect on comments received from National Metrology Institutes specific
       to their CC strategy and to decide, in consultation with their CC (and/or appropriate
       Working Groups), whether revision is necessary.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-17
+  - '2013-06-21'
+  title: Decision CIPM/102-17 (2013)
   identifier: 102-17
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Meetings
   considerations: []
   actions:
   - type: decides
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: will issue an invitation to the leadership of the Versailles Project
       on Advanced Materials and Standards (VAMAS) to a meeting of the CIPM bureau
       in 2014 to explore whether there would be value in closer collaboration between
       VAMAS and the CIPM.
   subject: The CIPM President
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-18
+  - '2013-06-21'
+  title: Decision CIPM/102-18 (2013)
   identifier: 102-18
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Work Programme
   considerations: []
   actions:
   - type: welcomes
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: welcomed the analysis of the rationale for the laboratory activities
       at the BIPM presented at the meeting. It requested the BIPM to circulate the
       analysis, and offered to provide its comments by the end of July 2013.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-19
+  - '2013-06-21'
+  title: Decision CIPM/102-19 (2013)
   identifier: 102-19
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - International Liaison
+  - CCs and WGs
   considerations: []
   actions:
   - type: decides
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: As part of the CIPM's intention to encourage a stronger strategic perspective,
       the CIPM will identify one or two cross-cutting "grand metrology challenges"
       considering potential liaisons with the ILAC, the ISO and the OIML and other
@@ -300,15 +324,16 @@ resolutions:
       and charge the Presidents of the Consultative Committees to assess the implications
       to their strategies and future programmes.
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-20
+  - '2013-06-21'
+  title: Decision CIPM/102-20 (2013)
   identifier: 102-20
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CGPM
   considerations: []
   actions:
   - type: instructs
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: instructed the BIPM Director and the CIPM bureau to develop an agenda
       for the next CGPM in November 2014 based on a 3-day meeting, preceded by a day
       for a 'pre meeting' on the Dotation of the BIPM and for laboratory visits at
@@ -318,15 +343,16 @@ resolutions:
       in October 2013.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-21
+  - '2013-06-21'
+  title: Decision CIPM/102-21 (2013)
   identifier: 102-21
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - SCs and WGs
   considerations: []
   actions:
   - type: recommends
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: endorsed the activities of the CIPM Standing Sub-Committee on Pensions
       and Health Insurance, and requested the Sub-Committee to present the results
       of its studies to the CIPM at its next meeting and to the representatives of
@@ -334,15 +360,16 @@ resolutions:
       at their meeting in October 2013.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-22
+  - '2013-06-21'
+  title: Decision CIPM/102-22 (2013)
   identifier: 102-22
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: recommends
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: endorsed the activities of the CIPM _ad hoc_ Working Group on Conditions
       of Employment, and requested the _ad hoc_ Working Group to present the results
       of its studies to the CIPM at its next meeting and to the representatives of
@@ -350,15 +377,16 @@ resolutions:
       at their meeting in October 2013.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-23
+  - '2013-06-21'
+  title: Decision CIPM/102-23 (2013)
   identifier: 102-23
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - Member States and Associates
   considerations: []
   actions:
   - type: decides
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: decided, on the basis of the criteria it has previously adopted, that
       it would be appropriate for Albania to become a State Party to the Metre Convention.
       The BIPM will convey the Decision, recalling Resolution 4 'On the status of
@@ -367,29 +395,31 @@ resolutions:
       to remain an Associate of the CGPM.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-24
+  - '2013-06-21'
+  title: Decision CIPM/102-24 (2013)
   identifier: 102-24
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: adopts
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: adopted the Recommendation 'Updates to the list of standard frequencies'
       of the Consultative Committee for Time and Frequency (CCTF) as CIPM Recommendation
       CI-2013.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-25
+  - '2013-06-21'
+  title: Decision CIPM/102-25 (2013)
   identifier: 102-25
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - CIPM MRA
   considerations: []
   actions:
   - type: approves
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: |-
       approved the changes proposed to the following CIPM documents:
 
@@ -400,15 +430,16 @@ resolutions:
       * CIPM MRA-D-05 'Measurement comparisons in the CIPM MRA'.
   subject: The CIPM
 - dates:
-  - '2013-06-01'
-  title: Decision CIPM/102-26
+  - '2013-06-21'
+  title: Decision CIPM/102-26 (2013)
   identifier: 102-26
-  url: https://www.bipm.org/en/committees/cipm/meeting/102(I).html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2013-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013
+  categories:
+  - General
   considerations: []
   actions:
   - type: recommends
-    date_effective: '2013-06-01'
+    date_effective: '2013-06-21'
     message: endorsed the text of the 'BIPM Mission, Role and Objectives' document
       presented by the BIPM Director.
   subject: The CIPM

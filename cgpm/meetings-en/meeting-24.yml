@@ -1,17 +1,18 @@
 ---
 metadata:
-  title: 'Resolutions of the CGPM: 24th meeting'
+  title: 24th meeting of the CGPM
   date: '2011-10-21'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/CGPM/db/24
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011
+pdf: https://www.bipm.org/documents/20126/35657008/CGPM24.pdf/5cc3fc20-f45c-42f2-ea67-9b7f1e92408f
 resolutions:
 - dates:
   - '2011-10-21'
-  title: "On the possible future revision of the International System of Units,\r\nthe
-    SI"
+  title: On the possible future revision of the International System of Units,the
+    SI
   identifier: 1
-  url: https://www.bipm.org/en/CGPM/db/24/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=532
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=532
   approvals:
   - type: affirmative
     degree: unanimous
@@ -34,9 +35,8 @@ resolutions:
     date_effective: '2011-10-21'
     message: considering that a prominent example of the success of such efforts is
       the current definition of the SI unit of length, the metre (17th meeting of
-      the CGPM, 1983, cgpm-resolution:en/17/1[Resolution 1]), which links it to an
-      exact value of the speed of light in vacuum stem:[c], namely, 299 792 458 metre
-      per second,
+      the CGPM, 1983, Resolution 1), which links it to an exact value of the speed
+      of light in vacuum stem:[c], namely, 299 792 458 metre per second,
   - type: considering
     date_effective: '2011-10-21'
     message: considering that of the seven base units of the SI, only the kilogram
@@ -53,8 +53,8 @@ resolutions:
       consequence its long-term stability is not assured,
   - type: considering
     date_effective: '2011-10-21'
-    message: considering that the CGPM at its 21st meeting in 1999 adopted cgpm-resolution:en/21/7[Resolution
-      7] in which it recommended that "national laboratories continue their efforts
+    message: considering that the CGPM at its 21st meeting in 1999 adopted Resolution
+      7 in which it recommended that "national laboratories continue their efforts
       to refine experiments that link the unit of mass to fundamental or atomic constants
       with a view to a future redefinition of the kilogram",
   - type: considering
@@ -98,18 +98,17 @@ resolutions:
   - type: considering
     date_effective: '2011-10-21'
     message: considering that the General Conference, at its 23rd meeting in 2007,
-      adopted cgpm-resolution:en/23/12[Resolution 12] in which it outlined the work
-      that should be carried out by the NMIs, the BIPM and the International Committee
-      for Weights and Measures (CIPM) together with its Consultative Committees (CCs)
-      so that new definitions of the kilogram, ampere, kelvin, and mole in terms of
-      fundamental constants could be adopted,
+      adopted Resolution 12 in which it outlined the work that should be carried out
+      by the NMIs, the BIPM and the International Committee for Weights and Measures
+      (CIPM) together with its Consultative Committees (CCs) so that new definitions
+      of the kilogram, ampere, kelvin, and mole in terms of fundamental constants
+      could be adopted,
   - type: considering
     date_effective: '2011-10-21'
     message: considering that, although this work has progressed well, not all the
-      requirements set out in cgpm-resolution:en/23/12[Resolution 12] adopted by the
-      General Conference at its 23rd meeting in 2007 have been satisfied and so the
-      International Committee for Weights and Measures is not yet ready to make a
-      final proposal,
+      requirements set out in Resolution 12 adopted by the General Conference at its
+      23rd meeting in 2007 have been satisfied and so the International Committee
+      for Weights and Measures is not yet ready to make a final proposal,
   - type: considering
     date_effective: '2011-10-21'
     message: considering that, nevertheless, a clear and detailed explanation of what
@@ -120,33 +119,32 @@ resolutions:
       *takes note* of the intention of the International Committee for Weights and Measures to propose a revision of the SI as follows:
 
       * the International System of Units, the SI, will be the system of units in which:
-
       ** the ground state hyperfine splitting frequency of the caesium 133 atom stem:[ sf Delta  nu (""_(133) "Cs")_("hfs")] is exactly 9 192 631 770 hertz,
       ** the speed of light in vacuum stem:[c] is exactly 299 792 458 metre per second,
-      ** the Planck constant stem:[h] is exactly 6.626 06X ×stem:[10^(-34)] joule second,
-      ** the elementary charge stem:[e] is exactly 1.602 17X ×stem:[10^(-19)] coulomb,
-      ** the Boltzmann constant stem:[k] is exactly 1.380 6X ×stem:[10^(-23)] joule per kelvin,
-      ** the Avogadro constant stem:[N_("A")] is exactly 6.022 14X ×stem:[10^(23)] reciprocal mole,
+      ** the Planck constant stem:[h] is exactly 6.626 06X × 10^−34^ joule second,
+      ** the elementary charge stem:[e] is exactly 1.602 17X × 10^−19^ coulomb,
+      ** the Boltzmann constant stem:[k] is exactly 1.380 6X × 10^−23^ joule per kelvin,
+      ** the Avogadro constant stem:[N_("A")] is exactly 6.022 14 X × stem:[10^(23)] reciprocal mole,
       ** the luminous efficacy stem:[K_("cd")] of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"] is exactly 683 lumen per watt,
 
       where
 
-      (i) the hertz, joule, coulomb, lumen, and watt, with unit symbols stem:["Hz"], stem:["J"], stem:["C"], stem:["lm"], and stem:["W"], respectively, are related to the units second, metre, kilogram, ampere, kelvin, mole, and candela, with unit symbols stem:["s"], stem:["m"], stem:["kg"], stem:["A"], stem:["K"], stem:["mol"], and stem:["cd"], respectively, according to stem:["Hz" = "s"^(-1)], stem:["J" = "m"^(2) * "kg" * "s"^(-2)], stem:["C" = "s" * "A"], stem:["lm" = "cd" * "m"^(2) * "m"^(-2) = "cd" * "sr"], and stem:["W" = "m"^(2) * "kg" * "s"^(-3)], +
-      (ii) the symbol X in this Draft Resolution represents one or more additional digits to be added to the numerical values of stem:[h], stem:[e], stem:[k], and stem:[N_("A")], using values based on the most recent CODATA adjustment,
+      .. the hertz, joule, coulomb, lumen, and watt, with unit symbols stem:["Hz"], stem:["J"], stem:["C"], stem:["lm"], and stem:["W"], respectively, are related to the units second, metre, kilogram, ampere, kelvin, mole, and candela, with unit symbols stem:["s"], stem:["m"], stem:["kg"], stem:["A"], stem:["K"], stem:["mol"], and stem:["cd"], respectively, according to stem:["Hz" = "s"]^−1^, stem:["J" = "m"^(2) * "kg" * "s"]^−2^, stem:["C" = "s" * "A"], stem:["lm" = "cd" * "m"^(2) * "m"]^−2^ = stem:["cd" * "sr"], and stem:["W" = "m"^(2) * "kg" * "s"]^−3^,
+      .. the symbol X in this Draft Resolution represents one or more additional digits to be added to the numerical values of stem:[h], stem:[e], stem:[k], and stem:[N_("A")], using values based on the most recent CODATA adjustment,
 
       from which it follows that the SI will continue to have the present set of seven base units, in particular
 
-      ** the kilogram will continue to be the unit of mass, but its magnitude will be set by fixing the numerical value of the Planck constant to be equal to exactly 6.626 06X ×stem:[10^(-34)] when it is expressed in the SI unit stem:["m"^(2) * "kg" * "s"^(-1)], which is equal to stem:["J" * "s"],
-      ** the ampere will continue to be the unit of electric current, but its magnitude will be set by fixing the numerical value of the elementary charge to be equal to exactly 1.602 17X ×stem:[10^(-19)] when it is expressed in the SI unit stem:["s" * "A"], which is equal to stem:["C"],
-      ** the kelvin will continue to be the unit of thermodynamic temperature, but its magnitude will be set by fixing the numerical value of the Boltzmann constant to be equal to exactly 1.380 6X ×stem:[10^(-23)] when it is expressed in the SI unit stem:["m"^(2) * "kg" * "s"^(-2) * "K"^(-1)], which is equal to stem:["J" * "K"^(-1)],
-      ** the mole will continue to be the unit of amount of substance of a specified elementary entity, which may be an atom, molecule, ion, electron, any other particle or a specified group of such particles, but its magnitude will be set by fixing the numerical value of the Avogadro constant to be equal to exactly 6.022 14X ×stem:[10^(23)] when it is expressed in the SI unit stem:["mol"^(-1)].
-       +
+      * the kilogram will continue to be the unit of mass, but its magnitude will be set by fixing the numerical value of the Planck constant to be equal to exactly 6.626 06X ×10^−34^ when it is expressed in the SI unit stem:["m"^(2) * "kg" * "s"]^−1^, which is equal to stem:["J" * "s"],
+      * the ampere will continue to be the unit of electric current, but its magnitude will be set by fixing the numerical value of the elementary charge to be equal to exactly 1.602 17X ×10^−19^ when it is expressed in the SI unit stem:["s" * "A"], which is equal to stem:["C"],
+      * the kelvin will continue to be the unit of thermodynamic temperature, but its magnitude will be set by fixing the numerical value of the Boltzmann constant to be equal to exactly 1.380 6X ×10^−23^ when it is expressed in the SI unit stem:["m"^(2) * "kg" * "s"]^−2^ stem:["K"]^−1^, which is equal to stem:["J" * "K"]^−1^,
+      * the mole will continue to be the unit of amount of substance of a specified elementary entity, which may be an atom, molecule, ion, electron, any other particle or a specified group of such particles, but its magnitude will be set by fixing the numerical value of the Avogadro constant to be equal to exactly 6.022 14X ×stem:[10^(23)] when it is expressed in the SI unit stem:["mol"]^−1^.
 
       The General Conference on Weights and Measures
   - type: noting
     date_effective: '2011-10-21'
     message: |-
       *further notes* that since
+
       * the new definitions of the kilogram, ampere, kelvin and mole are intended to be of the explicit-constant type, that is, a definition in which the unit is defined indirectly by specifying explicitly an exact value for a well-recognized fundamental constant,
       * the existing definition of the metre is linked to an exact value of the speed of light in vacuum, which is also a well-recognized fundamental constant,
       * the existing definition of the second is linked to an exact value of a well-defined property of the caesium atom, which is also an invariant of nature,
@@ -157,21 +155,20 @@ resolutions:
 
       the reformulation of the existing definitions of the second, metre and candela in completely equivalent forms, which might be the following:
 
-      * the second, symbol stem:["s"], is the unit of time; its magnitude is set by fixing the numerical value of the ground state hyperfine splitting frequency of the caesium 133 atom, at rest and at a temperature of stem:[0 "K"], to be equal to exactly 9 192 631 770 when it is expressed in the SI unit stem:["s"^(-1)], which is equal to stem:["Hz"],
-      * the metre, symbol stem:["m"], is the unit of length; its magnitude is set by fixing the numerical value of the speed of light in vacuum to be equal to exactly 299 792 458 when it is expressed in the SI unit stem:["m" * "s"^(-1)],
-      * the candela, symbol stem:["cd"], is the unit of luminous intensity in a given direction; its magnitude is set by fixing the numerical value of the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"] to be equal to exactly 683 when it is expressed in the SI unit stem:["m"^(-2) * "kg"^(-1) * "s"^(3) * "cd" * "sr"], or stem:["cd" * "sr" * "W"^(-1)], which is equal to stem:["lm" * "W"^(-1)].
+      * the second, symbol stem:["s"], is the unit of time; its magnitude is set by fixing the numerical value of the ground state hyperfine splitting frequency of the caesium 133 atom, at rest and at a temperature of stem:[0 "K"], to be equal to exactly 9 192 631 770 when it is expressed in the SI unit stem:["s"]^−1^, which is equal to stem:["Hz"],
+      * the metre, symbol stem:["m"], is the unit of length; its magnitude is set by fixing the numerical value of the speed of light in vacuum to be equal to exactly 299 792 458 when it is expressed in the SI unit stem:["m" * "s"]^−1^,
+      * the candela, symbol stem:["cd"], is the unit of luminous intensity in a given direction; its magnitude is set by fixing the numerical value of the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"] to be equal to exactly 683 when it is expressed in the SI unit stem:["m"]^−2^ stem:["kg"^(-1) * "s"^(3) * "cd" * "sr"], or stem:["cd" * "sr" * "W"]^−1^, which is equal to stem:["lm" * "W"]^−1^.
 
       In this way, the definitions of all seven base units will be seen to follow naturally from the set of seven constants given above.
 
       In consequence, on the date chosen for the implementation of the revision of the SI:
 
       * the definition of the kilogram in force since 1889 based upon the mass of the international prototype of the kilogram (1st meeting of the CGPM, 1889, 3rd meeting of the CGPM, 1901) will be abrogated,
-      * the definition of the ampere in force since 1948 (9th meeting of the CGPM, 1948) based upon the definition proposed by the International Committee (CIPM, 1946, cipm-resolution:en/1946/2[Resolution 2]) will be abrogated,
-      * the conventional values of the Josephson constant stem:[K_(J-90)] and of the von Klitzing constant stem:[R_(K-90)] adopted by the International Committee (CIPM, 1988, Recommendations 1 and 2) at the request of the General Conference (18th meeting of the CGPM, 1987, cgpm-resolution:en/18/6[Resolution 6]) for the establishment of representations of the volt and the ohm using the Josephson and quantum Hall effects, respectively, will be abrogated,
-      * the definition of the kelvin in force since 1967/68 (13th meeting of the CGPM, 1967/68, cgpm-resolution:en/13/4[Resolution 4]) based upon a less explicit, earlier definition (10th meeting of the CGPM, 1954, Resolution 3) will be abrogated,
-      * the definition of the mole in force since 1971 (14th meeting of the CGPM, 1971, cgpm-resolution:en/14/3[Resolution 3]) based upon a definition whereby the molar mass of carbon 12 had the exact value stem:[0.012 "kg" * "mol"^(-1)] will be abrogated,
-      * the existing definitions of the metre, second and candela in force since they were adopted by the CGPM at its 17th (1983, cgpm-resolution:en/17/1[Resolution 1]), 13th (1967/68, cgpm-resolution:en/13/1[Resolution 1]) and 16th (1979, cgpm-resolution:en/16/3[Resolution 3]) meetings, respectively, will be abrogated.
-       +
+      * the definition of the ampere in force since 1948 (9th meeting of the CGPM, 1948) based upon the definition proposed by the International Committee (CIPM, 1946, Resolution 2) will be abrogated,
+      * the conventional values of the Josephson constant stem:[K_(J-90)] and of the von Klitzing constant stem:[R_(K-90)] adopted by the International Committee (CIPM, 1988, Recommendations 1 and 2) at the request of the General Conference (18th meeting of the CGPM, 1987, Resolution 6) for the establishment of representations of the volt and the ohm using the Josephson and quantum Hall effects, respectively, will be abrogated,
+      * the definition of the kelvin in force since 1967/68 (13th meeting of the CGPM, 1967/68, Resolution 4) based upon a less explicit, earlier definition (10th meeting of the CGPM, 1954, Resolution 3) will be abrogated,
+      * the definition of the mole in force since 1971 (14th meeting of the CGPM, 1971, Resolution 3) based upon a definition whereby the molar mass of carbon 12 had the exact value stem:[0.012 "kg" * "mol"]^−1^ will be abrogated,
+      * the existing definitions of the metre, second and candela in force since they were adopted by the CGPM at its 17th (1983, Resolution 1), 13th (1967/68, Resolution 1) and 16th (1979, Resolution 3) meetings, respectively, will be abrogated.
 
       The General Conference on Weights and Measures
   - type: noting
@@ -180,10 +177,9 @@ resolutions:
       *further notes* that on the same date
 
       * the mass of the international prototype of the kilogram stem:[m(K)] will be stem:[1 "kg"] but with a relative uncertainty equal to that of the recommended value of stem:[h] just before redefinition and that subsequently its value will be determined experimentally,
-      * that the magnetic constant (permeability of vacuum) stem:[µ_(0)] will be stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] but with a relative uncertainty equal to that of the recommended value of the fine-structure constant stem:[ alpha ] and that subsequently its value will be determined experimentally,
+      * that the magnetic constant (permeability of vacuum) stem:[µ_(0)] will be stem:[4 pi ] × 10^−7^ stem:["H" * "m"]^−1^ but with a relative uncertainty equal to that of the recommended value of the fine-structure constant stem:[ alpha ] and that subsequently its value will be determined experimentally,
       * that the thermodynamic temperature of the triple point of water stem:[T_(TPW)] will be stem:[273.16 "K"] but with a relative uncertainty equal to that of the recommended value of stem:[k] just before redefinition and that subsequently its value will be determined experimentally,
-      * that the molar mass of carbon stem:[12 M(""_(12) "C")] will be stem:[0.012 "kg" * "mol"^(-1)] but with a relative uncertainty equal to that of the recommended value of stem:[N_("A")h] just before redefinition and that subsequently its value will be determined experimentally.
-       +
+      * that the molar mass of carbon stem:[12 M(""_(12) "C")] will be stem:[0.012 "kg" * "mol"]^−1^ but with a relative uncertainty equal to that of the recommended value of stem:[N_("A")h] just before redefinition and that subsequently its value will be determined experimentally.
 
       The General Conference on Weights and Measures
   actions:
@@ -233,8 +229,8 @@ resolutions:
   title: On the importance of international collaboration so as to place measurements
     to monitor climate change on an SI traceable basis
   identifier: 2
-  url: https://www.bipm.org/en/CGPM/db/24/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=537
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=537
   approvals:
   - type: affirmative
     degree: unanimous
@@ -242,59 +238,101 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
-    message: |-
-      *recalling* cgpm-resolution:en/21/4[Resolution 4] adopted by the General Conference on Weights and Measures at its 21st meeting in 1999 concerning the need to use SI units in studies of Earth resources, the environment, human wellbeing and related issues,
-        cgpm-resolution:en/23/11[Resolution 11] adopted by the General Conference on Weights and Measures at its 23rd meeting in 2007 on the importance of SI traceable measurements to monitor climate change,
+    message: recalling Resolution 4 adopted by the General Conference on Weights and
+      Measures at its 21st meeting in 1999 concerning the need to use SI units in
+      studies of Earth resources, the environment, human wellbeing and related issues,
+  - type: recalling / further recalling
+    date_effective: '2011-10-21'
+    message: recalling Resolution 11 adopted by the General Conference on Weights
+      and Measures at its 23rd meeting in 2007 on the importance of SI traceable measurements
+      to monitor climate change,
   - type: considering
     date_effective: '2011-10-21'
-    message: "*considering* the expansion in the number of international and national
+    message: considering the expansion in the number of international and national
       initiatives to address the challenges and implications of climate change for
-      the world,\n the deliberations of the United Nations Intergovernmental Panel
-      on Climate Change and the outcomes on the Copenhagen climate change conference
-      2009, \n the collaboration between the International Bureau of Weights and Measures
-      (BIPM) and the World Meteorological Organization (WMO),\n the signing by the
-      WMO of the _Mutual Recognition Arrangement of National Measurement Standards
-      and of Calibration and Measurement Certificates issued by National Metrology
-      Institutes_ (CIPM MRA), \n the outcome of the joint BIPM/WMO workshop on \"Measurement
+      the world,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the deliberations of the United Nations Intergovernmental
+      Panel on Climate Change and the outcomes on the Copenhagen climate change conference
+      2009,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the collaboration between the International Bureau of Weights
+      and Measures (BIPM) and the World Meteorological Organization (WMO),
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the signing by the WMO of the _Mutual Recognition Arrangement
+      of National Measurement Standards and of Calibration and Measurement Certificates
+      issued by National Metrology Institutes_ (CIPM MRA),
+  - type: considering
+    date_effective: '2011-10-21'
+    message: 'considering the outcome of the joint BIPM/WMO workshop on "Measurement
       challenges for global observation systems for climate change monitoring: Traceability,
-      stability and reducing uncertainty\", held on 30 March to 1 April 2010,\n the
-      deliberations of the Consultative Committee for Amount of Substance – Metrology
-      in Chemistry (CCQM), the Consultative Committee for Thermometry (CCT), the Consultative
-      Committee for Photometry and Radiometry (CCPR), their Recommendations to the
-      International Committee for Weights and Measures (CIPM) and the interactions
-      between the National Metrology Institutes (NMIs) that are members of these Committees
-      and relevant structures of the WMO, and\n the increase in interest from Governments
-      in a global carbon trading and capture framework as well as mitigation initiatives,"
+      stability and reducing uncertainty", held on 30 March to 1 April 2010,'
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the deliberations of the Consultative Committee for Amount
+      of Substance - Metrology in Chemistry (CCQM), the Consultative Committee for
+      Thermometry (CCT), the Consultative Committee for Photometry and Radiometry
+      (CCPR), their Recommendations to the International Committee for Weights and
+      Measures (CIPM) and the interactions between the National Metrology Institutes
+      (NMIs) that are members of these Committees and relevant structures of the WMO,
+      and
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the increase in interest from Governments in a global carbon
+      trading and capture framework as well as mitigation initiatives,
   actions:
   - type: welcomes
     date_effective: '2011-10-21'
-    message: |-
-      *welcomes* the initiatives of the WMO to work more closely with the BIPM and the NMI community,
-       the reaction of the BIPM, in its proposed programme of work for the years 2013 to 2016, to address measurement issues related to climate change and global warming, and
-       the initiatives taken by a number of NMIs to become involved in research and other activities to underpin policies on the "carbon economy",
+    message: welcomes the initiatives of the WMO to work more closely with the BIPM
+      and the NMI community,
+  - type: welcomes
+    date_effective: '2011-10-21'
+    message: welcomes the reaction of the BIPM, in its proposed programme of work
+      for the years 2013 to 2016, to address measurement issues related to climate
+      change and global warming, and
+  - type: welcomes
+    date_effective: '2011-10-21'
+    message: welcomes the initiatives taken by a number of NMIs to become involved
+      in research and other activities to underpin policies on the "carbon economy",
   - type: recommends
     date_effective: '2011-10-21'
-    message: "*recommends* relevant bodies take steps to ensure that all measurements
+    message: recommends relevant bodies take steps to ensure that all measurements
       used to make observations which may be used for climate studies are made fully
-      traceable to SI units,\n that any system agreed between Governments on carbon
-      trading and capture includes a commitment to make relevant measurements traceable
-      to the SI,\n that appropriate bodies support the development of techniques which
-      can make possible a set of SI-traceable radiometric standards and instruments
+      traceable to SI units,
+  - type: recommends
+    date_effective: '2011-10-21'
+    message: recommends that any system agreed between Governments on carbon trading
+      and capture includes a commitment to make relevant measurements traceable to
+      the SI,
+  - type: recommends
+    date_effective: '2011-10-21'
+    message: recommends that appropriate bodies support the development of techniques
+      which can make possible a set of SI-traceable radiometric standards and instruments
       to allow such traceability to be established in terrestrial and space-based
-      measurements,\n that NMIs continue to develop techniques and measurement systems
+      measurements,
+  - type: recommends
+    date_effective: '2011-10-21'
+    message: recommends that NMIs continue to develop techniques and measurement systems
       that would enable biofuel processes and carbon sequestration to be modelled
-      and monitored in an SI traceable and internationally equivalent way, \n that
-      Governments and relevant intergovernmental organizations and international bodies
-      commit themselves to adopt an internationally agreed and recognized system of
-      measurement units and standards, and\n that the BIPM takes steps to contribute
-      to the coordination of this activity with the full support of the States Parties
-      to the Metre Convention.\n +"
+      and monitored in an SI traceable and internationally equivalent way,
+  - type: recommends
+    date_effective: '2011-10-21'
+    message: recommends that Governments and relevant intergovernmental organizations
+      and international bodies commit themselves to adopt an internationally agreed
+      and recognized system of measurement units and standards, and
+  - type: recommends
+    date_effective: '2011-10-21'
+    message: recommends that the BIPM takes steps to contribute to the coordination
+      of this activity with the full support of the States Parties to the Metre Convention.
 - dates:
   - '2011-10-21'
   title: Dotation of the BIPM for the years 2013 to 2015
   identifier: 3
-  url: https://www.bipm.org/en/CGPM/db/24/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=539
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=539
   approvals:
   - type: affirmative
     degree: unanimous
@@ -323,8 +361,8 @@ resolutions:
       organization which reacts to the needs of the States Parties to the Metre Convention,
   - type: considering
     date_effective: '2011-10-21'
-    message: 'considering the way in which the BIPM continues to adopt best management
-      practice and improve the efficiency of its staff, '
+    message: considering the way in which the BIPM continues to adopt best management
+      practice and improve the efficiency of its staff,
   - type: considering
     date_effective: '2011-10-21'
     message: considering the need to replenish the level of the BIPM Capital Investment
@@ -362,8 +400,8 @@ resolutions:
   - '2011-10-21'
   title: On the status of Associate State of the General Conference
   identifier: 4
-  url: https://www.bipm.org/en/CGPM/db/24/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=540
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=540
   approvals:
   - type: affirmative
     degree: unanimous
@@ -371,12 +409,10 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
-    message: recalling cgpm-resolution:en/21/3[Resolution 3 adopted by the CGPM at
-      its 21st meeting] in 1999,
+    message: recalling Resolution 3 adopted by the CGPM at its 21st meeting in 1999,
   - type: recalling / further recalling
     date_effective: '2011-10-21'
-    message: recalling cgpm-resolution:en/23/5[Resolution 5 adopted by the CGPM at
-      its 23rd meeting] in 2007,
+    message: recalling Resolution 5 adopted by the CGPM at its 23rd meeting in 2007,
   - type: considering
     date_effective: '2011-10-21'
     message: considering the growing participation of Associate States of the CGPM
@@ -403,7 +439,6 @@ resolutions:
       *noting*
 
       * the decisions made by the CIPM at its 98th and 99th sessions, adopting the following criteria enabling it to review whether it would be appropriate for an Associate State to become a State Party to the Metre Convention:
-
       ** Signature of the CIPM MRA by the Associate State's National Metrology Institute,
       ** Publication of comparison results in the key comparison database (KCDB),
       ** Having one or more Calibration and Measurement Capability (CMC) listed in the KCDB,
@@ -448,10 +483,9 @@ resolutions:
     message: decides that as long as an Associate State does not fulfil the above-mentioned
       criteria to be encouraged to become a State Party to the Metre Convention, it
       will continue to benefit from the advantages of the Associate Status, as provided
-      for in cgpm-resolution:en/21/3[Resolution 3 adopted by the CGPM at its 21st
-      meeting (1999)], and from the BIPM services that the CIPM made available to
-      them, and its subscription will continue to be determined as during the initial
-      5-year period,
+      for in Resolution 3 adopted by the CGPM at its 21st meeting (1999), and from
+      the BIPM services that the CIPM made available to them, and its subscription
+      will continue to be determined as during the initial 5-year period,
   - type: invites / further invites
     date_effective: '2011-10-21'
     message: |-
@@ -462,8 +496,8 @@ resolutions:
   - '2011-10-21'
   title: On the acceptance of Economies as Associate of the General Conference
   identifier: 5
-  url: https://www.bipm.org/en/CGPM/db/24/5/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=542
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-5
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=542
   approvals:
   - type: affirmative
     degree: unanimous
@@ -471,32 +505,45 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2011-10-21'
-    message: |-
-      *considering* cgpm-resolution:en/21/3[Resolution 3] adopted by the CGPM at its 21st meeting (1999), creating the status of Associate of the CGPM open to "_States and Economies_" as a means of promoting their participation in the world's measurement system,
-        cgpm-resolution:en/23/6[Resolution 6] adopted by the CGPM at its 23rd meeting (2007), which considered the desirability of setting criteria against which applications from Economies be assessed,
+    message: considering Resolution 3 adopted by the CGPM at its 21st meeting (1999),
+      creating the status of Associate of the CGPM open to "_States and Economies_"
+      as a means of promoting their participation in the world's measurement system,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering Resolution 6 adopted by the CGPM at its 23rd meeting (2007),
+      which considered the desirability of setting criteria against which applications
+      from Economies be assessed,
   actions:
   - type: decides
     date_effective: '2011-10-21'
     message: |-
-      *decides* that the status of Associate Economy shall not be automatically acquired, but granted unanimously by the CGPM on a case by case basis,
-       the decision of the CGPM to grant the status of Associate Economy shall be based on the following criteria:
-      * an Associate Economy must be a Territorial Entity,
-      * the Territorial Entity must possess its own Metrology Institute within its territory,
-      * the participation of the Territorial Entity in the activities of the International Bureau of Weights and Measures (BIPM) must be considered beneficial for the strengthening of the world's measurement system,
-       the annual subscription of such Associate Economies shall be determined by the CGPM,
-       Intergovernmental Organizations are not considered as "Territorial Entities",
-       CARICOM, the regional Intergovernmental Organization currently Associate Economy of the CGPM, having acceded to the status of Associate Economy of the CGPM prior to the adoption of the above-mentioned criteria, may continue to enjoy this status despite its not meeting the said criteria,
+      *decides* that
+
+      * the status of Associate Economy shall not be automatically acquired, but granted unanimously by the CGPM on a case by case basis,
+      * the decision of the CGPM to grant the status of Associate Economy shall be based on the following criteria:
+      ** an Associate Economy must be a Territorial Entity,
+      ** the Territorial Entity must possess its own Metrology Institute within its territory,
+      ** the participation of the Territorial Entity in the activities of the International Bureau of Weights and Measures (BIPM) must be considered beneficial for the strengthening of the world's measurement system,
+      * the annual subscription of such Associate Economies shall be determined by the CGPM,
+      * Intergovernmental Organizations are not considered as "Territorial Entities",
+      * CARICOM, the regional Intergovernmental Organization currently Associate Economy of the CGPM, having acceded to the status of Associate Economy of the CGPM prior to the adoption of the above-mentioned criteria, may continue to enjoy this status despite its not meeting the said criteria,
   - type: invites / further invites
     date_effective: '2011-10-21'
-    message: |-
-      *invites* the Member States of CARICOM to accede to the Metre Convention or to become Associate States of the CGPM,
-       the International Committee for Weights and Measures (CIPM) to consider further appropriate means by which intergovernmental organizations, in particular those from regions without well-developed metrology infrastructure, can be involved in the work of the BIPM and to bring forward proposals to the next meeting of the CGPM on how this can best be achieved.
+    message: invites the Member States of CARICOM to accede to the Metre Convention
+      or to become Associate States of the CGPM,
+  - type: invites / further invites
+    date_effective: '2011-10-21'
+    message: invites the International Committee for Weights and Measures (CIPM) to
+      consider further appropriate means by which intergovernmental organizations,
+      in particular those from regions without well-developed metrology infrastructure,
+      can be involved in the work of the BIPM and to bring forward proposals to the
+      next meeting of the CGPM on how this can best be achieved.
 - dates:
   - '2011-10-21'
   title: On financial arrears of States Parties to the Metre Convention
   identifier: 6
-  url: https://www.bipm.org/en/CGPM/db/24/6/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=543
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-6
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=543
   approvals:
   - type: affirmative
     degree: unanimous
@@ -504,41 +551,60 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2011-10-21'
+    message: 'considering Article 6 paragraphs 6 to 8 of the Regulations annexed to
+      the Metre Convention reads:'
+  - type: considering
+    date_effective: '2011-10-21'
     message: |-
-      *considering* Article 6 paragraphs 6 to 8 of the Regulations annexed to the Metre Convention reads:
-      _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
+      considering _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
       _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
-      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ [[_ftnref1]] cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) defining the decision-making process and a procedure governing the recovery of arrears and exclusion,
-       the contributions of States Parties to the Metre Convention in arrears for more than 6 years and advances made by the other States Parties pursuant to Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
+      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ ^(1)^
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering Resolution 8 adopted by the CGPM at its 23rd meeting (2007)
+      defining the decision-making process and a procedure governing the recovery
+      of arrears and exclusion,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the contributions of States Parties to the Metre Convention
+      in arrears for more than 6 years and advances made by the other States Parties
+      pursuant to Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
   - type: reaffirming
     date_effective: '2011-10-21'
-    message: "*reaffirming* the absolute necessity that contributions of States Parties
+    message: reaffirming the absolute necessity that contributions of States Parties
       to the Metre Convention be paid timely and consistently to allow the BIPM to
-      fulfil its mission and to avoid financial problems in its day-to-day operation,"
+      fulfil its mission and to avoid financial problems in its day-to-day operation,
   actions:
   - type: decides
     date_effective: '2011-10-21'
-    message: |-
-      *decides* for States Parties in arrears for more than 6 years to grant a period of 12 months from the date of adoption of the present Resolution to conclude with the International Committee for Weights and Measures (CIPM) a rescheduling agreement,
-       that if a rescheduling agreement is not concluded within 12 months, those States will automatically be excluded, and the CIPM will inform in writing the French Ministry of Foreign and European Affairs for notification to this effect to those States and to all States Parties to the Metre Convention on behalf of the CGPM, and
-       that the calculation of contributions is re-established in accordance with the applicable provisions in the most immediate calendar year after exclusion.
-       +
-       +
-  appendices:
-  - identifier: 1
-    message: |-
-      [[_ftn1]] English translation for easy reference of the authoritative French version: +
-      6. If a State remains three years without paying its contribution, the said contribution is distributed among the other States pro-rata to their own contributions. The supplementary sums thus paid by these States to make up the dotation of the Bureau are considered as advances made to the State in arrears, and are reimbursed to them in the event that it repays its arrears of contributions. +
-      7. The advantages and prerogatives conferred by accession to the Metre Convention are suspended for those States in arrears by three years. +
-      8. After three more years, the State in arrears is excluded from the Convention and the calculation of contributions is re-established in accordance with the provisions of Article 20 of the present Regulations.
+    message: "*decides*\n\n* for States Parties in arrears for more than 6 years to
+      grant a period of 12 months from the date of adoption of the present Resolution
+      to conclude with the International Committee for Weights and Measures (CIPM)
+      a rescheduling agreement,\n* that if a rescheduling agreement is not concluded
+      within 12 months, those States will automatically be excluded, and the CIPM
+      will inform in writing the French Ministry of Foreign and European Affairs for
+      notification to this effect to those States and to all States Parties to the
+      Metre Convention on behalf of the CGPM, and\n* that the calculation of contributions
+      is re-established in accordance with the applicable provisions in the most immediate
+      calendar year after exclusion.\n\n\n\n(1) English translation for easy reference
+      of the authoritative French version: +\n6. If a State remains three years without
+      paying its contribution, the said contribution is distributed among the other
+      States pro-rata to their own contributions. The supplementary sums thus paid
+      by these States to make up the dotation of the Bureau are considered as advances
+      made to the State in arrears, and are reimbursed to them in the event that it
+      repays its arrears of contributions. +\n7. The advantages and prerogatives conferred
+      by accession to the Metre Convention are suspended for those States in arrears
+      by three years. +\n8. After three more years, the State in arrears is excluded
+      from the Convention and the calculation of contributions is re-established in
+      accordance with the provisions of Article 20 of the present Regulations.\n\n "
 - dates:
   - '2011-10-21'
   title: On rescheduling agreements between the International Committee for Weights
     and Measures and defaulting States Parties to the Metre Convention for the payment
     of their financial arrears
   identifier: 7
-  url: https://www.bipm.org/en/CGPM/db/24/7/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=544
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-7
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=544
   approvals:
   - type: affirmative
     degree: unanimous
@@ -546,41 +612,70 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
-    message: |-
-      *recalling that* Article 6 paragraphs 6 to 8 of the Rules annexed to the Metre Convention reads:
-      _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
-      _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
-      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ [[_ftnref1]] cgpm-resolution:en/23/8[Resolution 8] adopted by the CGPM at its 23rd meeting (2007) which provides that when a State Party to the Metre Convention has not paid its contributions for six years, the International Committee for Weights and Measures (CIPM) may enter into a rescheduling agreement with the defaulting State for the payment of its arrears,
-  - type: considering
+    message: 'recalling that Article 6 paragraphs 6 to 8 of the Rules annexed to the
+      Metre Convention reads:'
+  - type: recalling / further recalling
     date_effective: '2011-10-21'
     message: |-
-      *considering* that the entering by the CIPM into rescheduling agreements with defaulting States Parties to the Metre Convention has institutional, financial and budgetary consequences for the BIPM and the other States Parties to the Metre Convention,
-       the need to define the rights and obligations of the States Parties to the Metre Convention having financial arrears for six years and having entered into a rescheduling agreement with the CIPM,
+      recalling that _"6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées._ +
+      _7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années._ +
+      _8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement."_ ^1^
+  - type: recalling / further recalling
+    date_effective: '2011-10-21'
+    message: recalling that Resolution 8 adopted by the CGPM at its 23rd meeting (2007)
+      which provides that when a State Party to the Metre Convention has not paid
+      its contributions for six years, the International Committee for Weights and
+      Measures (CIPM) may enter into a rescheduling agreement with the defaulting
+      State for the payment of its arrears,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering that the entering by the CIPM into rescheduling agreements
+      with defaulting States Parties to the Metre Convention has institutional, financial
+      and budgetary consequences for the BIPM and the other States Parties to the
+      Metre Convention,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the need to define the rights and obligations of the States
+      Parties to the Metre Convention having financial arrears for six years and having
+      entered into a rescheduling agreement with the CIPM,
   actions:
   - type: decides
     date_effective: '2011-10-21'
-    message: |-
-      *decides* that when a State Party to the Metre Convention has not paid its contribution for six years, but if the CIPM has entered into a rescheduling agreement with that defaulting State, the arrears shall be settled in accordance with the rescheduling agreement together with the payment of the annual contribution,
-       the defaulting State shall again benefit from the advantages and prerogatives conferred by accession to the Metre Convention after the CIPM has entered into a rescheduling agreement with that defaulting State and on payment of the first settlement pursuant to the rescheduling agreement,
-       the annual contribution of the defaulting State shall no longer be distributed among the other States Parties to the Metre Convention starting from the year following the entry into force of the rescheduling agreement,
-       the advantages and prerogatives conferred by accession to the Metre Convention shall be suspended in the case that the defaulting State breaches the rescheduling agreement and its contribution be distributed among the other States Parties to the Metre Convention by applying the provisions of Article 6 paragraph 6 of the Regulations annexed to the Metre Convention,
-       if the State breaches the rescheduling agreement for more than 12 months, it will be automatically excluded.
-       +
-       +
-  appendices:
-  - identifier: 1
-    message: |-
-      [[_ftn1]] English translation for easy reference of the authoritative French version: +
-      6. If a State remains three years without paying its contribution, the said contribution is distributed among the other States pro-rata to their own contributions. The supplementary sums thus paid by these States to make up the dotation of the Bureau are considered as advances made to the State in arrears, and are reimbursed to them in the event that it repays its arrears of contributions. +
-      7. The advantages and prerogatives conferred by accession to the Metre Convention are suspended for those States in arrears by three years. +
-      8. After three more years, the State in arrears is excluded from the Convention and the calculation of contributions is re-established in accordance with the provisions of Article 20 of the present Regulations.
+    message: "*decides* that\n\n* when a State Party to the Metre Convention has not
+      paid its contribution for six years, but if the CIPM has entered into a rescheduling
+      agreement with that defaulting State, the arrears shall be settled in accordance
+      with the rescheduling agreement together with the payment of the annual contribution,\n*
+      the defaulting State shall again benefit from the advantages and prerogatives
+      conferred by accession to the Metre Convention after the CIPM has entered into
+      a rescheduling agreement with that defaulting State and on payment of the first
+      settlement pursuant to the rescheduling agreement,\n* the annual contribution
+      of the defaulting State shall no longer be distributed among the other States
+      Parties to the Metre Convention starting from the year following the entry into
+      force of the rescheduling agreement,\n* the advantages and prerogatives conferred
+      by accession to the Metre Convention shall be suspended in the case that the
+      defaulting State breaches the rescheduling agreement and its contribution be
+      distributed among the other States Parties to the Metre Convention by applying
+      the provisions of Article 6 paragraph 6 of the Regulations annexed to the Metre
+      Convention,\n* if the State breaches the rescheduling agreement for more than
+      12 months, it will be automatically excluded.\n\n\n\n(1) English translation
+      for easy reference of the authoritative French version: +\n6. If a State remains
+      three years without paying its contribution, the said contribution is distributed
+      among the other States pro-rata to their own contributions. The supplementary
+      sums thus paid by these States to make up the dotation of the Bureau are considered
+      as advances made to the State in arrears, and are reimbursed to them in the
+      event that it repays its arrears of contributions. +\n7. The advantages and
+      prerogatives conferred by accession to the Metre Convention are suspended for
+      those States in arrears by three years. +\n8. After three more years, the State
+      in arrears is excluded from the Convention and the calculation of contributions
+      is re-established in accordance with the provisions of Article 20 of the present
+      Regulations.\n\n "
 - dates:
   - '2011-10-21'
   title: On the revision of the mise en pratique of the metre and the development
     of new optical frequency standards
   identifier: 8
-  url: https://www.bipm.org/en/CGPM/db/24/8/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=546
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-8
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=546
   approvals:
   - type: affirmative
     degree: unanimous
@@ -588,28 +683,45 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2011-10-21'
-    message: |-
-      *considering* that there have been rapid and important improvements in the performance of optical frequency standards,
-       national metrology institutes are working on comparison techniques for optical frequency standards over short distances,
-       remote comparison techniques need to be developed at an international level so that optical frequency standards can be compared,
+    message: considering that there have been rapid and important improvements in
+      the performance of optical frequency standards,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering that national metrology institutes are working on comparison
+      techniques for optical frequency standards over short distances,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering that remote comparison techniques need to be developed at
+      an international level so that optical frequency standards can be compared,
   actions:
   - type: welcomes
     date_effective: '2011-10-21'
-    message: |-
-      *welcomes* the activities of the joint working group of the CCTF and the CCL to review the frequencies of optically-based representations of the second,
-       the additions made by the CIPM in 2009 to the common list of "Recommended values of standard frequencies for applications including the practical realization of the metre and secondary representations of the second",
-       the establishment of a CCTF working group on Coordination of the Development of Advanced Time and Frequency Transfer Techniques,
+    message: welcomes the activities of the joint working group of the CCTF and the
+      CCL to review the frequencies of optically-based representations of the second,
+  - type: welcomes
+    date_effective: '2011-10-21'
+    message: welcomes the additions made by the CIPM in 2009 to the common list of
+      "Recommended values of standard frequencies for applications including the practical
+      realization of the metre and secondary representations of the second",
+  - type: welcomes
+    date_effective: '2011-10-21'
+    message: welcomes the establishment of a CCTF working group on Coordination of
+      the Development of Advanced Time and Frequency Transfer Techniques,
   - type: recommends
     date_effective: '2011-10-21'
-    message: |-
-      *recommends* that NMIs commit resources to the development of optical frequency standards and their comparison,
-       the BIPM supports the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
+    message: recommends that NMIs commit resources to the development of optical frequency
+      standards and their comparison,
+  - type: recommends
+    date_effective: '2011-10-21'
+    message: recommends that the BIPM supports the coordination of an international
+      project with the participation of NMIs, oriented to the study of the techniques
+      which could serve to compare optical frequency standards.
 - dates:
   - '2011-10-21'
   title: On the adoption of a common terrestrial reference system
   identifier: 9
-  url: https://www.bipm.org/en/CGPM/db/24/9/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=547
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-9
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=547
   approvals:
   - type: affirmative
     degree: unanimous
@@ -617,11 +729,23 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2011-10-21'
-    message: |-
-      *considering* that a significant number of global navigation satellite systems (GNSS) now exist and that in the future there may be more,
-       the proliferation of time and geodesy reference systems in use in these navigation systems, which creates ambiguities for users with regard to the interpretation of navigation and timing solutions, and which renders interoperability between the systems more difficult,
-       the existence of the International Terrestrial Reference System (ITRS),
-       that the adoption of a common reference system would lead to benefits for users regarding unification of navigation and timing solutions and systems interoperability,
+    message: considering that a significant number of global navigation satellite
+      systems (GNSS) now exist and that in the future there may be more,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the proliferation of time and geodesy reference systems in
+      use in these navigation systems, which creates ambiguities for users with regard
+      to the interpretation of navigation and timing solutions, and which renders
+      interoperability between the systems more difficult,
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering the existence of the International Terrestrial Reference
+      System (ITRS),
+  - type: considering
+    date_effective: '2011-10-21'
+    message: considering that the adoption of a common reference system would lead
+      to benefits for users regarding unification of navigation and timing solutions
+      and systems interoperability,
   actions:
   - type: recommends
     date_effective: '2011-10-21'
@@ -634,12 +758,12 @@ resolutions:
   title: On the role, mission, objectives, long-term strategy and governance of the
     BIPM
   identifier: 10
-  url: https://www.bipm.org/en/CGPM/db/24/10/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM24.pdf#page=548
+  url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-10
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=548
   approvals:
   - type: affirmative
     degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+    message: "The General Conference on Weights and Measures (CGPM), at its 24th meeting,\n\n "
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -652,12 +776,12 @@ resolutions:
   - type: considering
     date_effective: '2011-10-21'
     message: considering that the role and mission of the BIPM were reconfirmed in
-      cgpm-resolution:en/23/2[Resolution 2 adopted by the CGPM at its 23rd meeting],
+      Resolution 2 adopted by the CGPM at its 23rd meeting,
   - type: considering
     date_effective: '2011-10-21'
     message: considering that the governance was last examined by an _ad hoc_ Working
-      Group set up at the 16th meeting of the CGPM, that the conclusions of this ad
-      hoc Working Group were that changes to the Metre Convention at that time were
+      Group set up at the 16th meeting of the CGPM, that the conclusions of this _ad
+      hoc_ Working Group were that changes to the Metre Convention at that time were
       neither necessary nor desirable, and that these conclusions were approved by
       the CGPM at its 17th meeting in 1983,
   - type: considering
@@ -694,7 +818,7 @@ resolutions:
   - type: invites / further invites
     date_effective: '2011-10-21'
     message: invites the CIPM to formulate proposed actions on the basis of the findings
-      of the ad hoc Working Group and implement those within its authority, subject
+      of the _ad hoc_ Working Group and implement those within its authority, subject
       to support from the representatives of States Parties to the Metre Convention
       and NMI Directors, during the 2013-2014 timeframe,
   - type: invites / further invites

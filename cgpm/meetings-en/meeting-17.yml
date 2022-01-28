@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Resolutions of the CGPM: 17th meeting'
+  title: 17th meeting of the CGPM
   date: '1983-10-21'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/CGPM/db/17
+  url: https://www.bipm.org/en/committees/cg/cgpm/17-1983
+pdf: https://www.bipm.org/documents/20126/38091040/CGPM17.pdf/9970b20b-8330-8cd0-4ac0-6c53cc647c2d
 resolutions:
 - dates:
   - '1983-10-21'
   title: Definition of the metre
   identifier: 1
-  url: https://www.bipm.org/en/CGPM/db/17/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=97
+  url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=97
   approvals:
   - type: affirmative
     degree: unanimous
@@ -41,8 +42,7 @@ resolutions:
     date_effective: '1983-10-21'
     message: considering that there is an advantage, notably for astronomy and geodesy,
       in maintaining unchanged the value of the speed of light recommended in 1975
-      by the cgpm-resolution:en/15/2[15th CGPM in its Resolution 2] (stem:[c = 299
-      792 458 "m"/"s"]),
+      by the 15th CGPM in its Resolution 2 (stem:[c = 299 792 458 "m"/"s"]),
   - type: considering
     date_effective: '1983-10-21'
     message: considering that a new definition of the metre has been envisaged in
@@ -75,12 +75,16 @@ resolutions:
     message: decides The definition of the metre in force since 1960, based upon the
       transition between the levels 2p~10~ and 5d~5~ of the atom of krypton 86, is
       abrogated.
+  notes: |-
+    The relative uncertainty given here corresponds to three standard deviations in the data considered. +
+     +
+     This definition of the metre was abrogated in 2018 by the 26th CGPM (Resolution 1), which became effective in 2019.
 - dates:
   - '1983-10-21'
   title: On the realization of the definition of the metre
   identifier: 2
-  url: https://www.bipm.org/en/CGPM/db/17/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=98
+  url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=98
   approvals:
   - type: affirmative
     degree: unanimous
@@ -100,13 +104,16 @@ resolutions:
     date_effective: '1983-10-21'
     message: invites the Comité International des Poids et Mesures to pursue studies
       undertaken to improve these standards.
+  notes: See https://www.bipm.org/utils/en/pdf/CI-2002-1-EN.pdf[Recommendation 1 (CI-2002)]
+    of the CIPM on the revision of the practical realization of the definition of
+    the metre.
   subject: Comité International des Poids et Mesures
 - dates:
   - '1983-10-21'
   title: Density of air
   identifier: 3
-  url: https://www.bipm.org/en/CGPM/db/17/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=99
+  url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
   approvals:
   - type: affirmative
     degree: unanimous
@@ -115,7 +122,7 @@ resolutions:
   - type: recalling / further recalling
     date_effective: '1983-10-21'
     message: |-
-      recalling cgpm-resolution:en/16/1[Resolution 1 of the 16th General Conference on Weights and Measures (1979)] dealing with the measurement of mass
+      *recalling* Resolution 1 of the 16th General Conference on Weights and Measures (1979) dealing with the measurement of mass
 
       and *considering*
 
@@ -140,8 +147,8 @@ resolutions:
   - '1983-10-21'
   title: Appropriation for the BIPM
   identifier: 4
-  url: https://www.bipm.org/en/CGPM/db/17/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=99
+  url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
   approvals:
   - type: affirmative
     degree: unanimous
@@ -163,12 +170,10 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1983-10-21'
-    message: |-
-      *decides*
-
-      * that the fixed portion of the BIPM's annual appropriation shall be increased in such a way that the sum of the fixed and complementary (defined by Article 6 (1921) of the Rules Appended to the Convention du Mètre of 1875) portions shall be, for the Member States of the Convention at the time of the 17th Conférence Générale des Poids et Mesures, for
-
-      1985 .......... 13 144 000 gold-francs +
-      1986 .......... 14 327 000 gold-francs +
-      1987 .......... 15 616 000 gold-francs +
-      1988 .......... 17 022 000 gold-francs.
+    message: "*decides*\n\n1985: 13 144 000 gold-francs +\n1986: 14 327 000 gold-francs
+      +\n1987: 15 616 000 gold-francs +\n1988: 17 022 000 gold-francs.\n\n\n\n* that
+      the fixed portion of the BIPM's annual appropriation shall be increased in such
+      a way that the sum of the fixed and complementary (defined by Article 6 (1921)
+      of the Rules Appended to the Convention du Mètre of 1875) portions shall be,
+      for the Member States of the Convention at the time of the 17th Conférence Générale
+      des Poids et Mesures, for\n\n "

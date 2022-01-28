@@ -1,87 +1,93 @@
 ---
 metadata:
-  title: '106'
-  date: '2017-10-01'
+  title: 106th meeting of the CIPM
+  date: '2017-10-20'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
 resolutions:
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-1
+  - '2017-10-20'
+  title: Decision CIPM/106-1 (2017)
   identifier: 106-1
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Meetings
   considerations:
   - type: acknowledging
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: accepted the minutes of the 105th meeting of the CIPM as a true record.
   actions: []
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-2
+  - '2017-10-20'
+  title: Decision CIPM/106-2 (2017)
   identifier: 106-2
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Finance
   considerations: []
   actions:
   - type: confirms
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: confirmed its approval of the audited financial statements of the BIPM
       and of the BIPM Pension and Provident Fund which were reviewed by the CIPM Sub
       Committee on Finance in June 2017. The CIPM granted the BIPM Director quietus
       for the 2016 exercise.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-3
+  - '2017-10-20'
+  title: Decision CIPM/106-3 (2017)
   identifier: 106-3
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Finance
   considerations: []
   actions:
   - type: approves
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: approved the budget proposed by the Director for 2018 (document CIPM/2016-05.3).
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-4
+  - '2017-10-20'
+  title: Decision CIPM/106-4 (2017)
   identifier: 106-4
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CGPM
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided to draft a resolution for submission to the 26th meeting of the
       CGPM regarding the process for the exclusion of Member States in arrears.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-5
+  - '2017-10-20'
+  title: Decision CIPM/106-5 (2017)
   identifier: 106-5
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Internal rules
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided to modify Title IV of the Regulations of the Pension and Provident
       Fund relating to the Pension Fund Advisory Board to add to its membership one
       elected representative of pensioners and deferred pensioners of the BIPM serving
       a term of 4 years.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-6
+  - '2017-10-20'
+  title: Decision CIPM/106-6 (2017)
   identifier: 106-6
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Internal rules
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: 'decided unanimously to modify the Rules of the BIPM Pension and Provident
       Fund to state that the unit used to calculate pensions shall henceforth be the
       Pension Point and that the CIPM may, if the need to ensure long-term financial
@@ -90,46 +96,50 @@ resolutions:
       all three Sections of the Fund: Pre-2010, Post-2010 and Post-2017.)'
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-7
+  - '2017-10-20'
+  title: Decision CIPM/106-7 (2017)
   identifier: 106-7
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Internal rules
+  - Finance
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: "Following review of the actuarial modelling carried out by the actuaries
       at Mercer, and Decision CIPM/105 06 by which the CIPM:\n\n* increased the annual
       contributions by the BIPM to the Pension Fund by 400 k€ in 2017 and 150 k€ in
-      every year thereafter, and \n* implemented increases in the contribution rate
-      for active staff\nThe CIPM decided unanimously that the Pension Point will not
-      be adjusted for the period 2018-2019."
+      every year thereafter, and\n* implemented increases in the contribution rate
+      for active staff\n\nThe CIPM decided unanimously that the Pension Point will
+      not be adjusted for the period 2018-2019.\n\n "
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-8
+  - '2017-10-20'
+  title: Decision CIPM/106-8 (2017)
   identifier: 106-8
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - SCs and WGs
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided to increase the number of serving staff elected by the staff
       to the PFAB from one to three, each serving a term of 4 years. It will continue,
       when possible, with the practice of engaging an external expert on the PFAB
       drawn from amongst the representatives of the Member States.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-9
+  - '2017-10-20'
+  title: Decision CIPM/106-9 (2017)
   identifier: 106-9
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: requests
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: requested the CCM to provide, for the next meeting of the CIPM, a formally
       approved note on the dissemination process after the redefinition of the kilogram,
       addressing in particular the definition of the consensus value, as well as an
@@ -137,60 +147,65 @@ resolutions:
       meeting of the CIPM.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-10
+  - '2017-10-20'
+  title: Decision CIPM/106-10 (2017)
   identifier: 106-10
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - SI
   considerations: []
   actions:
   - type: welcomes
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: |-
       The International Committee for Weights and Measures (CIPM) welcomed recommendations regarding the redefinition of the SI from its Consultative Committees. +
        +
       The CIPM noted that the agreed conditions for the redefinition are now met and decided to submit draft Resolution stem:["A"] to the 26th meeting of the General Conference on Weights and Measures (CGPM) and to undertake all other necessary steps to proceed with the planned redefinition of the kilogram, ampere, kelvin and mole.
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-11
+  - '2017-10-20'
+  title: Decision CIPM/106-11 (2017)
   identifier: 106-11
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - SI
   considerations: []
   actions:
   - type: appoints
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: authorized the CIPM President to convey its support for the publication
       of the final numerical values for the defining constants to the Task Group for
       Fundamental Constants convened by CODATA.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-12
+  - '2017-10-20'
+  title: Decision CIPM/106-12 (2017)
   identifier: 106-12
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CGPM
   considerations:
   - type: acknowledging
-    date_effective: '2017-10-01'
-    message: "accepted the revised Draft Resolution stem:[\"A\"] as presented at the
-      106th meeting of the CIPM which included modifications:\n\n* to the wording
-      for the definition of the mole as suggested by the CCU and based on proposals
-      by the CCQM and IUPAC, \n* to include the final CODATA LSA values for the defining
-      constants, \n* to synchronize the order in the definition of the luminous efficacy,
-      and\n* to include explanatory text on the hertz, joule, coulomb, lumen and watt."
+    date_effective: '2017-10-20'
+    message: |-
+      accepted the revised Draft Resolution stem:["A"] as presented at the 106th meeting of the CIPM which included modifications:
+
+      * to the wording for the definition of the mole as suggested by the CCU and based on proposals by the CCQM and IUPAC,
+      * to include the final CODATA LSA values for the defining constants,
+      * to synchronize the order in the definition of the luminous efficacy, and
+      * to include explanatory text on the hertz, joule, coulomb, lumen and watt.
   actions: []
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-13
+  - '2017-10-20'
+  title: Decision CIPM/106-13 (2017)
   identifier: 106-13
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - SI
   considerations: []
   actions:
   - type: approves
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: approved the edited version of the 9th edition of the SI Brochure, as
       approved by the CCU, changed by adding the preface on "The BIPM and the Metre
       Convention" used in the 8th edition of the SI Brochure modified only by correcting
@@ -198,126 +213,143 @@ resolutions:
       deleting what was Appendix 1 on "The Metre Convention and its Organs".
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-14
+  - '2017-10-20'
+  title: Decision CIPM/106-14 (2017)
   identifier: 106-14
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - SI
   considerations: []
   actions:
   - type: welcomes
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: welcomed the excellent progress on the promotion of the revised SI by
       the CIPM Task Group for Promotion of the SI and encouraged all NMIs to take
       advantage of the material they develop.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-15
+  - '2017-10-20'
+  title: Decision CIPM/106-15 (2017)
   identifier: 106-15
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
+  - SI
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided that the _mises en pratique_ prepared by the CCs for each of
       the base units should be presented in a common format to be developed by the
       BIPM editing team.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-16
+  - '2017-10-20'
+  title: Decision CIPM/106-16 (2017)
   identifier: 106-16
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
-    message: "decided the following text for inclusion in CIPM-D-01: +\n +\n_In order
-      to be informed of technical developments and evolving stakeholder needs in different
-      areas of metrology, the CIPM has Consultative Committees with agreed scopes
-      and the following three objectives: \n* to progress the state-of-the art by
-      providing a global forum for NMIs to exchange information about the state of
-      the art and best practices, \n* to define new possibilities for metrology to
-      have impact on global measurement challenges by facilitating dialogue between
-      the NMIs and new and established stakeholders, and \n* to demonstrate and improve
-      the global comparability of measurements. Particularly by working with the RMOs
-      in the context of the CIPM MRA to:\n* plan, execute and monitor KCs, and to
-      \n* support the process of CMC review._ Document CIPM-D-01 will be updated accordingly."
+    date_effective: '2017-10-20'
+    message: |-
+      decided the following text for inclusion in CIPM-D-01: +
+       +
+      _In order to be informed of technical developments and evolving stakeholder needs in different areas of metrology, the CIPM has Consultative Committees with agreed scopes and the_ _following three objectives:_
+
+      * _to progress the state-of-the art by providing a global forum for NMIs to exchange information about the state of the art and best practices,_
+      * _to define new possibilities for metrology to have impact on global measurement challenges by facilitating dialogue between the NMIs and new and established stakeholders, and_
+      * _to demonstrate and improve the global comparability of measurements. Particularly by working with the RMOs in the context of the CIPM MRA to:_
+      ** _plan, execute and monitor KCs, and to_
+      ** _support the process of CMC review._
+
+      Document CIPM-D-01 will be updated accordingly.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-17
+  - '2017-10-20'
+  title: Decision CIPM/106-17 (2017)
   identifier: 106-17
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
+  - International Liaison
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
-    message: "Following Decision CIPM/105-27 (on the engagement of international organizations
-      as \"liaisons\" at the Consultative Committees), the CIPM decided that the status
-      of liaison within the context of the Consultative Committees will be decided
-      upon in each case by the CIPM. +\n +\nThe CIPM will base its decision on the
-      extent to which the international organization concerned meets the following
-      criteria:\n\n* being international in structure and scope of activity, and representative
-      of the specialized field of interest in which they operate;\n* being concerned
-      with matters covering a part, or all, of the field of activity of the BIPM;\n*
-      having aims and purposes in conformity with the Vision, Mission and Objectives
-      of the BIPM;\n* having a permanent directing body and secretariat, authorized
-      representatives and systematic procedures and machinery for communicating with
-      its membership in various countries;\n* allowing its members to exercise voting
-      rights in relation to its policies or action or having other appropriate mechanisms
-      to express their views; and \n* having been established at least three years
-      before they apply for liaison status. \nOrganizations that are not offered liaison
-      status within the context of the Consultative Committees will be known as \"organizations
-      in cooperation\". +\n +\nDocument CIPM-D-01 will be updated accordingly."
+    date_effective: '2017-10-20'
+    message: |-
+      Following Decision CIPM/105-27 (on the engagement of international organizations as "liaisons" at the Consultative Committees), the CIPM decided that the status of liaison within the context of the Consultative Committees will be decided upon in each case by the CIPM. +
+       +
+      The CIPM will base its decision on the extent to which the international organization concerned meets the following criteria:
+
+      * being international in structure and scope of activity, and representative of the specialized field of interest in which they operate;
+      * being concerned with matters covering a part, or all, of the field of activity of the BIPM;
+      * having aims and purposes in conformity with the Vision, Mission and Objectives of the BIPM;
+      * having a permanent directing body and secretariat, authorized representatives and systematic procedures and machinery for communicating with its membership in various countries;
+      * allowing its members to exercise voting rights in relation to its policies or action or having other appropriate mechanisms to express their views; and
+      * having been established at least three years before they apply for liaison status.
+
+      Organizations that are not offered liaison status within the context of the Consultative Committees will be known as "organizations in cooperation". +
+       +
+      Document CIPM-D-01 will be updated accordingly.
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-18
+  - '2017-10-20'
+  title: Decision CIPM/106-18 (2017)
   identifier: 106-18
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided that, in order to further emphasize the consultative nature of
       the Consultative Committees and the importance of the consensus-based decision-making
       processes, Document CIPM-D-01 should be updated so as not to make any reference
       to voting taking place in CCs.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-19
+  - '2017-10-20'
+  title: Decision CIPM/106-19 (2017)
   identifier: 106-19
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
+  - Member States and Associates
   considerations:
   - type: acknowledging
-    date_effective: '2017-10-01'
-    message: "accepted the following changes to the membership and observership of
-      the Consultative Committees:\n\n* CCEM\n\n** NIS (Egypt) as an observer. \n*
-      CCM\n\n** DFM (Denmark) as a member. \n* CCQM\n\n** VNIIFTRI (Russian Federation)
-      as an observer. \n** (Ireland) is no longer a member of the CCQM. (Since Ireland
-      is a Member State, a representative from SL will be able to attend as an observer
-      upon request). \n* CCT\n\n** (Czech Republic) as a member. \n* CCTF\n\n** Chunghwa
-      Telecom Laboratory (Chinese Taipei) as an observer. \n* CCU\n\n** LNE (France)
-      as a member."
+    date_effective: '2017-10-20'
+    message: |-
+      accepted the following changes to the membership and observership of the Consultative Committees:
+
+      * CCEM
+      ** NIS (Egypt) as an observer.
+      * CCM
+      ** DFM (Denmark) as a member.
+      * CCQM
+      ** VNIIFTRI (Russian Federation) as an observer.
+      ** (Ireland) is no longer a member of the CCQM. (Since Ireland is a Member State, a representative from SL will be able to attend as an observer upon request).
+      * CCT
+      ** (Czech Republic) as a member.
+      * CCTF
+      ** Chunghwa Telecom Laboratory (Chinese Taipei) as an observer.
+      * CCU
+      ** LNE (France) as a member.
   actions: []
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-20
+  - '2017-10-20'
+  title: Decision CIPM/106-20 (2017)
   identifier: 106-20
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Member States and Associates
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: |-
       decided that when considering whether it is appropriate for an Associate State of the General Conference on Weights and Measures (CGPM) to be encouraged to accede to the Metre Convention and hence become a Member State, it will take into account whether it has:
 
@@ -326,22 +358,24 @@ resolutions:
       * published comparison results in the key comparison database (KCDB),
       * one or more Calibration and Measurement Capability (CMC) listed in the KCDB,
       * a percentage higher than 0.02 on the "_Scale of assessments for the apportionment of the expenses of the United Nations_".
-      The above criteria will be applied in the implementation of cgpm-resolution:en/24/4[Resolution 4 of the CGPM (2011) "_On the status of Associate State of the General Conference_"]. +
-        +
-       This decision revises the criteria adopted by the CIPM at its 98th (2009) and 99th (2010) meetings. +
+
+      The above criteria will be applied in the implementation of Resolution 4 of the CGPM (2011) "_On the status of Associate State of the General Conference_". +
        +
-       The above notwithstanding, the CIPM reaffirmed that an Associate State of the CGPM may choose to accede to the Metre Convention and become a Member State at any time should it so wish.
+      This decision revises the criteria adopted by the CIPM at its 98th (2009) and 99th (2010) meetings. +
+       +
+      The above notwithstanding, the CIPM reaffirmed that an Associate State of the CGPM may choose to accede to the Metre Convention and become a Member State at any time should it so wish.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-21
+  - '2017-10-20'
+  title: Decision CIPM/106-21 (2017)
   identifier: 106-21
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Member States and Associates
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided that an Associate State of the CGPM that does not meet the criteria
       set in Decision CIPM/106-20 and that has already been encouraged to accede to
       the Metre Convention, and as a result is paying an increased subscription, shall
@@ -349,85 +383,93 @@ resolutions:
       will come into force in 2018 and will not be retroactive.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-22
+  - '2017-10-20'
+  title: Decision CIPM/106-22 (2017)
   identifier: 106-22
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Member States and Associates
+  - International Liaison
   considerations: []
   actions:
   - type: asks
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: asked the BIPM to work with any Associate State included in Decision
       CIPM/106-21 and that is in arrears in order to establish a rescheduling agreement.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-23
+  - '2017-10-20'
+  title: Decision CIPM/106-23 (2017)
   identifier: 106-23
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - General
   considerations: []
   actions:
   - type: approves
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: agreed the BIPM Strategy (2018) with a change to the text of the final
       line of the "mission" to read "Improving the quality of life and sustaining
       the global environment".
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-24
+  - '2017-10-20'
+  title: Decision CIPM/106-24 (2017)
   identifier: 106-24
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Finance
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: decided to revise the level of reserves shown in the BIPM Financial report
       to 50 % of the annual dotation, with immediate effect.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-25
+  - '2017-10-20'
+  title: Decision CIPM/106-25 (2017)
   identifier: 106-25
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Membership
   considerations: []
   actions:
   - type: decides
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: |-
       decided to amend Section B (page 3) of the "Criteria and Process for Election of CIPM Members" (Sept 2014), by adding the phrase +
        +
       "Each member shall be willing to act as the President of a Consultative Committee or of a CIPM Sub-committee".
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-26
+  - '2017-10-20'
+  title: Decision CIPM/106-26 (2017)
   identifier: 106-26
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - Membership
   considerations: []
   actions:
   - type: asks
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: 'asked Dr May to reinstate the CIPM _ad hoc_ Working Group on Membership
       to propose some clarification of the text in "Step 5: Seating of a newly elected
       CIPM" in the "Criteria and Process for Election of CIPM members" for discussion
       at the next meeting.'
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-27
+  - '2017-10-20'
+  title: Decision CIPM/106-27 (2017)
   identifier: 106-27
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - CCs and WGs
+  - International Liaison
   considerations: []
   actions:
   - type: asks
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: asked the CIPM President to invite each RMO to send one or two representatives
       to the next meeting of the CC Presidents (19-20 June 2018). These representatives
       should be prepared to address the recommendations of the review of the CIPM
@@ -435,15 +477,16 @@ resolutions:
       technical and quality-system issues.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-28
+  - '2017-10-20'
+  title: Decision CIPM/106-28 (2017)
   identifier: 106-28
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - SCs and WGs
   considerations: []
   actions:
   - type: welcomes
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: |-
       welcomed the drafts of the Regulations for Awards and Terms of Reference of the +
       Sub-Committee for Awards as a basis for further work. +
@@ -454,14 +497,15 @@ resolutions:
       The CIPM decided that Dr Liew and Mr Érard should join the Sub-Committee for Awards.
   subject: The CIPM
 - dates:
-  - '2017-10-01'
-  title: Decision CIPM/106-29
+  - '2017-10-20'
+  title: Decision CIPM/106-29 (2017)
   identifier: 106-29
-  url: https://www.bipm.org/en/committees/cipm/meeting/106.html
-  reference: https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf
+  url: https://www.bipm.org/en/committees/ci/cipm/106-2017
+  categories:
+  - JCGM
   considerations:
   - type: acknowledging
-    date_effective: '2017-10-01'
+    date_effective: '2017-10-20'
     message: accepted document CIPM/17-23.1 as its position on revision of the _International
       Vocabulary of Metrology_ (VIM).
   actions: []

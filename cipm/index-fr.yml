@@ -1,0 +1,311 @@
+---
+meetings:
+- title: 111e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/111-_2-2022
+  ident: 111-_2-2022
+- title: 111e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/111-_1-2022
+  ident: 111-_1-2022
+- title: 110e réunion du CIPM (Partie II) (en-ligne)
+  url: https://www.bipm.org/fr/committees/ci/cipm/110-_2-2021
+  ident: 110-_2-2021
+  decisions_ref: 110(II)
+- title: 110e réunion du CIPM (Partie I) (en-ligne)
+  url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
+  ident: 110-_1-2021
+  decisions_ref: 110(I)
+- title: CIPM-SC-FINANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-finance/2021-06-15
+  ident: wg.cipm-sc-finance.2021-06-15
+- title: CIPM-SC-FINANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-finance/2021-03-24
+  ident: wg.cipm-sc-finance.2021-03-24
+- title: CIPM-SC-STRATEGY
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-strategy/2021-03-23
+  ident: wg.cipm-sc-strategy.2021-03-23
+- title: CIPM-TG-DSI
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-dsi/2021-03-23
+  ident: wg.cipm-tg-dsi.2021-03-23
+- title: CIPM-TG-DSI
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-dsi/2021-03-10
+  ident: wg.cipm-tg-dsi.2021-03-10
+- title: CIPM-TG-DSI
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-dsi/2020-11-16
+  ident: wg.cipm-tg-dsi.2020-11-16
+- title: CIPM-SC-STRATEGY
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-strategy/2020-10-13
+  ident: wg.cipm-sc-strategy.2020-10-13
+- title: 109e réunion du CIPM (en-ligne)
+  url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
+  ident: 109-2020
+  decisions_ref: '109'
+- title: CIPM-WG-EMPLOYMENT
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-wg-employment/2020-10-07
+  ident: wg.cipm-wg-employment.2020-10-07
+- title: CIPM-TG-DSI
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-dsi/2020-09-25
+  ident: wg.cipm-tg-dsi.2020-09-25
+- title: CIPM-SC-FINANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-finance/2020-06-18
+  ident: wg.cipm-sc-finance.2020-06-18
+- title: CIPM-TG-DSI
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-dsi/2020-06-16
+  ident: wg.cipm-tg-dsi.2020-06-16
+- title: CIPM-TG-DSI
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-dsi/2019-11-22
+  ident: wg.cipm-tg-dsi.2019-11-22
+- title: 108e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
+  ident: 108-_2-2019
+  decisions_ref: 108(II)
+- title: CIPM-SC-STRATEGY
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-strategy/2019-10-14
+  ident: wg.cipm-sc-strategy.2019-10-14
+- title: CIPM-PFAB
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-pfab/2019-10-11
+  ident: wg.cipm-pfab.2019-10-11
+- title: CIPM-SC-FINANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-finance/2019-06-20
+  ident: wg.cipm-sc-finance.2019-06-20
+- title: CIPM-TG-UNIT
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-tg-unit/2019-06-20
+  ident: wg.cipm-tg-unit.2019-06-20
+- title: CIPM-PFAB
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-pfab/2019-06-19
+  ident: wg.cipm-pfab.2019-06-19
+- title: CIPM-WG-REPRODUCIBILITY
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-wg-reproducibility/2019-06-19
+  ident: wg.cipm-wg-reproducibility.2019-06-19
+- title: CIPM-SC-STRATEGY
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-strategy/2019-06-18
+  ident: wg.cipm-sc-strategy.2019-06-18
+- title: CIPM-WG-EMPLOYMENT
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-wg-employment/2019-06-18
+  ident: wg.cipm-wg-employment.2019-06-18
+- title: 108e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
+  ident: 108-_1-2019
+  decisions_ref: 108(I)
+- title: 107e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/107-2018
+  ident: 107-2018
+  decisions_ref: '107'
+- title: CIPM-CC-PRESIDENTS
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-cc-presidents/2018-06-20
+  ident: wg.cipm-cc-presidents.2018-06-20
+- title: CIPM-CC-PRESIDENTS
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-cc-presidents/2018-06-19
+  ident: wg.cipm-cc-presidents.2018-06-19
+- title: CIPM-SC-FINANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-finance/2018-06-18
+  ident: wg.cipm-sc-finance.2018-06-18
+- title: CIPM-WG-MRA-REVIEW
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-wg-mra-review/2018-03-12
+  ident: wg.cipm-wg-mra-review.2018-03-12
+- title: 106e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
+  ident: 106-2017
+  decisions_ref: '106'
+- title: CIPM-CC-PRESIDENTS
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-cc-presidents/2017-06-13
+  ident: wg.cipm-cc-presidents.2017-06-13
+- title: CIPM-SC-FINANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-sc-finance/2017-06-12
+  ident: wg.cipm-sc-finance.2017-06-12
+- title: 105e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
+  ident: 105-2016
+  decisions_ref: '105'
+- title: CIPM-CC-PRESIDENTS
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-cc-presidents/2016-06-13
+  ident: wg.cipm-cc-presidents.2016-06-13
+- title: CIPM-WG-MRA-REVIEW
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-wg-mra-review/2016-03-14
+  ident: wg.cipm-wg-mra-review.2016-03-14
+- title: CIPM/ILAC
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm/ilac/2016-03-08
+  ident: ilac.2016-03-08
+- title: CIPM-PRE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-pre/2015-11-09
+  ident: wg.cipm-pre.2015-11-09
+- title: 104e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/104-_2-2015
+  ident: 104-_2-2015
+  decisions_ref: 104(II)
+- title: 104e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
+  ident: 104-_1-2015
+  meeting_ref: '2015'
+  decisions_ref: 104(I)
+- title: 103e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/103-_2-2014
+  ident: 103-_2-2014
+  decisions_ref: 103(II)
+- title: 103e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
+  ident: 103-_1-2014
+  decisions_ref: 103(I)
+- title: 102e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/102-_2-2013
+  ident: 102-_2-2013
+  decisions_ref: 102(II)
+- title: 102e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
+  ident: 102-_1-2013
+  meeting_ref: '2013'
+  decisions_ref: 102(I)
+- title: 101e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/101-_2-2012
+  ident: 101-_2-2012
+  decisions_ref: 101(II)
+- title: 101e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/101-_1-2012
+  ident: 101-_1-2012
+  decisions_ref: 101(I)
+- title: CIPM-WG-GOVERNANCE
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-wg-governance/2012-03-14
+  ident: wg.cipm-wg-governance.2012-03-14
+- title: 100e réunion du CIPM (Partie II)
+  url: https://www.bipm.org/fr/committees/ci/cipm/100-_2-2011
+  ident: 100-_2-2011
+- title: 100e réunion du CIPM (Partie I)
+  url: https://www.bipm.org/fr/committees/ci/cipm/100-_1-2011
+  ident: 100-_1-2011
+- title: 99e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/99-2010
+  ident: 99-2010
+- title: 99e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/99-2010
+  ident: 99-2010
+- title: 98e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/98-2009
+  ident: 98-2009
+  meeting_ref: '2009'
+- title: CIPM-MRA-ANNIVERSARY
+  url: https://www.bipm.org/fr/committees/ci/cipm/wg/cipm-mra-anniversary/2009-10-08
+  ident: wg.cipm-mra-anniversary.2009-10-08
+- title: 97e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/97-2008
+  ident: 97-2008
+- title: 96e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/96-2007
+  ident: 96-2007
+  meeting_ref: '2007'
+- title: 95e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/95-2006
+  ident: 95-2006
+  meeting_ref: '2006'
+- title: 94e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/94-2005
+  ident: 94-2005
+  meeting_ref: '2005'
+- title: 93e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/93-2004
+  ident: 93-2004
+  meeting_ref: '2004'
+- title: 92e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/92-2003
+  ident: 92-2003
+  meeting_ref: '2003'
+- title: 91e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/91-2002
+  ident: 91-2002
+  meeting_ref: '2002'
+- title: 90e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/90-2001
+  ident: 90-2001
+  meeting_ref: '2001'
+- title: 89e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/89-2000
+  ident: 89-2000
+  meeting_ref: '2000'
+- title: 88e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/88-1999
+  ident: 88-1999
+  meeting_ref: '1999'
+- title: 87e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/87-1998
+  ident: 87-1998
+- title: 86e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/86-1997
+  ident: 86-1997
+  meeting_ref: '1997'
+- title: 85e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/85-1996
+  ident: 85-1996
+  meeting_ref: '1996'
+- title: 82e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/82-1993
+  ident: 82-1993
+  meeting_ref: '1993'
+- title: 81e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/81-1992
+  ident: 81-1992
+  meeting_ref: '1992'
+- title: 78e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/78-1989
+  ident: 78-1989
+  meeting_ref: '1989'
+- title: 77e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/77-1988
+  ident: 77-1988
+  meeting_ref: '1988'
+- title: 75e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/75-1986
+  ident: 75-1986
+  meeting_ref: '1986'
+- title: 73e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/73-1984
+  ident: 73-1984
+  meeting_ref: '1984'
+- title: 72e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/72-1983
+  ident: 72-1983
+  meeting_ref: '1983'
+- title: 70e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/70-1981
+  ident: 70-1981
+  meeting_ref: '1981'
+- title: 69e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/69-1980
+  ident: 69-1980
+  meeting_ref: '1980'
+- title: 61e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/61-1972
+  ident: 61-1972
+  meeting_ref: '1972'
+- title: 59e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/59-1970
+  ident: 59-1970
+- title: 58e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/58-1969
+  ident: 58-1969
+  meeting_ref: '1969'
+- title: 56e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/56-1967
+  ident: 56-1967
+  meeting_ref: '1967'
+- title: 53e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/53-1964
+  ident: 53-1964
+  meeting_ref: '1964'
+- title: 52e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/52-1963
+  ident: 52-1963
+  meeting_ref: '1963'
+- title: 50e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/50-1961
+  ident: 50-1961
+  meeting_ref: '1961'
+- title: 46e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/46-1956
+  ident: 46-1956
+  meeting_ref: '1956'
+- title: 42e réunion du CIPM
+  url: https://www.bipm.org/fr/committees/ci/cipm/42-1948
+  ident: 42-1948
+  meeting_ref: '1948'
+- title: 41e réunion du CIPM (1945, 1946)
+  url: https://www.bipm.org/fr/committees/ci/cipm/41-1946
+  ident: 41-1946
+  meeting_ref: '1946'

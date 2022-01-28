@@ -1,17 +1,17 @@
 ---
 metadata:
-  title: 'Résolutions de la CGPM : 20e réunion'
+  title: 20e réunion de la CGPM (1995)
   date: '1995-10-13'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/fr/CGPM/db/20
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995
 resolutions:
 - dates:
   - '1995-10-13'
   title: Nécessité d'utiliser les unités du SI dans les recherches sur les ressources
     terrestres, l'environnement, la sécurité humaine et les études  connexes
   identifier: 1
-  url: https://www.bipm.org/fr/CGPM/db/20/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=117
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=117
   approvals:
   - type: affirmative
     degree: unanimous
@@ -56,19 +56,19 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '1995-10-13'
-    message: recommande que les responsables des études sur les ressources terrestres,
+    message: "*recommande* que les responsables des études sur les ressources terrestres,
       l'environnement, le bien-être humain et les problèmes connexes fassent le nécessaire
       pour que les mesures effectuées dans le cadre de leurs programmes soient exprimées
       en unités bien définies du SI afin d'en assurer la fiabilité à long terme, la
       cohérence mondiale et le rattachement aux autres domaines scientifiques et techniques
       grâce au système de mesures mondial établi et conservé dans le cadre de la Convention
-      du Mètre.
+      du Mètre."
 - dates:
   - '1995-10-13'
   title: Traçabilité des étalons au niveau mondial
   identifier: 2
-  url: https://www.bipm.org/fr/CGPM/db/20/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=118
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=118
   approvals:
   - type: affirmative
     degree: unanimous
@@ -114,15 +114,15 @@ resolutions:
       effectuées par le BIPM ou les Comités consultatifs,"
   - type: recommends
     date_effective: '1995-10-13'
-    message: 'recommande que les laboratoires nationaux de métrologie, en collaboration
-      avec le BIPM, fassent en sorte que les comparaisons nécessaires d''étalons nationaux
-      soient effectuées en nombre suffisant pour assurer l''équivalence ou la traçabilité
-      des étalons au niveau mondial, '
+    message: recommande que les laboratoires nationaux de métrologie, en collaboration
+      avec le BIPM, fassent en sorte que les comparaisons nécessaires d'étalons nationaux
+      soient effectuées en nombre suffisant pour assurer l'équivalence ou la traçabilité
+      des étalons au niveau mondial,
   - type: recommends
     date_effective: '1995-10-13'
-    message: 'recommande que des liaisons convenables soient maintenues entre les
-      comparaisons exécutées sous l''égide du BIPM et celles qui sont effectuées par
-      les groupes régionaux, '
+    message: recommande que des liaisons convenables soient maintenues entre les comparaisons
+      exécutées sous l'égide du BIPM et celles qui sont effectuées par les groupes
+      régionaux,
   - type: recommends
     date_effective: '1995-10-13'
     message: recommande et que les résultats des comparaisons effectuées par les groupes
@@ -133,8 +133,8 @@ resolutions:
   - '1995-10-13'
   title: Besoin de recherches métrologiques à long terme
   identifier: 3
-  url: https://www.bipm.org/fr/CGPM/db/20/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=119
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=119
   approvals:
   - type: affirmative
     degree: unanimous
@@ -171,8 +171,8 @@ resolutions:
   - '1995-10-13'
   title: Révision de la mise en pratique de la définition du mètre
   identifier: 4
-  url: https://www.bipm.org/fr/CGPM/db/20/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=119
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=119
   approvals:
   - type: affirmative
     degree: unanimous
@@ -180,16 +180,29 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1995-10-13'
-    message: "*rappelant*\n\n que la 17^e^ Conférence générale des poids et mesures,
-      en 1983, a adopté une nouvelle définition du mètre,\n que la même année, la
-      Conférence générale a invité le Comité international des poids et mesures,\n\n*
-      à établir des instructions pour la mise en pratique de cette définition,\n*
-      à choisir des radiations qui puissent être recommandées comme étalons de longueur
-      d'onde pour les mesures de longueur par interférométrie et à donner les instructions
-      nécessaires pour leur utilisation,\n* à poursuivre les études nécessaires pour
-      améliorer ces étalons et à étendre ou réviser ces instructions en temps utile,
-      \n que, en conséquence, le Comité international a publié en 1983 une recommandation
-      pour la mise en pratique de la définition du mètre,"
+    message: rappelant que la 17^e^ Conférence générale des poids et mesures, en 1983,
+      a adopté une nouvelle définition du mètre,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant que la même année, la Conférence générale a invité le Comité
+      international des poids et mesures,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant à établir des instructions pour la mise en pratique de cette
+      définition,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant à choisir des radiations qui puissent être recommandées comme
+      étalons de longueur d'onde pour les mesures de longueur par interférométrie
+      et à donner les instructions nécessaires pour leur utilisation,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant à poursuivre les études nécessaires pour améliorer ces étalons
+      et à étendre ou réviser ces instructions en temps utile,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant que, en conséquence, le Comité international a publié en 1983
+      une recommandation pour la mise en pratique de la définition du mètre,
   - type: considering
     date_effective: '1995-10-13'
     message: considérant que les sciences et les techniques continuent à exiger une
@@ -221,8 +234,8 @@ resolutions:
   - '1995-10-13'
   title: Contrôle de la stabilité du prototype international du kilogramme
   identifier: 5
-  url: https://www.bipm.org/fr/CGPM/db/20/5/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=120
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-5
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=120
   approvals:
   - type: affirmative
     degree: unanimous
@@ -260,8 +273,8 @@ resolutions:
   - '1995-10-13'
   title: Comparaison d'horloges à l'aide de techniques par laser visant des satellites
   identifier: 6
-  url: https://www.bipm.org/fr/CGPM/db/20/6/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=120
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-6
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=120
   approvals:
   - type: affirmative
     degree: unanimous
@@ -290,9 +303,8 @@ resolutions:
       à défilement,
   - type: recalling / further recalling
     date_effective: '1995-10-13'
-    message: "*rappelant* la cgpm-resolution:fr/18/4[Résolution 4 de la 18^e^ Conférence
-      générale] en 1987, qui concerne aussi les comparaisons d'horloges au moyen de
-      satellites,"
+    message: "*rappelant* la Résolution 4 de la 18^e^ Conférence générale en 1987,
+      qui concerne aussi les comparaisons d'horloges au moyen de satellites,"
   actions:
   - type: recommends
     date_effective: '1995-10-13'
@@ -303,8 +315,8 @@ resolutions:
   - '1995-10-13'
   title: Métrologie en chimie
   identifier: 7
-  url: https://www.bipm.org/fr/CGPM/db/20/7/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=121
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-7
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=121
   approvals:
   - type: affirmative
     degree: unanimous
@@ -346,8 +358,8 @@ resolutions:
   - '1995-10-13'
   title: Suppression de la classe des unités supplémentaires dans le SI
   identifier: 8
-  url: https://www.bipm.org/fr/CGPM/db/20/8/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=121
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-8
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=121
   approvals:
   - type: affirmative
     degree: unanimous
@@ -355,8 +367,8 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: considérant que la 11^e^ Conférence générale, en 1960, dans sa cgpm-resolution:fr/11/12[Résolution
-      12] établissant le Système international d'unités, SI, a distingué trois classes
+    message: considérant que la 11^e^ Conférence générale, en 1960, dans sa Résolution
+      12 établissant le Système international d'unités, SI, a distingué trois classes
       d'unités, celle des unités de base, celle des unités dérivées et celle des unités
       supplémentaires, cette dernière comprenant seulement le radian et le stéradian,
   - type: considering
@@ -367,9 +379,8 @@ resolutions:
     date_effective: '1995-10-13'
     message: considérant que le Comité international des poids et mesures (CIPM),
       en 1980, constatant que le statut ambigu des unités supplémentaires compromet
-      la cohérence interne du SI, a interprété dans sa cipm-resolution:fr/1980/1[Recommandation
-      1 (CI-1980)] les unités supplémentaires, dans le SI, comme des unités dérivées
-      sans dimension,
+      la cohérence interne du SI, a interprété dans sa Recommandation 1 (CI-1980)
+      les unités supplémentaires, dans le SI, comme des unités dérivées sans dimension,
   actions:
   - type: approves
     date_effective: '1995-10-13'
@@ -388,8 +399,8 @@ resolutions:
   - '1995-10-13'
   title: Dotation du BIPM
   identifier: 9
-  url: https://www.bipm.org/fr/CGPM/db/20/9/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=122
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-9
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=122
   approvals:
   - type: affirmative
     degree: unanimous
@@ -431,8 +442,8 @@ resolutions:
   - '1995-10-13'
   title: Futures relations avec l'Organisation internationale de métrologie légale
   identifier: 10
-  url: https://www.bipm.org/fr/CGPM/db/20/10/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=122
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-10
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=122
   approvals:
   - type: affirmative
     degree: unanimous
@@ -471,8 +482,8 @@ resolutions:
   - '1995-10-13'
   title: 'Métrologie : besoins à long terme'
   identifier: 11
-  url: https://www.bipm.org/fr/CGPM/db/20/11/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM20.pdf#page=123
+  url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-11
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=123
   approvals:
   - type: affirmative
     degree: unanimous
@@ -480,11 +491,11 @@ resolutions:
   considerations:
   - type: having / having regard
     date_effective: '1995-10-13'
-    message: "*se référant* à la cgpm-resolution:fr/20/1[Résolution 1] : Nécessité
-      d'utiliser les unités du SI dans les recherches sur les ressources terrestres,
-      l'environnement, la sécurité humaine et les études connexes, à la cgpm-resolution:fr/20/2[Résolution
-      2] : Traçabilité des étalons au niveau mondial, et à la cgpm-resolution:fr/20/3[Résolution
-      3] : Besoin de recherches métrologiques à long terme,"
+    message: "*se référant* à la Résolution 1 : Nécessité d'utiliser les unités du
+      SI dans les recherches sur les ressources terrestres, l'environnement, la sécurité
+      humaine et les études connexes, à la Résolution 2 : Traçabilité des étalons
+      au niveau mondial, et à la Résolution 3 : Besoin de recherches métrologiques
+      à long terme,"
   - type: considering
     date_effective: '1995-10-13'
     message: considérant l'impact tout particulier de la métrologie sur le développement

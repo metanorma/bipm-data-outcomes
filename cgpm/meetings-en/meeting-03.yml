@@ -1,37 +1,39 @@
 ---
 metadata:
-  title: 'Resolutions of the CGPM: 3rd meeting'
+  title: 3rd meeting of the CGPM
   date: '1901-10-22'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/CGPM/db/3
+  url: https://www.bipm.org/en/committees/cg/cgpm/3-1901
+pdf: https://www.bipm.org/documents/20126/38096616/CGPM3.pdf/9993082b-5a57-0b7e-1dfd-ea3245536d94
 resolutions:
 - dates:
   - '1901-10-22'
   title: Declaration concerning the definition of the litre
   identifier: 1
-  url: https://www.bipm.org/en/CGPM/db/3/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM3.pdf#page=38
+  url: https://www.bipm.org/en/committees/cg/cgpm/3-1901/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM3.pdf/2459a1a9-f63a-c916-9783-4a390631e28b?version=1.1&download=true#page=38
   approvals:
   - type: affirmative
     degree: unanimous
-    message: The Conference
+    message: Unanimous
   considerations: []
   actions:
   - type: decides
     date_effective: '1901-10-22'
-    message: 'declares The unit of volume, for high accuracy determinations, is the
-      volume occupied by a mass of 1 kilogram of pure water, at its maximum density
-      and at standard atmospheric pressure: this volume is called "litre".'
+    message: 'The Conference declares The unit of volume, for high accuracy determinations,
+      is the volume occupied by a mass of 1 kilogram of pure water, at its maximum
+      density and at standard atmospheric pressure: this volume is called "litre".'
   - type: decides
     date_effective: '1901-10-22'
-    message: declares . . .
+    message: The Conference declares . . .
+  notes: This definition was abrogated in 1964 by the 12th CGPM (Resolution 6).
 - dates:
   - '1901-10-22'
   title: Declaration on the unit of mass and on the definition of weight; conventional
-    value of gn
+    value of <i>g</i><sub>n</sub>
   identifier: 2
-  url: https://www.bipm.org/en/CGPM/db/3/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM3.pdf#page=70
+  url: https://www.bipm.org/en/committees/cg/cgpm/3-1901/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM3.pdf/2459a1a9-f63a-c916-9783-4a390631e28b?version=1.1&download=true#page=70
   approvals:
   - type: affirmative
     degree: unanimous
@@ -68,3 +70,5 @@ resolutions:
     message: The Conference declares The value adopted in the International Service
       of Weights and Measures for the standard acceleration due to gravity is stem:[980.665
       "cm"/"s"^(2)], value already stated in the laws of some countries.
+  notes: This value of stem:[g_(n)] was the conventional reference for calculating
+    the now obsolete unit kilogram force.

@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Résolutions de la CGPM : 13e réunion'
+  title: 13e réunion de la CGPM
   date: '1967-10-16'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/fr/CGPM/db/13
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967
+pdf: https://www.bipm.org/documents/20126/38095528/CGPM13.pdf/3955eace-d53e-911d-1e4a-9f57c353d9a2
 resolutions:
 - dates:
   - '1967-10-16'
   title: Unité SI de temps (seconde)
   identifier: 1
-  url: https://www.bipm.org/fr/CGPM/db/13/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=103
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=103
   approvals:
   - type: affirmative
     degree: unanimous
@@ -20,9 +21,9 @@ resolutions:
     date_effective: '1967-10-16'
     message: considérant que la définition de la seconde décidée par le Comité international
       des poids et mesures à sa session de 1956 (Résolution 1) et ratifiée par la
-      cgpm-resolution:fr/11/9[Résolution 9] de la Onzième Conférence générale (1960),
-      puis maintenue par la cgpm-resolution:fr/12/5[Résolution 5] de la Douzième Conférence
-      générale (1964) ne suffit pas aux besoins actuels de la métrologie,
+      Résolution 9 de la Onzième Conférence générale (1960), puis maintenue par la
+      Résolution 5 de la Douzième Conférence générale (1964) ne suffit pas aux besoins
+      actuels de la métrologie,
   - type: considering
     date_effective: '1967-10-16'
     message: considérant qu'à sa session de 1964 le Comité international des poids
@@ -44,18 +45,22 @@ resolutions:
     date_effective: '1967-10-16'
     message: |-
       décide L'unité de temps du Système international d'unités est la seconde définie dans les termes suivants : +
-      « La seconde est la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133 ».
+       « La seconde est la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133 ».
   - type: decides
     date_effective: '1967-10-16'
-    message: décide La cipm-resolution:fr/1956/1[Résolution 1] adoptée par le Comité
-      international des poids et mesures à sa session de 1956 et la cgpm-resolution:fr/11/9[Résolution
-      9] de la Onzième Conférence générale des poids et mesures sont abrogées.
+    message: décide La Résolution 1 adoptée par le Comité international des poids
+      et mesures à sa session de 1956 et la Résolution 9 de la Onzième Conférence
+      générale des poids et mesures sont abrogées.
+  notes: |-
+    Lors de sa session de 1997, le Comité international a confirmé que cette définition se réfère à un atome de césium au repos, à une température de stem:[0 "K"]. +
+     +
+     Cette définition de la seconde a été abrogée en 2018 par la 26^e^ CGPM (Résolution 1), la nouvelle définition entrant en vigueur en 2019.
 - dates:
   - '1967-10-16'
   title: Unité SI de temps (seconde)
   identifier: 2
-  url: https://www.bipm.org/fr/CGPM/db/13/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=103
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=103
   approvals:
   - type: affirmative
     degree: unanimous
@@ -63,20 +68,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: considérant que l'étalon de fréquence à césium est encore perfectible
+    message: "*considérant* que l'étalon de fréquence à césium est encore perfectible
       et que des expériences en cours autorisent l'espoir de réaliser d'autres étalons
-      ayant des qualités encore meilleures pour servir à définir la seconde,
+      ayant des qualités encore meilleures pour servir à définir la seconde,"
   actions:
   - type: invites / further invites
     date_effective: '1967-10-16'
-    message: invite les organisations et laboratoires experts dans le domaine des
-      étalons atomiques de fréquence à poursuivre activement leurs études.
+    message: "*invite* les organisations et laboratoires experts dans le domaine des
+      étalons atomiques de fréquence à poursuivre activement leurs études."
 - dates:
   - '1967-10-16'
   title: Unité SI de température thermodynamique (kelvin)
   identifier: 3
-  url: https://www.bipm.org/fr/CGPM/db/13/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=104
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=104
   approvals:
   - type: affirmative
     degree: unanimous
@@ -85,10 +90,10 @@ resolutions:
   - type: considering
     date_effective: '1967-10-16'
     message: considérant les noms « degré Kelvin » et « degré », les symboles « stem:["°K"]
-      » et « deg » et leurs règles d'emploi contenus dans la cgpm-resolution:fr/9/7[Résolution
-      7] de la Neuvième Conférence générale (1948), dans la cgpm-resolution:fr/11/12[Résolution
-      12] de la Onzième Conférence générale (1960) et la décision prise par le Comité
-      international des poids et mesures en 1962 (PV, 30, 27),
+      » et « deg » et leurs règles d'emploi contenus dans la Résolution 7 de la Neuvième
+      Conférence générale (1948), dans la Résolution 12 de la Onzième Conférence générale
+      (1960) et la décision prise par le Comité international des poids et mesures
+      en 1962 (PV, 30, 27),
   - type: considering
     date_effective: '1967-10-16'
     message: considérant que l'unité de température thermodynamique et l'unité d'intervalle
@@ -114,12 +119,16 @@ resolutions:
       de l'unité pour exprimer un intervalle ou une différence de température sont
       abrogées, mais les usages qui sont la conséquence de ces décisions restent admis
       temporairement.
+  notes: "À sa session de 1980, le Comité international a approuvé le rapport de la
+    7^e^ session du CCU demandant que l'emploi des symboles « stem:[\"°K\"] » et «
+    deg » ne soit plus admis.\n Voir la <recommandation du cipm relative la composition
+    isotopique de l entrant dans d kelvin.>\n   \n\n</recommandation>"
 - dates:
   - '1967-10-16'
   title: Définition de l'unité SI de température thermodynamique (kelvin)
   identifier: 4
-  url: https://www.bipm.org/fr/CGPM/db/13/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=104
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=104
   approvals:
   - type: affirmative
     degree: unanimous
@@ -128,20 +137,24 @@ resolutions:
   - type: considering
     date_effective: '1967-10-16'
     message: "*considérant* qu'il est utile de formuler dans une rédaction explicite
-      la définition de l'unité de température thermodynamique contenue dans la cgpm-resolution:fr/10/3[Résolution
-      3] de la Dixième Conférence générale (1954,"
+      la définition de l'unité de température thermodynamique contenue dans la Résolution
+      3 de la Dixième Conférence générale (1954),"
   actions:
   - type: decides
     date_effective: '1967-10-16'
     message: |-
       *décide* d'exprimer cette définition de la façon suivante : +
       « Le kelvin, unité de température thermodynamique, est la fraction 1/273,16 de la température thermodynamique du point triple de l'eau. »
+  notes: |-
+    Voir la Recommandation 5 (CI-1989) du CIPM relative à l'Échelle internationale de température de 1990. +
+     +
+     Cette définition du kelvin a été abrogée en 2018 par la 26^e^ CGPM (Résolution 1), la nouvelle définition entrant en vigueur en 2019.
 - dates:
   - '1967-10-16'
   title: Unité SI d'intensité lumineuse (candela)
   identifier: 5
-  url: https://www.bipm.org/fr/CGPM/db/13/5/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=104
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-5
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=104
   approvals:
   - type: affirmative
     degree: unanimous
@@ -164,12 +177,13 @@ resolutions:
     message: |-
       *décide* d'exprimer la définition de la candela de la façon suivante : +
       « La candela est l'intensité lumineuse, dans la direction perpendiculaire, d'une surface de 1/600 000 mètre carré d'un corps noir à la température de congélation du platine sous la pression de 101 325 newtons par mètre carré. »
+  notes: Définition abrogée en 1979 par la 16^e^ CGPM (Résolution 3).
 - dates:
   - '1967-10-16'
   title: Unités SI dérivées
   identifier: 6
-  url: https://www.bipm.org/fr/CGPM/db/13/6/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=105
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-6
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
   approvals:
   - type: affirmative
     degree: unanimous
@@ -178,8 +192,8 @@ resolutions:
   - type: considering
     date_effective: '1967-10-16'
     message: "*considérant* qu'il est utile de citer d'autres unités dérivées dans
-      la liste du paragraphe 4 de la cgpm-resolution:fr/11/12#derived[Résolution 12]
-      de la Onzième Conférence générale (1960),"
+      la liste du paragraphe 4 de la Résolution 12 de la Onzième Conférence générale
+      (1960),"
   actions:
   - type: decides
     date_effective: '1967-10-16'
@@ -196,12 +210,14 @@ resolutions:
       .>| activité (d'une source radioactive) .>| 1 par seconde .>| stem:["s"^(-1)]
 
       |===
+  notes: L'unité d'activité a reçu un nom spécial et un symbole particulier lors de
+    la 15^e^ CGPM en 1975 (Résolution 8).
 - dates:
   - '1967-10-16'
   title: Abrogation de décisions antérieures (micron, bougie nouvelle)
   identifier: 7
-  url: https://www.bipm.org/fr/CGPM/db/13/7/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=105
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-7
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
   approvals:
   - type: affirmative
     degree: unanimous
@@ -209,15 +225,14 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: considérant que les décisions prises ultérieurement par la Conférence
+    message: "*considérant* que les décisions prises ultérieurement par la Conférence
       générale concernant le Système international d'unités contredisent quelques
-      parties de la cgpm-resolution:fr/9/7[Résolution 7] de la Neuvième Conférence
-      générale (1948),
+      parties de la Résolution 7 de la Neuvième Conférence générale (1948),"
   actions:
   - type: decides
     date_effective: '1967-10-16'
     message: |-
-      décide en conséquence de retirer de la Résolution 7 de la Neuvième Conférence :
+      *décide* en conséquence de retirer de la Résolution 7 de la Neuvième Conférence :
 
       . le nom d'unité « micron », et le symbole « stem:["µ"] » qui fut attribué à cette unité et qui est devenu un préfixe ;
       . le nom d'unité « bougie nouvelle ».
@@ -225,8 +240,8 @@ resolutions:
   - '1967-10-16'
   title: Échelle internationale pratique de température (révision prochaine)
   identifier: 8
-  url: https://www.bipm.org/fr/CGPM/db/13/8/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=105
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-8
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
   approvals:
   - type: affirmative
     degree: unanimous
@@ -236,7 +251,7 @@ resolutions:
     date_effective: '1967-10-16'
     message: considérant qu'il est urgent de réviser l'Échelle internationale pratique
       de température de 1948 comme l'a déjà constaté la Douzième Conférence générale
-      (1964) dans sa cgpm-resolution:fr/12/10[Résolution 10],
+      (1964) dans sa Résolution 10,
   - type: considering
     date_effective: '1967-10-16'
     message: considérant que les laboratoires compétents se sont maintenant mis d'accord
@@ -244,17 +259,17 @@ resolutions:
   actions:
   - type: appoints
     date_effective: '1967-10-16'
-    message: donne pouvoir au Comité international des poids et mesures de prendre
+    message: "*donne pouvoir* au Comité international des poids et mesures de prendre
       les décisions nécessaires pour que soit mise en vigueur dès que possible une
       nouvelle Échelle internationale pratique de température (Voir p.A 1, le texte
       de l' « Échelle internationale pratique de température de 1968 » adopté par
-      le Comité international à sa 57^e^ session (octobre 1968).
+      le Comité international à sa 57^e^ session (octobre 1968)."
 - dates:
   - '1967-10-16'
   title: Colorimétrie et radiométrie
   identifier: 9
-  url: https://www.bipm.org/fr/CGPM/db/13/9/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=105
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-9
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
   approvals:
   - type: affirmative
     degree: unanimous
@@ -275,8 +290,8 @@ resolutions:
   - '1967-10-16'
   title: Dotation du Bureau international pour la période 1969-1972
   identifier: 10
-  url: https://www.bipm.org/fr/CGPM/db/13/10/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=106
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-10
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=106
   approvals:
   - type: affirmative
     degree: unanimous
@@ -300,26 +315,25 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1967-10-16'
-    message: |-
-      décide que la partie fixe de la dotation annuelle à partir du 1^er^ janvier 1969 sera augmentée par rapport à ce qu'elle était au 1^er^ octobre 1967, de façon que l'ensemble de la partie fixe et de la partie complémentaire calculée à cette dernière date ne soit pas inférieur à
-
-       1 910 000 francs-or en 1969 +
-      2 080 000 francs-or en 1970 +
-      2 270 000 francs-or en 1971 +
-      2 475 000 francs-or en 1972
+    message: "*décide* que la partie fixe de la dotation annuelle à partir du 1^er^
+      janvier 1969 sera augmentée par rapport à ce qu'elle était au 1^er^ octobre
+      1967, de façon que l'ensemble de la partie fixe et de la partie complémentaire
+      calculée à cette dernière date ne soit pas inférieur à\n\n|===\n| 1 910 000
+      francs-or en 1969\n\n| 2 080 000 francs-or en 1970\n| 2 270 000 francs-or en
+      1971\n| 2 475 000 francs-or en 1972\n\n|===\n\n "
   - type: requests
     date_effective: '1967-10-16'
-    message: demande au Comité international des poids et mesures de fournir aux États
-      de la Convention du Mètre, dans un délai inférieur à six mois, une étude documentée
-      qui permette aux États de décider la nature et le montant des ressources supplémentaires
-      à consacrer au Bureau international et d'apprécier les conséquences de leur
-      décision sur l'avenir du Bureau international.
+    message: "*demande* au Comité international des poids et mesures de fournir aux
+      États de la Convention du Mètre, dans un délai inférieur à six mois, une étude
+      documentée qui permette aux États de décider la nature et le montant des ressources
+      supplémentaires à consacrer au Bureau international et d'apprécier les conséquences
+      de leur décision sur l'avenir du Bureau international.\n\n "
 - dates:
   - '1967-10-16'
   title: Dates des séances
   identifier: 11
-  url: https://www.bipm.org/fr/CGPM/db/13/11/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=106
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-11
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=106
   approvals:
   - type: affirmative
     degree: unanimous
@@ -327,21 +341,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: 'considérant que les séances aux dates prévues n''ont pas suffi pour
-      épuiser l''ordre du jour, '
+    message: considérant que les séances aux dates prévues n'ont pas suffi pour épuiser
+      l'ordre du jour,
   - type: considering
     date_effective: '1967-10-16'
     message: considérant que les questions en suspens nécessitent un délai d'étude,
   actions:
   - type: decides
     date_effective: '1967-10-16'
-    message: décide de reprendre sa session le mercredi 5 juin 1968.
+    message: "*décide* de reprendre sa session le mercredi 5 juin 1968."
 - dates:
   - '1967-10-16'
   title: Dotation du Bureau international pour la période 1969-1972
   identifier: 12
-  url: https://www.bipm.org/fr/CGPM/db/13/12/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM13.pdf#page=106
+  url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-12
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=106
   approvals:
   - type: affirmative
     degree: unanimous
@@ -350,40 +364,34 @@ resolutions:
   - type: considering
     date_effective: '1967-10-16'
     message: |-
-      considérant que les dotations minimales décidées par sa cgpm-resolution:fr/13/10[Résolution 10], à savoir
-
-      [width=222]
-      |===
-      .<| 1 910 000 francs-or en 1969
-
-      .<| 2 080 000 francs-or en 1970
-      .<| 2 270 000 francs-or en 1971
-      .<| 2 475 000 francs-or en 1972
+      *considérant* que les dotations minimales décidées par sa Résolution 10, à savoir
 
       |===
+      | 1 910 000 francs-or en 1969
+
+      | 2 080 000 francs-or en 1970
+      | 2 270 000 francs-or en 1971
+      | 2 475 000 francs-or en 1972
+
+      |===
+
+
+
       doivent être complétées par des ressources supplémentaires destinées à assurer le développement du Bureau international des poids et mesures,
   actions:
   - type: decides
     date_effective: '1967-10-16'
-    message: |-
-      décide d'allouer au Bureau international, dans les quatre années 1969-1972, les sommes supplémentaires suivantes :
-
-      [width=222]
-      |===
-      .<| 90 000 francs-or en 1969
-
-      .<| 210 000 francs-or en 1970
-      .<| 350 000 francs-or en 1971
-      .<| 515 000 francs-or en 1972
-
-      |===
+    message: "*décide* d'allouer au Bureau international, dans les quatre années 1969-1972,
+      les sommes supplémentaires suivantes :\n\n|===\n| 90 000 francs-or en 1969\n\n|
+      210 000 francs-or en 1970\n| 350 000 francs-or en 1971\n| 515 000 francs-or
+      en 1972\n\n|===\n\n "
   - type: appoints
     date_effective: '1967-10-16'
-    message: autorise que ces sommes supplémentaires puissent être payées en monnaie
-      nationale ;
+    message: "*autorise* que ces sommes supplémentaires puissent être payées en monnaie
+      nationale ;"
   - type: invites / further invites
     date_effective: '1967-10-16'
-    message: invite les États qui choisiraient d'effectuer ces paiements en monnaie
+    message: "*invite* les États qui choisiraient d'effectuer ces paiements en monnaie
       nationale à se mettre d'accord avec le Comité international des poids et mesures
       pour qu'ils soient employés à la satisfaction des besoins du Bureau international
-      des poids et mesures en tenant compte des lois du pays.
+      des poids et mesures en tenant compte des lois du pays."

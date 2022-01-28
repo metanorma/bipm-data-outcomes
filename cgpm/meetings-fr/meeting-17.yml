@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Résolutions de la CGPM : 17e réunion'
+  title: 17e réunion de la CGPM
   date: '1983-10-21'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/fr/CGPM/db/17
+  url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983
+pdf: https://www.bipm.org/documents/20126/38091040/CGPM17.pdf/9970b20b-8330-8cd0-4ac0-6c53cc647c2d
 resolutions:
 - dates:
   - '1983-10-21'
   title: Définition du mètre
   identifier: 1
-  url: https://www.bipm.org/fr/CGPM/db/17/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=97
+  url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=97
   approvals:
   - type: affirmative
     degree: unanimous
@@ -41,8 +42,8 @@ resolutions:
     date_effective: '1983-10-21'
     message: considérant qu'il y a avantage, notamment pour l'astronomie et la géodésie,
       à maintenir inchangée la valeur de la vitesse de la lumière recommandée en 1975
-      par la cgpm-resolution:fr/15/2[15^e^ Conférence générale des poids et mesures,
-      dans sa Résolution 2] (stem:[c = 299 792 458 "m"/"s"]),
+      par la 15^e^ Conférence générale des poids et mesures, dans sa Résolution 2
+      (stem:[c = 299 792 458 "m"/"s"]),
   - type: considering
     date_effective: '1983-10-21'
     message: considérant qu'une nouvelle définition du mètre a été envisagée sous
@@ -74,12 +75,16 @@ resolutions:
     date_effective: '1983-10-21'
     message: décide La définition du mètre en vigueur depuis 1960, fondée sur la transition
       entre les niveaux 2p~10~ et 5d~5~ de l'atome de krypton 86, est abrogée.
+  notes: |-
+    La valeur de l'incertitude donnée ici correspond à trois fois l'écart-type de la valeur en question. +
+     +
+    Cette définition du mètre a été abrogée en 2018 par la 26^e^ CGPM (Résolution 1), la nouvelle définition entrant en vigueur en 2019.
 - dates:
   - '1983-10-21'
   title: Sur la mise en pratique de la définition du mètre
   identifier: 2
-  url: https://www.bipm.org/fr/CGPM/db/17/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=98
+  url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=98
   approvals:
   - type: affirmative
     degree: unanimous
@@ -99,13 +104,16 @@ resolutions:
     date_effective: '1983-10-21'
     message: invite le Comité international des poids et mesures à poursuivre les
       études entreprises pour améliorer ces étalons.
+  notes: _Voir_ https://www.bipm.org/utils/fr/pdf/CI-2002-1-FR.pdf[Recommandation
+    1 (CI-2002)] du CIPM relative à la révision de la mise en pratique de la définition
+    du mètre.
   subject: Comité international des poids et mesures
 - dates:
   - '1983-10-21'
   title: Sur la masse volumique de l'air
   identifier: 3
-  url: https://www.bipm.org/fr/CGPM/db/17/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=99
+  url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
   approvals:
   - type: affirmative
     degree: unanimous
@@ -114,7 +122,7 @@ resolutions:
   - type: recalling / further recalling
     date_effective: '1983-10-21'
     message: |-
-      rappelant la cgpm-resolution:fr/16/1[Résolution 1] de la Seizième Conférence générale des poids et mesures (1979) relative aux mesures de masse
+      *rappelant* la Résolution 1 de la Seizième Conférence générale des poids et mesures (1979) relative aux mesures de masse
 
       et *considérant*
 
@@ -139,8 +147,8 @@ resolutions:
   - '1983-10-21'
   title: Dotation du BIPM
   identifier: 4
-  url: https://www.bipm.org/fr/CGPM/db/17/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM17.pdf#page=99
+  url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
   approvals:
   - type: affirmative
     degree: unanimous
@@ -162,10 +170,10 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1983-10-21'
-    message: "*décide*\n\n* que la partie fixe de la dotation annuelle du BIPM sera
-      augmentée de telle façon que l'ensemble de la partie fixe et de la partie complémentaire
-      (définie à l'Article 6 (1921) du Règlement annexé à la Convention du Mètre de
-      1875) soit, pour les États parties à la Convention à l'époque de la 17^e^ Conférence
-      générale des poids et mesures, \n\npour 1985 .......... 13 144 000 francs-or
-      +\npour 1986 .......... 14 327 000 francs-or +\npour 1987 .......... 15 616
-      000 francs-or +\npour 1988 .......... 17 022 000 francs-or."
+    message: "*décide*\n\n|===\n| pour 1985 : 13 144 000 francs-or\n\n| pour 1986
+      : 14 327 000 francs-or\n| pour 1987 : 15 616 000 francs-or\n| pour 1988 : 17
+      022 000 francs-or.\n\n|===\n\n\n\n* que la partie fixe de la dotation annuelle
+      du BIPM sera augmentée de telle façon que l'ensemble de la partie fixe et de
+      la partie complémentaire (définie à l'Article 6 (1921) du Règlement annexé à
+      la Convention du Mètre de 1875) soit, pour les États parties à la Convention
+      à l'époque de la 17^e^ Conférence générale des poids et mesures,\n\n "

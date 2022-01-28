@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Resolutions of the CGPM: 21st meeting'
+  title: 21st meeting of the CGPM
   date: '1999-10-15'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/CGPM/db/21
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999
+pdf: https://www.bipm.org/documents/20126/35909321/CGPM21-EN.pdf/72309e6b-6e25-8d1e-3bc2-4aeed9e8065e
 resolutions:
 - dates:
   - '1999-10-15'
   title: Long-term needs relating to metrology
   identifier: 1
-  url: https://www.bipm.org/en/CGPM/db/21/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=325
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=325
   approvals:
   - type: affirmative
     degree: unanimous
@@ -18,12 +19,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering*
-
-        cgpm-resolution:en/20/11[Resolution 11] of the 20th General Conference, which requested the International Committee to study and report on the long-term needs relating to metrology,
-       the study which was completed in 1997 after extensive international consultations,
-       the resultant report, entitled _National and international needs relating to metrology: International collaborations and the role of the BIPM_, which was sent by the International Committee in 1998 to the governments of the Member States,
+    message: considering Resolution 11 of the 20th General Conference, which requested
+      the International Committee to study and report on the long-term needs relating
+      to metrology,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the study which was completed in 1997 after extensive international
+      consultations,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: 'considering the resultant report, entitled _National and international
+      needs relating to metrology: International collaborations and the role of the
+      BIPM_, which was sent by the International Committee in 1998 to the governments
+      of the Member States,'
   - type: noting
     date_effective: '1999-10-15'
     message: "*notes* the discussion in the report of the International Committee
@@ -34,13 +42,13 @@ resolutions:
     message: |-
       *welcomes* the many decisions made by the International Committee as a consequence of the study and, in particular
 
-       the progressive broadening of the terms of reference of the Consultative Committees to cover the principal fields of metrology where collaboration between the national metrology institutes is important, not only in physics and engineering but also in other disciplines such as chemistry and biotechnology,
-       the strengthening of the role of the Consultative Committees and the admission of observers to their meetings to enable more Member States to participate,
-       the emphasis on evaluating and publishing the degree of equivalence of national measurement standards of the Member States and on the establishment of an associated mutual recognition arrangement of national measurement standards and of calibration and measurement certificates issued by national metrology institutes,
-       the introduction of periodic meetings with the directors of the national metrology institutes of the Member States,
-       the statement by the International Committee of the role of the BIPM in the early decades of the 21st century,
-       the increased collaboration of the BIPM with related international organizations, especially the regional metrology organizations, the International Laboratory Accreditation Cooperation and the Organisation Internationale de Métrologie Légale,
-       the considerable progress already made by the International Committee in implementing its decisions,
+      * the progressive broadening of the terms of reference of the Consultative Committees to cover the principal fields of metrology where collaboration between the national metrology institutes is important, not only in physics and engineering but also in other disciplines such as chemistry and biotechnology,
+      * the strengthening of the role of the Consultative Committees and the admission of observers to their meetings to enable more Member States to participate,
+      * the emphasis on evaluating and publishing the degree of equivalence of national measurement standards of the Member States and on the establishment of an associated mutual recognition arrangement of national measurement standards and of calibration and measurement certificates issued by national metrology institutes,
+      * the introduction of periodic meetings with the directors of the national metrology institutes of the Member States,
+      * the statement by the International Committee of the role of the BIPM in the early decades of the 21st century,
+      * the increased collaboration of the BIPM with related international organizations, especially the regional metrology organizations, the International Laboratory Accreditation Cooperation and the Organisation Internationale de Métrologie Légale,
+      * the considerable progress already made by the International Committee in implementing its decisions,
   - type: thanks / expresses-appreciation
     date_effective: '1999-10-15'
     message: "*thanks* the many organizations and individuals who have contributed
@@ -50,8 +58,8 @@ resolutions:
   title: Mutual recognition of national measurement standards and of calibration and
     measurement certificates issued by national metrology institutes
   identifier: 2
-  url: https://www.bipm.org/en/CGPM/db/21/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=326
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=326
   approvals:
   - type: affirmative
     degree: unanimous
@@ -59,13 +67,22 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering*
-
-        cgpm-resolution:en/20/2[Resolution 2] of the 20th General Conference concerning worldwide traceability of measurements,
-       the rapidly increasing emphasis on the need to demonstrate international equivalence of measurements and test results related to trade,
-       the increasing number of mutual recognition arrangements and agreements being negotiated internationally concerning calibration and testing services,
-       that the calibration and testing services in each nation depend on a national metrology institute both for their measurement standards and for traceability to the SI,
+    message: considering Resolution 2 of the 20th General Conference concerning worldwide
+      traceability of measurements,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the rapidly increasing emphasis on the need to demonstrate
+      international equivalence of measurements and test results related to trade,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the increasing number of mutual recognition arrangements
+      and agreements being negotiated internationally concerning calibration and testing
+      services,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that the calibration and testing services in each nation
+      depend on a national metrology institute both for their measurement standards
+      and for traceability to the SI,
   - type: recognizing
     date_effective: '1999-10-15'
     message: "*recognizes* that mutual recognition of the national measurement standards
@@ -104,8 +121,8 @@ resolutions:
   - '1999-10-15'
   title: Associates of the Conférence Générale des Poids et Mesures
   identifier: 3
-  url: https://www.bipm.org/en/CGPM/db/21/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=327
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=327
   approvals:
   - type: affirmative
     degree: unanimous
@@ -113,24 +130,23 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: 'considering that the worldwide measurement infrastructure, based on
-      the International System of Units (SI) used in almost every aspect of modern
-      society, rests on the universal application of the decisions of the General
-      Conference, '
+    message: considering that the worldwide measurement infrastructure, based on the
+      International System of Units (SI) used in almost every aspect of modern society,
+      rests on the universal application of the decisions of the General Conference,
   - type: considering
     date_effective: '1999-10-15'
-    message: 'considering that all States, not only those that are Member States of
+    message: considering that all States, not only those that are Member States of
       the Metre Convention, engage in measurements which are related to trade and
-      need to be traceable to the SI, '
+      need to be traceable to the SI,
   - type: considering
     date_effective: '1999-10-15'
-    message: 'considering that States which are not Member States of the Metre Convention
-      are at present excluded from the activities of the Convention, '
+    message: considering that States which are not Member States of the Metre Convention
+      are at present excluded from the activities of the Convention,
   - type: considering
     date_effective: '1999-10-15'
-    message: 'considering that Member States of the Metre Convention support the world''s
+    message: considering that Member States of the Metre Convention support the world's
       measurement system by devoting considerable financial resources to the BIPM
-      and to their own national measurement systems, '
+      and to their own national measurement systems,
   - type: considering
     date_effective: '1999-10-15'
     message: considering that many smaller States would have difficulty in allocating
@@ -138,37 +154,27 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1999-10-15'
-    message: "*decides*\n\n to assume a responsibility for providing those States
-      and Economies not yet members of the Metre Convention with the means to establish
-      links to the world's measurement system so as to provide recognition of the
-      traceability of their measurements to the SI, \n that an important link can
-      be through participation in the mutual recognition arrangement related to national
-      measurement standards now operated by the International Committee, \n that participation
-      in the arrangement for such a State or Economy should be by the association
-      of their national metrology institutes with a regional metrology organization
-      that is a member of the Joint Committee of the Regional Metrology Organizations
-      and the BIPM, \n\nand consequently *decides*\n\n to invite such States and Economies
-      to take part in the General Conference as Associates, thereby establishing the
-      connection with the Member States of the Metre Convention necessary for them
-      to participate in the mutual recognition arrangement, \n that Associate States
-      and Economies of the General Conference participate in the Conference through
-      the appointment of non-voting observers, \n that Associate States and Economies
-      shall pay an annual subscription to the BIPM to meet the cost of providing the
-      services that the International Committee may make available to them; the annual
-      subscription of each Associate State or Economy will be determined from its
-      UN contribution, as for Member States but with a minimum equal to 0.05 % of
-      the annual dotation of the BIPM, \n that a State or Economy wishing to become
-      an Associate may do so by application to the Director of the BIPM, either directly
-      or through its Embassy in Paris, and by the payment of the first annual subscription,
-      \n that an Associate State or Economy three years in arrears with its subscription
-      cease to be an Associate; it may be reinstated on payment of these arrears."
+    message: |-
+      *decides*
+
+      * to assume a responsibility for providing those States and Economies not yet members of the Metre Convention with the means to establish links to the world's measurement system so as to provide recognition of the traceability of their measurements to the SI,
+      * that an important link can be through participation in the mutual recognition arrangement related to national measurement standards now operated by the International Committee,
+      * that participation in the arrangement for such a State or Economy should be by the association of their national metrology institutes with a regional metrology organization that is a member of the Joint Committee of the Regional Metrology Organizations and the BIPM,
+
+      and consequently *decides*
+
+      * to invite such States and Economies to take part in the General Conference as Associates, thereby establishing the connection with the Member States of the Metre Convention necessary for them to participate in the mutual recognition arrangement,
+      * that Associate States and Economies of the General Conference participate in the Conference through the appointment of non-voting observers,
+      * that Associate States and Economies shall pay an annual subscription to the BIPM to meet the cost of providing the services that the International Committee may make available to them; the annual subscription of each Associate State or Economy will be determined from its UN contribution, as for Member States but with a minimum equal to 0.05 % of the annual dotation of the BIPM,
+      * that a State or Economy wishing to become an Associate may do so by application to the Director of the BIPM, either directly or through its Embassy in Paris, and by the payment of the first annual subscription,
+      * that an Associate State or Economy three years in arrears with its subscription cease to be an Associate; it may be reinstated on payment of these arrears.
 - dates:
   - '1999-10-15'
   title: The need to use SI units in studies of Earth resources, the environment,
     human well-being and related issues
   identifier: 4
-  url: https://www.bipm.org/en/CGPM/db/21/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=328
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=328
   approvals:
   - type: affirmative
     degree: unanimous
@@ -222,10 +228,10 @@ resolutions:
       established and maintained under the Metre Convention."
 - dates:
   - '1999-10-15'
-  title: Revision of the mise en pratique of the definition of the metre
+  title: Revision of the <i>mise en pratique</i> of the definition of the metre
   identifier: 5
-  url: https://www.bipm.org/en/CGPM/db/21/5/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=329
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-5
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=329
   approvals:
   - type: affirmative
     degree: unanimous
@@ -233,16 +239,30 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1999-10-15'
-    message: |-
-      *recalling* that
-
-       in 1983 the 17th General Conference adopted a new definition of the metre,
-       in the same year the General Conference invited the International Committee
-
-      * to draw up instructions for the practical realization of the metre (the _mise en pratique_,
-      * to choose radiations which can be recommended as standards of wavelength for the interferometric measurement of length and draw up instructions for their use,
-      * to pursue studies to improve these standards and, in due course, to extend or revise these instructions,
-       in response to this invitation the International Committee made recommendations in 1983 and again in 1992 concerning the practical realization of the metre,
+    message: recalling that in 1983 the 17th General Conference adopted a new definition
+      of the metre,
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: recalling that in the same year the General Conference invited the International
+      Committee
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: recalling that to draw up instructions for the practical realization
+      of the metre (the _mise en pratique_,
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: recalling that to choose radiations which can be recommended as standards
+      of wavelength for the interferometric measurement of length and draw up instructions
+      for their use,
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: recalling that to pursue studies to improve these standards and, in due
+      course, to extend or revise these instructions,
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: recalling that in response to this invitation the International Committee
+      made recommendations in 1983 and again in 1992 concerning the practical realization
+      of the metre,
   - type: considering
     date_effective: '1999-10-15'
     message: considering that science and technology continue to demand improved accuracy
@@ -282,8 +302,8 @@ resolutions:
   - '1999-10-15'
   title: Requirements for dimensional metrology
   identifier: 6
-  url: https://www.bipm.org/en/CGPM/db/21/6/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=330
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-6
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=330
   approvals:
   - type: affirmative
     degree: unanimous
@@ -326,8 +346,8 @@ resolutions:
   - '1999-10-15'
   title: The definition of the kilogram
   identifier: 7
-  url: https://www.bipm.org/en/CGPM/db/21/7/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=331
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-7
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=331
   approvals:
   - type: affirmative
     degree: unanimous
@@ -363,8 +383,8 @@ resolutions:
   - '1999-10-15'
   title: Operational primary frequency standards
   identifier: 8
-  url: https://www.bipm.org/en/CGPM/db/21/8/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=332
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-8
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=332
   approvals:
   - type: affirmative
     degree: unanimous
@@ -402,8 +422,8 @@ resolutions:
   - '1999-10-15'
   title: Extension of the International Temperature Scale below 0.65 K
   identifier: 9
-  url: https://www.bipm.org/en/CGPM/db/21/9/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=332
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-9
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=332
   approvals:
   - type: affirmative
     degree: unanimous
@@ -439,8 +459,8 @@ resolutions:
   - '1999-10-15'
   title: Metrology in chemistry
   identifier: 10
-  url: https://www.bipm.org/en/CGPM/db/21/10/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=333
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-10
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=333
   approvals:
   - type: affirmative
     degree: unanimous
@@ -448,8 +468,8 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1999-10-15'
-    message: "*recalling* cgpm-resolution:en/20/7[Resolution 7] of the 20th ConférenceGénérale
-      des Poids et Mesures on metrology in chemistry,"
+    message: "*recalling* Resolution 7 of the 20th ConférenceGénérale des Poids et
+      Mesures on metrology in chemistry,"
   - type: considering
     date_effective: '1999-10-15'
     message: considering the worldwide development of trade agreements under the World
@@ -483,8 +503,8 @@ resolutions:
   - '1999-10-15'
   title: Metrology in biotechnology
   identifier: 11
-  url: https://www.bipm.org/en/CGPM/db/21/11/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=334
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-11
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=334
   approvals:
   - type: affirmative
     degree: unanimous
@@ -519,8 +539,8 @@ resolutions:
   title: Special name for the SI derived unit mole per second, the katal, for the
     expression of catalytic activity
   identifier: 12
-  url: https://www.bipm.org/en/CGPM/db/21/12/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=334
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-12
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=334
   approvals:
   - type: affirmative
     degree: unanimous
@@ -553,9 +573,8 @@ resolutions:
     date_effective: '1999-10-15'
     message: considering that while the proliferation of special names represents
       a danger for the SI, exceptions are made in matters related to human health
-      and safety (15th General Conference, 1975, cgpm-resolution:en/15/8[Resolutions
-      8] cgpm-resolution:en/15/9[and 9], 16th General Conference, 1979, cgpm-resolution:en/16/5[Resolution
-      5]),
+      and safety (15th General Conference, 1975, Resolutions 8 and 9, 16th General
+      Conference, 1979, Resolution 5),
   - type: noting
     date_effective: '1999-10-15'
     message: "*noting* that the name katal, symbol kat, has been used for the SI unit
@@ -571,8 +590,8 @@ resolutions:
   - '1999-10-15'
   title: Dotation of the BIPM
   identifier: 13
-  url: https://www.bipm.org/en/CGPM/db/21/13/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM21.pdf#page=335
+  url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-13
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=335
   approvals:
   - type: affirmative
     degree: unanimous
@@ -615,13 +634,12 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1999-10-15'
-    message: |-
-      *decides* that
-
-       henceforth the currency to be used in voting the annual dotation for the BIPM will be the euro,
-       the fixed part of the annual dotation of the Bureau International des Poids et Mesures will be increased in a way such that the sum of the fixed part and the complementary part (defined by Article 6, 1921) of the Rules annexed to the Metre Convention (1875) shall, for those States members of the Metre Convention at the time of the 21st General Conference, be
-
-      8 697 000 euros in 2001 (31 440 039 gold francs) +
-      8 828 000 euros in 2002 (31 913 610 gold francs) +
-      8 960 000 euros in 2003 (32 390 796 gold francs) +
-      9 094 000 euros in 2004 (32 875 212 gold francs).
+    message: "*decides* that\n\n* henceforth the currency to be used in voting the
+      annual dotation for the BIPM will be the euro,\n* the fixed part of the annual
+      dotation of the Bureau International des Poids et Mesures will be increased
+      in a way such that the sum of the fixed part and the complementary part (defined
+      by Article 6, 1921) of the Rules annexed to the Metre Convention (1875) shall,
+      for those States members of the Metre Convention at the time of the 21st General
+      Conference, be\n\n\n\n8 697 000 euros in 2001 (31 440 039 gold francs) +\n8
+      828 000 euros in 2002 (31 913 610 gold francs) +\n8 960 000 euros in 2003 (32
+      390 796 gold francs) +\n9 094 000 euros in 2004 (32 875 212 gold francs).\n\n "

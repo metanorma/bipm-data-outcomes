@@ -1,31 +1,30 @@
 ---
 metadata:
-  title: CIPM, 1967
-  date: '1967-01-01'
+  title: 56th meeting of the CIPM
+  date: '1967-10-16'
   source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/ci/cipm/56-1967
 resolutions:
 - dates:
-  - '1967-01-01'
+  - '1967-10-16'
   title: Decimal multiples and submultiples of the unit of mass
   identifier: 2
-  url: https://www.bipm.org/en/CIPM/db/1967/2/
+  url: https://www.bipm.org/en/committees/ci/cipm/56-1967/resolution-2
+  reference: https://www.bipm.org/en/committees/ci/cipm/56-1967/resolution-2#page=29
   approvals:
   - type: affirmative
     degree: unanimous
-    message: |-
-      +
-
-      The Comité International des Poids et Mesures,
+    message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
-    date_effective: '1967-01-01'
-    message: considering that the rule for forming names of decimal multiples and
-      submultiples of the units of paragraph 3 of cgpm-resolution:en/11/12#para3[Resolution
-      12] of the 11th Conférence Générale des Poids et Mesures (CGPM) (1960) might
-      be interpreted in different ways when applied to the unit of mass,
+    date_effective: '1967-10-16'
+    message: "*considering* that the rule for forming names of decimal multiples and
+      submultiples of the units of paragraph 3 of Resolution 12 of the 11th Conférence
+      Générale des Poids et Mesures (CGPM) (1960) might be interpreted in different
+      ways when applied to the unit of mass,"
   actions:
   - type: decides
-    date_effective: '1967-01-01'
-    message: 'declares that the rules of Resolution 12 of the 11th CGPM apply to the
-      kilogram in the following manner: the names of decimal multiples and submultiples
-      of the unit of mass are formed by attaching prefixes to the word "gram".'
+    date_effective: '1967-10-16'
+    message: "*declares* that the rules of Resolution 12 of the 11th CGPM apply to
+      the kilogram in the following manner: the names of decimal multiples and submultiples
+      of the unit of mass are formed by attaching prefixes to the word “gram”."

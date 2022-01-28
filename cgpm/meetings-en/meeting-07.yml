@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Resolutions of the CGPM: 7th meeting'
+  title: 7th meeting of the CGPM
   date: '1927-10-06'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/en/CGPM/db/7
+  url: https://www.bipm.org/en/committees/cg/cgpm/7-1927
+pdf: https://www.bipm.org/documents/20126/38095599/CGPM7.pdf/e56bfc2c-2abd-22a1-603f-85f3e17c2f66
 resolutions:
 - dates:
   - '1927-10-06'
   title: Definition of the metre by the international Prototype
   identifier: 1
-  url: https://www.bipm.org/en/CGPM/db/7/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM7.pdf#page=49
+  url: https://www.bipm.org/en/committees/cg/cgpm/7-1927/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM7.pdf/761ccd6d-b5cd-e449-761d-1b78aa99d7f2?version=1.1&download=true#page=49
   approvals:
   - type: affirmative
     degree: unanimous
@@ -26,3 +27,4 @@ resolutions:
       to standard atmospheric pressure and supported on two cylinders of at least
       one centimetre diameter, symmetrically placed in the same horizontal plane at
       a distance of stem:[571 "mm"] from each other.
+  notes: This definition was abrogated in 1960 by the 11th CGPM (Resolution 6).

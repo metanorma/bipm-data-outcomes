@@ -1,16 +1,17 @@
 ---
 metadata:
-  title: 'Résolutions de la CGPM : 26e réunion'
+  title: 26e réunion de la CGPM
   date: '2018-11-16'
   source: BIPM - Pavillon de Breteuil
-  url: https://www.bipm.org/fr/CGPM/db/26
+  url: https://www.bipm.org/fr/committees/cg/cgpm/26-2018
+pdf: https://www.bipm.org/documents/20126/35655029/CGPM26.pdf/f1d8d7e6-2570-9479-9ee9-bb8d86138fe9
 resolutions:
 - dates:
   - '2018-11-16'
   title: Sur la révision du Système international d'unités (SI)
   identifier: 1
-  url: https://www.bipm.org/fr/CGPM/db/26/1/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=210
+  url: https://www.bipm.org/fr/committees/cg/cgpm/26-2018/resolution-1
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=210
   approvals:
   - type: affirmative
     degree: unanimous
@@ -53,7 +54,7 @@ resolutions:
     message: |-
       *décide* qu'à compter du 20 mai 2019, le Système international d'unités, le SI, est le système d'unités selon lequel :
 
-      * la fréquence de la transition hyperfine de l'état fondamental de l'atome de césium 133 non perturbé, stem:[ sf Delta  nu _(Cs)], est égale à stem:[9 192 631 770 "Hz"],
+      * la fréquence de la transition hyperfine de l'état fondamental de l'atome de césium 133 non perturbé, stem:[ sf Delta  nu ]~Cs~, est égale à stem:[9 192 631 770 "Hz"],
       * la vitesse de la lumière dans le vide, stem:[c], est égale à stem:[299 792 458 "m"/"s"],
       * la constante de Planck, stem:[h], est égale à stem:[6","626 070 15 * 10^(-34) "J" * "s"],
       * la charge élémentaire, stem:[e], est égale à stem:[1","602 176 634 * 10^(-19) "C"],
@@ -89,7 +90,7 @@ resolutions:
       Il résulte de la nouvelle définition du SI décrite ci-dessus, et des valeurs recommandées dans l'ajustement spécial de 2017 du Committee on Data for Science and Technology (CODATA), sur lesquelles se fondent les valeurs des constantes choisies pour définir le SI, qu'à compter du 20 mai 2019 :
 
       * la masse du prototype international du kilogramme, stem:[m("K")], est égale à stem:[1 "kg"] avec une incertitude-type relative égale à celle de la valeur recommandée de stem:[h] au moment de l'adoption de la présente résolution, à savoir stem:[1","0 * 10^(-8)] ; dans le futur, sa valeur sera déterminée de façon expérimentale,
-      * la perméabilité magnétique du vide, stem:[ mu _(0)], est égale à stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] avec une incertitude-type relative égale à celle de la valeur recommandée de la constante de structure fine stem:[ alpha ] au moment de l'adoption de la présente résolution, à savoir stem:[2","3 * 10^(-10)] ; dans le futur, sa valeur sera déterminée de façon expérimentale,
+      * la perméabilité magnétique du vide, _μ_~0~, est égale à stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] avec une incertitude-type relative égale à celle de la valeur recommandée de la constante de structure fine _stem:[ alpha ]_ au moment de l'adoption de la présente résolution, à savoir stem:[2","3 * 10^(-10)] ; dans le futur, sa valeur sera déterminée de façon expérimentale,
       * la température thermodynamique du point triple de l'eau, stem:[T_(TPW)], est égale à stem:[273","16 "K"] avec une incertitude-type relative presque égale à celle de la valeur recommandée de stem:[k] au moment de l'adoption de la présente résolution, à savoir stem:[3","7 * 10^(-7)] ; dans le futur, sa valeur sera déterminée de façon expérimentale,
       * la masse molaire du carbone 12, stem:[M(""_(12) "C")], est égale à stem:[0","012 "kg" * "mol"^(-1)] avec une incertitude-type relative égale à celle de la valeur recommandée de stem:[N_("A") h] au moment de l'adoption de la présente résolution, à savoir stem:[4","5 * 10^(-10)] ; dans le futur, sa valeur sera déterminée de façon expérimentale.
   - identifier: 3
@@ -98,20 +99,20 @@ resolutions:
 
       La nouvelle définition du SI décrite ci-dessus, fondée sur les valeurs numériques fixées des constantes choisies, permet de déduire la définition de chacune des sept unités de base du SI à l'aide d'une ou plusieurs de ces constantes, selon les cas. Les définitions qui en découlent, qui prendront effet à compter du 20 mai 2019, sont les suivantes :
 
-      * La seconde, symbole stem:["s"], est l'unité de temps du SI. Elle est définie en prenant la valeur numérique fixée de la fréquence du césium, stem:[ sf Delta  nu _(Cs)], la fréquence de la transition hyperfine de l'état fondamental de l'atome de césium 133 non perturbé, égale à 9 192 631 770 lorsqu'elle est exprimée en stem:["Hz"], unité égale à stem:["s"^(-1)].
-      * Le mètre, symbole stem:["m"], est l'unité de longueur du SI. Il est défini en prenant la valeur numérique fixée de la vitesse de la lumière dans le vide, stem:[c], égale à 299 792 458 lorsqu'elle est exprimée en stem:["m"/"s"], la seconde étant définie en fonction de stem:[ sf Delta  nu _(Cs)].
-      * Le kilogramme, symbole stem:["kg"], est l'unité de masse du SI. Il est défini en prenant la valeur numérique fixée de la constante de Planck, stem:[h], égale à stem:[6","626 070 15 * 10^(-34)] lorsqu'elle est exprimée en stem:["J" * "s"], unité égale à stem:["kg" * "m"^(2) * "s"^(-1)], le mètre et la seconde étant définis en fonction de stem:[c] et stem:[ sf Delta  nu _(Cs)].
-      * L'ampère, symbole stem:["A"], est l'unité de courant électrique du SI. Il est défini en prenant la valeur numérique fixée de la charge élémentaire, e, égale à stem:[1","602 176 634 * 10^(-19)] lorsqu'elle est exprimée en stem:["C"], unité égale à stem:["A" * "s"], la seconde étant définie en fonction de stem:[ sf Delta  nu _(Cs)].
-      * Le kelvin, symbole stem:["K"], est l'unité de température thermodynamique du SI. Il est défini en prenant la valeur numérique fixée de la constante de Boltzmann, stem:[k], égale à stem:[1","380 649 * 10^(-23)] lorsqu'elle est exprimée en stem:["J" * "K"^(-1)], unité égale à stem:["kg" * "m"^(2) * "s"^(-2) * "K"^(-1)], le kilogramme, le mètre et la seconde étant définis en fonction de stem:[h], stem:[c] et stem:[ sf Delta  nu _(Cs)].
+      * La seconde, symbole stem:["s"], est l'unité de temps du SI. Elle est définie en prenant la valeur numérique fixée de la fréquence du césium, stem:[ sf Delta  nu ]~Cs~, la fréquence de la transition hyperfine de l'état fondamental de l'atome de césium 133 non perturbé, égale à 9 192 631 770 lorsqu'elle est exprimée en stem:["Hz"], unité égale à stem:["s"^(-1)].
+      * Le mètre, symbole stem:["m"], est l'unité de longueur du SI. Il est défini en prenant la valeur numérique fixée de la vitesse de la lumière dans le vide, stem:[c], égale à 299 792 458 lorsqu'elle est exprimée en stem:["m"/"s"], la seconde étant définie en fonction de stem:[ sf Delta  nu ]~Cs~.
+      * Le kilogramme, symbole stem:["kg"], est l'unité de masse du SI. Il est défini en prenant la valeur numérique fixée de la constante de Planck, stem:[h], égale à stem:[6","626 070 15 * 10^(-34)] lorsqu'elle est exprimée en stem:["J" * "s"], unité égale à stem:["kg" * "m"^(2) * "s"^(-1)], le mètre et la seconde étant définis en fonction de stem:[c] et stem:[ sf Delta  nu ]~Cs~.
+      * L'ampère, symbole stem:["A"], est l'unité de courant électrique du SI. Il est défini en prenant la valeur numérique fixée de la charge élémentaire, e, égale à stem:[1","602 176 634 * 10^(-19)] lorsqu'elle est exprimée en stem:["C"], unité égale à stem:["A" * "s"], la seconde étant définie en fonction de stem:[ sf Delta  nu ]~Cs~.
+      * Le kelvin, symbole stem:["K"], est l'unité de température thermodynamique du SI. Il est défini en prenant la valeur numérique fixée de la constante de Boltzmann, stem:[k], égale à stem:[1","380 649 * 10^(-23)] lorsqu'elle est exprimée en stem:["J" * "K"^(-1)], unité égale à stem:["kg" * "m"^(2) * "s"^(-2) * "K"^(-1)], le kilogramme, le mètre et la seconde étant définis en fonction de stem:[h], stem:[c] et stem:[ sf Delta  nu ]~Cs~.
       * La mole, symbole stem:["mol"], est l'unité de quantité de matière du SI. Une mole contient exactement stem:[6","022 140 76 * 10^(23)] entités élémentaires. Ce nombre, appelé « nombre d'Avogadro », correspond à la valeur numérique fixée de la constante d'Avogadro, stem:[N_("A")], lorsqu'elle est exprimée en stem:["mol"^(-1)].
       * La quantité de matière, symbole stem:[n], d'un système est une représentation du nombre d'entités élémentaires spécifiées. Une entité élémentaire peut être un atome, une molécule, un ion, un électron, ou toute autre particule ou groupement spécifié de particules.
-      * La candela, symbole stem:["cd"], est l'unité du SI d'intensité lumineuse dans une direction donnée. Elle est définie en prenant la valeur numérique fixée de l'efficacité lumineuse d'un rayonnement monochromatique de fréquence stem:[540 * 10^(12) "Hz"], stem:[K_("cd")], égale à 683 lorsqu'elle est exprimée en stem:["lm" * "W"^(-1)], unité égale à stem:["cd" * "sr" * "W"^(-1)], ou stem:["cd" * "sr" * "kg"^(-1) * "m"^(-2) * "s"^(3)], le kilogramme, le mètre et la seconde étant définis en fonction de stem:[h], stem:[c] et stem:[ sf Delta  nu _(Cs)].
+      * La candela, symbole stem:["cd"], est l'unité du SI d'intensité lumineuse dans une direction donnée. Elle est définie en prenant la valeur numérique fixée de l'efficacité lumineuse d'un rayonnement monochromatique de fréquence stem:[540 * 10^(12) "Hz"], stem:[K_("cd")], égale à 683 lorsqu'elle est exprimée en stem:["lm" * "W"^(-1)], unité égale à stem:["cd" * "sr" * "W"^(-1)], ou stem:["cd" * "sr" * "kg"^(-1) * "m"^(-2) * "s"^(3)], le kilogramme, le mètre et la seconde étant définis en fonction de stem:[h], stem:[c] et stem:[ sf Delta  nu ]~Cs~.
 - dates:
   - '2018-11-16'
   title: Sur la définition des échelles de temps
   identifier: 2
-  url: https://www.bipm.org/fr/CGPM/db/26/2/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=213
+  url: https://www.bipm.org/fr/committees/cg/cgpm/26-2018/resolution-2
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=213
   approvals:
   - type: affirmative
     degree: unanimous
@@ -264,8 +265,8 @@ resolutions:
   - '2018-11-16'
   title: Sur les objectifs du BIPM
   identifier: 3
-  url: https://www.bipm.org/fr/CGPM/db/26/3/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=215
+  url: https://www.bipm.org/fr/committees/cg/cgpm/26-2018/resolution-3
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=215
   approvals:
   - type: affirmative
     degree: unanimous
@@ -295,58 +296,38 @@ resolutions:
       le système métrologique est émergent,"
   - type: noting
     date_effective: '2018-11-16'
-    message: notant l'importance de l'utilisation du SI pour favoriser l'innovation
-      et répondre aux besoins industriels et sociétaux,
-  - type: noting
-    date_effective: '2018-11-16'
-    message: notant le rôle que continuera à assumer le BIPM après la révision du
-      Système international d'unités (SI),
-  - type: noting
-    date_effective: '2018-11-16'
-    message: "notant le succès du CIPM MRA et la mise en \x9Cuvre des recommandations
-      établies lors de son récent examen,"
-  - type: noting
-    date_effective: '2018-11-16'
-    message: notant le rôle fondamental de la métrologie dans l'infrastructure internationale
-      de la qualité et l'importance de la reconnaissance internationale des mesures
-      pour l'évaluation de la conformité,
-  - type: noting
-    date_effective: '2018-11-16'
-    message: notant l'intérêt croissant à participer aux activités du BIPM, en particulier
-      de la part d'États dont le système métrologique est émergent,
+    message: "*notant*\n\n* l'importance de l'utilisation du SI pour favoriser l'innovation
+      et répondre aux besoins industriels et sociétaux,\n* le rôle que continuera
+      à assumer le BIPM après la révision du Système international d'unités (SI),\n*
+      le succès du CIPM MRA et la mise en \x9Cuvre des recommandations établies lors
+      de son récent examen,\n* le rôle fondamental de la métrologie dans l'infrastructure
+      internationale de la qualité et l'importance de la reconnaissance internationale
+      des mesures pour l'évaluation de la conformité,\n* l'intérêt croissant à participer
+      aux activités du BIPM, en particulier de la part d'États dont le système métrologique
+      est émergent,\n\n\n*accueille favorablement*\n\n* la stratégie et les objectifs
+      révisés du BIPM, approuvés par le CIPM, permettant une planification au-delà
+      du cycle de quatre ans du Programme de travail du BIPM et conduisant à une utilisation
+      optimale des ressources, y compris des investissements dans le personnel, l'infrastructure
+      et les équipements,\n* le développement d'une vision stratégique à long terme
+      qui, associée à un processus de planification consolidée, étaye le développement
+      du Programme de travail du BIPM en consultation avec les États Membres,\n* les
+      efforts continus du BIPM afin qu'un plus grand nombre d'États participent à
+      ses activités,\n* la reconnaissance d'une définition commune concernant l'infrastructure
+      de la qualité par la Banque mondiale et les dix organisations intergouvernementales
+      et organismes internationaux formant le réseau de métrologie, d'accréditation
+      et de normalisation pour les pays en développement (Réseau DCMAS), dont le BIPM,"
   actions:
-  - type: welcomes
-    date_effective: '2018-11-16'
-    message: accueille favorablement la stratégie et les objectifs révisés du BIPM,
-      approuvés par le CIPM, permettant une planification au-delà du cycle de quatre
-      ans du Programme de travail du BIPM et conduisant à une utilisation optimale
-      des ressources, y compris des investissements dans le personnel, l'infrastructure
-      et les équipements,
-  - type: welcomes
-    date_effective: '2018-11-16'
-    message: accueille favorablement le développement d'une vision stratégique à long
-      terme qui, associée à un processus de planification consolidée, étaye le développement
-      du Programme de travail du BIPM en consultation avec les États Membres,
-  - type: welcomes
-    date_effective: '2018-11-16'
-    message: accueille favorablement les efforts continus du BIPM afin qu'un plus
-      grand nombre d'États participent à ses activités,
-  - type: welcomes
-    date_effective: '2018-11-16'
-    message: accueille favorablement la reconnaissance d'une définition commune concernant
-      l'infrastructure de la qualité par la Banque mondiale et les dix organisations
-      intergouvernementales et organismes internationaux formant le réseau de métrologie,
-      d'accréditation et de normalisation pour les pays en développement (Réseau DCMAS),
-      dont le BIPM,
   - type: confirms
     date_effective: '2018-11-16'
     message: |-
       *confirme*
 
+
+
       que les objectifs du BIPM sont les suivants :
 
       * représenter la communauté métrologique internationale afin d'en maximiser la reconnaissance et l'impact,
-      * être un centre de collaboration scientifique et technique entre les États Membres, leur permettant de développer des aptitudes pour les comparaisons internationales de mesure, sur le principe des frais partagés,
+      * être un centre de collaboration scientifique et technique entre les États Membres,leur permettant de développer des aptitudes pour les comparaisons internationales de mesure, sur le principe des frais partagés,
       * coordonner le système mondial de mesure, en garantissant la comparabilité et la reconnaissance au niveau international des résultats de mesures,
 
       que la mission et les objectifs du BIPM sont étayés par son travail dans les domaines suivants :
@@ -357,8 +338,8 @@ resolutions:
   - '2018-11-16'
   title: Sur la dotation du BIPM pour les années 2020 à 2023
   identifier: 4
-  url: https://www.bipm.org/fr/CGPM/db/26/4/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=217
+  url: https://www.bipm.org/fr/committees/cg/cgpm/26-2018/resolution-4
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=217
   approvals:
   - type: affirmative
     degree: unanimous
@@ -400,6 +381,7 @@ resolutions:
     message: |-
       *décide* que
 
+
       * la dotation annuelle du BIPM, telle que définie à l'article 6 (1921) du Règlement annexé à la Convention du Mètre, sera fixée de façon à ce qu'elle corresponde, pour les États Parties à la Convention du Mètre au moment de la 26^e^ réunion de la CGPM, à :
        +
 
@@ -419,8 +401,8 @@ resolutions:
   - '2018-11-16'
   title: Sur les contributions arriérées des États Membres et la  procédure d'exclusion
   identifier: 5
-  url: https://www.bipm.org/fr/CGPM/db/26/5/
-  reference: https://www.bipm.org/utils/common/pdf/CGPM/CGPM26.pdf#page=218
+  url: https://www.bipm.org/fr/committees/cg/cgpm/26-2018/resolution-5
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=218
   approvals:
   - type: affirmative
     degree: unanimous
@@ -432,10 +414,10 @@ resolutions:
       *rappelant*
 
       * l'article 6, alinéas 6 à 8 (1921), du Règlement annexé à la Convention du Mètre selon lequel :
-      « _6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-ci vient à acquitter ses contributions arriérées. +
-      7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années. +
-      8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement._ » +
-      * la Résolution 8 adoptée par la CGPM à sa 23^e^réunion (2007) sur les contributions arriérées des États Membres, qui établit une procédure concernant les États qui ne respectent pas leurs obligations financières
+      ** « _6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions.Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation duBureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui-civient à acquitter ses contributionsarriérées. +
+       7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires detrois années. +
+       8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l'article 20 du présent Règlement._ »
+      * la Résolution 8 adoptée par la CGPM à sa 23^e^ réunion (2007) sur les contributions arriérées des États Membres, qui établit une procédure concernant les États qui ne respectent pas leurs obligations financière,
   - type: noting
     date_effective: '2018-11-16'
     message: |-
@@ -470,24 +452,33 @@ resolutions:
       par la pratique historique,
   - type: considering
     date_effective: '2018-11-16'
-    message: |-
-      *considérant*que
-
-      * la clarté de la procédure et le traitement équitable des États Membres sont des questions de bonne gouvernance et sont bénéfiques à toutes les parties,
-      * le Comité international des poids et mesures (CIPM), en tant qu'organe de surveillance permanent du BIPM, pourrait appliquer l'article 6 alinéa 8 du Règlement annexé en temps opportun,
+    message: considérant que la clarté de la procédure et le traitement équitable
+      des États Membres sont des questions de bonne gouvernance et sont bénéfiques
+      à toutes les parties,
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considérant que le Comité international des poids et mesures (CIPM),
+      en tant qu'organe de surveillance permanent du BIPM, pourrait appliquer l'article
+      6 alinéa 8 du Règlement annexé en temps opportun,
   actions:
   - type: decides
     date_effective: '2018-11-16'
-    message: |-
-      *décide*que
-
-      * le CIPM appliquera l'article 6 alinéa 8 du Règlement annexé,
-      * le CIPM traitera des cas où la pratique historique a conduit à l'accumulation d'arriérés,
+    message: décide que le CIPM appliquera l'article 6 alinéa 8 du Règlement annexé,
+  - type: decides
+    date_effective: '2018-11-16'
+    message: décide que le CIPM traitera des cas où la pratique historique a conduit
+      à l'accumulation d'arriérés,
   - type: confirms
     date_effective: '2018-11-16'
-    message: |-
-      *confirme*que
-
-      * le CIPM notifiera toute exclusion au Ministère français de l'Europe et des Affaires étrangères, qui informera à son tour l'État exclu ainsi que l'ensemble des États Membres,
-      * un État Membre exclu ne peut de nouveau accéder à la Convention du Mètre que si le reliquat de ses contributions arriérées a été acquitté,
-      * conformément à l'article 11 de la Convention du Mètre, cet État Membre doit acquitter une contribution d'entrée dont le montant est égal à sa première contribution annuelle.
+    message: confirme que le CIPM notifiera toute exclusion au Ministère français
+      de l'Europe et des Affaires étrangères, qui informera à son tour l'État exclu
+      ainsi que l'ensemble des États Membres,
+  - type: confirms
+    date_effective: '2018-11-16'
+    message: confirme que un État Membre exclu ne peut de nouveau accéder à la Convention
+      du Mètre que si le reliquat de ses contributions arriérées a été acquitté,
+  - type: confirms
+    date_effective: '2018-11-16'
+    message: confirme que conformément à l'article 11 de la Convention du Mètre, cet
+      État Membre doit acquitter une contribution d'entrée dont le montant est égal
+      à sa première contribution annuelle.
