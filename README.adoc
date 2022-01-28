@@ -1,10 +1,10 @@
-= BIPM, CIPM, and CGPM outcomes
+= BIPM, CIPM, CGPM and CCTF outcomes
 
 WARNING: This repository is **NOT OFFICIALLY MANAGED BY BIPM**. There are no guarantees on accuracy of the content provided.
 
 == Purpose
 
-This repository provides CIPM and CGPM outcomes obtained from official sources
+This repository provides CIPM, CGPM and CCTF outcomes obtained from official sources
 in machine-readable form.
 
 NOTE: This repository is used by the semantic version of the SI Brochure (in DRAFT).
