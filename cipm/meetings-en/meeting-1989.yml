@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1989-09-28'
+  subject: CIPM
+  type: recommendation
   title: Synchronization of UTC(k) and UTC
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-1#page=112
+  reference_name: Proceedings of the 78th CIPM (1989), 1990
+  reference_page: 112
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1989-09-28'
@@ -33,14 +35,16 @@ resolutions:
       without making any adjustment in frequency to clocks contributing to TAI.
 - dates:
   - '1989-09-28'
+  subject: CIPM
+  type: recommendation
   title: Improvement of the frequency accuracy of primary standards
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-2
   reference: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-2#page=112
+  reference_name: Proceedings of the 78th CIPM (1989), 1990
+  reference_page: 112
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1989-09-28'
@@ -64,14 +68,16 @@ resolutions:
       them.
 - dates:
   - '1989-09-28'
+  subject: CIPM
+  type: recommendation
   title: Reference coordinates of antennas
   identifier: 3
   url: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-3
   reference: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-3#page=113
+  reference_name: Proceedings of the 78th CIPM (1989), 1990
+  reference_page: 113
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures (CIPM),
+  - message: The Comité International des Poids et Mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '1989-09-28'
@@ -95,14 +101,16 @@ resolutions:
       antenna to the IERS stations, in consultation with the BIPM.
 - dates:
   - '1989-09-28'
+  subject: CIPM
+  type: recommendation
   title: Installation of docks at the BIPM
   identifier: 4
   url: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-4
   reference: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-4#page=114
+  reference_name: Proceedings of the 78th CIPM (1989), 1990
+  reference_page: 114
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1989-09-28'
@@ -130,16 +138,18 @@ resolutions:
       the possibility of providing equipment on loan to the BIPM.
 - dates:
   - '1989-09-28'
+  subject: CIPM
+  type: recommendation
   title: The International Temperature Scale of 1990
   identifier: 5
   url: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-5
   reference: https://www.bipm.org/en/committees/ci/cipm/78-1989/resolution-5#page=115
+  reference_name: Proceedings of the 78th CIPM (1989), 1990
+  reference_page: 115
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures (CIPM)
+  - message: The Comité International des Poids et Mesures (CIPM)
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: '1989-09-28'
     message: |-
       acting in accordance with Resolution 7 of the 18th Conférence Générale des Poids et Mesures (1987) has adopted the International Temperature Scale of 1990 (ITS-90) to supersede the International Practical Temperature Scale of 1968 (IPTS-68).

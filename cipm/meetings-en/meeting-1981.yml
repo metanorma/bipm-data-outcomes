@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1981-10-08'
+  subject: CIPM
+  type: recommendation
   title: Expression des incertitudes expérimentales
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/70-1981/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/70-1981/resolution-1#page=26
+  reference_name: Proceedings of the 70th CIPM (1981), 1982
+  reference_page: 26
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité International des Poids et Mesures,
+  - message: Le Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1981-10-08'

@@ -8,15 +8,17 @@ pdf: https://www.bipm.org/documents/20126/35656171/CGPM23.pdf/aed600fc-a50e-0583
 resolutions:
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the initiatives taken to strengthen the collaboration between National
     Metrology Institutes and recognized National Accreditation Bodies
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=422
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 422
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: noting
     date_effective: '2007-11-16'
@@ -51,16 +53,18 @@ resolutions:
       their cooperation and regular dialogue."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the report of the International Committee to the General Conference on
     Evolving Needs for Metrology in Trade, Industry and Society, and the Role of the
     International Bureau of Weights and Measures (BIPM)
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=422
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 422
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -143,15 +147,17 @@ resolutions:
       General Conferences on evolving needs in metrology.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Dotation of the International Bureau of Weights and Measures (BIPM) for the
     years 2009 to 2012
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=424
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 424
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -238,15 +244,17 @@ resolutions:
       proposed in the programme of work in light of the dotation agreed by the CGPM."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the relevance to trade of the CIPM Mutual Recognition Arrangement, and
     other related Arrangements
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=426
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 426
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -284,14 +292,16 @@ resolutions:
       of this application as soon as possible."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On Associate States of the General Conference
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=427
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 427
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -336,14 +346,16 @@ resolutions:
       CGPM, will be deducted, up to a maximum of five years subscription.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the acceptance of Economies as Associates of the General Conference
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=427
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 427
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -372,16 +384,18 @@ resolutions:
       until these criteria are approved by the CGPM.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the importance of promoting the work carried out under the Metre Convention
     to encourage more States to accede to the Metre Convention or become Associates
     of the General Conference
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=428
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 428
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -453,14 +467,16 @@ resolutions:
       of the General Conference.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On financial arrears of Member States
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=430
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 430
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: recalling / further recalling
     date_effective: '2007-11-16'
@@ -506,15 +522,17 @@ resolutions:
       * a Member State which withdraws may only again accede to the Metre Convention if its remaining arrears have been paid. Pursuant to Article 11 of the Metre Convention, that Member State shall pay an entrance contribution equal to its first annual contribution.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the revision of the mise en pratique of the definition of the metre and
     the development of new optical frequency standards
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=431
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 431
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -549,14 +567,16 @@ resolutions:
       * the BIPM works toward the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Clarification of the definition of the kelvin, unit of thermodynamic temperature
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=432
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 432
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -591,14 +611,16 @@ resolutions:
   actions: []
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the importance of SI traceable measurements to monitor climate change
   identifier: 11
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=433
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 433
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: recalling / further recalling
     date_effective: '2007-11-16'
@@ -638,15 +660,17 @@ resolutions:
       and *further recommends* appropriate funding bodies to support the development of techniques which can make possible a set of SI-traceable radiometric standards and instruments to allow such traceability to be established in terrestrial and space based measurements.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: On the possible redefinition of certain base units of the International System
     of Units (SI)
   identifier: 12
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=434
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Proceedings of the 23rd CGPM (2007), 2010
+  reference_page: 434
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 23rd General Conference,
+  - message: The 23rd General Conference,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -741,4 +765,3 @@ resolutions:
       be satisfactory and the needs of users met, formal proposals for changes in
       the definitions of the kilogram, ampere, the kelvin and mole can be put to the
       24th General Conference."
-  subject: National Metrology Institutes and the BIPM

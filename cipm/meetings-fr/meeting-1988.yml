@@ -7,14 +7,14 @@ metadata:
 resolutions:
 - dates:
   - '1988-10-06'
+  subject: CIPM
+  type: recommendation
   title: Représentation du volt au moyen de l’effet Josephson
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/77-1988/resolution-1
   reference: https://www.bipm.org/fr/committees/ci/cipm/77-1988/resolution-1#page=19
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference_name: Comptes rendus du 77e CIPM (1988), 1989
+  reference_page: 19
   considerations:
   - type: having / having regard
     date_effective: '1988-10-06'
@@ -44,14 +44,16 @@ resolutions:
     valeur conventionnelle de stem:[K_("J")].
 - dates:
   - '1988-10-06'
+  subject: CIPM
+  type: recommendation
   title: Représentation de l’ohm au moyen de l’effet Hall quantique
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/77-1988/resolution-2
   reference: https://www.bipm.org/fr/committees/ci/cipm/77-1988/resolution-2#page=20
+  reference_name: Comptes rendus du 77e CIPM (1988), 1989
+  reference_page: 20
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: |-
+  - message: |-
       Le Comité international des poids et mesures,
 
       agissant conformément aux instructions données dans la Résolution 6 de la 18^e^ Conférence générale des poids et mesures concernant l’ajustement prévu des représentations du volt et de l’ohm,
@@ -109,14 +111,16 @@ resolutions:
     La CGPM à sa 26^e^ réunion en 2018 (Résolution 1) a abrogé l’adoption d’une valeur conventionnelle de stem:[K_("J")].
 - dates:
   - '1988-10-06'
+  subject: CIPM
+  type: recommendation
   title: Mise au point de l'Échelle internationale de température de 1990 (EIT-90)
   identifier: 3
   url: https://www.bipm.org/fr/committees/ci/cipm/77-1988/resolution-3
   reference: https://www.bipm.org/fr/committees/ci/cipm/77-1988/resolution-3#page=21
+  reference_name: Comptes rendus du 77e CIPM (1988), 1989
+  reference_page: 21
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures
+  - message: Le Comité international des poids et mesures
   considerations:
   - type: having / having regard
     date_effective: '1988-10-06'
@@ -124,7 +128,7 @@ resolutions:
       de la 18^e^ Conférence générale des poids et mesures concernant la mise au point
       d'une nouvelle échelle internationale de température,
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1988-10-06'
     message: _annonce_ que les écarts entre l'EIT-90 et l'EIPT-68 seront approximativement
       ceux qui sont indiqués dans le graphique joint à la présente recommandation,

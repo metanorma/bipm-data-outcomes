@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1999-10-15'
+  subject: CIPM
+  type: recommendation
   title: Future global navigation satellite systems
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/88-1999/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM88.pdf.zip/b3162bf6-a795-3dbb-f5ba-6dd295a19843?version=1.4&download=true#page=218
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM88.pdf.zip/b3162bf6-a795-3dbb-f5ba-6dd295a19843
+  reference_name: Proceedings of the 88th CIPM (1999), 2000
+  reference_page: 218
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'

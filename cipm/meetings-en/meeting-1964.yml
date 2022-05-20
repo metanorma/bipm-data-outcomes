@@ -7,22 +7,24 @@ metadata:
 resolutions:
 - dates:
   - '1964-10-13'
+  subject: CIPM
+  type: recommendation
   title: Atomic and molecular frequency standards
   identifier: 1964
   url: https://www.bipm.org/en/committees/ci/cipm/53-1964/resolution-
   reference: https://www.bipm.org/en/committees/ci/cipm/53-1964/resolution-#page=26
+  reference_name: Proceedings of the 53rd CIPM (1964), 1965
+  reference_page: 26
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
-  - type: acknowledging
+  - type: empowers
     date_effective: '1964-10-13'
     message: "*empowered* by Resolution 5 of the 12th Conférence Générale des Poids
       et Mesures to name atomic or molecular frequency standards for temporary use
       for time measurements in physics,"
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1964-10-13'
     message: "*declares* that the standard to be employed is the transition between
       the hyperfine levels stem:[F = 4], stem:[M = 0] and stem:[F = 3], stem:[M =

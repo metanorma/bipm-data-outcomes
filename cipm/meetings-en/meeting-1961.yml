@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1961-10-12'
+  subject: CIPM
+  type: recommendation
   title: Cubic decimetre and litre
   identifier: 1961
   url: https://www.bipm.org/en/committees/ci/cipm/50-1961/resolution-
   reference: https://www.bipm.org/en/committees/ci/cipm/50-1961/resolution-#page=34
+  reference_name: Proceedings of the 50th CIPM (1961), 1962
+  reference_page: 34
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures
+  - message: The Comité International des Poids et Mesures
   considerations: []
   actions:
   - type: recommends

@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1967-10-16'
+  subject: CIPM
+  type: recommendation
   title: Decimal multiples and submultiples of the unit of mass
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/56-1967/resolution-2
   reference: https://www.bipm.org/en/committees/ci/cipm/56-1967/resolution-2#page=29
+  reference_name: Proceedings of the 56th CIPM (1967), 1968
+  reference_page: 29
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -23,7 +25,7 @@ resolutions:
       Générale des Poids et Mesures (CGPM) (1960) might be interpreted in different
       ways when applied to the unit of mass,"
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1967-10-16'
     message: "*declares* that the rules of Resolution 12 of the 11th CGPM apply to
       the kilogram in the following manner: the names of decimal multiples and submultiples

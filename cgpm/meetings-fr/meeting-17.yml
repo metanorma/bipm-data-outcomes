@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38091040/CGPM17.pdf/9970b20b-8330-8cd0
 resolutions:
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Définition du mètre
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=97
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Comptes rendus de la 17e CGPM (1983), 1984
+  reference_page: 97
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-septième Conférence générale des poids et mesures,
+  - message: La Dix-septième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1983-10-21'
@@ -81,14 +83,16 @@ resolutions:
     Cette définition du mètre a été abrogée en 2018 par la 26^e^ CGPM (Résolution 1), la nouvelle définition entrant en vigueur en 2019.
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur la mise en pratique de la définition du mètre
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=98
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Comptes rendus de la 17e CGPM (1983), 1984
+  reference_page: 98
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-septième Conférence générale des poids et mesures,
+  - message: La Dix-septième Conférence générale des poids et mesures,
   considerations: []
   actions:
   - type: invites / further invites
@@ -107,17 +111,18 @@ resolutions:
   notes: _Voir_ https://www.bipm.org/utils/fr/pdf/CI-2002-1-FR.pdf[Recommandation
     1 (CI-2002)] du CIPM relative à la révision de la mise en pratique de la définition
     du mètre.
-  subject: Comité international des poids et mesures
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur la masse volumique de l'air
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Comptes rendus de la 17e CGPM (1983), 1984
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-septième Conférence générale des poids et mesures,
+  - message: La Dix-septième Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1983-10-21'
@@ -142,17 +147,18 @@ resolutions:
     date_effective: '1983-10-21'
     message: invite le Comité international des poids et mesures à mettre à jour la
       formule recommandée lorsque de meilleures déterminations expérimentales le permettront.
-  subject: Comité international des poids et mesures
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Dotation du BIPM
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/17-1983/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Comptes rendus de la 17e CGPM (1983), 1984
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-septième Conférence générale des poids et mesures,
+  - message: La Dix-septième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1983-10-21'

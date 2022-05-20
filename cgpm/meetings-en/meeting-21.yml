@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35909321/CGPM21-EN.pdf/72309e6b-6e25-8
 resolutions:
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Long-term needs relating to metrology
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=325
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 325
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -55,15 +57,17 @@ resolutions:
       to the study and the report of the International Committee."
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Mutual recognition of national measurement standards and of calibration and
     measurement certificates issued by national metrology institutes
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=326
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 326
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -119,14 +123,16 @@ resolutions:
       of signatory national metrology institutes.
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Associates of the Conférence Générale des Poids et Mesures
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=327
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 327
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -170,15 +176,17 @@ resolutions:
       * that an Associate State or Economy three years in arrears with its subscription cease to be an Associate; it may be reinstated on payment of these arrears.
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: The need to use SI units in studies of Earth resources, the environment,
     human well-being and related issues
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=328
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 328
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -228,14 +236,16 @@ resolutions:
       established and maintained under the Metre Convention."
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Revision of the <i>mise en pratique</i> of the definition of the metre
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=329
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 329
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1999-10-15'
@@ -300,14 +310,16 @@ resolutions:
       and *recommends* that national laboratories pursue experimental and theoretical research on optical wavelength and frequency standards, including the development of new techniques for the comparison of different standards over a wide range of wavelength and frequency to improve yet further the experimental basis of the International System of Units.
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Requirements for dimensional metrology
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=330
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 330
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -344,14 +356,16 @@ resolutions:
       to meet the diverse and growing demands in the field of dimensional metrology."
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: The definition of the kilogram
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=331
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 331
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -381,14 +395,16 @@ resolutions:
       a view to a future redefinition of the kilogram."
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Operational primary frequency standards
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=332
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 332
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -420,14 +436,16 @@ resolutions:
       the accuracy of TAI and UTC will be based."
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Extension of the International Temperature Scale below 0.65 K
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=332
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 332
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -457,14 +475,16 @@ resolutions:
       stem:[0.65 "K"].'
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Metrology in chemistry
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=333
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 333
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1999-10-15'
@@ -498,17 +518,18 @@ resolutions:
       International Committee, work to define the areas of priority and essential
       international comparisons which are key to the traceability of measurements
       in chemistry, both worldwide and within regions.
-  subject: national metrology institutes
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Metrology in biotechnology
   identifier: 11
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=334
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 334
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -533,18 +554,19 @@ resolutions:
       scientific unions and the international organizations concerned in the establishment
       of an adequate international measurement infrastructure to ensure traceability
       to the SI in measurements in biotechnology.
-  subject: national laboratories
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Special name for the SI derived unit mole per second, the katal, for the
     expression of catalytic activity
   identifier: 12
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=334
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 334
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'
@@ -588,14 +610,16 @@ resolutions:
       and *recommends* that when the katal is used, the measurand be specified by reference to the measurement procedure; the measurement procedure must identify the indicator reaction.
 - dates:
   - '1999-10-15'
+  subject: CGPM
+  type: resolution
   title: Dotation of the BIPM
   identifier: 13
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999/resolution-13
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108?version=1.1&download=true#page=335
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM21.pdf/c113ab98-4856-eeb9-6e8e-ed738a474108
+  reference_name: Proceedings of the 21st CGPM (1999), 2001
+  reference_page: 335
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 21st Conférence Générale des Poids et Mesures,
+  - message: The 21st Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1999-10-15'

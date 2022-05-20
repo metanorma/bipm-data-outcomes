@@ -8,15 +8,17 @@ pdf: https://www.bipm.org/documents/20126/35657008/CGPM24.pdf/5cc3fc20-f45c-42f2
 resolutions:
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the possible future revision of the International System of Units,the
     SI
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=532
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 532
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -226,15 +228,17 @@ resolutions:
       and user communities.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the importance of international collaboration so as to place measurements
     to monitor climate change on an SI traceable basis
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=537
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 537
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -329,14 +333,16 @@ resolutions:
       of this activity with the full support of the States Parties to the Metre Convention.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Dotation of the BIPM for the years 2013 to 2015
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=539
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 539
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -398,14 +404,16 @@ resolutions:
       11 810 000 euros in 2015
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the status of Associate State of the General Conference
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=540
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 540
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -494,14 +502,16 @@ resolutions:
       all Associate States, whether fulfilling or not the criteria adopted by the CIPM to encourage Associate States to become States Parties to the Metre Convention, to accede to the Metre Convention as such accession can only be beneficial for the strengthening of the world's measurement system.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the acceptance of Economies as Associate of the General Conference
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=542
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 542
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -540,14 +550,16 @@ resolutions:
       next meeting of the CGPM on how this can best be achieved.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On financial arrears of States Parties to the Metre Convention
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=543
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 543
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -599,16 +611,18 @@ resolutions:
       accordance with the provisions of Article 20 of the present Regulations.\n\n "
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On rescheduling agreements between the International Committee for Weights
     and Measures and defaulting States Parties to the Metre Convention for the payment
     of their financial arrears
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=544
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 544
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -671,15 +685,17 @@ resolutions:
       Regulations.\n\n "
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the revision of the mise en pratique of the metre and the development
     of new optical frequency standards
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=546
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 546
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weight and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weight and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -718,14 +734,16 @@ resolutions:
       which could serve to compare optical frequency standards.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the adoption of a common terrestrial reference system
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=547
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 547
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 24th meeting,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -755,15 +773,17 @@ resolutions:
       reference system for terrestrial reference frames for all metrological applications."
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: On the role, mission, objectives, long-term strategy and governance of the
     BIPM
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/24-2011/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=548
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Proceedings of the 24th CGPM (2011), 2013
+  reference_page: 548
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "The General Conference on Weights and Measures (CGPM), at its 24th meeting,\n\n "
+  - message: "The General Conference on Weights and Measures (CGPM), at its 24th meeting,\n\n "
   considerations:
   - type: considering
     date_effective: '2011-10-21'

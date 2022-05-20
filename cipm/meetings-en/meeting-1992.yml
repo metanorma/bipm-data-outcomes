@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1992-10-01'
+  subject: CIPM
+  type: recommendation
   title: Worldwide recognition of the results of comparisons of measurement standards
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/81-1992/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/81-1992/resolution-1#page=139
+  reference_name: Proceedings of the 81st CIPM (1992), 1993
+  reference_page: 139
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures (CIPM),
+  - message: The Comité International des Poids et Mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '1992-10-01'
@@ -54,14 +56,16 @@ resolutions:
       reference to them.
 - dates:
   - '1992-10-01'
-  title: The need for long-tenn metrological research
+  subject: CIPM
+  type: recommendation
+  title: The need for long-term metrological research
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/81-1992/resolution-2
   reference: https://www.bipm.org/en/committees/ci/cipm/81-1992/resolution-2#page=140
+  reference_name: Proceedings of the 81st CIPM (1992), 1993
+  reference_page: 140
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1992-10-01'
@@ -75,12 +79,12 @@ resolutions:
   - type: considering
     date_effective: '1992-10-01'
     message: considering that these developments can only take place on the basis
-      of a solid foundation of long-tenn metrological research closely linked to advances
+      of a solid foundation of long-term metrological research closely linked to advances
       in science;
   actions:
   - type: recommends
     date_effective: '1992-10-01'
-    message: recommends that national laboratories continue to undertake long-tenn
+    message: recommends that national laboratories continue to undertake long-term
       metrological research as weIl as to meet the more immediate needs of measurement
       services;
   - type: recommends
@@ -88,17 +92,18 @@ resolutions:
     message: recommends that national laboratories keep the Bureau International des
       Poids et Mesures infonned as to the results of the work related to fundamental
       metrology.
-  subject: national laboratories
 - dates:
   - '1992-10-01'
+  subject: CIPM
+  type: recommendation
   title: Revision of the mise en pratique of the definition of the metre
   identifier: 3
   url: https://www.bipm.org/en/committees/ci/cipm/81-1992/resolution-3
   reference: https://www.bipm.org/en/committees/ci/cipm/81-1992/resolution-3#page=141
+  reference_name: Proceedings of the 81st CIPM (1992), 1993
+  reference_page: 141
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1992-10-01'
@@ -236,4 +241,3 @@ resolutions:
       with an estimated overall relative uncertainty of stem:[ +-  4 * 10^(-9)] [equivalent to three times the relative standard uncertainty of stem:[1","3 * 10^(-9)]] applies to the radiation emitted by a lamp operated under the conditions recommended by the CIPM (_BlPM Proc.-Verb. Corn. Int. Poids et Mesures_, 1960, *28*, 71-72 and _BlPM Comptes Rendus lle Conf. Gén. Poids et Mesures_, 1960, 85)].
 
       2.2. Radiations of atoms ^86^Kr, ^198^Hg and ^114^Cd recommended by the CIPM in 1963 (_BIPM Corn. Cons. Déf. Mètre_, 1962, *3*, 18-19 and _BIPM Proc. Verb. Com. Int. Poids et Mesures_, 1963, *52*, 26-27), with the indicated values for the wavelengths and the corresponding uncertainties.
-  subject: RADIATIONS, 1992

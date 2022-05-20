@@ -8,21 +8,23 @@ pdf: https://www.bipm.org/documents/20126/38090957/CGPM19.pdf/2f7ee319-dbb4-d798
 resolutions:
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: Time standards and time comparisons
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/19-1991/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=183
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Proceedings of the 19th CGPM (1991), 1992
+  reference_page: 183
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 19th Conférence Générale des Poids et Mesures,
+  - message: The 19th Conférence Générale des Poids et Mesures,
   considerations:
   - type: noting
     date_effective: '1991-10-04'
     message: "*noting* that the accuracy of clock comparisons has been greatly improved
       by the use of satellite techniques,"
   actions:
-  - type: affirms / reaffirming
+  - type: remarks
     date_effective: '1991-10-04'
     message: |-
       *remarks* that this accuracy
@@ -48,14 +50,16 @@ resolutions:
       the terrestrial reference system of the International Earth Rotation Service.
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: The Josephson and quantum-Hall effects
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/19-1991/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=184
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Proceedings of the 19th CGPM (1991), 1992
+  reference_page: 184
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 19th Conférence Générale des Poids et Mesures,
+  - message: The 19th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1991-10-04'
@@ -95,14 +99,16 @@ resolutions:
       and quantum-Hall effects.
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: The International Temperature Scale of 1990 (ITS-90) and future work in thermometry
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/19-1991/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=185
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Proceedings of the 19th CGPM (1991), 1992
+  reference_page: 185
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 19th Conférence Générale des Poids et Mesures,
+  - message: The 19th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1991-10-04'
@@ -135,24 +141,33 @@ resolutions:
       on fundamental thermometry."
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: SI prefixes zetta, zepto, yotta and yocto
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/19-1991/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=185
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Proceedings of the 19th CGPM (1991), 1992
+  reference_page: 185
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 19th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 19th Conférence Générale des Poids et Mesures (CGPM),
   considerations: []
   actions:
   - type: decides
     date_effective: '1991-10-04'
-    message: "*decides* to add to the list of SI prefixes to be used for multiples
-      and submultiples of units, adopted by the 11th CGPM, Resolution 12, paragraph
-      3, the 12th CGPM, Resolution 8, and the 15th CGPM, Resolution 10, the following
-      prefixes:\n\n|===\n.<| Multiplying factor .<| Prefix .<| Symbol\n\n3+| \n.<|
-      stem:[10^(21)] .<| zetta .<| Z\n.<| stem:[10^(-21)] .<| zepto .<| z\n.<| stem:[10^(24)]
-      .<| yotta .<| Y\n.<| stem:[10^(-24)] .<| yocto .<| y\n\n|==="
+    message: |-
+      *decides* to add to the list of SI prefixes to be used for multiples and submultiples of units, adopted by the 11th CGPM, Resolution 12, paragraph 3, the 12th CGPM, Resolution 8, and the 15th CGPM, Resolution 10, the following prefixes:
+
+      [width=100%]
+      |===
+      | Multiplying factor | Prefix | Symbol
+
+      .<| stem:[10^(21)] .<| zetta .<| Z
+      .<| stem:[10^(-21)] .<| zepto .<| z
+      .<| stem:[10^(24)] .<| yotta .<| Y
+      .<| stem:[10^(-24)] .<| yocto .<| y
+
+      |===
   notes: The names zepto and zetta are derived from septo suggesting the number seven
     (the seventh power of stem:[10^(3)]) and the letter "z" is substituted for the
     letter "s" to avoid the duplicate use of the letter "s" as a symbol. The names

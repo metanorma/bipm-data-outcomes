@@ -7,15 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '1986-10-16'
+  subject: CIPM
+  type: recommendation
   title: Expression des incertitudes dans les travaux effectués sous les auspices
     du CIPM
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/75-1986/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/75-1986/resolution-1#page=36
+  reference_name: Proceedings of the 75th CIPM (1986), 1987
+  reference_page: 36
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité International des Poids et Mesures,
+  - message: Le Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1986-10-16'
@@ -45,14 +47,16 @@ resolutions:
       composantes de type stem:["A"] et de type B sous la forme d'un écart-type.
 - dates:
   - '1986-10-16'
+  subject: CIPM
+  type: recommendation
   title: Analyse des résultats des comparaisons internationales
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/75-1986/resolution-2
   reference: https://www.bipm.org/en/committees/ci/cipm/75-1986/resolution-2#page=37
+  reference_name: Proceedings of the 75th CIPM (1986), 1987
+  reference_page: 37
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité International des Poids et Mesures,
+  - message: Le Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1986-10-16'

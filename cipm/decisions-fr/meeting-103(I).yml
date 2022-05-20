@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-1 (2014)
   identifier: 103-1
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -17,9 +19,10 @@ resolutions:
   - type: approves
     date_effective: '2014-03-13'
     message: approuve les procès-verbaux de 102^e^ session du CIPM.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-2 (2014)
   identifier: 103-2
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -36,9 +39,10 @@ resolutions:
       Conférence générale », ainsi que les implications vis-à-vis de l'augmentation
       de la souscription si la République des Philippines choisissait de rester Associée
       à la CGPM.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-3 (2014)
   identifier: 103-3
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -52,9 +56,10 @@ resolutions:
       de travail révisé du JCGM concernant son Groupe de travail 2 afin de s'assurer
       qu'ils n'ont aucun autre commentaire sur ce document qui leur a été envoyé à
       la mi décembre 2013.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-4 (2014)
   identifier: 103-4
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -71,9 +76,10 @@ resolutions:
       puis le soumettre au CIPM, décide d'annuler cette action, le directeur du BIPM
       ayant informé le CIPM qu'il traitait déjà cette question.
   actions: []
-  subject: Le CIPM,
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-5 (2014)
   identifier: 103-5
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -86,9 +92,10 @@ resolutions:
     message: décide que soit formé un groupe composé de S. Arlen, W.E May, J. McLaren
       et T.J. Quinn afin de revoir la rédaction du Projet de résolution sur l'élection
       du CIPM.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-6 (2014)
   identifier: 103-6
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -105,6 +112,8 @@ resolutions:
       le président du CIPM de transmettre cette réponse à la Norvège.
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-7 (2014)
   identifier: 103-7
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -112,15 +121,16 @@ resolutions:
   - Etats Membres et Associés
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '2014-03-13'
     message: charge le secrétaire du CIPM de préparer pour le début du mois d'avril
       2014 un second courrier adressé aux représentants des États Membres et aux directeurs
       des laboratoires nationaux de métrologie afin de solliciter leur soutien continu
       dans la recherche de candidatures au CIPM.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-8 (2014)
   identifier: 103-8
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -138,6 +148,8 @@ resolutions:
       lors de sa 25^e^ réunion (2014).
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-9 (2014)
   identifier: 103-9
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -146,15 +158,16 @@ resolutions:
   - Etats Membres et Associés
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '2014-03-13'
     message: charge le secrétaire du CIPM d'envoyer une copie du document relatif
       à la démission des membres du CIPM, signé par les seize membres présents lors
       de la première partie de la 103e session du CIPM (mars 2014), aux deux membres
       absents afin qu'ils le signent et le renvoient aussi rapidement que possible.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-10 (2014)
   identifier: 103-10
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -163,7 +176,7 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '2014-03-13'
     message: charge le Groupe de travail _ad hoc_ sur les règles et les principes
       relatifs à la composition du CIPM de soumettre à l'approbation du CIPM, lors
@@ -176,9 +189,10 @@ resolutions:
       à ce document une section relative à la création de nouveaux groupes de travail
       et à l'arrêt, la fusion ou la confirmation des activités des groupes de travail
       existants.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-11 (2014)
   identifier: 103-11
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -198,9 +212,10 @@ resolutions:
       Le CIPM décide que l'alternative dans le domaine du temps « stem:["T"] A3.3 Validation des peignes de fréquence » du Programme de travail du BIPM proposé demeure un projet optionnel. Le CIPM demande au directeur du BIPM de revoir le coût et la portée de ce projet. Les peignes de fréquence optiques utilisés pour réaliser l'unité de longueur sont des outils importants et le deviendront plus encore. L'absence d'un programme de validation officiel de ces systèmes de mesure au coeur de la mise en pratique d'une unité de base du SI, doit être considérée comme non satisfaisante et mérite que le BIPM et le CIPM examinent de plus près l'intégration de cette question au Programme de travail du BIPM.
 
       Le CIPM demande que l'intégration de l'alternative dans le domaine de la chimie « A2.1.4 Comparaisons de références primaires organiques de molécules de petite taille (Matériaux purs) » au Programme de travail du BIPM proposé soit étudiée.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-12 (2014)
   identifier: 103-12
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -218,9 +233,10 @@ resolutions:
       leur point de vue. Entretemps, les Comités consultatifs et le JCRB seront encouragés
       à poursuivre leurs efforts continus de rationalisation dans le cadre actuel
       et à se préparer à un plus large examen en 2015.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-13 (2014)
   identifier: 103-13
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -231,9 +247,10 @@ resolutions:
   - type: approves
     date_effective: '2014-03-13'
     message: approuve la révision du document CIPM MRA-D-05, version 1.5.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-14 (2014)
   identifier: 103-14
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -241,16 +258,17 @@ resolutions:
   - CGPM
   - CCs et WGs
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2014-03-13'
     message: |-
       accepte le calendrier provisoire concernant la réunion de la CGPM et décide que la réunion préparatoire sur la dotation du BIPM aura lieu le matin du lundi 17 novembre 2014 (l'après-midi sera consacrée aux visites des laboratoires et à des présentations).
 
       Le CIPM charge le président et le secrétaire du CIPM de préparer un courrier sur la formation du Groupe de travail sur la dotation du BIPM qui sera envoyé aux États Membres.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-15 (2014)
   identifier: 103-15
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -265,9 +283,10 @@ resolutions:
       poids et mesures (CGPM) à sa 25^e^ réunion (2014). Le CIPM charge le directeur
       du BIPM, A. Henson et R. Wielgosz de préparer un Projet de résolution sur l'impact
       de la métrologie.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-16 (2014)
   identifier: 103-16
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -286,9 +305,10 @@ resolutions:
       selon un article scientifique récent mentionné dans la présentation de J. Valdès.
       Le CIPM encourage la tenue d'autres discussions sur des sujets scientifiques
       au cours de ses réunions.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-17 (2014)
   identifier: 103-17
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -311,6 +331,8 @@ resolutions:
       En reconnaissance de la contribution exceptionnelle et unique qu'I. Mill, en tant que président de CCU, a apporté à la métrologie et aux activités de la Convention du Mètre, ainsi que du très grand impact de son travail, le CIPM nomme I. Mills membre honoraire du CCU.
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-18 (2014)
   identifier: 103-18
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -323,9 +345,10 @@ resolutions:
     message: approuve le document « Principes du BIPM gouvernant la sollicitation
       et l'acceptation de soutien au BIPM par des tiers » (_BIPM Policy on soliciting
       and accepting support from Third Parties_).
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-19 (2014)
   identifier: 103-19
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -340,9 +363,10 @@ resolutions:
       Le CIPM encourage le BIPM à chercher des financements exceptionnels ponctuels
       afin de soutenir la rationalisation du fonctionnement et de l'évolution de la
       base de données du JCTLM.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-20 (2014)
   identifier: 103-20
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -355,9 +379,10 @@ resolutions:
     message: convient d'adopter le nouveau logo du BIPM proposé (en prenant note que
       les logos du CIPM MRA, de la KCDB et du JCTLM ne seront pas modifiés et que
       le « macaron » continuera à être utilisé).
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-21 (2014)
   identifier: 103-21
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -369,9 +394,10 @@ resolutions:
     date_effective: '2014-03-13'
     message: approuve les principes proposés concernant la participation de laboratoires
       invités à des études pilotes du CCQM.
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-22 (2014)
   identifier: 103-22
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -385,9 +411,10 @@ resolutions:
       terminologie : ces documents seront transmis au CIPM et examinés par le bureau
       du CIPM lors de sa réunion de juin 2014. Le bureau du CIPM préparera une recommandation
       qui sera soumise au CIPM en novembre 2014.'
-  subject: Le CIPM
 - dates:
   - '2014-03-13'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/103-23 (2014)
   identifier: 103-23
   url: https://www.bipm.org/fr/committees/ci/cipm/103-_1-2014
@@ -401,4 +428,3 @@ resolutions:
     message: souhaiterait qu'une proposition formelle concernant la création d'un
       groupe consultatif sur les expériences menées sur la constante gravitationnelle,
       G, lui soit présentée lors de sa prochaine réunion (novembre 2014).
-  subject: Le CIPM

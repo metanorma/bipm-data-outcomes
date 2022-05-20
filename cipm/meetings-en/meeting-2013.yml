@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: recommendation
   title: Updates to the list of standard frequencies
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/102-_1-2013/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM102.pdf.zip/8d064d5c-26db-4d5c-42a3-115a7b002f8e?version=1.6&download=true#page=144
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM102.pdf.zip/8d064d5c-26db-4d5c-42a3-115a7b002f8e
+  reference_name: Proceedings of the 102nd CIPM (2013), 2014
+  reference_page: 144
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2013-06-21'

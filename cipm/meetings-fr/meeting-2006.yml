@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '2006-10-13'
+  subject: CIPM
+  type: recommendation
   title: Au sujet des représentations secondaires de la seconde
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/95-2006/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM95.pdf.zip/e58fcb97-69f8-008b-050b-378d5f0d8a77?version=1.5&download=true#page=120
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM95.pdf.zip/e58fcb97-69f8-008b-050b-378d5f0d8a77
+  reference_name: Comptes rendus du 95e CIPM (2006), 2007
+  reference_page: 120
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '2006-10-13'
@@ -54,15 +56,17 @@ resolutions:
       * la transition optique non perturbée 5s^2^ ^1^S~0~ - 5s 5p ^3^P~0~ de l'atome neutre de ^87^Sr, à la fréquence de stem:[f^(87)]Sr = stem:[429 228 004 229 877 "Hz"], avec une incertitude-type relative estimée de stem:[1","5 * 10^(-14)].
 - dates:
   - '2006-10-13'
+  subject: CIPM
+  type: recommendation
   title: Coordination de la mise au point de techniques avancées de comparaison de
     temps et de fréquences
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/95-2006/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM95.pdf.zip/e58fcb97-69f8-008b-050b-378d5f0d8a77?version=1.5&download=true#page=125
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM95.pdf.zip/e58fcb97-69f8-008b-050b-378d5f0d8a77
+  reference_name: Comptes rendus du 95e CIPM (2006), 2007
+  reference_page: 125
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: recognizing
     date_effective: '2006-10-13'

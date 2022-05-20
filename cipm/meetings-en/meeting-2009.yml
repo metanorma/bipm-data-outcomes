@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: Concerning adoption of a common terrestrial reference system by the CGPM
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/98-2009/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=233
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Proceedings of the 98th CIPM (2009), 2010
+  reference_page: 233
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'
@@ -52,14 +54,16 @@ resolutions:
       the necessary steps be taken such that the ITRS, as defined by the International Union of Geodesy and Geophysics (IUGG) and realized by the International Earth Rotation and Reference Systems Service (IERS) and International GNSS Service (IGS), be adopted by the General Conference on Weights and Measures as the international standard for terrestrial reference frames used for all metrological applications.
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: Updates to the list of standard frequencies
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/98-2009/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=235
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Proceedings of the 98th CIPM (2009), 2010
+  reference_page: 235
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'
@@ -83,15 +87,17 @@ resolutions:
       * the unperturbed optical transition 6s^2^ ^1^S~0~ (stem:[F = 1/2]) - 6s 6p ^3^P~0~ (stem:[F = 1/2]) of the ^171^Yb neutral atom with a frequency of stem:[f = 518 295 836 590 864 "Hz"] and a relative standard uncertainty of stem:[1.6 * 10^(-13)].
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: Alignment of geodetic references and synchronization of time references to
     international standards
   identifier: 3
   url: https://www.bipm.org/en/committees/ci/cipm/98-2009/resolution-3
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=236
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Proceedings of the 98th CIPM (2009), 2010
+  reference_page: 236
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'
@@ -156,14 +162,16 @@ resolutions:
       ICG.
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: On the weakness of the present definition of UTC
   identifier: 4
   url: https://www.bipm.org/en/committees/ci/cipm/98-2009/resolution-4
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=238
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Proceedings of the 98th CIPM (2009), 2010
+  reference_page: 238
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'

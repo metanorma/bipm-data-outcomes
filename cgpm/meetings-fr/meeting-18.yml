@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38091005/CGPM18.pdf/3dd75ee3-d581-34da
 resolutions:
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Troisième vérification des prototypes du kilogramme
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=97
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 97
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1987-10-16'
@@ -40,14 +42,16 @@ resolutions:
       en platine iridié, en vue d'une comparaison générale de ces prototypes."
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Étude de l'état superficiel des étalons de masse
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=98
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 98
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'
@@ -84,14 +88,16 @@ resolutions:
       de masse.
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Prise en charge du Temps atomique international
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=98
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 98
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'
@@ -118,14 +124,16 @@ resolutions:
       et *recommande* aux institutions nationales concernées de poursuivre avec le Bureau international des poids et mesures leur collaboration pour l'établissement et l'amélioration du Temps atomique international.
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Comparaisons de temps utilisant les liaisons par satellites
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'
@@ -154,14 +162,16 @@ resolutions:
       que les organes nationaux et internationaux responsables apportent leur soutien aux expériences utilisant les liaisons de télécommunication par satellites, notamment à l'aide de signaux pseudo-aléatoires, dans le cadre des programmes internationaux de liaisons horaires faisant partie de l'établissement du Temps atomique international.
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Étude des effets perturbateurs dans la réalisation de la seconde
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1987-10-16'
@@ -178,14 +188,16 @@ resolutions:
   actions: []
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Ajustement prévu des représentations du volt et de l'ohm
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=100
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 100
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'
@@ -218,7 +230,7 @@ resolutions:
       et de la tension par le courant dans l'effet Hall quantique à poursuivre activement
       ces travaux et à communiquer sans délai leurs résultats au Comité international
       des poids et mesures et,"
-  - type: appoints
+  - type: charges
     date_effective: '1987-10-16'
     message: "*charge* le Comité international des poids et mesures de recommander,
       dès qu'il le jugera possible, une valeur de chacun de ces quotients et une date
@@ -227,14 +239,16 @@ resolutions:
       adoptée au 1^er^ janvier 1990."
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Mise au point d'une nouvelle échelle internationale de température
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=101
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 101
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'
@@ -270,14 +284,16 @@ resolutions:
       intervenir au 1^er^ janvier 1990."
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Répartition des contributions
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=101
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 101
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'
@@ -294,14 +310,16 @@ resolutions:
       et modifiés par la Onzième et la Seizième Conférence générale des poids et mesures.
 - dates:
   - '1987-10-16'
+  subject: CGPM
+  type: resolution
   title: Dotation du BIPM
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f?version=1.1&download=true#page=102
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM18.pdf/f461df63-75c1-c14d-e6b7-69867b79382f
+  reference_name: Comptes rendus de la 18e CGPM (1987), 1988
+  reference_page: 102
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dix-huitième Conférence générale des poids et mesures,
+  - message: La Dix-huitième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1987-10-16'

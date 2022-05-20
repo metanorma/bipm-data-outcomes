@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1984-10-18'
+  subject: CIPM
+  type: recommendation
   title: Concerning the sievert
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/73-1984/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/73-1984/resolution-1#page=31
+  reference_name: Proceedings of the 73rd CIPM (1984), 1985
+  reference_page: 31
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1984-10-18'

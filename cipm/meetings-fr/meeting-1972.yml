@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1972-10-18'
+  subject: CIPM
+  type: recommendation
   title: Efficacités lumineuses relatives spectrales en vision photopique [V(&lambda;)]
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/61-1972/resolution-1
   reference: https://www.bipm.org/fr/committees/ci/cipm/61-1972/resolution-1#page=29
+  reference_name: Comptes rendus du 61e CIPM (1972), 1973
+  reference_page: 29
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité International des Poids et Mesures,
+  - message: Le Comité International des Poids et Mesures,
   considerations:
   - type: recognizing
     date_effective: '1972-10-18'
@@ -35,14 +37,16 @@ resolutions:
       1 p. 145].'
 - dates:
   - '1972-10-18'
+  subject: CIPM
+  type: recommendation
   title: Réseau Gravimétrique International Unifié 1971 (IGSN-71)
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/61-1972/resolution-2
   reference: https://www.bipm.org/fr/committees/ci/cipm/61-1972/resolution-2#page=29
+  reference_name: Comptes rendus du 61e CIPM (1972), 1973
+  reference_page: 29
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité International des Poids et Mesures,
+  - message: Le Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1972-10-18'

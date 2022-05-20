@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35657008/CGPM24.pdf/5cc3fc20-f45c-42f2
 resolutions:
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur l'éventuelle révision à venir du Système international d'unités, le SI
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=212
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 212
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -231,16 +233,18 @@ resolutions:
       de la vaste communauté des scientifiques et des utilisateurs.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur l'importance d'une collaboration internationale afin de rendre les mesures
     nécessaires à l'observation du changement climatique traçables au Système international
     d'unités (SI)
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=217
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 217
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -344,15 +348,17 @@ resolutions:
       à la Convention du Mètre.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international des poids et mesures pour les années 2013
     à 2015
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=219
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 219
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -422,14 +428,16 @@ resolutions:
       |===
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur le statut d'État Associé à la Conférence générale
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=221
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 221
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -518,14 +526,16 @@ resolutions:
       tous les États Associés, qu'ils remplissent ou non les critères adoptés par le CIPM afin d'encourager les États Associés à devenir États Parties à la Convention du Mètre, à adhérer à la Convention du Mètre en ce qu'une telle adhésion ne peut qu'être bénéfique au renforcement du système de mesure mondial.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur l'acceptation d'entités économiques comme Associé à la Conférence générale
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=223
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 223
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -564,14 +574,16 @@ resolutions:
       de la CGPM des propositions sur la façon la plus adéquate d'y parvenir.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur les contributions arriérées des États Parties à la Convention du Mètre
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=224
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 224
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,\n\n "
+  - message: "La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,\n\n "
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -620,16 +632,18 @@ resolutions:
       applicables dès l'année civile suivant l'exclusion.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur les accords de rééchelonnement conclus entre le Comité international
     des poids et mesures et les États Parties à la Convention du Mètre débiteurs pour
     le paiement de leurs contributions arriérées
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=225
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 225
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,\n\n "
+  - message: "La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,\n\n "
   considerations:
   - type: recalling / further recalling
     date_effective: '2011-10-21'
@@ -691,15 +705,17 @@ resolutions:
       pendant plus de 12 mois, il sera automatiquement exclu.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur la révision de la mise en pratique de la définition du mètre et sur la
     mise au point de nouveaux étalons optiques de fréquence
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=227
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 227
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -723,14 +739,16 @@ resolutions:
        le BIPM aide à la coordination d'un projet international auquel participeraient les laboratoires nationaux de métrologie, portant sur l'étude des techniques qui pourraient être utilisées pour comparer les étalons optiques de fréquence.
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur l'adoption d'un système de référence terrestre commun
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=228
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 228
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: considering
     date_effective: '2011-10-21'
@@ -749,15 +767,17 @@ resolutions:
       unique pour les repères terrestres."
 - dates:
   - '2011-10-21'
+  subject: CGPM
+  type: resolution
   title: Sur le rôle, la mission, les objectifs, la stratégie à long terme et la gouvernance
     du BIPM
   identifier: 10
   url: https://www.bipm.org/fr/committees/cg/cgpm/24-2011/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac?version=1.1&download=true#page=229
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM24.pdf/7c41c2c1-71db-5ef9-4cdd-387279251bac
+  reference_name: Comptes rendus de la 24e CGPM (2011), 2013
+  reference_page: 229
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 24^e^ réunion,
   considerations:
   - type: considering
     date_effective: '2011-10-21'

@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-1 (2016)
   identifier: 105-1
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -18,9 +20,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: approuve les procès-verbaux de la seconde partie de la 104^e^ session
       du CIPM.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-2 (2016)
   identifier: 105-2
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -34,9 +37,10 @@ resolutions:
       a décerné la médaille Finkelstein pour l'année 2016. Cette distinction est décernée
       annuellement à une personnalité en reconnaissance de contributions exceptionnelles
       apportées à la science des mesures à un niveau international.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-3 (2016)
   identifier: 105-3
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -50,9 +54,10 @@ resolutions:
       Caisse de retraite et de prévoyance du BIPM, donnée par correspondance en juillet
       2016. Le CIPM donne quitus de sa gestion au directeur, au titre de l'exercice
       financier 2015.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-4 (2016)
   identifier: 105-4
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -64,9 +69,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: approuve le budget proposé par le directeur du BIPM pour 2017 (document
       CIPM/16-23).
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-5 (2016)
   identifier: 105-5
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -74,7 +80,7 @@ resolutions:
   - Finance
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2016-10-28'
     message: |-
       a examiné l'avis consultatif reçu de la CCE (daté du 7 juin 2016), les informations disponibles concernant la situation financière de la Caisse de retraite, ainsi que les hypothèses et conseils de l'expert qui ont été transmis par l'actuaire (Mercer).
@@ -82,9 +88,10 @@ resolutions:
       Le CIPM note que, selon la prévision de l'étude Mercer, atteindre la soutenabilité à long terme requiert que les cotisations des membres actuels du personnel soient portées à 19,8 % pour la Section Pré-2010 et à 18,8 % pour la Section Post-2010. Le CIPM a pris en compte et accepté la demande des représentants du personnel afin que ces taux soient atteints par une série d'augmentations progressives par paliers.
 
       Le modèle développé implique que les futurs membres du personnel recrutés à partir du 1^er^ janvier 2017 bénéficieront de prestations réduites et devront contribuer à hauteur de 15 % de leur salaire.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-6 (2016)
   identifier: 105-6
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -98,9 +105,10 @@ resolutions:
       mettre en œuvre les changements conformément aux recommandations du rapport
       Mercer du 29 septembre 2016 et demande au directeur du BIPM d'adresser le projet
       de règlement amendé à la CCE pour avis consultatif.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-7 (2016)
   identifier: 105-7
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -121,6 +129,8 @@ resolutions:
       retraite.
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-8 (2016)
   identifier: 105-8
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -135,9 +145,10 @@ resolutions:
       en tant qu'expert externe de la CCCR. Le CIPM souhaite demander à M. Thomas
       Grenon, directeur du LNE, de devenir expert externe de la CCCR et confie au
       président du CIPM la mission de lui adresser une invitation formelle.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-9 (2016)
   identifier: 105-9
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -150,9 +161,10 @@ resolutions:
     message: recommande une implication des retraités avec la CCCR et invite le directeur
       du BIPM, le président de la CCCR et le conseiller juridique du BIPM à développer
       une proposition en ce sens.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-10 (2016)
   identifier: 105-10
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -167,9 +179,10 @@ resolutions:
       accueille favorablement les recommandations du Groupe de travail sur la mise en œuvre et le fonctionnement du CIPM MRA et remercie les participants pour leur contribution. Le CIPM convient d'établir un Groupe de travail _ad hoc_ chargé de superviser la mise en œuvre des recommandations et il approuve les termes de référence de ce groupe de travail.
 
       Le CIPM nomme M. Inglis (président), M. Louw, M. Rietveld, M. Usuda, M. Castelazo, M. May et M. Henson membres de ce groupe de travail _ad hoc_.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-11 (2016)
   identifier: 105-11
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -185,9 +198,10 @@ resolutions:
       exemples que les autres Comités consultatifs pourront étudier. Le CIPM demande
       aux présidents de ces trois Comités consultatifs de soumettre des exemples en
       amont de la réunion des présidents des Comités consultatifs (12 et 13 juin 2017).
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-12 (2016)
   identifier: 105-12
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -210,6 +224,8 @@ resolutions:
   actions: []
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-13 (2016)
   identifier: 105-13
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -221,9 +237,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: recommande que la date à laquelle la redéfinition du SI entrera en vigueur
       soit le 20 mai 2019 (Journée mondiale de la métrologie).
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-14 (2016)
   identifier: 105-14
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -235,9 +252,10 @@ resolutions:
     message: prend note de l'intention de l'IUPAC de proposer une formulation révisée
       concernant la nouvelle définition de la mole.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-15 (2016)
   identifier: 105-15
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -250,32 +268,34 @@ resolutions:
     message: approuve la proposition du CCU relative au nombre de chiffres à conserver
       dans les valeurs numériques des constantes de définition (cas n° 3 sous les
       conditions mentionnées dans le rapport du CCU).
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-16 (2016)
   identifier: 105-16
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
   categories:
   - SI
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2016-10-28'
     message: accepte, dans la 9^e^ édition de la _Brochure sur le SI_, de traiter
       l'unité « un », symbole 1, de la même façon que dans la 8^e^ édition comme l'élément
       neutre de tout système d'unités mais en évitant de l'appeler unité dérivée ou
       unité de base.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-17 (2016)
   identifier: 105-17
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
   categories:
   - SI
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2016-10-28'
     message: accepte, dans la 9^e^ édition de la _Brochure sur le SI_, de traiter
       le radian et le cycle conformément aux résolutions de la CGPM en vigueur (telles
@@ -283,9 +303,10 @@ resolutions:
       12] de la 11^e^ réunion de la CGPM (1960) et la https://www.bipm.org/fr/committees/ci/cipm/fr/CGPM/db/20/8/[Résolution
       8] de la 20^e^ réunion de la CGPM (1995)).
   actions: []
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-18 (2016)
   identifier: 105-18
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -301,9 +322,10 @@ resolutions:
       en ligne (correspondant à l'Annexe 3 de la 8^e^ édition de la _Brochure sur
       le SI_) contenant de plus amples détails. Les phrases devront être transmises
       au secrétaire exécutif du CCU avant le 1^er^ janvier 2017.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-19 (2016)
   identifier: 105-19
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -311,12 +333,14 @@ resolutions:
   - SI
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2016-10-28'
     message: L'Annexe 1 de la 8^e^ édition de la _Brochure sur le SI_ devra être mise
       à jour par le BIPM et maintenue en ligne en ce qui concerne la 9^e^ édition.
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-20 (2016)
   identifier: 105-20
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -329,9 +353,10 @@ resolutions:
     message: décide que les définitions du projet de 9^e^ édition de la _Brochure
       sur le SI_ et du Projet de résolution 1 ne doivent pas contenir le terme « implicitement
       ».
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-21 (2016)
   identifier: 105-21
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -347,9 +372,10 @@ resolutions:
       La version révisée sera approuvée par le président du CCU, avec l'aide de M. Quinn. La Brochure ainsi révisée sera soumise au CCU en septembre 2017 puis au CIPM en octobre 2017 pour approbation finale.
 
       Le CIPM considère que la consultation des parties intéressées est à présent terminée. Toutefois, si des questions de fond venaient à être soulevées, le président du CCU les transmettra au CIPM.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-22 (2016)
   identifier: 105-22
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -364,9 +390,10 @@ resolutions:
       en pratique (correspondant actuellement à l'Annexe 2) d'ici le 31 juillet 2017.
       Dans le cadre de la nouvelle _Brochure sur le SI_, cette annexe continuera à
       être uniquement disponible en ligne.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-23 (2016)
   identifier: 105-23
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -379,9 +406,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: approuve le Projet de résolution 1 que le CCU propose de soumettre à
       la CGPM.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-24 (2016)
   identifier: 105-24
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -398,9 +426,10 @@ resolutions:
       l'IEC et la CIE sont accueillis en qualité d'observateurs. Le CIPM décide que
       seuls les laboratoires nationaux de métrologie d'États Membres et les Comités
       consultatifs peuvent être membres de ce groupe de travail.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-25 (2016)
   identifier: 105-25
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -417,9 +446,10 @@ resolutions:
       du CCU est désigné comme coordinateur de cette action. Cette déclaration pourrait
       être intégrée au projet final de la 9^e^ édition de la _Brochure sur le SI_.
       La déclaration devra être adressée au président du CCU avant fin juillet 2017.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-26 (2016)
   identifier: 105-26
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -436,9 +466,10 @@ resolutions:
       pour participer en tant qu''observateur au Comité consultatif concerné, en désignant
       un représentant (et seulement un), sur demande pour chaque réunion. Le document
       CIPM-D-01 sera mis à jour en conséquence.'
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-27 (2016)
   identifier: 105-27
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -458,9 +489,10 @@ resolutions:
       * les personnes nominativement désignées devront avoir le statut d'«invité » ou « expert » et ne pourront en aucun cas être membres des Comités consultatifs.
 
       Le document CIPM-D-01 sera mis à jour en conséquence.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-28 (2016)
   identifier: 105-28
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -473,9 +505,10 @@ resolutions:
     message: |-
       décide que le CCU adoptera les mêmes critères pour devenir membre du CCU que ceux des autres Comités consultatifs, pour les réunions prévues à compter de 2018. +
        Le document CIPM-D-01 sera mis à jour en conséquence.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-29 (2016)
   identifier: 105-29
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -488,9 +521,10 @@ resolutions:
     message: décide que tous les Comités consultatifs devront examiner la liste de
       leurs membres et observateurs afin de vérifier s'ils remplissent les critères
       établis dans le document CIPM-D-01.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-30 (2016)
   identifier: 105-30
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -504,9 +538,10 @@ resolutions:
       approuve la proposition du président du CCRI d'aligner les critères requis pour devenir membre du CCRI avec les règles qui s'appliquent à tous les Comités consultatifs.
 
       En prévision de la prochaine réunion du CCRI en 2017 et afin d'assurer une large représentation des différentes sections du CCRI, le CIPM accepte la proposition du président du CCRI d'inviter les laboratoires qui sont membres des trois sections du CCRI à devenir membres du CCRI et d'informer les autres laboratoires membres d'une ou plusieurs sections qu'ils peuvent demander à être membres du CCRI. Le CIPM approuve provisoirement la liste proposée de membres du CCRI, sous réserve d'acceptation par les potentiels membres.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-31 (2016)
   identifier: 105-31
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -543,9 +578,10 @@ resolutions:
       ** NRC (Canada) : membre.
       ** KRISS (République de Corée) : membre.
       ** METAS (Suisse) : membre.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-32 (2016)
   identifier: 105-32
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -562,9 +598,10 @@ resolutions:
       Associé à la Conférence générale » adoptée par la CGPM à sa 24^e^ réunion, ainsi
       que les implications vis-à-vis de l'augmentation de leur souscription si ces
       États choisissaient de rester Associés à la CGPM.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-33 (2016)
   identifier: 105-33
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -576,9 +613,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: accueille favorablement et approuve la version modifiée par le directeur
       du BIPM de la vision, de la mission et des objectifs du BIPM.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-34 (2016)
   identifier: 105-34
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -594,6 +632,8 @@ resolutions:
       à la Commission pour l'élection du CIPM les noms de ces candidats.
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-35 (2016)
   identifier: 105-35
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -602,13 +642,14 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2016-10-28'
     message: nomme M. Castelazo nouveau président du Comité consultatif des longueurs
       (CCL).
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-36 (2016)
   identifier: 105-36
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -616,15 +657,16 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2016-10-28'
     message: nomme M. Bulygin président du Sous-comité du CIPM sur l'attribution de
       distinctions. Le CIPM lui demande de préparer les termes de référence du Sous-comité
       et de définir un cadre pour un programme approprié d'attribution de prix afin
       de les soumettre au CIPM lors de sa prochaine réunion.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-37 (2016)
   identifier: 105-37
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -639,9 +681,10 @@ resolutions:
       sur les règles et les principes relatifs à la composition du CIPM et de préparer
       une proposition relative à la nomination de vice-présidents au sein des Comités
       consultatifs.
-  subject: Le CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/105-38 (2016)
   identifier: 105-38
   url: https://www.bipm.org/fr/committees/ci/cipm/105-2016
@@ -655,4 +698,3 @@ resolutions:
     message: décide que la 26^e^ réunion de la Conférence générale des poids et mesures
       (CGPM) se tiendra au Palais des Congrès de Versailles du 13 au 16 novembre 2018.
       Des réunions informelles se tiendront au BIPM le 12 novembre 2018.
-  subject: Le CIPM

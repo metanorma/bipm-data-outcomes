@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-1 (2017)
   identifier: 106-1
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -17,9 +19,10 @@ resolutions:
   - type: approves
     date_effective: '2017-10-20'
     message: approuve les procès-verbaux de la 105^e^ session du CIPM.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-2 (2017)
   identifier: 106-2
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -33,9 +36,10 @@ resolutions:
       Caisse de retraite et de prévoyance du BIPM, examinés par le Sous-comité du
       CIPM sur les finances en juin 2017. Le CIPM donne quitus de sa gestion au directeur,
       au titre de l'exercice financier 2016.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-3 (2017)
   identifier: 106-3
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -47,9 +51,10 @@ resolutions:
     date_effective: '2017-10-20'
     message: approuve le budget proposé par le directeur du BIPM pour 2018 (document
       CIPM/2016-05.3).
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-4 (2017)
   identifier: 106-4
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -62,9 +67,10 @@ resolutions:
     message: décide de préparer un projet de résolution concernant le processus d'exclusion
       des États Membres en situation d'arriérés qui sera soumis à la CGPM à sa 26^e^
       réunion.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-5 (2017)
   identifier: 106-5
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -78,9 +84,10 @@ resolutions:
       prévoyance du BIPM relatif à la Commission consultative sur la Caisse de retraite
       afin d'ajouter à ses membres un représentant des pensionnés et titulaires d'une
       pension différée du BIPM, élu pour un mandat de quatre ans.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-6 (2017)
   identifier: 106-6
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -97,9 +104,10 @@ resolutions:
       de la valeur du point applicable aux pensions, l''appliquer en partie, le suspendre
       ou le reporter. (Cet amendement est applicable aux trois Sections de la Caisse
       de retraite : Pré 2010, Post 2010 et Post 2017.)'
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-7 (2017)
   identifier: 106-7
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -118,6 +126,8 @@ resolutions:
       * le CIPM décide à l'unanimité de ne pas réviser le point applicable aux pensions pour la période 2018-2019.
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-8 (2017)
   identifier: 106-8
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -132,9 +142,10 @@ resolutions:
       retraite, chacun pour un mandat de quatre ans. Le CIPM continuera, tant que
       faire se peut, à nommer un expert externe au sein de la Commission, parmi les
       représentants des États Membres.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-9 (2017)
   identifier: 106-9
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -149,9 +160,10 @@ resolutions:
       masse une fois le kilogramme redéfini, qui traitera en particulier de la définition
       de la valeur de consensus, et de mettre à jour la mise en pratique du kilogramme,
       en tenant compte des commentaires formulés par le CIPM à sa 106^e^ session.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-10 (2017)
   identifier: 106-10
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -165,9 +177,10 @@ resolutions:
       accueille favorablement les recommandations relatives à la révision du SI formulées par ses Comités consultatifs. +
        +
       Le CIPM note que les conditions fixées pour procéder à la révision du SI sont désormais remplies et décide de soumettre le Projet de résolution stem:["A"] à la Conférence générale des poids et mesures (CGPM) à sa 26^e^ réunion et de prendre toutes les autres dispositions nécessaires en vue de procéder, tel que cela a été planifié, à la redéfinition du kilogramme, de l'ampère, du kelvin et de la mole.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-11 (2017)
   identifier: 106-11
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -175,21 +188,22 @@ resolutions:
   - SI
   considerations: []
   actions:
-  - type: appoints
+  - type: authorizes
     date_effective: '2017-10-20'
     message: autorise le président du CIPM à transmettre au _Task Group on Fundamental
       Constants_ de CODATA son accord concernant la publication des valeurs numériques
       finales des constantes de définition.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-12 (2017)
   identifier: 106-12
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
   categories:
   - CGPM
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2017-10-20'
     message: "accepte le Projet de résolution stem:[\"A\"] révisé qui lui est présenté
       à sa 106^e^ session et qui inclut les amendements suivants :\n\n* modification
@@ -201,9 +215,10 @@ resolutions:
       lumineuse,\n* ajout d'un texte explicatif concernant les unités hertz, joule,
       coulomb, lumen et watt."
   actions: []
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-13 (2017)
   identifier: 106-13
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -219,9 +234,10 @@ resolutions:
       nombre d'États Membres et d'États et entités économiques associés mis à jour,
       et en supprimant simultanément l'Annexe 1 « La Convention du Mètre et ses organes
       ».
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-14 (2017)
   identifier: 106-14
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -235,9 +251,10 @@ resolutions:
       et encourage l'ensemble des laboratoires nationaux de métrologie à tirer parti
       des outils promotionnels développés.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-15 (2017)
   identifier: 106-15
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -251,9 +268,10 @@ resolutions:
     message: décide que les mises en pratique préparées par les Comités consultatifs
       pour chacune des unités de base du SI devront être présentées dans un format
       commun qui sera défini par l'équipe de rédaction du BIPM.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-16 (2017)
   identifier: 106-16
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -275,9 +293,10 @@ resolutions:
       ** _support the process of CMC review._
 
       Le document CIPM-D-01 sera mis à jour en conséquence.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-17 (2017)
   identifier: 106-17
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -305,6 +324,8 @@ resolutions:
       Le document CIPM-D-01 sera mis à jour en conséquence
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-18 (2017)
   identifier: 106-18
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -318,9 +339,10 @@ resolutions:
       consultatifs et l'importance de processus de prise de décision fondés sur le
       consensus, que le document CIPM-D-01 soit mis à jour afin qu'il n'y soit pas
       fait référence à une procédure de vote au sein des Comités consultatifs.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-19 (2017)
   identifier: 106-19
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -350,9 +372,10 @@ resolutions:
       *** Chunghwa Telecom Laboratory (Taipei chinois) : observateur.
       ** CCU
       *** LNE (France) : membre.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-20 (2017)
   identifier: 106-20
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -378,9 +401,10 @@ resolutions:
       La présente décision amende les critères adoptés par le CIPM lors de sa stem:[98^(e)] (2009) et stem:[99^(e)] (2010) réunions. +
        +
       Le CIPM réaffirme qu'un État Associé à la CGPM peut choisir d'accéder à la Convention du Mètre et devenir État Membre à tout moment s'il le souhaite.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-21 (2017)
   identifier: 106-21
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -395,9 +419,10 @@ resolutions:
       du Mètre et qui par conséquent paye une souscription qui a été augmentée, verra
       sa souscription réduite au montant minimum fixé pour un État Associé. La réduction
       entrera en vigueur en 2018 et ne sera pas rétroactive.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-22 (2017)
   identifier: 106-22
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -410,9 +435,10 @@ resolutions:
     date_effective: '2017-10-20'
     message: demande au BIPM de travailler avec tout État Associé concerné par la
       Décision 106 21 et en situation d'arriérés afin de conclure un accord de rééchelonnement.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-23 (2017)
   identifier: 106-23
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -425,9 +451,10 @@ resolutions:
     message: 'approuve la Stratégie du BIPM (2018) en modifiant le texte de la dernière
       ligne de la « mission » de la façon suivante : « l''amélioration de la qualité
       de vie et la préservation de l''environnement ».'
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-24 (2017)
   identifier: 106-24
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -439,9 +466,10 @@ resolutions:
     date_effective: '2017-10-20'
     message: décide de porter le niveau de réserves indiqué dans le Rapport financier
       du BIPM à 50 % de la dotation annuelle, avec effet immédiat.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-25 (2017)
   identifier: 106-25
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -455,9 +483,10 @@ resolutions:
       décide d'amender la Section B (page 4) du document « Critères et procédure pour l'élection du CIPM » (septembre 2014), en ajoutant la phrase suivante : +
        +
       « Chaque membre du CIPM doit être prêt à assumer le rôle de président d'un Comité consultatif ou d'un Sous-comité du CIPM ».
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-26 (2017)
   identifier: 106-26
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -472,9 +501,10 @@ resolutions:
       des clarifications au paragraphe « Étape 5 : Prise de fonctions du CIPM nouvellement
       élu » du document « Critères et procédure pour l''élection du CIPM » et de les
       soumettre pour discussion au CIPM lors de sa prochaine réunion.'
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-27 (2017)
   identifier: 106-27
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -483,7 +513,7 @@ resolutions:
   - Relations internationales
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '2017-10-20'
     message: charge le président du CIPM d'inviter chacune des organisations régionales
       de métrologie à envoyer un ou deux représentants à la prochaine réunion des
@@ -492,9 +522,10 @@ resolutions:
       MRA afin de s'assurer que les Comités consultatifs et les organisations régionales
       de métrologie ont une compréhension commune des questions techniques et de celles
       relatives aux systèmes qualité.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-28 (2017)
   identifier: 106-28
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
@@ -510,18 +541,18 @@ resolutions:
       Les membres du CIPM acceptent d'étudier les projets de documents et d'envoyer des commentaires et corrections à M. Bulygin d'ici mars 2018. M. Bulygin synthétisera les propositions des membres du CIPM et soumettra un document final au bureau du CIPM en juin 2018. +
        +
       Le CIPM décide que MM. Liew et Érard deviennent membres du Sous-comité sur l'attribution de distinctions.
-  subject: Le CIPM
 - dates:
   - '2017-10-20'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/106-29 (2017)
   identifier: 106-29
   url: https://www.bipm.org/fr/committees/ci/cipm/106-2017
   categories:
   - JCGM
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2017-10-20'
     message: accepte le document CIPM/17-23.1 comme sa position sur la révision du
       _Vocabulaire international de métrologie_ (VIM).
   actions: []
-  subject: Le CIPM

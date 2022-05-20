@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '2002-10-11'
+  subject: CIPM
+  type: recommendation
   title: Révision de la mise en pratique de la définition du mètre
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/91-2002/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM91.pdf.zip/cdeb2445-9362-2823-5aba-28a2c394b29b?version=1.4&download=true#page=90
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM91.pdf.zip/cdeb2445-9362-2823-5aba-28a2c394b29b
+  reference_name: Comptes rendus du 91e CIPM (2002), 2003
+  reference_page: 90
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures,
+  - message: Le Comité international des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '2002-10-11'
@@ -111,14 +113,16 @@ resolutions:
     *70*, 197-204] et dans_Metrologia_, 2003, *40*, 104-115."
 - dates:
   - '2002-10-11'
+  subject: CIPM
+  type: recommendation
   title: Équivalent de dose
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/91-2002/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM91.pdf.zip/cdeb2445-9362-2823-5aba-28a2c394b29b?version=1.4&download=true#page=102
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM91.pdf.zip/cdeb2445-9362-2823-5aba-28a2c394b29b
+  reference_name: Comptes rendus du 91e CIPM (2002), 2003
+  reference_page: 102
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures,
+  - message: Le Comité international des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2002-10-11'
@@ -161,14 +165,16 @@ resolutions:
     2005, *25*, 97-100]
 - dates:
   - '2002-10-11'
+  subject: CIPM
+  type: recommendation
   title: Constante d'Avogadro
   identifier: 3
   url: https://www.bipm.org/fr/committees/ci/cipm/91-2002/resolution-3
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM91.pdf.zip/cdeb2445-9362-2823-5aba-28a2c394b29b?version=1.4&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM91.pdf.zip/cdeb2445-9362-2823-5aba-28a2c394b29b
+  reference_name: Comptes rendus du 91e CIPM (2002), 2003
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures,
+  - message: Le Comité international des poids et mesures,
   considerations:
   - type: recognizing
     date_effective: '2002-10-11'

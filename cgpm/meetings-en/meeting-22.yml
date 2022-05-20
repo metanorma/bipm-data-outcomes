@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35777985/CGPM22-EN.pdf/fd67556f-5824-9
 resolutions:
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Links with other organizations
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=374
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 374
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -55,14 +57,16 @@ resolutions:
       domains where these form part of national rather than international responsibilities.
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Metrology and trade
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=374
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 374
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -88,15 +92,17 @@ resolutions:
       acceptance of this application as soon as possible."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: On the coordination of the initiatives to support the implementation of metrology,
     accreditation, and standadization in developing countries and economies
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=375
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 375
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -136,15 +142,17 @@ resolutions:
       of the Metre Convention."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Value and benefits of the Metre Convention for Member States and for Associates
     of the General Conference
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=376
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 376
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -179,15 +187,17 @@ resolutions:
       in appropriate international fora."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Report on evolving needs for metrology in trade, industry and society, and
     the role of the International Bureau of Weights and Measures
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=376
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 376
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -236,17 +246,18 @@ resolutions:
     date_effective: '2003-10-17'
     message: invites the International Committee if necessary, to update their 2002
       Report.
-  subject: International Committee
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: On the importance of the CIPM Mutual Recognition Arrangement
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=377
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 377
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: noting
     date_effective: '2003-10-17'
@@ -302,15 +313,17 @@ resolutions:
       Conference."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Involvement of national metrology institutes in the complete range of work
     of the Metre Convention
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=378
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 378
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -347,14 +360,16 @@ resolutions:
       calibration results that are traceable to the International System of Units.
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Revision of the <i>mise en pratique</i> of the definition of the metre
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=379
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 379
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: recalling / further recalling
     date_effective: '2003-10-17'
@@ -409,15 +424,17 @@ resolutions:
       second."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Requirements for cross-border transport of measurement standards, metrological
     equipment and reference materials
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=380
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 380
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -464,14 +481,16 @@ resolutions:
       and further *recommends* the International Committee to draw the attention of other international organizations having responsibilities in this area to this Resolution*.*
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Symbol for the decimal marker
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=381
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 381
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -527,21 +546,23 @@ resolutions:
       to facilitate reading; neither dots nor commas are ever inserted in the spaces
       between groups", as stated in Resolution 7 of the 9th CGPM, 1948.'
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2003-10-17'
     message: "*declares* that the symbol for the decimal marker shall be either the
       point on the line or the comma on the line,"
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Relationship between National Metrology Institutes and nationally recognized
     accreditation bodies
   identifier: 11
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=382
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 382
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -613,14 +634,16 @@ resolutions:
       actions under the CIPM MRA and the ILAC arrangement,
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Dotation of the BIPM for the years 2005 to 2008
   identifier: 12
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=383
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Proceedings of the 22nd CGPM (2003), 2005
+  reference_page: 383
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 22nd General Conference,
+  - message: The 22nd General Conference,
   considerations:
   - type: considering
     date_effective: '2003-10-17'

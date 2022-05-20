@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38095510/CGPM15.pdf/16dacb08-f90f-e7b5
 resolutions:
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Définition du mètre
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=103
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 103
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures,
+  - message: The 15th Conférence Générale des Poids et Mesures,
   considerations:
   - type: having / having regard
     date_effective: '1975-06-03'
@@ -27,7 +29,7 @@ resolutions:
       a precision and a reproducibility exceeding those of the krypton 86 radiation
       of the metre definition,"
   actions:
-  - type: decides
+  - type: judges
     date_effective: '1975-06-03'
     message: "*judges* nevertheless that it is premature to contemplate a change of
       the metre definition,"
@@ -41,14 +43,16 @@ resolutions:
       these researches."
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Recommended value for the speed of light
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=103
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 103
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures,
+  - message: The 15th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1975-06-03'
@@ -70,15 +74,17 @@ resolutions:
     in the data considered.
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Étalons du kilogramme (poursuite des études pour améliorer la précision des
     comparaisons)
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=103
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 103
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures,
+  - message: The 15th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1975-06-03'
@@ -102,14 +108,16 @@ resolutions:
       an intercomparison of the national mass standards."
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Temps atomique international (relations du BIH avec le CIPM et le BIPM)
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures,
+  - message: The 15th Conférence Générale des Poids et Mesures,
   considerations:
   - type: having / having regard
     date_effective: '1975-06-03'
@@ -133,14 +141,16 @@ resolutions:
       Board with a view to improving the accuracy and the continuity of TAI."
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Coordinated Universal Time (UTC)
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 15th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1975-06-03'
@@ -154,20 +164,22 @@ resolutions:
     message: "*notes* that this Coordinated Universal Time provides the basis of civil
       time, the use of which is legal in most countries,"
   actions:
-  - type: decides
+  - type: judges
     date_effective: '1975-06-03'
     message: "*judges* that this usage can be strongly endorsed."
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Étalons électriques (poursuite des recherches pour améliorer l'exactitude
     de la réalisation des unités)
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 15th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: having / having regard
     date_effective: '1975-06-03'
@@ -186,15 +198,17 @@ resolutions:
       direct current, but also of the electromagnetic quantities at high frequencies."
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Échelle internationale pratique de température de 1968 (Édition amendée de
     1975)
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=105
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 105
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 15th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: having / having regard
     date_effective: '1975-06-03'
@@ -214,14 +228,14 @@ resolutions:
       say having values in still closer agreement with thermodynamic temperatures."
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: 'SI units for ionizing radiation: becquerel'
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=105
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 105
   considerations:
   - type: considering
     date_effective: '1975-06-03'
@@ -239,14 +253,14 @@ resolutions:
       *_becquerel_*, symbol Bq, equal to one reciprocal second.
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: 'SI units for ionizing radiation: gray'
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=105
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 105
   considerations:
   - type: considering
     date_effective: '1975-06-03'
@@ -269,33 +283,44 @@ resolutions:
     be used to express specific energy imparted, kerma and absorbed dose index.
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: SI prefixes peta and exa
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=106
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 106
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 15th Conférence Générale des Poids et Mesures (CGPM),
   considerations: []
   actions:
   - type: decides
     date_effective: '1975-06-03'
-    message: "*decides* to add to the list of SI prefixes to be used for multiples,which
-      was adopted by the 11th CGPM, Resolution 12, paragraph 3, the two following
-      prefixes:\n\n|===\n.<| Multiplying factor .<| Prefix .<| Symbol\n\n3+| \n.<|
-      stem:[10^(15)] .<| peta .<| P\n.<| stem:[10^(18)] .<| exa .<| E\n\n|==="
+    message: |-
+      *decides* to add to the list of SI prefixes to be used for multiples,which was adopted by the 11th CGPM, Resolution 12, paragraph 3, the two following prefixes:
+
+      [width=100%]
+      |===
+      | Multiplying factor | Prefix | Symbol
+
+      | stem:[10^(15)] | peta | P
+      | stem:[10^(18)] | exa | E
+
+      |===
   notes: New prefixes were added by the 19th CGPM in 1991 (Resolution 4).
 - dates:
   - '1975-06-03'
+  subject: CGPM
+  type: resolution
   title: Dotations du BIPM pour la période 1977-1980
   identifier: 11
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4?version=1.1&download=true#page=106
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM15.pdf/6235b987-be6c-3f90-3fce-ba92ec805dc4
+  reference_name: Proceedings of the 15th CGPM (1975), 1976
+  reference_page: 106
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 15th Conférence Générale des Poids et Mesures,
+  - message: The 15th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1975-06-03'

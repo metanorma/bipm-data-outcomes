@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1997-09-25'
+  subject: CIPM
+  type: recommendation
   title: Revision of the practical realization of the definition of the metre
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/86-1997/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/86-1997/resolution-1#page=243
+  reference_name: Proceedings of the 86th CIPM (1997), 1998
+  reference_page: 243
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1997-09-25'
@@ -299,14 +301,16 @@ resolutions:
       with a relative standard uncertainty of stem:[4 * 10^(-10)], apply to the radiation of a dye laser (or frequency-doubled He-Ne laser) stabilized with an iodine ceIl, within or external to the laser, having a cold-finger temperature of stem:[(6  +-  2)] °C.
 - dates:
   - '1997-09-25'
+  subject: CIPM
+  type: recommendation
   title: Metrology in chemistry
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/86-1997/resolution-2
   reference: https://www.bipm.org/en/committees/ci/cipm/86-1997/resolution-2#page=253
+  reference_name: Proceedings of the 86th CIPM (1997), 1998
+  reference_page: 253
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1997-09-25'
@@ -335,4 +339,3 @@ resolutions:
       with the Consultative Committee for Amount of Substance, to define the areas
       of priority and essential international comparisons which are key to the traceability
       of measurements in chemistry, both world-wide and within regions.
-  subject: national metrology institutes

@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1992-10-01'
+  subject: CIPM
+  type: recommendation
   title: Reconnaissance mondiale des résultats de comparaisons d'étalons de mesure
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-1
   reference: https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-1#page=21
+  reference_name: Comptes rendus du 81e CIPM (1992), 1993
+  reference_page: 21
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '1992-10-01'
@@ -56,14 +58,16 @@ resolutions:
       qu'il puisse les publier ou y faire référence.
 - dates:
   - '1992-10-01'
+  subject: CIPM
+  type: recommendation
   title: Besoins de recherches métrologiques à long terme
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-2
   reference: https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-2#page=22
+  reference_name: Comptes rendus du 81e CIPM (1992), 1993
+  reference_page: 22
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '1992-10-01'
@@ -91,17 +95,18 @@ resolutions:
     message: recommande que les laboratoires nationaux informent régulièrement le
       Bureau international des poids et mesures des résultats des travaux liés à la
       métrologie fondamentale.
-  subject: laboratoires nationaux
 - dates:
   - '1992-10-01'
+  subject: CIPM
+  type: recommendation
   title: Révision de la mise en pratique de la définition du mètre
   identifier: 3
   url: https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-3
   reference: https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-3#page=23
+  reference_name: Comptes rendus du 81e CIPM (1992), 1993
+  reference_page: 23
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures,
+  - message: Le Comité international des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1992-10-01'
@@ -239,4 +244,3 @@ resolutions:
       avec une incertitude globale relative estimée de stem:[ +-  4 * 10^(-9)] [égale à trois fois l'écart-type estimé à stem:[1","3 * 10^(-9)]en valeur relative], s'applique à la radiation émise par une lampe utilisée dans les conditions recommandées par le CIPM (_BlPM Proc.-Verb. Corn. Int. Poids et Mesures_, 1960, *28*, 71-72 et _BlPM Comptes Rendus lle Conf. Gén. Poids et Mesures_, 1960, 85)].
 
       2.2. Les radiations des atomes de ^86^Kr, ^198^Hg et ^114^Cd recommendées par le CIPM en 1963 (_BIPM Corn. Cons. Déf. Mètre_, 1962, *3*, 18-19 et _BIPM Proc. Verb. Com. Int. Poids et Mesures_, 1963, *52*, 26-27), avec les valeurs indiquées pour leur longueur d'onde et pour l'incertitude correspondante.
-  subject: RECOMMANDÉES, 1992

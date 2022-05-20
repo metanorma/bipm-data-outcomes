@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35655701/CGPM25.pdf/ab4ada95-a815-caf8
 resolutions:
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: Sur la révision à venir du Système international d'unités, le SI
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/25-2014/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=177
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Comptes rendus de la 25e CGPM (2014), 2015
+  reference_page: 177
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,
   considerations:
   - type: recalling / further recalling
     date_effective: '2014-11-20'
@@ -45,14 +47,16 @@ resolutions:
   actions: []
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: Sur l'élection du Comité international des poids et mesures
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/25-2014/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=179
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Comptes rendus de la 25e CGPM (2014), 2015
+  reference_page: 179
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,
+  - message: La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,
   considerations:
   - type: considering
     date_effective: '2014-11-20'
@@ -131,14 +135,16 @@ resolutions:
       du CIPM.
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: Sur la Caisse de retraite et de prévoyance du BIPM
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/25-2014/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=181
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Comptes rendus de la 25e CGPM (2014), 2015
+  reference_page: 181
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,\n\n "
+  - message: "La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,\n\n "
   considerations:
   - type: recalling / further recalling
     date_effective: '2014-11-20'
@@ -208,18 +214,19 @@ resolutions:
       études actuarielles sur les actifs et les passifs de la Caisse de retraite et
       de prévoyance du BIPM, par le biais des publications financières habituelles
       du CIPM et lors de la prochaine réunion de la CGPM.
-  subject: CIPM
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international des poids et mesures pourles années 2016
     à 2019
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/25-2014/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=183
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Comptes rendus de la 25e CGPM (2014), 2015
+  reference_page: 183
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,\n\n "
+  - message: "La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,\n\n "
   considerations:
   - type: considering
     date_effective: '2014-11-20'
@@ -281,14 +288,16 @@ resolutions:
       métrologique bien développée.
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: Sur l'importance de l'Arrangement de reconnaissance mutuelle du CIPM
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/25-2014/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=184
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Comptes rendus de la 25e CGPM (2014), 2015
+  reference_page: 184
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,\n\n "
+  - message: "La Conférence générale des poids et mesures (CGPM), à sa 25^e^ réunion,\n\n "
   considerations:
   - type: considering
     date_effective: '2014-11-20'

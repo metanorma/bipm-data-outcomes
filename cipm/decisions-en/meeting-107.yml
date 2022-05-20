@@ -7,19 +7,22 @@ metadata:
 resolutions:
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-1 (2018)
   identifier: 107-1
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
   categories:
   - Meetings
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2018-06-22'
     message: accepted the minutes of the 106th meeting of the CIPM as a true record.
   actions: []
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-2 (2018)
   identifier: 107-2
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -33,9 +36,10 @@ resolutions:
       within which the advisory opinion of the Appeals Committee is delivered from
       45 to 60 days if exceptional or unforeseen circumstances warrant so. .
   actions: []
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-3 (2018)
   identifier: 107-3
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -49,9 +53,10 @@ resolutions:
       and of the BIPM Pension and Provident Fund which were reviewed by the CIPM Sub
       Committee on Finance in June 2018. The CIPM granted the BIPM Director quietus
       for the 2017 exercise.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-4 (2018)
   identifier: 107-4
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -62,9 +67,10 @@ resolutions:
   - type: approves
     date_effective: '2018-06-22'
     message: approved the budget proposed by the Director for 2019.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-5 (2018)
   identifier: 107-5
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -83,9 +89,10 @@ resolutions:
       Venezuela in accordance with Article 6 of the Regulations annexed to the Metre
       Convention.
   actions: []
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-6 (2018)
   identifier: 107-6
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -102,9 +109,10 @@ resolutions:
       The CIPM recalled the decision in 2008 of the Governing Body of the International Labour Organization (ILO) that observed that the BIPM, as an intergovernmental organization established by treaty, recognized the jurisdiction of the ILO Administrative Tribunal (ILOAT). The CIPM recognized the legal status of the BIPM as an intergovernmental organization and instructed the BIPM Director to continue to ensure as much as possible the legal certainty necessary for the implementation of its decisions. +
        +
       The CIPM recalled decision CIPM/104-48 and confirmed that informal discussions about the terminology used to refer to the BIPM serve to diminish the reputation of the organization and have the potential to damage confidence in its legal certainty. It confirmed that such discussions are closed.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-7 (2018)
   identifier: 107-7
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -117,9 +125,10 @@ resolutions:
       of the BIPM Pension Fund and re-iterated its commitment to achieve its long-term
       financial stability.
   actions: []
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-8 (2018)
   identifier: 107-8
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -133,9 +142,10 @@ resolutions:
       a range of options for the BIPM staff and operations, in the case that the planned
       measures to achieve long-term financial stability cannot be implemented in an
       effective and timely manner.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-9 (2018)
   identifier: 107-9
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -147,9 +157,10 @@ resolutions:
     date_effective: '2018-06-22'
     message: decided to review the purpose and agenda of the meeting of the CC Presidents
       at the next meeting of the CIPM.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-10 (2018)
   identifier: 107-10
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -161,9 +172,10 @@ resolutions:
     date_effective: '2018-06-22'
     message: approved the proposal of the CCQM to establish a CCQM Working Group on
       Isotope Ratio Measurement.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-11 (2018)
   identifier: 107-11
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -175,9 +187,10 @@ resolutions:
     date_effective: '2018-06-22'
     message: asked the BIPM Director and Legal Advisor to explore options to formalize
       the BIPM liaison with the CODATA Task Group on Fundamental Constants.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-12 (2018)
   identifier: 107-12
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -197,6 +210,8 @@ resolutions:
   actions: []
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-13 (2018)
   identifier: 107-13
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -210,9 +225,10 @@ resolutions:
     message: agreed with the proposal from the CCU President to establish a Task Group
       to review further the issue concerning the definition of the term "unit" in
       the SI Brochure.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-14 (2018)
   identifier: 107-14
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -227,9 +243,10 @@ resolutions:
       The CIPM decided that when any Chair is not from a Member or Observer organization
       of the relevant Consultative Committee then he/she will be formally invited
       to participate as a guest of the President of the Consultative Committee.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-15 (2018)
   identifier: 107-15
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -246,9 +263,10 @@ resolutions:
       Consensus - " General agreement, characterized by the absence of sustained opposition to substantial issues by any important part of the concerned interests and by a process that involves seeking to take into account the views of all parties concerned and to reconcile any conflicting arguments. Consensus need not imply unanimity." +
        +
       Document CIPM-D-01 will be updated accordingly.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-16 (2018)
   identifier: 107-16
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -259,23 +277,25 @@ resolutions:
   - type: approves
     date_effective: '2018-06-22'
     message: agreed the revised version of CIPM-D-01.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-17 (2018)
   identifier: 107-17
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
   categories:
   - CCs and WGs
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2018-06-22'
     message: accepted the proposal that GUM (Poland) and NIS (Egypt) should become
       observers at the CCL.
   actions: []
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-18 (2018)
   identifier: 107-18
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -289,9 +309,10 @@ resolutions:
       and Department Directors, and asked them to reconcile the scope of the activities
       with the long-term financial plans for the BIPM and the expected level of the
       dotation.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-19 (2018)
   identifier: 107-19
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -302,9 +323,10 @@ resolutions:
   - type: approves
     date_effective: '2018-06-22'
     message: approved the attendance policy for the 26th meeting of the CGPM.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-20 (2018)
   identifier: 107-20
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -317,9 +339,10 @@ resolutions:
     message: agreed on a "recommended list" of candidates for election to the CIPM
       and asked the CIPM Secretary to send it to the Chair of the Committee for CIPM
       Election.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-21 (2018)
   identifier: 107-21
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -330,9 +353,10 @@ resolutions:
   - type: approves
     date_effective: '2018-06-22'
     message: approved the Guidelines for Election of the CIPM bureau.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-22 (2018)
   identifier: 107-22
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -346,9 +370,10 @@ resolutions:
       from the Review of the CIPM MRA had completed its tasks and therefore is closed.
       It thanked all who had participated for their contributions to the success of
       its work.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-23 (2018)
   identifier: 107-23
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -363,9 +388,10 @@ resolutions:
       and appointed Dr Liew as the Chair. Drs Bulygin, Castelazo, Laiz, Rastello,
       Sené and Milton agreed to be members. Dr Liew will circulate a draft name and
       terms of reference for the group to the CIPM by the end of August 2018.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-24 (2018)
   identifier: 107-24
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -378,9 +404,10 @@ resolutions:
     message: thanked the Chair of the Sub-Committee for Awards for his report and
       asked him to take account of the comments made by the CIPM and refine the proposals
       of the Sub Committee for the next meeting of the CIPM.
-  subject: The CIPM
 - dates:
   - '2018-06-22'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/107-25 (2018)
   identifier: 107-25
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
@@ -396,4 +423,3 @@ resolutions:
       is merit in the proposed definition and asked WG2 to keep it informed of future
       developments with the definition.
   actions: []
-  subject: The CIPM

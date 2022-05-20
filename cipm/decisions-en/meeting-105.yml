@@ -7,20 +7,23 @@ metadata:
 resolutions:
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-1 (2016)
   identifier: 105-1
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
   categories:
   - Meetings
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2016-10-28'
     message: accepted the minutes of Session II of the 104th meeting of the CIPM as
       a true record.
   actions: []
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-2 (2016)
   identifier: 105-2
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -34,9 +37,10 @@ resolutions:
       the 2016 Finkelstein medal of the Institute of Measurement and Control. This
       award is made on an annual basis to a person who has made outstanding contributions
       to measurement science at a global level.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-3 (2016)
   identifier: 105-3
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -49,9 +53,10 @@ resolutions:
     message: confirmed its approval of the audited financial statements of the BIPM
       and of the BIPM Pension and Provident Fund which it had approved by correspondence
       in July 2016. The CIPM granted the BIPM Director quietus for the 2015 exercise.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-4 (2016)
   identifier: 105-4
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -62,9 +67,10 @@ resolutions:
   - type: approves
     date_effective: '2016-10-28'
     message: approved the budget proposed by the Director for 2017 (document CIPM/16-23).
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-5 (2016)
   identifier: 105-5
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -80,9 +86,10 @@ resolutions:
 
       The modelling assumed that all staff joining the BIPM from 1 January 2017 will have reduced benefits and contribute at a level of 15 % of salary.
   actions: []
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-6 (2016)
   identifier: 105-6
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -96,9 +103,10 @@ resolutions:
       consistent with the proposals of the Mercer report of 29 September 2016 and
       requested the Director of the BIPM to send the proposals to the CCE for their
       advisory opinion.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-7 (2016)
   identifier: 105-7
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -117,6 +125,8 @@ resolutions:
       needed to address the long-term financial stability of the Fund.
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-8 (2016)
   identifier: 105-8
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -131,9 +141,10 @@ resolutions:
       expert on the PFAB. The CIPM decided to ask Mr Thomas Grenon, Director of the
       LNE, to act as an external expert to the PFAB, and requested the CIPM President
       to write with a formal invitation.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-9 (2016)
   identifier: 105-9
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -146,9 +157,10 @@ resolutions:
     message: recommended engagement of the pensioners with the PFAB and invited the
       Director of the BIPM, the President of the PFAB and the BIPM Legal Advisor to
       develop a proposal.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-10 (2016)
   identifier: 105-10
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -163,9 +175,10 @@ resolutions:
       welcomed the recommendations of the Working Group on the Implementation and Operation of the CIPM MRA and thanked the participants for their contributions. The CIPM agreed to establish an _ad hoc_ Working Group to oversee the implementation of the recommendations with agreed terms of reference.
 
       The CIPM appointed Dr Inglis (Chair), Dr Louw, Dr Rietveld, Dr Usuda, Dr Castelazo, Dr May and Mr Henson as members of the _ad hoc_ Working Group.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-11 (2016)
   identifier: 105-11
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -180,9 +193,10 @@ resolutions:
       to other Consultative Committees. The CIPM requested the Presidents of these
       relevant Consultative Committees to submit the examples in advance of the meeting
       of the Consultative Committee Presidents (12 and 13 June 2017).
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-12 (2016)
   identifier: 105-12
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -206,6 +220,8 @@ resolutions:
   actions: []
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-13 (2016)
   identifier: 105-13
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -217,9 +233,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: recommended that the date on which the redefinition of the SI shall come
       into force be 20 May 2019 (World Metrology Day).
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-14 (2016)
   identifier: 105-14
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -231,9 +248,10 @@ resolutions:
     message: took note of the intention of IUPAC to propose a revised wording for
       the new definition of the mole.
   actions: []
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-15 (2016)
   identifier: 105-15
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -246,9 +264,10 @@ resolutions:
     message: agreed with the proposal made by the CCU regarding the number of digits
       to be kept in the numerical values of the defining constants (case 3 under the
       conditions mentioned in the CCU report).
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-16 (2016)
   identifier: 105-16
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -261,9 +280,10 @@ resolutions:
     message: agreed to treat the unit one, symbol 1, in the 9th Edition of the SI
       Brochure as in the 8th Edition as the neutral element of any system of units
       but avoid calling it a derived or a base unit.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-17 (2016)
   identifier: 105-17
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -277,9 +297,10 @@ resolutions:
       Brochure in compliance with the CGPM Resolutions in force (for example, Resolution
       12 of the 11th CGPM (1960) and https://www.bipm.org/en/committees/ci/cipm/en/CGPM/db/20/8/[Resolution
       8 of the 20th CGPM (1995)]).
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-18 (2016)
   identifier: 105-18
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -295,9 +316,10 @@ resolutions:
       (corresponding to Appendix 3 in the 8th edition of the SI Brochure) for details.
       The sentences should be forwarded to the CCU Executive Secretary before 1 January
       2017.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-19 (2016)
   identifier: 105-19
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -305,12 +327,14 @@ resolutions:
   - SI
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2016-10-28'
     message: Appendix 1 of the 8th SI Brochure shall be updated by the BIPM and maintained
       online in the 9th SI Brochure.
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-20 (2016)
   identifier: 105-20
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -322,9 +346,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: decided that the definitions in the draft of the 9th SI Brochure and
       in Draft Resolution 1 shall not contain the term "implicitly".
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-21 (2016)
   identifier: 105-21
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -340,9 +365,10 @@ resolutions:
       The edited version will be approved by the President of the CCU supported by Dr Quinn. The fully edited Brochure shall be brought to the CCU in September 2017 and to the CIPM in October 2017 for final approval.
 
       The CIPM considered that the consultation among the stakeholders has been completed. Nevertheless, if matters of substance are raised, the CCU President shall bring them to the CIPM.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-22 (2016)
   identifier: 105-22
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -356,9 +382,10 @@ resolutions:
     message: requested from all Consultative Committees an update of the _mises en
       pratique_ (current online Appendix 2) to be ready on 31 July 2017. This Appendix
       will continue to be an online Appendix in the context of the new Brochure.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-23 (2016)
   identifier: 105-23
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -370,9 +397,10 @@ resolutions:
   - type: approves
     date_effective: '2016-10-28'
     message: approved Draft Resolution 1 proposed by the CCU for the CGPM.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-24 (2016)
   identifier: 105-24
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -388,9 +416,10 @@ resolutions:
       Group for the Promotion of the SI]. ILAC, ISO, OIML, IEC and CIE were welcomed
       as observers. The CIPM decided that only Member State NMIs and CCs can be members
       of the Task Group.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-25 (2016)
   identifier: 105-25
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -407,9 +436,10 @@ resolutions:
       for this action. The statement will be considered for inclusion in the final
       draft of the 9th edition of the SI Brochure. The statement should be sent to
       the CCU President by the end of July 2017.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-26 (2016)
   identifier: 105-26
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -425,9 +455,10 @@ resolutions:
       charged with establishing national standards in the field to be an Observer
       at the applicable Consultative Committee and to send one person (only) and following
       their request for each meeting. Document CIPM-D-01 will be updated accordingly.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-27 (2016)
   identifier: 105-27
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -445,9 +476,10 @@ resolutions:
       * Named individuals will be "guests" or "experts" and will not be offered membership.
 
       Document CIPM-D-01 will be updated accordingly.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-28 (2016)
   identifier: 105-28
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -460,9 +492,10 @@ resolutions:
     message: decided that the CCU will adopt the same criteria for participation as
       the other CCs for all meetings in 2018 and beyond. Document CIPM-D-01 will be
       updated accordingly.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-29 (2016)
   identifier: 105-29
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -474,9 +507,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: decided that all Consultative Committees will review whether their Members
       and Observers fully meet the criteria given in CIPM-D-01.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-30 (2016)
   identifier: 105-30
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -490,9 +524,10 @@ resolutions:
       agreed on the proposal from the CCRI President to align the criteria for CCRI membership in order to align them with the rules that apply to all Consultative Committees.
 
       In preparation for the next meeting in 2017 and to ensure a wide representation of the different CCRI Sections, the CIPM accepted the proposal from the President of CCRI to invite the countries with membership of all three Sections of CCRI as Members of CCRI, and to inform all other institutes with membership of one or more of the Sections, that they can apply for membership of the CCRI. The CIPM provisionally approved the list of proposed Members, subject to the acceptance by the prospective Members.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-31 (2016)
   identifier: 105-31
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -500,7 +535,7 @@ resolutions:
   - CCs and WGs
   - Member States and Associates
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2016-10-28'
     message: |-
       accepted the following changes to the membership and observership of the Consultative Committees:
@@ -529,9 +564,10 @@ resolutions:
       ** KRISS (Republic of Korea): Member
       ** METAS (Switzerland): Member
   actions: []
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-32 (2016)
   identifier: 105-32
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -548,9 +584,10 @@ resolutions:
       4 "On the status of Associate State of the General Conference"] adopted by the
       CGPM at its 24th meeting, and the implications regarding the increase in subscriptions
       should any of the States choose to remain as an Associate of the CGPM.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-33 (2016)
   identifier: 105-33
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -562,9 +599,10 @@ resolutions:
     date_effective: '2016-10-28'
     message: welcomed and approved the revision submitted by the Director of the BIPM
       of the Vision, Mission and Objectives of the BIPM.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-34 (2016)
   identifier: 105-34
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -580,6 +618,8 @@ resolutions:
       for Election of the CIPM (CEC) for their approval.
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-35 (2016)
   identifier: 105-35
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -591,9 +631,10 @@ resolutions:
   - type: appoints
     date_effective: '2016-10-28'
     message: appointed Dr Castelazo as President of the CCL.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-36 (2016)
   identifier: 105-36
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -606,9 +647,10 @@ resolutions:
     message: appointed Dr Bulygin as Chair of the CIPM Sub-Committee on Awards and
       asked him to prepare Terms of Reference and a scope for a suitable awards programme
       for presentation to the next meeting of the CIPM.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-37 (2016)
   identifier: 105-37
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -622,9 +664,10 @@ resolutions:
     message: requested Dr May to re-form the CIPM _ad hoc_ Working Group on Membership
       and to develop a proposal for appointing Vice-Presidents to the Consultative
       Committees.
-  subject: The CIPM
 - dates:
   - '2016-10-28'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/105-38 (2016)
   identifier: 105-38
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
@@ -638,4 +681,3 @@ resolutions:
     message: agreed that the 26th meeting of the CGPM will be held at the Palais des
       Congrès de Versailles on 13-16 November 2018 with informal meetings planned
       on 12 November.
-  subject: The CIPM

@@ -8,15 +8,17 @@ pdf: https://www.bipm.org/documents/20126/38095537/CGPM12.pdf/95525abd-29ba-6111
 resolutions:
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Section des radiations ionisantes du Bureau international ; troisième dotation
     exceptionnelle
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=91
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 91
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -36,15 +38,17 @@ resolutions:
       tâche selon les instructions de la Résolution 1 de la Onzième Conférence générale."
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Section des radiations ionisantes du Bureau international ; troisième dotation
     exceptionnelle
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=91
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 91
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -63,14 +67,16 @@ resolutions:
       règles que la dotation ordinaire annuelle et payable dès que possible."
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=91
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 91
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -96,21 +102,23 @@ resolutions:
     message: "*lance* un appel à tous les États adhérents de la Convention du Mètre
       de faire tout ce qui dépend d'eux pour un travail fructueux du Comité international
       des poids et mesures et du Bureau international, et"
-  - type: appoints
+  - type: charges
     date_effective: '1964-10-13'
     message: "*charge* le Comité international des poids et mesures de prendre toutes
       les mesures nécessaires à l'expansion ultérieure du Système Métrique et à l'adhésion
       de nouveaux États."
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=92
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 92
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -147,14 +155,16 @@ resolutions:
       en 1968\n\n|===\n\n "
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Étalon atomique de fréquence
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=93
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 93
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -174,7 +184,7 @@ resolutions:
       les mesures physiques de temps sur des étalons atomiques ou moléculaires de
       fréquence,"
   actions:
-  - type: appoints
+  - type: empowers
     date_effective: '1964-10-13'
     message: "*habilite* le Comité international des poids et mesures à désigner les
       étalons atomiques ou moléculaires de fréquence à employer temporairement,"
@@ -184,14 +194,16 @@ resolutions:
       à poursuivre les études utiles à une nouvelle définition de la seconde."
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Litre
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=93
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 93
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -199,7 +211,7 @@ resolutions:
       en 1960 et la Recommandation adoptée par le Comité international des poids et
       mesures à sa session de 1961,
   actions:
-  - type: decides
+  - type: abrogates
     date_effective: '1964-10-13'
     message: |-
       *abroge*
@@ -208,14 +220,16 @@ resolutions:
        que le nom de litre ne soit pas utilisé pour exprimer les résultats des mesures de volume de haute précision.
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Curie
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=94
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 94
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -235,35 +249,47 @@ resolutions:
     8) pour l''unité SI d''activité : 1 Ci = stem:[3.7 * 10^(10)] Bq.'
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Préfixes SI femto et atto
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=94
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 94
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations: []
   actions:
   - type: decides
     date_effective: '1964-10-13'
-    message: "*décide* d'ajouter à la liste des préfixes pour la formation des noms
-      des multiples et des sous-multiples des unités, adoptée par la Onzième Conférence
-      générale, Résolution 12, paragraphe 3, les deux nouveaux préfixes suivants :\n\n|===\n.a|
-      Facteur par lequel +\n l'unité est multipliée\n.>| Préfixe .>| Symbole\n\n3+|
-      \n.| stem:[10^(-15)] .>| femto .>| f\n.>| stem:[10^(-18)] .>| atto .>| a\n\n|==="
+    message: |-
+      *décide* d'ajouter à la liste des préfixes pour la formation des noms des multiples et des sous-multiples des unités, adoptée par la Onzième Conférence générale, Résolution 12, paragraphe 3, les deux nouveaux préfixes suivants :
+
+      [width=100%]
+      |===
+      a| Facteur par lequel +
+       l'unité est multipliée
+      | Préfixe | Symbole
+
+      .>| stem:[10^(-15)] .>| femto .>| f
+      .>| stem:[10^(-18)] .>| atto .>| a
+
+      |===
   notes: De nouveaux préfixes furent ajoutés par la 15^e^ CGPM en 1975 (Résolution
     10).
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Coefficient gyromagnétique du proton (poursuite des études)
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=94
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 94
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'
@@ -285,14 +311,16 @@ resolutions:
       de la reproductibilité de l'ampère, unité de base du Système international d'unités.
 - dates:
   - '1964-10-13'
+  subject: CGPM
+  type: resolution
   title: Échelle internationale pratique de température (recherches à effectuer)
   identifier: 10
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c?version=1.1&download=true#page=94
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM12.pdf/ff886c51-c6a2-589d-a416-58f97d26016c
+  reference_name: Comptes rendus de la 12e CGPM (1964), 1965
+  reference_page: 94
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Douzième Conférence générale des poids et mesures,
+  - message: La Douzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1964-10-13'

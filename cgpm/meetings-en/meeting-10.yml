@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38095555/CGPM10.pdf/0679a7d9-28ac-9880
 resolutions:
 - dates:
   - '1954-10-14'
+  subject: CGPM
+  type: resolution
   title: Définition du mètre
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7?version=1.1&download=true#page=78
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7
+  reference_name: Proceedings of the 10th CGPM (1954), 1956
+  reference_page: 78
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dixième Conférence générale des poids et mesures,
+  - message: La Dixième Conférence générale des poids et mesures,
   considerations:
   - type: having / having regard
     date_effective: '1954-10-14'
@@ -43,14 +45,16 @@ resolutions:
     message: "*et décide* de ne pas encore changer la définition du mètre."
 - dates:
   - '1954-10-14'
+  subject: CGPM
+  type: resolution
   title: Retraçage des mètres
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7?version=1.1&download=true#page=79
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7
+  reference_name: Proceedings of the 10th CGPM (1954), 1956
+  reference_page: 79
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dixième Conférence générale des poids et mesures,
+  - message: La Dixième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1954-10-14'
@@ -65,14 +69,16 @@ resolutions:
       les faisant munir d'un nouveau tracé."
 - dates:
   - '1954-10-14'
+  subject: CGPM
+  type: resolution
   title: Definition of the thermodynamic temperature scale
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7?version=1.1&download=true#page=79
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7
+  reference_name: Proceedings of the 10th CGPM (1954), 1956
+  reference_page: 79
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 10th Conférence Générale des Poids et Mesures
+  - message: The 10th Conférence Générale des Poids et Mesures
   considerations: []
   actions:
   - type: decides
@@ -83,14 +89,16 @@ resolutions:
   notes: The 13th CGPM in 1967 explicitly defined the kelvin (Resolution 4).
 - dates:
   - '1954-10-14'
+  subject: CGPM
+  type: resolution
   title: Definition of the standard atmosphere
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7?version=1.1&download=true#page=79
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7
+  reference_name: Proceedings of the 10th CGPM (1954), 1956
+  reference_page: 79
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 10th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 10th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: having / having regard
     date_effective: '1954-10-14'
@@ -99,7 +107,7 @@ resolutions:
       to believe that this definition of the standard atmosphere was valid only for
       accurate work in thermometry,
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1954-10-14'
     message: |-
       *declares* that it adopts, for general use, the definition:
@@ -108,14 +116,16 @@ resolutions:
        i.e., 101 325 newtons per square metre.
 - dates:
   - '1954-10-14'
+  subject: CGPM
+  type: resolution
   title: Définition de l'unité de temps
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7?version=1.1&download=true#page=80
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7
+  reference_name: Proceedings of the 10th CGPM (1954), 1956
+  reference_page: 80
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Dixième Conférence générale des poids et mesures,
+  - message: La Dixième Conférence générale des poids et mesures,
   considerations:
   - type: recognizing
     date_effective: '1954-10-14'
@@ -131,14 +141,16 @@ resolutions:
       sur ce point."
 - dates:
   - '1954-10-14'
+  subject: CGPM
+  type: resolution
   title: Practical system of units
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7?version=1.1&download=true#page=80
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM10.pdf/cee1e26a-3a4c-221b-ce37-57428adf5ac7
+  reference_name: Proceedings of the 10th CGPM (1954), 1956
+  reference_page: 80
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: In accordance with the wish expressed by the 9th Conférence Générale
+  - message: In accordance with the wish expressed by the 9th Conférence Générale
       des Poids et Mesures (CGPM) in its Resolution 6 concerning the establishment
       of a practical system of units of measurement for international use, the 10th
       CGPM

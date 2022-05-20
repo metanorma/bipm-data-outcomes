@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '2001-10-12'
+  subject: CIPM
+  type: recommendation
   title: The neper and the bel
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/90-2001/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM90.pdf.zip/7f2b0d50-feef-ef64-83fa-7ee56da888ad?version=1.6&download=true#page=153
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM90.pdf.zip/7f2b0d50-feef-ef64-83fa-7ee56da888ad
+  reference_name: Proceedings of the 90th CIPM (2001), 2002
+  reference_page: 153
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures,
+  - message: The International Committee for Weights and Measures,
   considerations:
   - type: considering
     date_effective: '2001-10-12'
@@ -70,14 +72,14 @@ resolutions:
       level defined using natural logarithms."
 - dates:
   - '2001-10-12'
+  subject: CIPM
+  type: recommendation
   title: '"SI units" and "units of the SI"'
   identifier: 2001
   url: https://www.bipm.org/en/committees/ci/cipm/90-2001/resolution-
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM90.pdf.zip/7f2b0d50-feef-ef64-83fa-7ee56da888ad?version=1.6&download=true#page=120
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM90.pdf.zip/7f2b0d50-feef-ef64-83fa-7ee56da888ad
+  reference_name: Proceedings of the 90th CIPM (2001), 2002
+  reference_page: 120
   considerations: []
   actions:
   - type: approves

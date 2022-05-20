@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-1 (2015)
   identifier: 104-1
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -18,9 +20,10 @@ resolutions:
     date_effective: '2015-03-10'
     message: approuve les procès-verbaux de la seconde partie de la 103e session du
       CIPM.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-2 (2015)
   identifier: 104-2
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -28,12 +31,13 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2015-03-10'
     message: élit par acclamation B. Inglis comme président du CIPM.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-3 (2015)
   identifier: 104-3
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -41,16 +45,17 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2015-03-10'
     message: |-
       élit au scrutin secret :
 
       * J. McLaren comme secrétaire du CIPM ;
       * W.E. May et J. Ullrich comme vice-présidents du CIPM.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-4 (2015)
   identifier: 104-4
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -64,9 +69,10 @@ resolutions:
       Committee Presidents » et « Good Practices for Selection of Consultative Committee
       Working Group Chairpersons and Working Group Deputy Chairpersons » en date du
       9 mars 2015.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-5 (2015)
   identifier: 104-5
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -81,9 +87,10 @@ resolutions:
       comme « Recommandation du CIPM aux laboratoires nationaux de métrologie sur
       la façon de gérer les corrections apportées à l'unité de masse telle que maintenue
       par le BIPM ».
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-6 (2015)
   identifier: 104-6
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -94,9 +101,10 @@ resolutions:
   - type: approves
     date_effective: '2015-03-10'
     message: approuve le Programme de travail du BIPM pour les années 2016 à 2019.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-7 (2015)
   identifier: 104-7
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -109,9 +117,10 @@ resolutions:
     message: accueille favorablement la proposition du BIPM concernant un Programme
       de renforcement des capacités et de transfert des connaissances en métrologie
       qu'il soutient à l'unanimité.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-8 (2015)
   identifier: 104-8
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -126,9 +135,10 @@ resolutions:
       la situation un an avant la publication de la Convocation de la CGPM à sa 26^e^
       réunion (c'est à dire au début de 2017) afin de soumettre le cas aux États Membres
       suffisamment à l'avance.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-9 (2015)
   identifier: 104-9
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -143,9 +153,10 @@ resolutions:
       des constantes fondamentales qui servira à fixer les valeurs des constantes
       de définition du nouvel SI devront être acceptés pour publication au plus tard
       le 1^er^ juillet 2017.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-10 (2015)
   identifier: 104-10
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -161,9 +172,10 @@ resolutions:
       demande de contacter le KRISS, le LNE, le NIST, le NMIJ, le NPL et la PTB afin
       qu'ils nomment des experts en relations publiques qui participeront à un groupe
       de travail dédié.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-11 (2015)
   identifier: 104-11
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -171,14 +183,15 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2015-03-10'
     message: prendra contact avec F. Weritz, présidente de la Commission pour l'élection
       du CIPM mise en place par la CGPM, afin de l'informer de l'élection des nouveaux
       membres du bureau du CIPM.
-  subject: Le secrétaire du CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-12 (2015)
   identifier: 104-12
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -186,14 +199,15 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2015-03-10'
     message: nomme R. Kaarls membre honoraire du CIPM en reconnaissance de la contribution
       exceptionnelle qu'il a apportée aux activités du CIPM. Le Président du CIPM
       informera R. Kaarls de cette nomination.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-13 (2015)
   identifier: 104-13
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -205,9 +219,10 @@ resolutions:
     date_effective: '2015-03-10'
     message: adopte la position proposée dans le Document de travail CIPM/15 04 sur
       la révision de la norme ISO/IEC 17025 comme position du CIPM.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-14 (2015)
   identifier: 104-14
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -219,9 +234,10 @@ resolutions:
     date_effective: '2015-03-10'
     message: adopte la position proposée dans le Document de travail CIPM/15 11 sur
       la rédaction de la norme ISO 17034 comme position du CIPM.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-15 (2015)
   identifier: 104-15
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -234,9 +250,10 @@ resolutions:
     message: demande au bureau du CIPM d'organiser une réunion avec les présidents
       des organisations régionales de métrologie et de lui présenter les conclusions
       de cette réunion.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-16 (2015)
   identifier: 104-16
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -249,9 +266,10 @@ resolutions:
     message: encourage le Comité mixte des organisations régionales de métrologie
       et du BIPM (JCRB) à étudier les moyens de permettre à GULFMET d'assister aux
       futures réunions du JCRB.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-17 (2015)
   identifier: 104-17
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -260,14 +278,15 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2015-03-10'
     message: nomme M. Inguscio nouveau président du Comité consultatif des longueurs
       (CCL) pour un mandat de quatre ans et l'encourage à prendre contact avec les
       participants clés du CCL en vue de discussions préliminaires.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-18 (2015)
   identifier: 104-18
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -276,13 +295,14 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2015-03-10'
     message: nomme G. Rietveld nouveau président du Comité consultatif d'électricité
       et magnétisme (CCEM) pour un mandat de quatre ans.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-19 (2015)
   identifier: 104-19
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -304,9 +324,10 @@ resolutions:
       * Comité consultatif de thermométrie (CCT) : Y. Duan.
       * Comité consultatif du temps et des fréquences (CCTF) : L. Érard.
       * Comité consultatif des unités (CCU) : J. Ullrich.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-20 (2015)
   identifier: 104-20
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -319,9 +340,10 @@ resolutions:
     message: décide de mettre fin au Groupe de travail _ad hoc_ du CIPM sur les règles
       et les principes relatifs à la composition du CIPM et remercie W.E. May et les
       membres du Groupe pour leur travail.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-21 (2015)
   identifier: 104-21
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -329,7 +351,7 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2015-03-10'
     message: |-
       nomme les membres du CIPM suivants pour participer aux Sous-comités et Groupes de travail _ad hoc_ du CIPM :
@@ -340,9 +362,10 @@ resolutions:
       * Groupe de travail ad hoc du CIPM sur les conditions d'emploi : J. McLaren (président), L. Érard, I. Castelazo, M. Buzoianu.
       * Sous-comité du CIPM sur l'attribution de distinctions : M. Inguscio (président), D. I. Kang, H. Brandi, F. Bulygin.
       * Groupe de travail ad hoc du CIPM sur le CIPM MRA : B. Inglis (président), W.E. May, J. Ullrich, F. Bulygin, T. Usuda, W. Louw, M. Milton, L. Érard.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-22 (2015)
   identifier: 104-22
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -355,9 +378,10 @@ resolutions:
     date_effective: '2015-03-10'
     message: propose M. Buzoianu pour représenter le BIPM au Groupe de travail 2 sur
       le VIM du Comité commun pour les guides en métrologie (JCGM).
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-23 (2015)
   identifier: 104-23
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -365,14 +389,15 @@ resolutions:
   - CIPM MRA
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '2015-03-10'
     message: charge le BIPM de contacter l'ensemble des directeurs des laboratoires
       nationaux de métrologie pour solliciter leurs contributions et leur participation
       à l'atelier sur l'examen du CIPM MRA qui se tiendra en octobre 2015.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-24 (2015)
   identifier: 104-24
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -386,9 +411,10 @@ resolutions:
     message: demande aux présidents des Comités consultatifs de proposer, d'ici le
       30 avril 2015, des personnes qui pourraient participer au panel d'utilisateurs
       et parties prenantes lors de l'atelier sur l'examen du CIPM MRA.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-25 (2015)
   identifier: 104-25
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -403,9 +429,10 @@ resolutions:
       de travail, composé de J. McLaren (président), J. Ullrich, W. Louw et M. Milton,
       afin de travailler sur la question de la terminologie et de rendre compte de
       ses conclusions au CIPM lors de sa prochaine réunion.
-  subject: Le CIPM
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/104-26 (2015)
   identifier: 104-26
   url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015
@@ -434,4 +461,3 @@ resolutions:
       of delta value measurements._\n\n_The CIPM encourages the continuation of programs
       within the NMIs to develop absolute isotope ratio measurement values for such
       Reference Materials and active engagement with the IUPAC community. »_\n\n "
-  subject: Le CIPM

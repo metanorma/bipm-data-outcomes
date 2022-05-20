@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-21 (2019)
   identifier: 108-21
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -18,9 +20,10 @@ resolutions:
     date_effective: '2019-10-16'
     message: approuve les procès-verbaux de la première partie de la 108^e^ session
       du CIPM.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-22 (2019)
   identifier: 108-22
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -33,9 +36,10 @@ resolutions:
     message: confirme la décision proposée par correspondance le 23 août 2019 afin
       d'approuver la déclaration commune au BIPM, à l'OIML, à l'ILAC et à l'ISO sur
       la traçabilité métrologique.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-23 (2019)
   identifier: 108-23
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -47,9 +51,10 @@ resolutions:
     date_effective: '2019-10-16'
     message: confirme la décision adoptée par correspondance le 1^er^ octobre 2019
       afin d'approuver le protocole d'accord avec l'IUPAC.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-24 (2019)
   identifier: 108-24
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -61,9 +66,10 @@ resolutions:
     date_effective: '2019-10-16'
     message: décide de mettre fin au Groupe de travail du CIPM sur le terme « unité
       », ce dernier ayant mené avec succès les tâches qui lui ont été confiées.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-25 (2019)
   identifier: 108-25
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -77,9 +83,10 @@ resolutions:
     message: |-
       approuve l'établissement d'un Groupe de travail du CCU sur les termes métrologiques fondamentaux et adopte les termes de référence proposés par le président du CCU, tels qu'ils ont été présentés au CCU. +
       Le CIPM accueille favorablement le fait que le président du Groupe de travail du CCU sur les termes métrologiques fondamentaux représente également le CIPM au JCGM
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-26 (2019)
   identifier: 108-26
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -92,9 +99,10 @@ resolutions:
     date_effective: '2019-10-16'
     message: invite le CCU à préparer un document de prise de position qui identifie
       la façon privilégiée de procéder concernant l'extension des préfixes du SI.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-27 (2019)
   identifier: 108-27
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -111,9 +119,10 @@ resolutions:
       des laboratoires nationaux de métrologie des États Membres en leur demandant
       d'élargir la participation à ce questionnaire aux académies scientifiques et
       établissements d'enseignement nationaux pertinents.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-28 (2019)
   identifier: 108-28
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -136,9 +145,10 @@ resolutions:
       * développer et établir un format d'échange de données sécurisé, non ambigu et uniforme au niveau international qui sera fondé sur le Système international d'unités (SI) tel que décrit dans l'actuelle Brochure sur le SI et qui sera utilisé dans les réseaux de l'internet des objets,
       * coordonner ce travail avec l'ensemble des parties prenantes pertinentes en explorant et/ou en établissant avec elles les relations appropriées,
       * proposer les actions appropriées afin que la Brochure sur le SI puisse être lisible par machine.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-29 (2019)
   identifier: 108-29
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -160,9 +170,10 @@ resolutions:
       ** par les laboratoires nationaux de métrologie,
       ** et/ou avec d'autres organisations avec lesquelles le CIPM devrait collaborer telles que l'OIML, l'ILAC, l'ISO, l'IEC, l'IEEE.
       * établir les objectifs à atteindre et le calendrier des activités à mettre en place.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-30 (2019)
   identifier: 108-30
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -170,12 +181,13 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-10-16'
     message: nomme M. Louw président du Sous-comité du CIPM sur la stratégie.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-31 (2019)
   identifier: 108-31
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -197,9 +209,10 @@ resolutions:
       . moderniser le fonctionnement de l'organisation.
 
       Les conclusions du Sous-comité doivent se concentrer sur la façon dont le CIPM peut répondre à ces questions et les prendre en considération dans le fonctionnement du BIPM (personnel et laboratoires). Le Sous Comité rendra régulièrement compte de ses conclusions au CIPM et présentera un rapport consolidé à la CGPM à sa 27^e^ réunion.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-32 (2019)
   identifier: 108-32
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -213,9 +226,10 @@ resolutions:
       aux discussions qui ont précédé l'adoption de la Résolution 3 lors de la 26^e^
       réunion de la CGPM (voir Décision CIPM/108-19), ce dernier ayant accompli les
       tâches qui lui ont été confiées.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-33 (2019)
   identifier: 108-33
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -232,9 +246,10 @@ resolutions:
       Le CIPM décide que les montants versés par ces États qui constituent les arriérés accumulés au-delà de six années peuvent être pris en considération lors du calcul de leur contribution, et de leur contribution d'entrée, lorsqu'ils participent de nouveau aux activités de la Convention du Mètre.
 
       Cette décision ne porte pas sur les avances associées faites par les États Membres, cette question devant être examinée séparément par le CIPM dans le cadre de la Résolution 5.
-  subject: La CGPM,
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-34 (2019)
   identifier: 108-34
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -254,6 +269,8 @@ resolutions:
       * rendre compte au CIPM de ses recommandations sur ces deux actions.
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-35 (2019)
   identifier: 108-35
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -274,9 +291,10 @@ resolutions:
       Ces États doivent prendre les mesures nécessaires pour pouvoir régler les montants
       dus dès que cela est possible.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-36 (2019)
   identifier: 108-36
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -290,9 +308,10 @@ resolutions:
       décide d'accorder le titre de membre honoraire à un nombre limité de membres du CIPM en reconnaissance des services éminents qu'ils ont rendus au CIPM. De tels services peuvent inclure - entre autres - l'exercice d'un ou plusieurs postes de premier plan au sein du CIPM et l'accomplissement de réalisations manifestes qui ont eu un impact sur l'organisation dans son ensemble.
 
       Le CIPM se prononcera par vote sur chaque candidature au titre de membre honoraire du CIPM.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-37 (2019)
   identifier: 108-37
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -306,9 +325,10 @@ resolutions:
       décide d'accorder le titre de membre honoraire à M. Barry Inglis en reconnaissance de ses réalisations en tant que président du CIPM qui ont eu un impact sur l'organisation dans son ensemble.
 
       M. Inglis a été président du CIPM pendant huit ans au cours desquels il a participé à deux réunions de la CGPM. Il a conduit le CIPM tout au long de l'examen de sa gouvernance puis de la mise en place de la réforme de ses procédures. Sa coordination du travail du CIPM avec ses Comités consultatifs et la communauté des laboratoires nationaux de métrologie a mené à l'adoption des définitions révisées des unités du SI en 2018. M. Inglis a toujours eu une vision stratégique à long terme de l'impact du CIPM sur la métrologie mondiale.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-38 (2019)
   identifier: 108-38
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -325,9 +345,10 @@ resolutions:
       de l'Organisation du Traité d'interdiction complète des essais nucléaires (OTICE)
       afin de collaborer sur la traçabilité des mesures des infrasons, de l'activité
       sismique et de la radioactivité.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-39 (2019)
   identifier: 108-39
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -340,9 +361,10 @@ resolutions:
     date_effective: '2019-10-16'
     message: convient de charger le président du CIPM et le directeur du BIPM de signer
       la Déclaration de coopération concernant le JCTLM.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-40 (2019)
   identifier: 108-40
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -357,9 +379,10 @@ resolutions:
       du BIPM d'établir un groupe spécifique du CIPM afin d'aider le CIPM à préparer
       les éléments nécessaires en vue de la Conférence mondiale des radiocommunications
       de 2023.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-41 (2019)
   identifier: 108-41
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -374,9 +397,10 @@ resolutions:
       GNSS pour assurer l'interopérabilité multi-GNSS, fondée sur le Temps universel
       coordonné (UTC), l'objectif final étant d'éviter la prolifération des échelles
       de temps de référence internationales.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-42 (2019)
   identifier: 108-42
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -384,13 +408,14 @@ resolutions:
   - CCs et WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-10-16'
     message: nomme M. Laíz président du Comité consultatif de l'acoustique, des ultrasons
       et des vibrations (CCAUV).
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-43 (2019)
   identifier: 108-43
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -398,13 +423,14 @@ resolutions:
   - CCs et WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-10-16'
     message: nomme M. Sené président du Comité consultatif des rayonnements ionisants
       (CCRI).
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-44 (2019)
   identifier: 108-44
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -447,9 +473,10 @@ resolutions:
 
       * INRIM (Italie) : membre
       * NSC "Institute of Metrology" (Ukraine) : observateur
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-45 (2019)
   identifier: 108-45
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -457,15 +484,16 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-10-16'
     message: nomme M. Richard président du Sous-comité du CIPM sur les finances et
       membre de droit de la Commission consultative sur la Caisse de retraite (CCCR).
       Le CIPM confirme que M. Steele, président de la Commission consultative sur
       la Caisse de retraite, est membre de droit du Sous-comité du CIPM sur les finances.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-46 (2019)
   identifier: 108-46
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -479,22 +507,25 @@ resolutions:
       par le Sous-comité du CIPM sur les finances en juin 2019. Le CIPM donne quitus
       de sa gestion au directeur, au titre de l'exercice financier 2018.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-47 (2019)
   identifier: 108-47
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
   categories:
   - Finance
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: '2019-10-16'
     message: Conformément à la recommandation du Sous-comité du CIPM sur les finances,
       le CIPM approuve le budget du BIPM proposé par le directeur du BIPM pour 2019.
   actions: []
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-48 (2019)
   identifier: 108-48
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -508,6 +539,8 @@ resolutions:
       le CIPM approuve le budget du BIPM pour 2020.
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-49 (2019)
   identifier: 108-49
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -523,9 +556,10 @@ resolutions:
       l'article 10.2 du Statut applicable aux membres du personnel, en appliquant
       un plafond de 2 % à la révision annuelle, afin de faire face aux obligations
       financières du BIPM et à ses besoins de fonctionnement essentiels.
-  subject: Le CIPM
 - dates:
   - '2019-10-16'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-50 (2019)
   identifier: 108-50
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_2-2019
@@ -542,4 +576,3 @@ resolutions:
       plafond de 2 % à la révision annuelle, afin de faire face aux obligations financières
       du BIPM et d'assurer la soutenabilité financière à long terme de la Caisse de
       retraite.
-  subject: Le CIPM

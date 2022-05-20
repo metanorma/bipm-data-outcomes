@@ -7,15 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Nécessité d'utiliser les unités du SI dans les recherches sur les ressources
     terrestres, l'environnement, la sécurité humaine et les études  connexes
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=117
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 117
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -65,14 +67,16 @@ resolutions:
       du Mètre."
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Traçabilité des étalons au niveau mondial
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=118
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 118
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -131,14 +135,16 @@ resolutions:
       international.
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Besoin de recherches métrologiques à long terme
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=119
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 119
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -166,17 +172,18 @@ resolutions:
     message: recommande que les laboratoires nationaux informent régulièrement le
       Bureau international des poids et mesures des résultats des travaux liés à la
       métrologie fondamentale.
-  subject: laboratoires nationaux
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Révision de la mise en pratique de la définition du mètre
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=119
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 119
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1995-10-13'
@@ -232,14 +239,16 @@ resolutions:
       encore la base expérimentale du Système international d'unités."
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Contrôle de la stabilité du prototype international du kilogramme
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=120
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 120
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -271,14 +280,16 @@ resolutions:
       définition de l'unité de masse fondée sur des constantes fondamentales ou atomiques."
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Comparaison d'horloges à l'aide de techniques par laser visant des satellites
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=120
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 120
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -313,14 +324,16 @@ resolutions:
       utilisant des techniques par laser visant des satellites."
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Métrologie en chimie
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=121
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 121
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -356,14 +369,16 @@ resolutions:
       chimiques."
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Suppression de la classe des unités supplémentaires dans le SI
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=121
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 121
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -397,14 +412,16 @@ resolutions:
       en tant que classe séparée dans le SI.
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Dotation du BIPM
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=122
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 122
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -440,14 +457,16 @@ resolutions:
       |===
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: Futures relations avec l'Organisation internationale de métrologie légale
   identifier: 10
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=122
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 122
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1995-10-13'
@@ -480,16 +499,18 @@ resolutions:
       au sujet de l'opportunité de poursuivre des actions dans ce sens."
 - dates:
   - '1995-10-13'
+  subject: CGPM
+  type: resolution
   title: 'Métrologie : besoins à long terme'
   identifier: 11
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432?version=1.1&download=true#page=123
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM20.pdf/7eefa960-1aaf-b151-7677-74e86a500432
+  reference_name: Comptes rendus de la 20e CGPM (1995), 1996
+  reference_page: 123
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 20^e^ Conférence générale des poids et mesures,
+  - message: La 20^e^ Conférence générale des poids et mesures,
   considerations:
-  - type: having / having regard
+  - type: referring
     date_effective: '1995-10-13'
     message: "*se référant* à la Résolution 1 : Nécessité d'utiliser les unités du
       SI dans les recherches sur les ressources terrestres, l'environnement, la sécurité

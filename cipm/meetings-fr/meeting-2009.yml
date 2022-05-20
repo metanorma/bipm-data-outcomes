@@ -7,15 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: Concernant l’adoption d’un système de référence terrestre commun par la Conférence
     générale des poids et mesures
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/98-2009/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=103
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Comptes rendus du 98e CIPM (2009), 2010
+  reference_page: 103
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'
@@ -55,14 +57,16 @@ resolutions:
       de prendre les mesures nécessaires afin que l’ITRS, tel que défini par l’Union géodésique et géophysique internationale (UGGI), et réalisé de manière pratique par le Service international de la rotation terrestre et des systèmes de référence (IERS) et le Service international GNSS (IGS), soit adopté par la Conférence générale des poids et mesures comme système de référence international terrestre unique pour toutes les applications métrologiques.
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: " Mises à jour de la liste des fréquences étalons"
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/98-2009/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=105
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Comptes rendus du 98e CIPM (2009), 2010
+  reference_page: 105
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'
@@ -89,15 +93,17 @@ resolutions:
       * la transition optique non perturbée 6s^2^ ^1^S~0~ (stem:[F = 1/2]) - 6s 6p ^3^P~0~ (stem:[F = 1/2]) de l'atome neutre de ^171^Yb, à la fréquence de stem:[f = 518 295 836 590 864 "Hz"], avec une incertitude-type relative de stem:[1","6 * 10^(-13)].
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: Alignement des références géodésiques et synchronisation des références de
     temps par rapport aux références internationales
   identifier: 3
   url: https://www.bipm.org/fr/committees/ci/cipm/98-2009/resolution-3
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=106
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Comptes rendus du 98e CIPM (2009), 2010
+  reference_page: 106
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'
@@ -171,14 +177,16 @@ resolutions:
       au sein du Comité international sur le GNSS (ICG).
 - dates:
   - '2009-10-16'
+  subject: CIPM
+  type: recommendation
   title: Au sujet de la faiblesse de la définition actuelle de l’UTC
   identifier: 4
   url: https://www.bipm.org/fr/committees/ci/cipm/98-2009/resolution-4
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f?version=1.4&download=true#page=108
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM98.pdf.zip/fed2fd2f-adb9-d8f2-5da6-f58036445d4f
+  reference_name: Comptes rendus du 98e CIPM (2009), 2010
+  reference_page: 108
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures (CIPM),
+  - message: Le Comité international des poids et mesures (CIPM),
   considerations:
   - type: considering
     date_effective: '2009-10-16'

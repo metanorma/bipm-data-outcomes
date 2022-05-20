@@ -7,20 +7,23 @@ metadata:
 resolutions:
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-1 (2020)
   identifier: 109-1
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
   categories:
   - Meetings
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2020-10-14'
     message: accepted the minutes of the second session of the 108th meeting of the
       CIPM as a true record.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-2 (2020)
   identifier: 109-2
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -33,9 +36,10 @@ resolutions:
       terms of reference for a Working Group of Member State representatives had completed
       its mandate and decided to close it.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-3 (2020)
   identifier: 109-3
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -48,9 +52,10 @@ resolutions:
       Neyezhmakov will represent the BIPM at the JCGM-WG2:VIM. Seventeen members had
       voted in favour and one had abstained.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-4 (2020)
   identifier: 109-4
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -63,9 +68,10 @@ resolutions:
       OIML D-01 should be developed for final publication as a joint BIPM/OIML publication.
       Twelve members had voted in favour and six had abstained.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-5 (2020)
   identifier: 109-5
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -78,9 +84,10 @@ resolutions:
       MoU between the BIPM and the International Telecommunication Union (ITU) was
       approved. Seventeen members had voted in favour and one had abstained.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-6 (2020)
   identifier: 109-6
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -95,9 +102,10 @@ resolutions:
       in June 2020. The CIPM granted the BIPM Director quietus for the 2019 exercise.
       All eighteen members had voted in favour.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-7 (2020)
   identifier: 109-7
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -113,9 +121,10 @@ resolutions:
       of procedure for the Consultative Committees (CCs), CC working groups and CC
       workshops”. Seventeen members had voted in favour.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-8 (2020)
   identifier: 109-8
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -128,9 +137,10 @@ resolutions:
       its 109th meeting online between11:00 and 13:30 (UTC) on 12, 13 and 14 October
       2020. All eighteen members had voted in favour.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-9 (2020)
   identifier: 109-9
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -144,9 +154,10 @@ resolutions:
       Chemistry and Laboratory Medicine (IFCC) was approved. Sixteen members had voted
       in favour.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-10 (2020)
   identifier: 109-10
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -164,9 +175,10 @@ resolutions:
       Azerbaijan choose to remain as an Associate of the CGPM. Sixteen members had
       voted in favour.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-11 (2020)
   identifier: 109-11
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -182,9 +194,10 @@ resolutions:
       and requested the CIPM Sub-Committee on Finance to continue to coordinate the
       needed CIPM actions to build a consensus amongst advancing Member States on
       the issue.
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-12 (2020)
   identifier: 109-12
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -203,9 +216,10 @@ resolutions:
       The CIPM decided to ask the Sub-Committee on Finance to explore the possibility and feasibility of authorizing exceptional contributions or voluntary injections of liquidity into the Fund pursuant to the discussions at the 2nd meeting of the CGPM and to articles 3.3 b) and c) of the Regulations of the Pension Fund.
 
       The CIPM noted Article 3 of the Regulations of the Pension Fund, and asked the BIPM Director to consider commissioning a new actuarial study before the next meeting of the CGPM if necessary.
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-13 (2020)
   identifier: 109-13
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -221,9 +235,10 @@ resolutions:
       as of 1 January 2021 if they choose. This “one-time” option should be available
       to staff for implementation by the end of December 2020.
   actions: []
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-14 (2020)
   identifier: 109-14
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -237,9 +252,10 @@ resolutions:
       approved the amendments to Title IV (Service and Leave) of the RRI (Rules, Regulations and Instructions applicable to BIPM staff) as submitted in document CIPM/2020-07 (Annex 1). It noted that the CCE had been consulted and had submitted its advisory opinion expressing its views about the proposed measures. The CIPM was confident that the amendments will improve the conditions of employment of BIPM staff whilst serving the interests of both the staff and the BIPM. The new provisions of the RRI will enter into force as of 1 January 2021.
 
       The CIPM encouraged the BIPM Director to continue with the steps necessary to further modernize the RRI and to bring forward policies that reflect current standards of conduct expected from International Civil Servants.
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-15 (2020)
   identifier: 109-15
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -256,9 +272,10 @@ resolutions:
       * to make both organizations more attractive to states that do not currently participate in the activities of either/both organizationstem:[("s")].
 
       Dr Louw, Dr Milton and Dr Richard were appointed as the representatives of the BIPM in the Joint Task Group. Other CIPM members will be invited to join the task group as required.
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-16 (2020)
   identifier: 109-16
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -272,9 +289,10 @@ resolutions:
       SC1 of the Sub-Committee on Strategy and decided to appoint CIPM contact persons
       for each theme proposed. Dr Rietveld was asked to finalize the list of contact
       persons that will be published on the BIPM website.
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-17 (2020)
   identifier: 109-17
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -291,9 +309,10 @@ resolutions:
       * to support the activities in “digital transformation” proposed for inclusion in the BIPM Work Program (2020 to 2023),
 
       The CIPM encouraged the BIPM and the NMIs to work with the TG to realize the Grand Vision, confirmed its support for the International Workshop on the “The International System of Units (SI) for FAIR Digital Data” to be held in February 2021 and noticed the possible drafting of a resolution for the 27th meeting of the CGPM.
-  subject: The CIPM
 - dates:
   - '2020-10-14'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/109-18 (2020)
   identifier: 109-18
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
@@ -305,4 +324,3 @@ resolutions:
     date_effective: '2020-10-14'
     message: decided to grant the status of ‘liaison organization’ within the CCU
       to the International Mathematical Union (IMU).
-  subject: The CIPM

@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '2003-10-10'
+  subject: CIPM
+  type: recommendation
   title: Revision of the <i>Mise en Pratique</i> list of recommended radiations
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/92-2003/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM92.pdf.zip/4b7f2dee-8f88-73e3-897e-a85eed917e37?version=1.4&download=true#page=146
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM92.pdf.zip/4b7f2dee-8f88-73e3-897e-a85eed917e37
+  reference_name: Proceedings of the 92nd CIPM (2003), 2004
+  reference_page: 146
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures,
+  - message: The International Committee for Weights and Measures,
   considerations:
   - type: considering
     date_effective: '2003-10-10'
@@ -42,14 +44,16 @@ resolutions:
       * updated frequency values for the I~2~-stabilized standards at 543 nm and 515 nm.
 - dates:
   - '2003-10-10'
+  subject: CIPM
+  type: recommendation
   title: Symbol for the decimal marker in the International System of Units (SI)
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/92-2003/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM92.pdf.zip/4b7f2dee-8f88-73e3-897e-a85eed917e37?version=1.4&download=true#page=147
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM92.pdf.zip/4b7f2dee-8f88-73e3-897e-a85eed917e37
+  reference_name: Proceedings of the 92nd CIPM (2003), 2004
+  reference_page: 147
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures,
+  - message: The International Committee for Weights and Measures,
   considerations:
   - type: considering
     date_effective: '2003-10-10'
@@ -105,7 +109,7 @@ resolutions:
       facilitate reading; neither dots nor commas are ever inserted in the spaces
       between groups”, as stated in Resolution 7 of the 9th CGPM, 1948.
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2003-10-10'
     message: declares that the SI symbol for the decimal marker shall be either the
       point on the line or the comma on the line,

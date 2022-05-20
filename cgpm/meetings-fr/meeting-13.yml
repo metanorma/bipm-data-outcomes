@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38095528/CGPM13.pdf/3955eace-d53e-911d
 resolutions:
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Unité SI de temps (seconde)
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=103
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 103
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -57,14 +59,16 @@ resolutions:
      Cette définition de la seconde a été abrogée en 2018 par la 26^e^ CGPM (Résolution 1), la nouvelle définition entrant en vigueur en 2019.
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Unité SI de temps (seconde)
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=103
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 103
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -78,14 +82,16 @@ resolutions:
       étalons atomiques de fréquence à poursuivre activement leurs études."
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Unité SI de température thermodynamique (kelvin)
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -125,14 +131,16 @@ resolutions:
     isotopique de l entrant dans d kelvin.>\n   \n\n</recommandation>"
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Définition de l'unité SI de température thermodynamique (kelvin)
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -151,14 +159,16 @@ resolutions:
      Cette définition du kelvin a été abrogée en 2018 par la 26^e^ CGPM (Résolution 1), la nouvelle définition entrant en vigueur en 2019.
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Unité SI d'intensité lumineuse (candela)
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=104
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 104
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -180,14 +190,16 @@ resolutions:
   notes: Définition abrogée en 1979 par la 16^e^ CGPM (Résolution 3).
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Unités SI dérivées
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 105
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -214,14 +226,16 @@ resolutions:
     la 15^e^ CGPM en 1975 (Résolution 8).
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Abrogation de décisions antérieures (micron, bougie nouvelle)
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 105
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -238,14 +252,16 @@ resolutions:
       . le nom d'unité « bougie nouvelle ».
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Échelle internationale pratique de température (révision prochaine)
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 105
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -266,14 +282,16 @@ resolutions:
       le Comité international à sa 57^e^ session (octobre 1968)."
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Colorimétrie et radiométrie
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=105
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 105
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -288,14 +306,16 @@ resolutions:
       fondamentaux de la colorimétrie et de la radiométrie.
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international pour la période 1969-1972
   identifier: 10
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=106
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 106
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -330,14 +350,16 @@ resolutions:
       de leur décision sur l'avenir du Bureau international.\n\n "
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Dates des séances
   identifier: 11
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=106
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 106
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -352,14 +374,16 @@ resolutions:
     message: "*décide* de reprendre sa session le mercredi 5 juin 1968."
 - dates:
   - '1967-10-16'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international pour la période 1969-1972
   identifier: 12
   url: https://www.bipm.org/fr/committees/cg/cgpm/13-1967/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc?version=1.2&download=true#page=106
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM13.pdf/ff522dd4-7c97-9b8d-127b-4fe77f3fe2bc
+  reference_name: Comptes rendus de la 13e CGPM (1967), 1969
+  reference_page: 106
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Treizième Conférence générale des poids et mesures,
+  - message: La Treizième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1967-10-16'
@@ -385,7 +409,7 @@ resolutions:
       les sommes supplémentaires suivantes :\n\n|===\n| 90 000 francs-or en 1969\n\n|
       210 000 francs-or en 1970\n| 350 000 francs-or en 1971\n| 515 000 francs-or
       en 1972\n\n|===\n\n "
-  - type: appoints
+  - type: authorizes
     date_effective: '1967-10-16'
     message: "*autorise* que ces sommes supplémentaires puissent être payées en monnaie
       nationale ;"

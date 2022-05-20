@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35655029/CGPM26.pdf/f1d8d7e6-2570-9479
 resolutions:
 - dates:
   - '2018-11-16'
+  subject: CGPM
+  type: resolution
   title: On the revision of the International System of Units (SI)
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/26-2018/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=472
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7
+  reference_name: Proceedings of the 26th CGPM (2018), 2019
+  reference_page: 472
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
   considerations:
   - type: considering
     date_effective: '2018-11-16'
@@ -108,14 +110,16 @@ resolutions:
       * The candela, symbol stem:["cd"], is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:["K"_("cd")], to be 683 when expressed in the unit stem:["lm" * "W"^(-1)], which is equal to stem:["cd" * "sr" * "W"^(-1)], or stem:["cd" * "sr" * "kg"^(-1) * "m"^(-2) * "s"^(3)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu ]~Cs~.
 - dates:
   - '2018-11-16'
+  subject: CGPM
+  type: resolution
   title: On the definition of time scales
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/26-2018/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=475
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7
+  reference_name: Proceedings of the 26th CGPM (2018), 2019
+  reference_page: 475
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
   considerations:
   - type: considering
     date_effective: '2018-11-16'
@@ -187,40 +191,40 @@ resolutions:
       "_the SI second as realized on the rotating geoid as the scale unit_" while
       the definition of stem:["TT"] does not refer to the geoid,
   actions:
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that TAI is a continuous time scale produced by the BIPM based
       on the best realizations of the SI second, and is a realization of stem:["TT"]
       as defined by IAU Resolution B1.9 (2000),
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that in the transformation from the proper time of a clock to
       TAI, the relativistic rate shift is computed with respect to the conventionally
       adopted equipotential stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] of the Earth's
       gravity potential, which conforms to the constant stem:[L_(G)] defining the
       rate of stem:["TT"],
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that as stated in the IAU Resolution A4 (1991), stem:["TT"] -
       TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre,
       in order to ensure continuity of stem:["TT"] with Ephemeris Time,
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that UTC produced by the BIPM, based on TAI, is the only recommended
       time scale for international reference and the basis of civil time in most countries,
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that UTC differs from TAI only by an integral number of seconds
       as published by the BIPM,
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that users can derive the rotation angle of the Earth by applying
       to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS,
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that UTC provides a means to measure time intervals and to disseminate
       the standard of frequency during intervals in which leap seconds do not occur,
-  - type: affirms / reaffirming
+  - type: states
     date_effective: '2018-11-16'
     message: states that traceability to UTC is obtained through local real-time realizations
       "stem:["UTC" (k)]" maintained by laboratories contributing data to the calculation
@@ -239,14 +243,16 @@ resolutions:
       * all relevant unions and organizations work together to improve further the accuracy of the prediction of UT1 - UTC and the method for its dissemination to satisfy the future requirements of users.
 - dates:
   - '2018-11-16'
+  subject: CGPM
+  type: resolution
   title: On the objectives of the BIPM
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/26-2018/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=477
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7
+  reference_name: Proceedings of the 26th CGPM (2018), 2019
+  reference_page: 477
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
   considerations:
   - type: considering
     date_effective: '2018-11-16'
@@ -324,14 +330,16 @@ resolutions:
       * knowledge transfer, which ensures that the work of the BIPM has the greatest impact.
 - dates:
   - '2018-11-16'
+  subject: CGPM
+  type: resolution
   title: On the dotation of the BIPM for the years 2020 to 2023
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/26-2018/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=479
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7
+  reference_name: Proceedings of the 26th CGPM (2018), 2019
+  reference_page: 479
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
   considerations:
   - type: considering
     date_effective: '2018-11-16'
@@ -388,14 +396,16 @@ resolutions:
       without well-developed metrology infrastructure.
 - dates:
   - '2018-11-16'
+  subject: CGPM
+  type: resolution
   title: On the financial arrears of Member States and the process of exclusion
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/26-2018/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7?version=1.4&download=true#page=480
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM26.pdf/9db96c32-a986-e32a-09f9-3ed7e6c77cf7
+  reference_name: Proceedings of the 26th CGPM (2018), 2019
+  reference_page: 480
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 26th meeting,
   considerations:
   - type: recalling / further recalling
     date_effective: '2018-11-16'
@@ -407,12 +417,12 @@ resolutions:
        7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années. +
        8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l’article 20 du présent Règlement._"^(1)^
       * Resolution 8 adopted by the CGPM at its 23rd meeting (2007) on financial arrears of Member States sets a procedure concerning States who fail to fulfil their financial obligations,
-  - type: noting
+  - type: observing
     date_effective: '2018-11-16'
     message: observing that paragraphs 6 and 7 of Article 6 of the Annexed Regulations
       foresee that whilst the advantages and prerogatives of Member States are suspended
       for those States in arrears by three years, their contributions remain due,
-  - type: noting
+  - type: observing
     date_effective: '2018-11-16'
     message: observing that historical practice has always been to apply paragraphs
       6 and 7 of Article 6 of the Annexed Regulations,

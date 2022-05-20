@@ -7,15 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '2005-10-07'
+  subject: CIPM
+  type: recommendation
   title: Preparative steps towards new definitions of the kilogram, the ampere, the
     kelvin and the mole in terms of fundamental constants
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/94-2005/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM94.pdf.zip/ab888502-d10a-1104-1926-62931e1c5f22?version=1.8&download=true#page=233
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM94.pdf.zip/ab888502-d10a-1104-1926-62931e1c5f22
+  reference_name: Proceedings of the 94th CIPM (2005), 2006
+  reference_page: 233
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2005-10-07'
@@ -50,14 +52,16 @@ resolutions:
       * should prepare for the long term maintenance of those experiments that will, in due course, be necessary for the practical realization of the new definitions.
 - dates:
   - '2005-10-07'
+  subject: CIPM
+  type: recommendation
   title: Clarification of the definition of the kelvin, unit of thermodynamic temperature
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/94-2005/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM94.pdf.zip/ab888502-d10a-1104-1926-62931e1c5f22?version=1.8&download=true#page=235
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM94.pdf.zip/ab888502-d10a-1104-1926-62931e1c5f22
+  reference_name: Proceedings of the 94th CIPM (2005), 2006
+  reference_page: 235
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2005-10-07'
@@ -93,14 +97,16 @@ resolutions:
   notes: The kelvin was redefined by the 26th CGPM in 2018 (Resolution 1).
 - dates:
   - '2005-10-07'
+  subject: CIPM
+  type: recommendation
   title: Revision of the <i>Mise en pratique</i> list of recommended radiations
   identifier: 3
   url: https://www.bipm.org/en/committees/ci/cipm/94-2005/resolution-3
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM94.pdf.zip/ab888502-d10a-1104-1926-62931e1c5f22?version=1.8&download=true#page=236
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM94.pdf.zip/ab888502-d10a-1104-1926-62931e1c5f22
+  reference_name: Proceedings of the 94th CIPM (2005), 2006
+  reference_page: 236
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2005-10-07'

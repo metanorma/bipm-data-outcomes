@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38095573/CGPM9.pdf/10f7e9dc-a8d7-1e4c-
 resolutions:
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Vers une nouvelle définition du mètre
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=44
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 44
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Neuvième Conférence générale des poids et mesures
+  - message: La Neuvième Conférence générale des poids et mesures
   considerations:
   - type: having / having regard
     date_effective: '1948-10-21'
@@ -39,14 +41,16 @@ resolutions:
       spécifiées."
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Concernant les mesures de gravité
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=52
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 52
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Neuvième Conférence générale des poids et mesures
+  - message: La Neuvième Conférence générale des poids et mesures
   considerations:
   - type: considering
     date_effective: '1948-10-21'
@@ -70,15 +74,17 @@ resolutions:
       base fondamentale plus précise puisse être proposée pour cette grandeur."
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Triple point of water; thermodynamic scale with a single fixed point; unit
     of quantity of heat (joule)
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=55
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 55
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: |-
+  - message: |-
       . With present-day techniques, the triple point of water is capable of providing a thermometric reference point with an accuracy higher than can be obtained from the melting point of ice. +
        In consequence the Comité Consultatif de Thermométrie et Calorimétrie (CCTC)
   considerations:
@@ -97,14 +103,16 @@ resolutions:
   actions: []
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Concernant un accord avec l'Unesco
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=57
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 57
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Neuvième Conférence générale des poids et mesures,
+  - message: La Neuvième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1948-10-21'
@@ -134,14 +142,16 @@ resolutions:
       leurs activités communes »."
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Dotation du BIPM
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=59
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 59
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Neuvième Conférence générale des poids et mesures,
+  - message: La Neuvième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1948-10-21'
@@ -173,14 +183,16 @@ resolutions:
       où le Japon et l'Allemagne auront repris leurs paiements statutaires.
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Proposal for establishing a practical system of units of measurement
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=64
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 64
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Conférence Générale des Poids et Mesures (CGPM),
+  - message: The Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1948-10-21'
@@ -202,14 +214,14 @@ resolutions:
       * to make recommendations for a single practical system of units of measurement, suitable for adoption by all countries adhering to the Metre Convention.
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Writing and printing of unit symbols and of numbers
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=70
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 70
   considerations:
   - type: noting
     date_effective: '1948-10-21'
@@ -224,7 +236,7 @@ resolutions:
     message: Notes To indicate a temperature interval or difference, rather than a
       temperature, the word "degree" in full, or the abbreviation "deg" must be used.
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1948-10-21'
     message: "*Principles*\n\nRoman (upright) type, in general lower case, is used
       for symbols of units; if, however, the symbols are derived from proper names,
@@ -250,17 +262,17 @@ resolutions:
     7 and 3), and the litre; 16th CGPM, 1979 (Resolution 6).'
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Concernant la dotation du BIPM
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=72
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 72
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1948-10-21'
     message: Les Délégués des États adhérents à la Convention du Mètre et représentés
       à la Conférence, s'engagent à entreprendre les démarches nécessaires auprès
@@ -272,14 +284,14 @@ resolutions:
       mêmes grands services que par le passé.
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Concernant la question des retouches à apporter à la Convention du Mètre
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=72
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 72
   considerations: []
   actions:
   - type: appoints
@@ -294,17 +306,17 @@ resolutions:
       Dans la suite, sur la base de ces recommandations, le Comité international des poids et mesures devra établir un projet, qui, étudié par lui-même, sera soumis à l'approbation de la Dixième Conférence générale des poids et mesures.
 - dates:
   - '1948-10-21'
+  subject: CGPM
+  type: resolution
   title: Concernant la poursuite des résolutions
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8?version=1.1&download=true#page=73
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM9.pdf/77fe0fa9-bda8-1620-831e-33646e446cd8
+  reference_name: Proceedings of the 9th CGPM (1948), 1949
+  reference_page: 73
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1948-10-21'
     message: |-
       . Les vœux ou propositions ainsi déposés seront transmis par le bureau du Comité à tous les États adhérents à la Convention, au moins quatre mois avant l'ouverture de la Conférence, afin que MM. les Délégués puissent recevoir les instructions et pouvoirs nécessaires.

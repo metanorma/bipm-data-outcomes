@@ -7,15 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '1969-10-09'
+  subject: CIPM
+  type: recommendation
   title: Système International d'Unités, Rules for application of Resolution 12 of
     the 11th CGPM (1960)*
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/58-1969/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/58-1969/resolution-1#page=30
+  reference_name: Proceedings of the 58th CIPM (1969), 1970
+  reference_page: 30
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1969-10-09'
@@ -23,7 +25,7 @@ resolutions:
       Poids et Mesures (CGPM) (1960), concerning the Système International d’Unités,
       has provoked discussions on certain of its aspects,"
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1969-10-09'
     message: |-
       *declares*

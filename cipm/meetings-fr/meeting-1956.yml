@@ -7,14 +7,16 @@ metadata:
 resolutions:
 - dates:
   - '1956-10-06'
+  subject: CIPM
+  type: recommendation
   title: Définition de l’unité de temps (seconde)
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-1
   reference: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-1#page=77
+  reference_name: Comptes rendus du 46e CIPM (1956), 1957
+  reference_page: 77
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: En vertu des pouvoirs que lui a conférés la Dixième Conférence générale
+  - message: En vertu des pouvoirs que lui a conférés la Dixième Conférence générale
       des poids et mesures par sa Résolution 5, le Comité international des poids
       et mesures,
   considerations:
@@ -36,14 +38,16 @@ resolutions:
   notes: This definition was abrogated in 1967 by the 13th CGPM (Resolution 1).
 - dates:
   - '1956-10-06'
+  subject: CIPM
+  type: recommendation
   title: Création du Comité Consultatif pour la Définition de la Seconde
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-2
   reference: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-2#page=78
+  reference_name: Comptes rendus du 46e CIPM (1956), 1957
+  reference_page: 78
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: |-
+  - message: |-
       Le Comité International des Poids et Mesures,
 
       considérant la Résolution 5 de la Dixième Conférence Générale des Poids et Mesures le chargeant de donner plus de précision à la définition de l'unité fondamentale de temps,
@@ -60,14 +64,16 @@ resolutions:
       pour le perfectionnement de l'étalon de temps."
 - dates:
   - '1956-10-06'
+  subject: CIPM
+  type: recommendation
   title: Système International d'Unités
   identifier: 3
   url: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-3
   reference: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-3#page=83
+  reference_name: Comptes rendus du 46e CIPM (1956), 1957
+  reference_page: 83
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Le Comité international des poids et mesures,
+  - message: Le Comité international des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1956-10-06'

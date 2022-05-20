@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-1 (2013)
   identifier: 102-1
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -18,9 +20,10 @@ resolutions:
     date_effective: '2013-06-21'
     message: convient que les procès-verbaux de la 101^e^ session du CIPM (2012) ont
       été confirmés par correspondance.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-2 (2013)
   identifier: 102-2
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -35,9 +38,10 @@ resolutions:
       du CIPM sur les finances : le Sous-comité assumera la responsabilité principale
       concernant les contrôles financiers préalables ainsi que la préparation effective,
       et dans les délais requis, des états financiers du BIPM.'
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-3 (2013)
   identifier: 102-3
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -53,6 +57,8 @@ resolutions:
       Le CIPM donne quitus de sa gestion au directeur, au titre de l'exercice financier 2012.
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-4 (2013)
   identifier: 102-4
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -68,6 +74,8 @@ resolutions:
       Le CIPM donne quitus de sa gestion de la Caisse de retraite et de prévoyance du BIPM au directeur, au titre de l'exercice financier 2012.
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-5 (2013)
   identifier: 102-5
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -91,9 +99,10 @@ resolutions:
       16.3.2 Paiement du traitement et dispense de préavis
 
       Lorsque le membre du personnel demande à cesser ses fonctions avant l'expiration de la période de préavis et que, avant la fin de la période de préavis, le membre du personnel quitte le BIPM pour un autre emploi, les émoluments correspondants à la durée du préavis restant à accomplir ne peuvent lui être payés.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-6 (2013)
   identifier: 102-6
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -107,9 +116,10 @@ resolutions:
       « Santé et sécurité au travail » des Statut, Règlement et Instructions applicables
       aux membres du personnel du BIPM (SRI) et adoptera la version finale du texte
       par correspondance.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-7 (2013)
   identifier: 102-7
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -123,9 +133,10 @@ resolutions:
       « Temps partiel thérapeutique » des Statut, Règlement et Instructions applicables
       aux membres du personnel du BIPM (SRI) et adoptera la version finale du texte
       par correspondance.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-8 (2013)
   identifier: 102-8
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -142,9 +153,10 @@ resolutions:
       Le CIPM convient de présenter ce document aux représentants des États Parties
       à la Convention du Mètre et aux directeurs des laboratoires nationaux de métrologie
       lors de leur réunion en octobre 2013.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-9 (2013)
   identifier: 102-9
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -160,9 +172,10 @@ resolutions:
       et vice-présidents de leurs Groupes de travail. Le Groupe de travail rédigera
       également des règles et principes pour l'élection des vice-présidents du CIPM,
       des membres honoraires du CIPM, ainsi que des directeurs honoraires du BIPM.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-10 (2013)
   identifier: 102-10
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -176,9 +189,10 @@ resolutions:
       du CIPM en reconnaissance de sa contribution au travail du CIPM, en tant que
       membre du CIPM de 1997 à 2012 et en tant que président de 2004 à 2010. Le président
       du CIPM informera E.O. Göbel de cette décision.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-11 (2013)
   identifier: 102-11
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -192,9 +206,10 @@ resolutions:
       et à soumettre les noms et curriculum vitae de ces candidats au secrétaire du
       CIPM avant la fin de septembre 2013 afin que le CIPM puisse examiner les candidatures
       lors de la deuxième partie de la 102^e^ session du CIPM en octobre 2013.
-  subject: Les membres du CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-12 (2013)
   identifier: 102-12
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -202,14 +217,15 @@ resolutions:
   - General
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2013-06-21'
     message: fournira une copie électronique du document « Compendium of main rules
       and practices applicable to the BIPM » aux membres du CIPM avant fin juillet
       2013.
-  subject: Le directeur du BIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-13 (2013)
   identifier: 102-13
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -224,9 +240,10 @@ resolutions:
       et les grandeurs apparentées (CCM) et du CCM visant à élaborer une feuille de
       route qui indique les étapes requises en métrologie des masses pour parvenir
       à une redéfinition du Système international d?unités (SI) d'ici à l'année 2018.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-14 (2013)
   identifier: 102-14
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -242,9 +259,10 @@ resolutions:
       à l'aide du prototype international du kilogramme et réitère son accord afin
       que le directeur du BIPM accède au caveau et utilise le prototype international
       du kilogramme pour cette campagne.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-15 (2013)
   identifier: 102-15
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -259,9 +277,10 @@ resolutions:
       par les directeurs des laboratoires nationaux de métrologie. Le CIPM soutient
       le directeur du BIPM concernant l'orientation donnée à l'initiative stratégique
       et lui demande de continuer à développer une perspective globale.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-16 (2013)
   identifier: 102-16
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -276,9 +295,10 @@ resolutions:
       concernant la stratégie de leur Comité consultatif et à décider, en coopération
       avec leur Comité consultatif (et/ou leurs Groupes de travail concernés), s'il
       est nécessaire de réviser la stratégie.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-17 (2013)
   identifier: 102-17
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -292,9 +312,10 @@ resolutions:
       Materials and Standards (VAMAS) à une réunion du bureau du CIPM en 2014 afin
       d'étudier s'il serait utile de renforcer la collaboration entre le VAMAS et
       le CIPM.
-  subject: Le président du CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-18 (2013)
   identifier: 102-18
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -308,9 +329,10 @@ resolutions:
       de laboratoire du BIPM qui lui est présentée. Le CIPM demande au BIPM de lui
       transmettre cette analyse et propose de soumettre des commentaires pour fin
       juillet 2013.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-19 (2013)
   identifier: 102-19
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -328,9 +350,10 @@ resolutions:
       les implications de ces grands défis sur leur stratégie et leurs programmes
       à venir. anis
   actions: []
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-20 (2013)
   identifier: 102-20
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -348,9 +371,10 @@ resolutions:
       réunion du CIPM et sera finalisé afin de pouvoir être soumis pour examen aux
       représentants des États Parties à la Convention du Mètre et aux directeurs des
       laboratoires nationaux de métrologie lors de leur réunion en octobre 2013.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-21 (2013)
   identifier: 102-21
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -365,9 +389,10 @@ resolutions:
       de ses travaux au CIPM lors de sa prochaine réunion, ainsi qu'aux représentants
       des États Parties à la Convention du Mètre et aux directeurs des laboratoires
       nationaux de métrologie lors de leur réunion en octobre 2013.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-22 (2013)
   identifier: 102-22
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -382,9 +407,10 @@ resolutions:
       de ses travaux au CIPM lors de sa prochaine réunion, ainsi qu'aux représentants
       des États Parties à la Convention du Mètre et aux directeurs des laboratoires
       nationaux de métrologie lors de leur réunion en octobre 2013.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-23 (2013)
   identifier: 102-23
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -400,9 +426,10 @@ resolutions:
       4 (2011) « Sur le statut d'État Associé à la Conférence générale », ainsi que
       les implications vis à vis de l'augmentation de la souscription si l'Albanie
       choisissait de rester Associée à la CGPM.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-24 (2013)
   identifier: 102-24
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -415,9 +442,10 @@ resolutions:
     message: adopte la Recommandation « Mises à jour de la liste des fréquences étalons
       » présentée par le Comité consultatif du temps et des fréquences (CCTF) comme
       Recommandation CIPM CI-2013.
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-25 (2013)
   identifier: 102-25
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -435,9 +463,10 @@ resolutions:
       * CIPM MRA-G-01 « Guide to the implementation of the CIPM MRA » ;
       * CIPM MRA-D-04 « Calibration and Measurement Capabilities in the context of the CIPM MRA » ;
       * CIPM MRA-D-05 « Measurement comparisons in the CIPM MRA ».
-  subject: Le CIPM
 - dates:
   - '2013-06-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/102-26 (2013)
   identifier: 102-26
   url: https://www.bipm.org/fr/committees/ci/cipm/102-_1-2013
@@ -449,4 +478,3 @@ resolutions:
     date_effective: '2013-06-21'
     message: approuve le texte du document « Mission, Rôle et Objectifs du BIPM »
       présenté par le directeur du BIPM.
-  subject: Le CIPM

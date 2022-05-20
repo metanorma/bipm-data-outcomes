@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35777985/CGPM22-EN.pdf/fd67556f-5824-9
 resolutions:
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Liaisons avec d'autres organisations
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=162
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 162
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -62,14 +64,16 @@ resolutions:
       national plutôt qu'au niveau international.
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Métrologie et commerce
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=162
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 162
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -86,16 +90,18 @@ resolutions:
   actions: []
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Coordination des initiatives en faveur des actions liées à la métrologie,
     à l'accréditation et à la normalisation dans les pays et les entités économiques
     en voie de dévelopement
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=163
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 163
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -138,15 +144,17 @@ resolutions:
       membres de la Convention du Mètre."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Valeur et avantages de la Convention du Mètre pour les États membres et les
     associés à la Conférence générale
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=164
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 164
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -184,16 +192,18 @@ resolutions:
       appropriés."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Rapport sur l'évolution des besoins métrologiques dans les domaines des échanges
     commerciaux, de l'industrie et de la société, et le rôle du Bureau international
     des poids et mesures
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=164
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 164
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -243,18 +253,19 @@ resolutions:
     date_effective: '2003-10-17'
     message: invite le Comité international si nécessaire, d'actualiser le Rapport
       de 2002.
-  subject: Comité international
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Sur l'importance de l'Arrangement de reconnaissance mutuelle du Comité international
     des poids et mesures
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=165
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 165
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: noting
     date_effective: '2003-10-17'
@@ -297,15 +308,17 @@ resolutions:
       Conférence générale."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Implication des laboratoires nationaux de métrologie dans les activités de
     la Convention du Mètre
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=166
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 166
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -344,14 +357,16 @@ resolutions:
       d'unités.
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Révision de la mise en pratique de la définition du mètre
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=167
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 167
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '2003-10-17'
@@ -409,15 +424,17 @@ resolutions:
       en particulier en vue d'une éventuelle redéfinition de la seconde."
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Exigences pour le transport transfrontalier d'étalons de mesure, d'équipements
     métrologiques et de matériaux de référence
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=168
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 168
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -464,14 +481,16 @@ resolutions:
       et *recommande* aussi que le Comité international attire l'attention des autres organisations internationales ayant des responsabilités dans ce domaine sur cette Résolution.
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Symbole du séparateur décimal
   identifier: 10
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=169
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 169
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -530,21 +549,23 @@ resolutions:
       par des points, ni par des virgules », comme le recommande la Résolution 7 de
       la 9^e^ Conférence générale de 1948."
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2003-10-17'
     message: "*déclare* que le symbole du séparateur décimal pourra être le point
       sur la ligne ou la virgule sur la ligne,"
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Relations entre les laboratoires nationaux de métrologie et les organismes
     d'accréditation reconnus au niveau national
   identifier: 11
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=170
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 170
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'
@@ -619,14 +640,16 @@ resolutions:
       et *note* que les étalonnages ne sont pas une évaluation de la conformité.
 - dates:
   - '2003-10-17'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international pour les années 2005 à 2008
   identifier: 12
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9?version=1.1&download=true#page=171
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM22.pdf/36468a98-a1a8-7697-0470-5a3855653dc9
+  reference_name: Comptes rendus de la 22e CGPM (2003), 2005
+  reference_page: 171
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 22^e^ Conférence générale des poids et mesures,
+  - message: La 22^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2003-10-17'

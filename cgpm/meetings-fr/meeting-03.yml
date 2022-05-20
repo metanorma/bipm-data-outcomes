@@ -8,17 +8,19 @@ pdf: https://www.bipm.org/documents/20126/38096616/CGPM3.pdf/9993082b-5a57-0b7e-
 resolutions:
 - dates:
   - '1901-10-22'
+  subject: CGPM
+  type: resolution
   title: Déclaration concernant la définition du litre
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/3-1901/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM3.pdf/2459a1a9-f63a-c916-9783-4a390631e28b?version=1.1&download=true#page=38
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM3.pdf/2459a1a9-f63a-c916-9783-4a390631e28b
+  reference_name: Comptes rendus de la 3e CGPM (1901), 1901
+  reference_page: 38
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "*La Conférence*"
+  - message: "*La Conférence*"
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1901-10-22'
     message: |-
       déclare :
@@ -30,15 +32,15 @@ resolutions:
   notes: Définition abrogée en 1964 par la 12^e^ CGPM (Résolution 6).
 - dates:
   - '1901-10-22'
+  subject: CGPM
+  type: resolution
   title: Déclaration relative à l'unité de masse et à la définition du poids ; valeur
     conventionnelle de <i>g</i><sub>n</sub>
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/3-1901/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM3.pdf/2459a1a9-f63a-c916-9783-4a390631e28b?version=1.1&download=true#page=70
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM3.pdf/2459a1a9-f63a-c916-9783-4a390631e28b
+  reference_name: Comptes rendus de la 3e CGPM (1901), 1901
+  reference_page: 70
   considerations:
   - type: having / having regard
     date_effective: '1901-10-22'
@@ -55,7 +57,7 @@ resolutions:
       dans l'usage courant sur la signification du terme _poids_, employé tantôt dans
       le sens du terme _masse_, tantôt dans le sens du terme _effort mécanique_ ;"
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1901-10-22'
     message: |-
       *La Conférence déclare :*

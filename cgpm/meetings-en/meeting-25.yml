@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/35655701/CGPM25.pdf/ab4ada95-a815-caf8
 resolutions:
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: On the future revision of the International System of Units, the SI
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/25-2014/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=416
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Proceedings of the 25th CGPM (2014), 2015
+  reference_page: 416
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "The General Conference on Weights and Measures (CGPM), at its 25th meeting,\n\n "
+  - message: "The General Conference on Weights and Measures (CGPM), at its 25th meeting,\n\n "
   considerations:
   - type: recalling / further recalling
     date_effective: '2014-11-20'
@@ -91,14 +93,16 @@ resolutions:
       are deemed satisfactory.
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: On the election of the International Committee for Weights and Measures
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/25-2014/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=418
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Proceedings of the 25th CGPM (2014), 2015
+  reference_page: 418
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 25th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 25th meeting,
   considerations:
   - type: considering
     date_effective: '2014-11-20'
@@ -169,14 +173,16 @@ resolutions:
     message: invites Member States to participate actively in the CIPM election process.
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: On the Pension and Provident Fund of the BIPM
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/25-2014/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=420
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Proceedings of the 25th CGPM (2014), 2015
+  reference_page: 420
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "The General Conference on Weights and Measures (CGPM), at its 25th meeting,\n\n "
+  - message: "The General Conference on Weights and Measures (CGPM), at its 25th meeting,\n\n "
   considerations:
   - type: recalling / further recalling
     date_effective: '2014-11-20'
@@ -240,17 +246,18 @@ resolutions:
       studies on the assets and liabilities of the BIPM Pension and Provident Fund
       in its regular financial publications and at the next meeting of the General
       Conference.
-  subject: CIPM
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: Dotation of the BIPM for the years 2016 to 2019
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/25-2014/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=422
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Proceedings of the 25th CGPM (2014), 2015
+  reference_page: 422
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The General Conference on Weights and Measures (CGPM), at its 25th meeting,
+  - message: The General Conference on Weights and Measures (CGPM), at its 25th meeting,
   considerations:
   - type: considering
     date_effective: '2014-11-20'
@@ -313,14 +320,16 @@ resolutions:
       without well-developed metrology infrastructure.
 - dates:
   - '2014-11-20'
+  subject: CGPM
+  type: resolution
   title: On the importance of the CIPM Mutual Recognition Arrangement
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/25-2014/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4?version=1.3&download=true#page=423
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM25.pdf/64861bb0-b7ea-531d-3f24-b108002471c4
+  reference_name: Proceedings of the 25th CGPM (2014), 2015
+  reference_page: 423
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: "The General Conference on Weights and Measures (CGPM), at its 25th meeting,\n\n "
+  - message: "The General Conference on Weights and Measures (CGPM), at its 25th meeting,\n\n "
   considerations:
   - type: considering
     date_effective: '2014-11-20'

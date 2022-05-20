@@ -8,16 +8,18 @@ pdf: https://www.bipm.org/documents/20126/35656171/CGPM23.pdf/aed600fc-a50e-0583
 resolutions:
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Initiatives prises pour renforcer la collaboration entre les laboratoires
     nationaux de m&eacute;trologie et les organismes d'accr&eacute;ditation reconnus
     au niveau national
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=162
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 162
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: noting
     date_effective: '2007-11-16'
@@ -54,17 +56,19 @@ resolutions:
       développer leur collaboration et un dialogue régulier."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Au sujet du rapport du Comit&eacute; international &agrave; la Conf&eacute;rence
     g&eacute;n&eacute;rale sur l'&eacute;volution des besoins dans le domaine de la
     m&eacute;trologie pour le commerce, l'industrie et la soci&eacute;t&eacute; et
     le r&ocirc;le du Bureau international des poids et mesures (BIPM)
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=162
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 162
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -156,15 +160,17 @@ resolutions:
       générales.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international des poids et mesures (BIPM) pour les ann&eacute;es
     2009 &agrave; 2012
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=164
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 164
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -269,16 +275,18 @@ resolutions:
       approuvée par la Conférence générale."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur l'importance de l'Arrangement de reconnaissance mutuelle du Comit&eacute;
     international des poids et mesures (CIPM) et des autres arrangements connexes
     pour le commerce
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=166
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 166
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -314,14 +322,16 @@ resolutions:
       tout ce qui fait obstacle à l'acceptation de cette demande du BIPM."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur les États associ&eacute;s &agrave; la Conf&eacute;rence g&eacute;n&eacute;rale
   identifier: 5
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=167
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 167
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -366,15 +376,17 @@ resolutions:
       maximum correspondant à cinq ans de souscriptions.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur l'acceptation d'entit&eacute;s &eacute;conomiques comme Associ&eacute;s
     &agrave; la Conf&eacute;rence g&eacute;n&eacute;rale
   identifier: 6
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=167
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 167
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -405,17 +417,19 @@ resolutions:
       générale.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur l'importance de promouvoir les activit&eacute;s men&eacute;es sous les
     auspices de la Convention du M&egrave;tre afin d'encourager davantage d'États
     &agrave; adh&eacute;rer &agrave; la Convention du M&egrave;tre ou &agrave; devenir
     Associ&eacute;s &agrave; la Conf&eacute;rence g&eacute;n&eacute;rale
   identifier: 7
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=168
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 168
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -492,14 +506,16 @@ resolutions:
       générale.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur les contributions arri&eacute;r&eacute;es des États Membres
   identifier: 8
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=170
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 170
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '2007-11-16'
@@ -570,15 +586,17 @@ resolutions:
       arriérées.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur la r&eacute;vision de la mise en pratique de la d&eacute;finition du
     m&egrave;tre et sur la mise au point de nouveaux &eacute;talons optiques de fr&eacute;quence
   identifier: 9
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=171
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 171
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -629,15 +647,17 @@ resolutions:
       de fréquence.
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur la clarification de la d&eacute;finition du kelvin, unit&eacute; de temp&eacute;rature
     thermodynamique
   identifier: 10
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=172
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 172
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -674,15 +694,17 @@ resolutions:
   actions: []
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur l'importance des mesures traçables au Syst&egrave;me international d'unit&eacute;s
     (SI) pour l'observation du changement climatique
   identifier: 11
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=173
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 173
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '2007-11-16'
@@ -729,15 +751,17 @@ resolutions:
       établir cette traçabilité dans les mesures terrestres et spatiales."
 - dates:
   - '2007-11-16'
+  subject: CGPM
+  type: resolution
   title: Sur l'&eacute;ventuelle red&eacute;finition de certaines unit&eacute;s de
     base du Syst&egrave;me international d'unit&eacute;s (SI)
   identifier: 12
   url: https://www.bipm.org/fr/committees/cg/cgpm/23-2007/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc?version=1.1&download=true#page=174
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM23.pdf/d26fa125-1cfe-51d5-5492-1d6c5cfcbefc
+  reference_name: Comptes rendus de la 23e CGPM (2007), 2010
+  reference_page: 174
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 23^e^ Conférence générale des poids et mesures,
+  - message: La 23^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '2007-11-16'
@@ -812,4 +836,3 @@ resolutions:
       * suscitent des campagnes de sensibilisation pour alerter les communautés d'utilisateurs sur l'éventualité de nouvelles définitions afin que leurs implications techniques et juridiques, ainsi que leurs réalisations pratiques, soient discutées et examinées avec soin,
 
       et *demande* au Comité international de présenter un rapport à ce sujet à la 24^e^ Conférence générale en 2011 et d'entreprendre tous les préparatifs qu'il considère comme nécessaires de manière à ce que, si les résultats des expériences sont jugés convenables et les besoins des utilisateurs satisfaits, il puisse être officiellement proposé à la 24^e^ Conférence générale d'approuver de nouvelles définitions du kilogramme, de l'ampère,
-  subject: laboratoires nationaux de métrologie et le BIPM

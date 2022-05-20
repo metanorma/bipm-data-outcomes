@@ -7,20 +7,23 @@ metadata:
 resolutions:
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-27 (2015)
   identifier: 104-27
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
   categories:
   - Meetings
   considerations:
-  - type: acknowledging
+  - type: accepts
     date_effective: '2015-10-16'
     message: accepted the minutes of Session I of the 104th meeting of the CIPM as
       a true record.
   actions: []
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-28 (2015)
   identifier: 104-28
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -33,9 +36,10 @@ resolutions:
     message: confirmed its approval of the audited financial statements of the BIPM
       and of the BIPM Pension and Provident Fund which it had approved by correspondence
       in June 2015. The CIPM gave the BIPM Director quietus for the 2014 exercise.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-29 (2015)
   identifier: 104-29
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -48,9 +52,10 @@ resolutions:
     date_effective: '2015-10-16'
     message: approved the proposal that the BIPM point be adjusted temporarily during
       the period 2016-2019 by a maximum of 1 % on an annual basis.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-30 (2015)
   identifier: 104-30
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -63,9 +68,10 @@ resolutions:
     message: approved the budget proposed by the Director for 2016 (CIPM/2015-II-15),
       noting that he will provide further details of budgeted staff costs to the CIPM
       Sub-Committee on Finance.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-31 (2015)
   identifier: 104-31
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -76,9 +82,10 @@ resolutions:
   - type: approves
     date_effective: '2015-10-16'
     message: approved the proposed amendments to the BIPM Financial Regulations (CIPM/2015-II-15).
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-32 (2015)
   identifier: 104-32
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -91,9 +98,10 @@ resolutions:
     message: decided to transfer responsibility for the BIPM Health Insurance scheme
       from the CIPM Sub-Committee on the BIPM Pension and Provident Fund and Health
       Insurance (PF&HI) to the CIPM _ad hoc_ Working Group on Conditions of Employment.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-33 (2015)
   identifier: 104-33
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -110,9 +118,10 @@ resolutions:
       Sub-Committee on the BIPM Pension and Provident Fund and Health Insurance (PF&HI)
       relating to pensions. It approved the amended Regulations in the English and
       French versions (both dated 29 September 2015).
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-34 (2015)
   identifier: 104-34
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -125,9 +134,10 @@ resolutions:
     message: decided to close the CIPM Sub-committee for the BIPM Pension and Provident
       Fund and Health Insurance (PF&HI) and thanked its Chairs and members for their
       work.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-35 (2015)
   identifier: 104-35
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -140,9 +150,10 @@ resolutions:
     message: |-
       appointed Mr Érard as Chair of the Pension Fund Advisory Board (PFAB), and appointed Dr Bowsher and Dr Usuda as members. +
       The CIPM appointed Dr Christian Bock, Director of METAS (Switzerland), as an expert member of the PFAB and expressed its appreciation for the work he has performed as a member of the CIPM Sub-Committee on the BIPM Pension and Provident Fund and Health Insurance.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-36 (2015)
   identifier: 104-36
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -161,9 +172,10 @@ resolutions:
       CIPM therefore does not consider it necessary to include a representative or
       observer of the association on the PFAB at this time.
   actions: []
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-37 (2015)
   identifier: 104-37
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -181,9 +193,10 @@ resolutions:
       Fund be placed on a financially sustainable basis in order that it should be
       sufficient to support pension benefits in the long term. The CIPM requested
       the Pension Fund Advisory Board to progress the work started by the Sub Committee.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-38 (2015)
   identifier: 104-38
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -196,9 +209,10 @@ resolutions:
     message: granted provisional acceptance of GULFMET as a Regional Metrology Organization
       (RMO) in accordance with the procedures of the JCRB and within the meaning of
       the CIPM MRA.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-39 (2015)
   identifier: 104-39
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -213,9 +227,10 @@ resolutions:
       involve non-signatories to the CIPM MRA and mandated the Presidents of the Consultative
       Committees to implement it.
   actions: []
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-40 (2015)
   identifier: 104-40
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -230,9 +245,10 @@ resolutions:
       (CCU) on the structure, composition and terms of reference of the SI Promotion
       Task Group and the Public Relations Expert Group. It nominated Dr Ullrich as
       Chair of the SI Promotion Task Group.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-41 (2015)
   identifier: 104-41
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -247,9 +263,10 @@ resolutions:
       circulate a draft of the 9th edition of the SI Brochure and a draft resolution
       for the 26th CGPM on the redefinition of the SI base units to the Consultative
       Committees and the National Metrology Institutes for comment.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-42 (2015)
   identifier: 104-42
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -264,9 +281,10 @@ resolutions:
       of the other Consultative Committees, whilst retaining the title "Section".
       Consequently, the CCRI is able to decide on the membership and observership
       of its Sections.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-43 (2015)
   identifier: 104-43
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -281,9 +299,10 @@ resolutions:
       of the Consultative Committee for Time and Frequency (CCTF) and the Consultative
       Committee for Length (CCL) as CIPM Recommendation 2 (CI-2015), subject to any
       comments submitted by CIPM members in the three weeks following the meeting.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-44 (2015)
   identifier: 104-44
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -299,9 +318,10 @@ resolutions:
       meeting (2018). The CIPM's preferred option is that all new definitions should
       come into force at the time the CGPM makes a resolution. The CIPM agreed to
       take a final decision at its next session in 2016.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-45 (2015)
   identifier: 104-45
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -315,9 +335,10 @@ resolutions:
       and associated derived units for photometric and radiometric quantities in the
       International System of Units (SI)" presented by the President of the Consultative
       Committee on Photometry and Radiometry (CCPR).
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-46 (2015)
   identifier: 104-46
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -325,15 +346,16 @@ resolutions:
   - CCs and WGs
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '2015-10-16'
     message: will review the policy for approving and reviewing membership and observership
       of the Consultative Committees at a meeting of CC Presidents to be held in June
       2016. The decisions on observer and member status presented at Session II of
       the 104th meeting of the CIPM are postponed until after this review.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-47 (2015)
   identifier: 104-47
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -349,9 +371,10 @@ resolutions:
       the Presidents of all of the Consultative Committees are welcome to attend meetings
       of the CCU. A full discussion on the criteria for CCU membership will be held
       in June 2016 during the meeting of the CC Presidents.
-  subject: The CIPM
 - dates:
   - '2015-10-16'
+  subject: CIPM
+  type: decision
   title: Decision CIPM/104-48 (2015)
   identifier: 104-48
   url: https://www.bipm.org/en/committees/ci/cipm/104-_2-2015
@@ -364,4 +387,3 @@ resolutions:
       the matter to be closed, decided to leave the current practice to stand and
       encouraged the Director to work with Dr Quinn to update the BIPM website accordingly.
   actions: []
-  subject: The CIPM

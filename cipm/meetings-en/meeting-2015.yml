@@ -7,15 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: recommendation
   title: CIPM Recommendation to NMIs on managing the consequences of the corrections
     to the BIPM as-maintained mass unit
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/104-_1-2015/resolution-1
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754?version=1.8&download=true#page=108
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754
+  reference_name: Proceedings of the 104th CIPM (2015), 2016
+  reference_page: 108
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2015-03-10'
@@ -46,14 +48,16 @@ resolutions:
       take the updated mass values as the basis for their future calibrations.
 - dates:
   - '2015-03-10'
+  subject: CIPM
+  type: recommendation
   title: Updates to the list of standard frequencies
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/104-_1-2015/resolution-2
-  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754?version=1.8&download=true#page=207
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754
+  reference_name: Proceedings of the 104th CIPM (2015), 2016
+  reference_page: 207
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The International Committee for Weights and Measures (CIPM),
+  - message: The International Committee for Weights and Measures (CIPM),
   considerations:
   - type: considering
     date_effective: '2015-03-10'

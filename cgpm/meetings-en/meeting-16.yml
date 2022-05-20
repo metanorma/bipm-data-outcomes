@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38095501/CGPM16.pdf/23103eb5-a014-e41b
 resolutions:
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: Kilogram standards
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 16th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1979-10-12'
@@ -43,14 +45,16 @@ resolutions:
       determination of the air buoyancy correction.
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: Realization of electrical units
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 16th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1979-10-12'
@@ -82,14 +86,16 @@ resolutions:
       the determination of physical constants."
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: SI unit of luminous intensity (candela)
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=100
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 100
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 16th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1979-10-12'
@@ -139,14 +145,16 @@ resolutions:
      This definition of the candela was abrogated in 2018 by the 26th CGPM (Resolution 1), which became effective in 2019.
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: Definition of the candela - Improvement of photometric accuracy
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=100
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 100
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures,
+  - message: The 16th Conférence Générale des Poids et Mesures,
   considerations: []
   actions:
   - type: instructs
@@ -161,14 +169,16 @@ resolutions:
       in photometric calibration procedures and methods of international comparisons."
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: Special name for the SI unit of dose equivalent (sievert)
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=100
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 100
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures,
+  - message: The 16th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1979-10-12'
@@ -194,14 +204,16 @@ resolutions:
     (Recommendation 1).
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: Symbols for the litre
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=101
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 101
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 16th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: recognizing
     date_effective: '1979-10-12'
@@ -239,14 +251,16 @@ resolutions:
     symbol for the litre.
 - dates:
   - '1979-10-12'
+  subject: CGPM
+  type: resolution
   title: BIPM budget for the years 1981-1984
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/16-1979/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912?version=1.1&download=true#page=101
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM16.pdf/a6a7dde0-b395-0552-e6b3-171fd25ff912
+  reference_name: Proceedings of the 16th CGPM (1979), 1980
+  reference_page: 101
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 16th Conférence Générale des Poids et Mesures,
+  - message: The 16th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1979-10-12'
@@ -270,7 +284,7 @@ resolutions:
       where stem:[x] represents the repartition percentage calculated for the People's Republic of China from the United Nations coefficient in force on the 1st January 1980 on applying the procedure adopted by the 11th CGPM,
 
       * that following the adherence of the People's Republic of China to the Convention du Metre, the annual budget which serves as the base for the calculation of the budget for the years 1981-1984 is obtained by multiplying the annual budget of the BIPM for the year 1980 voted by the 15th CGPM, by a factor stem:[(100 + x)/100],
-  - type: acknowledging
+  - type: accepts
     date_effective: '1979-10-12'
     message: accepting without any opposing vote the principle of the proposal of
       the CIPM duly notified in advance to Governments in conformity with Article

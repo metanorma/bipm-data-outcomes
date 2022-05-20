@@ -7,16 +7,18 @@ metadata:
 resolutions:
 - dates:
   - '1988-10-06'
+  subject: CIPM
+  type: recommendation
   title: Representation of the volt by means of the Josephson effect
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/77-1988/resolution-1
   reference: https://www.bipm.org/en/committees/ci/cipm/77-1988/resolution-1#page=44
+  reference_name: Proceedings of the 77th CIPM (1988), 1989
+  reference_page: 44
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: '1988-10-06'
     message: "*acting* in accordance with instructions given in Resolution 6 of the
       18th Conférence Générale des Poids et Mesures concerning the forthcoming adjustment
@@ -66,16 +68,18 @@ resolutions:
     value for stem:[K_("J")].
 - dates:
   - '1988-10-06'
+  subject: CIPM
+  type: recommendation
   title: Representation of the ohm by means of the quantum Hall effect
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/77-1988/resolution-2
   reference: https://www.bipm.org/en/committees/ci/cipm/77-1988/resolution-2#page=45
+  reference_name: Proceedings of the 77th CIPM (1988), 1989
+  reference_page: 45
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures,
+  - message: The Comité International des Poids et Mesures,
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: '1988-10-06'
     message: "*acting* in accordance with instructions given in Resolution 6 of the
       18th Conférence Générale des Poids et Mesures concerning the forthcoming adjustment
@@ -132,22 +136,24 @@ resolutions:
     The 26th CGPM in 2018 (Resolution 1) abrogated the adoption of a conventional value for stem:[K_("J")].
 - dates:
   - '1988-10-06'
+  subject: CIPM
+  type: recommendation
   title: Preparation of the International Temperature Scale of 1990 (ITS-90)
   identifier: 3
   url: https://www.bipm.org/en/committees/ci/cipm/77-1988/resolution-3
   reference: https://www.bipm.org/en/committees/ci/cipm/77-1988/resolution-3#page=46
+  reference_name: Proceedings of the 77th CIPM (1988), 1989
+  reference_page: 46
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The Comité International des Poids et Mesures
+  - message: The Comité International des Poids et Mesures
   considerations:
-  - type: recognizing
+  - type: acting
     date_effective: '1988-10-06'
     message: _acting_ in accordance with instructions given in Resolution 7 of the
       18th Conférence Générale des Poids et Mesures concerning the preparation of
       the new international temperature scale,
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1988-10-06'
     message: _announces_ that the differences between the ITS-90 and the IPTS-68 will
       be approximately those indicated in the graph attached to this Recommendation,
@@ -156,4 +162,4 @@ resolutions:
     message: |-
       _recommends_ that national laboratories take note of these differences with a view to the implementation of the ITS-90 on 1st January 1990.
 
-      <source media="(max-width:300px)" srcset="/o/adaptive-media/image/60632430/thumbnail-300x300/Graph-CI-1988-Recommendation-3-EN.jpg"></source>image::/documents/20126/60632397/Graph-CI-1988-Recommendation-3-EN.jpg/0016513b-23fa-0ede-e17a-732f08afde97?t=1631025511879[]
+      <source media="(max-width:300px)" srcset="/o/adaptive-media/image/60632430/thumbnail-300x300/Graph-CI-1988-Recommendation-3-EN.jpg?t=1631025511879"></source><source media="(max-width:1000px) and (min-width:300px)" srcset="/o/adaptive-media/image/60632430/Preview-1000x0/Graph-CI-1988-Recommendation-3-EN.jpg?t=1631025511879"></source>image::/documents/20126/60632397/Graph-CI-1988-Recommendation-3-EN.jpg/0016513b-23fa-0ede-e17a-732f08afde97?t=1631025511879[]

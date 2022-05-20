@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38090957/CGPM19.pdf/2f7ee319-dbb4-d798
 resolutions:
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: Étalons de temps et comparaisons de temps
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/19-1991/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=95
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Comptes rendus de la 19e CGPM (1991), 1992
+  reference_page: 95
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 19^e^ Conférence générale des poids et mesures (CGPM),
+  - message: La 19^e^ Conférence générale des poids et mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1991-10-04'
@@ -51,14 +53,16 @@ resolutions:
       de la rotation terrestre.
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: L'effet Josephson et l'effet Hall quantique
   identifier: 2
   url: https://www.bipm.org/fr/committees/cg/cgpm/19-1991/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=96
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Comptes rendus de la 19e CGPM (1991), 1992
+  reference_page: 96
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 19^e^ Conférence générale des poids et mesures,
+  - message: La 19^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1991-10-04'
@@ -102,15 +106,17 @@ resolutions:
       fondamentale de l'effet Josephson et de l'effet Hall quantique.
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: L'Échelle internationale de température de 1990 et les travaux futurs en
     thermométrie
   identifier: 3
   url: https://www.bipm.org/fr/committees/cg/cgpm/19-1991/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=97
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Comptes rendus de la 19e CGPM (1991), 1992
+  reference_page: 97
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 19^e^ Conférence générale des poids et mesures,
+  - message: La 19^e^ Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1991-10-04'
@@ -144,25 +150,34 @@ resolutions:
       de leurs programmes de recherche fondamentale en thermométrie."
 - dates:
   - '1991-10-04'
+  subject: CGPM
+  type: resolution
   title: Préfixes SI zetta, zepto, yotta et yocto
   identifier: 4
   url: https://www.bipm.org/fr/committees/cg/cgpm/19-1991/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4?version=1.3&download=true#page=97
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM19.pdf/3f65ecf1-f86e-b86c-5c28-709d9f12eec4
+  reference_name: Comptes rendus de la 19e CGPM (1991), 1992
+  reference_page: 97
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La 19^e^ Conférence générale des poids et mesures (CGPM),
+  - message: La 19^e^ Conférence générale des poids et mesures (CGPM),
   considerations: []
   actions:
   - type: decides
     date_effective: '1991-10-04'
-    message: "*décide* d'ajouter à la liste des préfixes SI pour la formation des
-      noms des multiples et sous-multiples des unités, adoptée par la 11^e^ CGPM,
-      Résolution 12, paragraphe 3, la 12^e^ CGPM, Résolution 8 et la 15^e^ CGPM, Résolution
-      10, les préfixes suivants :\n\n|===\n.>a| Facteur par lequel +\n l'unité est
-      multipliée\n.>| Préfixe .>| Symbole\n\n3+| \n.>| stem:[10^(21)] .>| zetta .>|
-      Z\n.>| stem:[10^(-21)] .>| zepto .>| z\n.>| stem:[10^(24)] .>| yotta .>| Y\n.>|
-      stem:[10^(-24)] .>| yocto .>| y\n\n|==="
+    message: |-
+      *décide* d'ajouter à la liste des préfixes SI pour la formation des noms des multiples et sous-multiples des unités, adoptée par la 11^e^ CGPM, Résolution 12, paragraphe 3, la 12^e^ CGPM, Résolution 8 et la 15^e^ CGPM, Résolution 10, les préfixes suivants :
+
+      |===
+      a| Facteur par lequel +
+       l'unité est multipliée
+      | Préfixe | Symbole
+
+      .>| stem:[10^(21)] .>| zetta .>| Z
+      .>| stem:[10^(-21)] .>| zepto .>| z
+      .>| stem:[10^(24)] .>| yotta .>| Y
+      .>| stem:[10^(-24)] .>| yocto .>| y
+
+      |===
   notes: Les noms zepto et zetta évoquent le chiffre sept (septième puissance de stem:[10^(3)])
     et la lettre « z » remplace la lettre « stem:["s"] » pour éviter le double emploi
     de la lettre « stem:["s"] » comme symbole. Les noms yocto et yotta sont dérivés

@@ -7,6 +7,8 @@ metadata:
 resolutions:
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-1 (2019)
   identifier: 108-1
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -17,9 +19,10 @@ resolutions:
   - type: approves
     date_effective: '2019-03-21'
     message: approuve les procès-verbaux de la 107^e^ session du CIPM.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-2 (2019)
   identifier: 108-2
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -33,9 +36,10 @@ resolutions:
       (SRI) afin de disposer que la durée totale d'exercice des fonctions au bénéfice
       d'engagements de durée déterminée ne peut excéder 5 ans.
   actions: []
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-3 (2019)
   identifier: 108-3
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -43,12 +47,13 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: élit au scrutin secret W. Louw président du CIPM.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-4 (2019)
   identifier: 108-4
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -56,16 +61,17 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: |-
       élit au scrutin secret :
 
       * T. Usuda secrétaire du CIPM,
       * J. Ullrich et J. Olthoff vice-présidents du CIPM.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-5 (2019)
   identifier: 108-5
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -80,6 +86,8 @@ resolutions:
       T. Liew est nommé personne de contact du CIPM auprès de ce Groupe de travail.
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-6 (2019)
   identifier: 108-6
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -96,9 +104,10 @@ resolutions:
       et de la communication du BIPM, ainsi que son rôle de coordination avec les
       experts en relations publiques des laboratoires nationaux de métrologie du monde
       entier.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-7 (2019)
   identifier: 108-7
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -106,13 +115,14 @@ resolutions:
   - CCs et WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: 'nomme S.-R. Park président du Comité consultatif pour la quantité de
       matière : métrologie en chimie et biologie (CCQM) pour un mandat de quatre ans.'
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-8 (2019)
   identifier: 108-8
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -120,13 +130,14 @@ resolutions:
   - CCs et WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: nomme stem:["N"]. Dimarcq président du Comité consultatif du temps et
       des fréquences (CCTF) pour un mandat de quatre ans.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-9 (2019)
   identifier: 108-9
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -147,9 +158,10 @@ resolutions:
       * Comité consultatif des rayonnements ionisants (CCRI) : W. Louw.
       * Comité consultatif de thermométrie (CCT) : Y. Duan.
       * Comité consultatif des unités (CCU) : J. Ullrich.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-10 (2019)
   identifier: 108-10
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -157,13 +169,14 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: nomme A. Steele président de la Commission consultative sur la Caisse
       de retraite (CCCR).
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-11 (2019)
   identifier: 108-11
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -171,13 +184,14 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: nomme T. Usuda président du Groupe de travail _ad hoc_ du CIPM sur les
       conditions d'emploi.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-12 (2019)
   identifier: 108-12
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -185,7 +199,7 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: |-
       nomme les membres du CIPM suivants au sein des Sous-comités et Groupes de travail _ad hoc_ du CIPM :
@@ -196,9 +210,10 @@ resolutions:
       * Groupe de travail ad hoc du CIPM sur les conditions d'emploi : T. Usuda (président), I. Castelazo, M.L. Rastello, P. Richard.
       * Sous-comité du CIPM sur l'attribution de distinctions : F. Bulygin (président), T. Liew, S.‑R. Park.
       * Groupe de travail ad hoc du CIPM sur la reproductibilité des données de recherches et autres sujets connexes : T. Liew (président), F. Bulygin, I. Castelazo, H. Laiz, M.L. Rastello, M. Sené, J. Ullrich.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-13 (2019)
   identifier: 108-13
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -213,6 +228,8 @@ resolutions:
       P. Neyezhmakov et le directeur du BIPM sont nommés membres de ce Groupe de travail.
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-14 (2019)
   identifier: 108-14
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -220,16 +237,17 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '2019-03-21'
     message: charge T. Liew de rédiger les termes de référence du Groupe de travail
       _ad hoc_ du CIPM sur la reproductibilité des données de recherches et autres
       sujets connexes, en tenant compte des commentaires formulés par les membres
       du CIPM concernant l'extension du mandat du Groupe de travail, puis de les présenter
       au CIPM lors de sa prochaine réunion.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-15 (2019)
   identifier: 108-15
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -237,15 +255,16 @@ resolutions:
   - SI
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: nomme J. Olthoff pour représenter le CIPM au Comité mixte des organisations
       régionales de métrologie et du BIPM (JCRB) et demande au JCRB d'amender le document
       CIPM MRA-D-01 « Rules of procedure for the JCRB » (Règles de fonctionnement
       du JCRB) en tant que de besoin.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-16 (2019)
   identifier: 108-16
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -253,13 +272,14 @@ resolutions:
   - JCTLM
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: nomme T. Liew pour représenter le CIPM au Comité commun pour la traçabilité
       en médecine de laboratoire (JCTLM) et S.‑R. Park pour le seconder.
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-17 (2019)
   identifier: 108-17
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -267,13 +287,14 @@ resolutions:
   - JCGM
   considerations: []
   actions:
-  - type: appoints
+  - type: elects
     date_effective: '2019-03-21'
     message: nomme P. Neyezhmakov pour représenter le CIPM au Comité commun pour les
       guides en métrologie (JCGM).
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-18 (2019)
   identifier: 108-18
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -288,9 +309,10 @@ resolutions:
       Metrology Institutes » (Communication commune à l'International Laboratory Accreditation
       Cooperation (ILAC) et au CIPM concernant l'accréditation des services d'étalonnage
       et de mesure des laboratoires nationaux de métrologie).
-  subject: Le CIPM
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-19 (2019)
   identifier: 108-19
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -313,6 +335,8 @@ resolutions:
       * d'établir un calendrier de travail qui soit cohérent avec la réunion des représentants des États Membres qui se tiendra en octobre 2019.
 - dates:
   - '2019-03-21'
+  subject: CIPM
+  type: decision
   title: Décision CIPM/108-20 (2019)
   identifier: 108-20
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
@@ -325,4 +349,3 @@ resolutions:
     message: salue les progrès effectués concernant la rationalisation des documents
       d'orientation du CIPM MRA et accepte la proposition du JCRB afin que ce dernier
       supervise la finalisation des documents et leur mise en œuvre.
-  subject: Le CIPM

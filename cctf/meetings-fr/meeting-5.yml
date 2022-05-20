@@ -7,17 +7,17 @@ metadata:
 resolutions:
 - dates:
   - '1970-06-19'
+  subject: CCDS
+  type: recommendation
   title: Définition du Temps Atomique International
   identifier: 2
   url: https://www.bipm.org/fr/committees/cc/cctf/5-1970/resolution-2
-  reference: https://www.bipm.org/documents/20126/63968654/CCDS5.pdf/4bf254ab-82f6-7a42-8198-762bc2d5d1f2?version=1.1&download=true#page=22
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Unanimous
+  reference: https://www.bipm.org/documents/20126/63968654/CCDS5.pdf/4bf254ab-82f6-7a42-8198-762bc2d5d1f2
+  reference_name: Comptes rendus du 5e CCDS (1970), 1971
+  reference_page: 22
   considerations: []
   actions:
-  - type: decides
+  - type: declares
     date_effective: '1970-06-19'
     message: Le Temps Atomique International est la coordonnée de repérage temporel
       établie par le Bureau International de l'Heure sur la base des indications d'horloges

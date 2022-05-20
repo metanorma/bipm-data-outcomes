@@ -8,15 +8,17 @@ pdf: https://www.bipm.org/documents/20126/38095546/CGPM11.pdf/46b7a834-73ce-391a
 resolutions:
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Extension des activités du Bureau international au domaine des étalons de
     mesure des radiations ionisantes
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=83
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 83
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -77,15 +79,17 @@ resolutions:
       autres."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Extension des activités du Bureau international au domaine des étalons de
     mesure des radiations ionisantes
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=84
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 84
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations: []
   actions:
   - type: decides
@@ -107,15 +111,17 @@ resolutions:
       immédiatement sans difficulté."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Extension des activités du Bureau international au domaine des étalons de
     mesure des radiations ionisantes
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=84
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 84
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations: []
   actions:
   - type: thanks / expresses-appreciation
@@ -123,20 +129,22 @@ resolutions:
     message: "*remercie* l'Institut du radium de l'Université de Paris d'avoir bien
       voulu confier au Bureau international des poids et mesures la garde de l'Étalon
       international de radium N° 5430, et"
-  - type: appoints
+  - type: authorizes
     date_effective: '1960-10-20'
     message: "*autorise* le Bureau international à prendre en charge cet Étalon."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Extension des activités du Bureau international au domaine des étalons de
     mesure des radiations ionisantes
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=84
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 84
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -154,14 +162,16 @@ resolutions:
       Conférence générale."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Dotation du Bureau international
   identifier: 5
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-5
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=84
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 84
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -177,7 +187,7 @@ resolutions:
     message: considérant que dans toutes ses activités le Bureau international doit
       être servi par un personnel de haute qualification scientifique de recrutement
       difficile,
-  - type: having / having regard
+  - type: accepts
     date_effective: '1960-10-20'
     message: "*acceptant* sans avis contraire la proposition du Comité international
       dûment notifiée à l'avance aux Gouvernements conformément à l'article 6, paragraphe
@@ -193,14 +203,16 @@ resolutions:
       et suivantes."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Definition of the metre
   identifier: 6
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-6
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=85
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 85
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 11th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 11th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -227,14 +239,16 @@ resolutions:
   notes: This definition was abrogated in 1983 by the 17th CGPM (Resolution 1).
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Définition du mètre
   identifier: 7
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-7
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=85
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 85
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -263,37 +277,40 @@ resolutions:
       recommande que la radiation du krypton 86 adoptée comme étalon fondamental de longueur soit réalisée au moyen d'une lampe à décharge à cathode chaude contenant du krypton 86 d'une pureté non inférieure à 99 pour cent, en quantité suffisante pour assurer la présence de krypton solide à la température de stem:[64 "°K"], cette lampe étant munie d'un capillaire ayant les caractéristiques suivantes : diamètre intérieur 2 à 4 millimètres, épaisseur des parois 1 millimètre environ.
 
       « On
-  subject: Comité international
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Définition du mètre
   identifier: 8
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-8
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=85
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 85
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
     message: "*considérant* les premières instructions préparées par le Comité international
       des poids et mesures sur la mise en pratique de la nouvelle définition du mètre,"
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '1960-10-20'
     message: "*charge* le Bureau international des poids et mesures de déterminer
       comme par le passé les Prototypes nationaux."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Definition of the unit of time (second)
   identifier: 9
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-9
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=86
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 86
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 11th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 11th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -312,14 +329,16 @@ resolutions:
   notes: This definition was abrogated in 1967 by the 13th CGPM (Resolution 1).
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Définition de l'unité de temps
   identifier: 10
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-10
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=86
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 86
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -344,14 +363,16 @@ resolutions:
       sur ce point.
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Système gravimétrique
   identifier: 11
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-11
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=86
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 86
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: |-
+  - message: |-
       La Onzième Conférence générale des poids et mesures,
 
       ayant pris connaissance avec satisfaction des progrès dans la mesure absolue de l'accélération due à la pesanteur grâce aux travaux du Bureau international des poids et mesures et des Laboratoires nationaux, mais constatant que plusieurs déterminations importantes sont encore en cours,
@@ -372,14 +393,16 @@ resolutions:
       accélération est connue avec une exactitude suffisante."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Système International d'Unités
   identifier: 12
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-12
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=87
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 87
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 11th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 11th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -392,13 +415,13 @@ resolutions:
 
       [width=100%]
       |===
-      .<| length .<| metre .<| stem:["m"]
+      | length | metre | stem:["m"]
 
-      .<| mass .<| kilogram .<| stem:["kg"]
-      .<| time .<| second .<| stem:["s"]
-      .<| electric current .<| ampere .<| stem:["A"]
-      .<| thermodynamic temperature .<| degree Kelvin .<| stem:["°K"]
-      .<| luminous intensity .<| candela .<| stem:["cd"]
+      | mass | kilogram | stem:["kg"]
+      | time | second | stem:["s"]
+      | electric current | ampere | stem:["A"]
+      | thermodynamic temperature | degree Kelvin | stem:["°K"]
+      | luminous intensity | candela | stem:["cd"]
 
       |===
       * Resolution 3 adopted by the Comité International des Poids et Mesures (CIPM) in 1956,
@@ -406,52 +429,72 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1960-10-20'
-    message: "*decides*\n\n. the system founded on the six base units above is called
-      the \"Système International d'Unités\";\n. the international abbreviation of
-      the name of the system is SI;\n. names of multiples and submultiples of the
-      units are formed by means of the following prefixes:\n\n\n\n[width=100%]\n|===\n2+^a|
-      Multiplying +\n factor\n|   .>| Prefix .>| Symbol |   2+^a| Multiplying +\n
-      factor\n|   .>| Prefix .>| Symbol\n\n5+|   |   5+| \n>| 1 000 000 000 000 |
-      = stem:[10^(12)] |   | tera 2+| stem:[\"T\"] >| 0.1 | = stem:[10^(-1)] |   |
-      deci | d\n>| 1 000 000 000 | = stem:[10^(9)] |   | giga 2+| G >| 0.01 | = stem:[10^(-2)]
-      |   | centi | c\n>| 1 000 000 | = stem:[10^(6)] |   | mega 2+| M >| 0.001 |
-      = stem:[10^(-3)] |   | milli | stem:[\"m\"]\n>| 1 000 | = stem:[10^(3)] |   |
-      kilo 2+| k >| 0.000 001 | = stem:[10^(-6)] |   | micro | stem:[\"µ\"]\n>| 100
-      | = stem:[10^(2)] |   | hecto 2+| stem:[\"h\"] >| 0.000 000 001 | = stem:[10^(-9)]
-      |   | nano | n\n>| 10 | = stem:[10^(1)] |   | deca 2+| da >| 0.000 000 000 001
-      | = stem:[10^(-12)] |   | pico | p\n\n|===\n. the units listed below are used
-      in the system, without excluding others which might be added later."
-  - type: decides
+    message: |-
+      *decides*
+
+      . the system founded on the six base units above is called the "Système International d'Unités";
+      . the international abbreviation of the name of the system is SI;
+      . names of multiples and submultiples of the units are formed by means of the following prefixes:
+
+
+
+      [width=100%]
+      |===
+      2+| Multiplying factor | Prefix | Symbol
+
+      >| 1 000 000 000 000 | = stem:[10^(12)] | tera | stem:["T"]
+      >| 1 000 000 000 | = stem:[10^(9)] | giga | G
+      >| 1 000 000 | = stem:[10^(6)] | mega | M
+      >| 1 000 | = stem:[10^(3)] | kilo | k
+      >| 100 | = stem:[10^(2)] | hecto | stem:["h"]
+      >| 10 | = stem:[10^(1)] | deca 2+| da
+
+      |===
+
+      [width=100%]
+      |===
+      2+| Multiplying factor | Prefix | Symbol
+
+      >| 0.1 | = stem:[10^(-1)] | deci | d
+      >| 0.01 | = stem:[10^(-2)] | centi | c
+      >| 0.001 | = stem:[10^(-3)] | milli | stem:["m"]
+      >| 0.000 001 | = stem:[10^(-6)] | micro | stem:["µ"]
+      >| 0.000 000 001 | = stem:[10^(-9)] | nano | n
+      >| 0.000 000 000 001 | = stem:[10^(-12)] | pico | p
+
+      |===
+      . the units listed below are used in the system, without excluding others which might be added later.
+  - type: declares
     date_effective: '1960-10-20'
     message: "*_Supplementary units_*\n\n[width=100%]\n|===\n| Plane angle | radian
       | stem:[\"rad\"]\n\n| Solid angle | steradian | stem:[\"sr\"]\n\n|===\n\n "
-  - type: decides
+  - type: declares
     date_effective: '1960-10-20'
-    message: "*_Derived units_*\n\n|===\n.>| area .>| square metre .>| stem:[\"m\"^(2)]
-      .>| \n\n.>| volume .>| cubic metre .>| stem:[\"m\"^(3)] .>| \n| frequency |
-      hertz | stem:[\"Hz\"] | stem:[1/\"s\"]\n.>| mass density (density) kilogram
-      per cubic metre .>| kilogram per cubic metre .>| stem:[\"kg\"/\"m\"^(3)] .>|
-      \n| speed, velocity | metre per second | stem:[\"m\"/\"s\"] | \n| angular velocity
-      radian per second | radian per second | stem:[\"rad\"/\"s\"] | \n.>| acceleration
-      .>| metre per second squared .>| stem:[\"m\"/\"s\"^(2)] .>| \n.>| angular acceleration
-      .>| radian per second squared .>| stem:[\"rad\"/\"s\"^(2)] .>| \n.>| force .>|
-      newton .>| stem:[\"N\"] .>| stem:[\"kg\" * \"m\"/\"s\"^(2)]\n.>| pressure (mechanical
-      stress) .>| newton per square metre .>| stem:[\"N\"/\"m\"^(2)] .| \n.>| kinematic
-      viscosity .>| square metre per second .>| stem:[\"m\"^(2)/\"s\"] .>| \n.>| dynamic
-      viscosity .>| newton-second per square metre .>| stem:[\"N\" * \"s\"/\"m\"^(2)]
-      .>| \n| work, energy, quantity of heat | joule | stem:[\"J\"] | stem:[\"N\"
-      * \"m\"]\n| power | watt | stem:[\"W\"] | stem:[\"J\"/\"s\"]\n| quantity of
-      electricity | coulomb | stem:[\"C\"] | stem:[\"A\" * \"s\"]\na| tension (voltage),
-      +\n difference, +\n electromotive force\n| volt | stem:[\"V\"] | stem:[\"W\"/\"A\"]\n|
-      electric field strength volt per metre | volt per metre | stem:[\"V\"/\"m\"]
-      | \n| electric resistance | ohm | Ω | stem:[\"V\"/\"A\"]\n| capacitance | farad
-      | stem:[\"F\"] | stem:[\"A\" * \"s\"/\"V\"]\n| magnetic flux | weber | stem:[\"Wb\"]
-      | stem:[\"V\" * \"s\"]\n| inductance | henry | stem:[\"H\"] | stem:[\"V\" *
-      \"s\"/\"A\"]\n| magnetic flux density | tesla | stem:[\"T\"] | stem:[\"Wb\"/\"m\"^(2)]\n|
-      magnetic field strength | ampere per metre | stem:[\"A\"/\"m\"] | \n| magnetomotive
-      force | ampere | stem:[\"A\"] | \n| luminous flux | lumen | stem:[\"lm\"] |
-      stem:[\"cd\" * \"sr\"]\n| luminance | candela per square metre | stem:[\"cd\"/\"m\"^(2)]
-      | \n| illuminance | lux | stem:[\"lx\"] | stem:[\"lm\"/\"m\"^(2)]\n\n|==="
+    message: "*_Derived units_*\n\nstem:[\"N\" * \"s\"/\"m\"^(2)]\n\n[width=100%]\n|===\n.>|
+      area .>| square metre .>| stem:[\"m\"^(2)] | \n\n.>| volume .>| cubic metre
+      .>| stem:[\"m\"^(3)] .>| \n| frequency | hertz | stem:[\"Hz\"] | stem:[1/\"s\"]\n.>|
+      mass density (density) kilogram per cubic metre .>| kilogram per cubic metre
+      .>| stem:[\"kg\"/\"m\"^(3)] .>| \n| speed, velocity | metre per second | stem:[\"m\"/\"s\"]
+      | \n| angular velocity radian per second | radian per second | stem:[\"rad\"/\"s\"]
+      | \n.>| acceleration .>| metre per second squared .>| stem:[\"m\"/\"s\"^(2)]
+      | \n.>| angular acceleration .>| radian per second squared | stem:[\"rad\"/\"s\"^(2)]
+      | \n.>| force .>| newton .>| stem:[\"N\"] .>| stem:[\"kg\" * \"m\"/\"s\"^(2)]\n.>|
+      pressure (mechanical stress) .>| newton per square metre .>| stem:[\"N\"/\"m\"^(2)]
+      | \n.>| kinematic viscosity .>| square metre per second .>| stem:[\"m\"^(2)/\"s\"]
+      | \n.>| dynamic viscosity .>| newton-second per square metre |   | \n| work,
+      energy, quantity of heat | joule | stem:[\"J\"] | stem:[\"N\" * \"m\"]\n| power
+      | watt | stem:[\"W\"] | stem:[\"J\"/\"s\"]\n| quantity of electricity | coulomb
+      | stem:[\"C\"] | stem:[\"A\" * \"s\"]\n| tension (voltage), difference, electromotive
+      force | volt | stem:[\"V\"] | stem:[\"W\"/\"A\"]\n| electric field strength
+      volt per metre | volt per metre | stem:[\"V\"/\"m\"] | \n| electric resistance
+      | ohm | Ω | stem:[\"V\"/\"A\"]\n| capacitance | farad | stem:[\"F\"] | stem:[\"A\"
+      * \"s\"/\"V\"]\n| magnetic flux | weber | stem:[\"Wb\"] | stem:[\"V\" * \"s\"]\n|
+      inductance | henry | stem:[\"H\"] | stem:[\"V\" * \"s\"/\"A\"]\n| magnetic flux
+      density | tesla | stem:[\"T\"] | stem:[\"Wb\"/\"m\"^(2)]\n| magnetic field strength
+      | ampere per metre | stem:[\"A\"/\"m\"] | \n| magnetomotive force | ampere |
+      stem:[\"A\"] | \n| luminous flux | lumen | stem:[\"lm\"] | stem:[\"cd\" * \"sr\"]\n|
+      luminance | candela per square metre | stem:[\"cd\"/\"m\"^(2)] | \n| illuminance
+      | lux | stem:[\"lx\"] | stem:[\"lm\"/\"m\"^(2)]\n\n|==="
   notes: |-
     The CGPM later abrogated certain of its decisions and extended the list of prefixes: +
      +
@@ -465,14 +508,16 @@ resolutions:
     * Modern practice is to use the phrase "amount of electricity" rather than "quantity of electrcity" (see above).
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Cubic decimetre and litre
   identifier: 13
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-13
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=88
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 88
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 11th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 11th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -490,14 +535,16 @@ resolutions:
       problem and submit its conclusions to the 12th CGPM."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Adhésion des Pays à la Convention du Mètre
   identifier: 14
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-14
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=88
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 88
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -522,14 +569,16 @@ resolutions:
       influence dans ce sens, en utilisant leurs liens scientifiques et techniques."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Négociation d'un accord de siège avec le Gouvernment français
   identifier: 15
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-15
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=89
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 89
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: considering
     date_effective: '1960-10-20'
@@ -539,7 +588,7 @@ resolutions:
       règlements établis pour les ressortissants et établissements nationaux français
       ou étrangers se trouvant en France,"
   actions:
-  - type: appoints
+  - type: charges
     date_effective: '1960-10-20'
     message: "*charge* le Comité international des poids et mesures de négocier avec
       le Gouvernement français un accord de siège sur une base non discriminatoire
@@ -551,14 +600,16 @@ resolutions:
       provisoire en attendant son approbation par la Douzième Conférence générale."
 - dates:
   - '1960-10-20'
+  subject: CGPM
+  type: resolution
   title: Révision de la Convention du Mètre
   identifier: 16
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-16
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b?version=1.2&download=true#page=89
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM11.pdf/c626e1d6-4320-56d3-db37-c6f2a343483b
+  reference_name: Proceedings of the 11th CGPM (1960), 1961
+  reference_page: 89
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: La Onzième Conférence générale des poids et mesures,
+  - message: La Onzième Conférence générale des poids et mesures,
   considerations:
   - type: noting
     date_effective: '1960-10-20'

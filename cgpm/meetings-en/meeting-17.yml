@@ -8,14 +8,16 @@ pdf: https://www.bipm.org/documents/20126/38091040/CGPM17.pdf/9970b20b-8330-8cd0
 resolutions:
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Definition of the metre
   identifier: 1
   url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-1
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=97
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Proceedings of the 17th CGPM (1983), 1984
+  reference_page: 97
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 17th Conférence Générale des Poids et Mesures (CGPM),
+  - message: The 17th Conférence Générale des Poids et Mesures (CGPM),
   considerations:
   - type: considering
     date_effective: '1983-10-21'
@@ -81,14 +83,16 @@ resolutions:
      This definition of the metre was abrogated in 2018 by the 26th CGPM (Resolution 1), which became effective in 2019.
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: On the realization of the definition of the metre
   identifier: 2
   url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-2
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=98
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Proceedings of the 17th CGPM (1983), 1984
+  reference_page: 98
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 17th Conférence Générale des Poids et Mesures
+  - message: The 17th Conférence Générale des Poids et Mesures
   considerations: []
   actions:
   - type: invites / further invites
@@ -107,17 +111,18 @@ resolutions:
   notes: See https://www.bipm.org/utils/en/pdf/CI-2002-1-EN.pdf[Recommendation 1 (CI-2002)]
     of the CIPM on the revision of the practical realization of the definition of
     the metre.
-  subject: Comité International des Poids et Mesures
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Density of air
   identifier: 3
   url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-3
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Proceedings of the 17th CGPM (1983), 1984
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 17th Conférence Générale des Poids et Mesures,
+  - message: The 17th Conférence Générale des Poids et Mesures,
   considerations:
   - type: recalling / further recalling
     date_effective: '1983-10-21'
@@ -142,17 +147,18 @@ resolutions:
     date_effective: '1983-10-21'
     message: invites the Comité International des Poids et Mesures to bring up to
       date the recommended equation when better experimental determinations permit.
-  subject: Comité International des Poids et Mesures
 - dates:
   - '1983-10-21'
+  subject: CGPM
+  type: resolution
   title: Appropriation for the BIPM
   identifier: 4
   url: https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-4
-  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473?version=1.1&download=true#page=99
+  reference: https://www.bipm.org/documents/20126/17314988/CGPM17.pdf/7a00a9b7-7106-65f2-4cf9-95a733ceb473
+  reference_name: Proceedings of the 17th CGPM (1983), 1984
+  reference_page: 99
   approvals:
-  - type: affirmative
-    degree: unanimous
-    message: The 17th Conférence Générale des Poids et Mesures,
+  - message: The 17th Conférence Générale des Poids et Mesures,
   considerations:
   - type: considering
     date_effective: '1983-10-21'
