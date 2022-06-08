@@ -9,7 +9,7 @@ resolutions:
 - dates:
   - '1946-10-29'
   subject: CIPM
-  type: recommendation
+  type: resolution
   title: Definitions of photometric units
   identifier: 1
   url: https://www.bipm.org/en/committees/ci/cipm/41-1946/resolution-1
@@ -32,7 +32,7 @@ resolutions:
 - dates:
   - '1946-10-29'
   subject: CIPM
-  type: recommendation
+  type: resolution
   title: Definitions of electric units
   identifier: 2
   url: https://www.bipm.org/en/committees/ci/cipm/41-1946/resolution-2

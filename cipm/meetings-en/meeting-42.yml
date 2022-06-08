@@ -9,7 +9,7 @@ resolutions:
 - dates:
   - '1948-10-22'
   subject: CIPM
-  type: recommendation
+  type: resolution
   title: Adoption of "degree Celsius"
   identifier: 1948
   url: https://www.bipm.org/en/committees/ci/cipm/42-1948/resolution-
