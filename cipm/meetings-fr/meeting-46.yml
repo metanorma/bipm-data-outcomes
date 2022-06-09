@@ -9,7 +9,7 @@ resolutions:
 - dates:
   - '1956-10-06'
   subject: CIPM
-  type: recommendation
+  type: resolution
   title: Définition de l’unité de temps (seconde)
   identifier: 1
   url: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-1
@@ -40,7 +40,7 @@ resolutions:
 - dates:
   - '1956-10-06'
   subject: CIPM
-  type: recommendation
+  type: resolution
   title: Création du Comité Consultatif pour la Définition de la Seconde
   identifier: 2
   url: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-2
@@ -66,7 +66,7 @@ resolutions:
 - dates:
   - '1956-10-06'
   subject: CIPM
-  type: recommendation
+  type: resolution
   title: Système International d'Unités
   identifier: 3
   url: https://www.bipm.org/fr/committees/ci/cipm/46-1956/resolution-3
