@@ -5,6 +5,9 @@ metadata:
   date: '2015-03-10'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/104-_1-2015
+pdf:
+- https://www.bipm.org/documents/20126/34439501/CIPM2015-I-EN.pdf/58ff6e3f-47f5-a230-4194-e2a23667e6da
+- https://www.bipm.org/documents/20126/34439492/CIPM2015-I-Decisions-EN.pdf/
 resolutions:
 - dates:
   - '2015-03-10'

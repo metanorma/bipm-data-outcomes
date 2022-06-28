@@ -5,6 +5,9 @@ metadata:
   date: '2016-10-28'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/105-2016
+pdf:
+- https://www.bipm.org/documents/20126/34439438/CIPM2016-EN.pdf/8967d246-f349-b001-72f8-0b675ed5e92a
+- https://www.bipm.org/documents/20126/35014276/CIPM2016-Decisions-EN.pdf/
 resolutions:
 - dates:
   - '2016-10-28'
