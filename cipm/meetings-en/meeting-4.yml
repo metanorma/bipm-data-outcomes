@@ -2,12 +2,13 @@
 metadata:
   title: 4th meeting of the CIPM
   identifier: '4'
-  date: '2002-09-23'
+  date: '1879-10-13'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/4-1879
+pdf: https://www.bipm.org/documents/20126/71754952/CIPM4.pdf/9b023d86-4055-1405-c05f-90ad4b254cbb
 resolutions:
 - dates:
-  - '2002-09-23'
+  - '1879-10-13'
   subject: CIPM
   type: resolution
   title: Signes abréviatifs pour les poids et mesures métriques
@@ -19,7 +20,7 @@ resolutions:
   considerations: []
   actions:
   - type: adopts
-    date_effective: '2002-09-23'
+    date_effective: '1879-10-13'
     message: |-
       Le Comité international des Poids et Mesures adopte, pour ses publications et son usage officiel, le système suivant des signes abréviatifs pour les poids et mesures métriques.
 

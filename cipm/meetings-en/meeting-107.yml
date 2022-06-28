@@ -5,6 +5,9 @@ metadata:
   date: '2018-06-22'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
+pdf:
+- https://www.bipm.org/documents/20126/30120035/CIPM2018-EN.pdf/f4f7af64-f595-9e8b-3bdb-9b737aa8118c
+- https://www.bipm.org/documents/20126/35014231/CIPM2018-Decisions-EN.pdf/
 resolutions:
 - dates:
   - '2018-06-22'

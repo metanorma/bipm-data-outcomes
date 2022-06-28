@@ -2,12 +2,13 @@
 metadata:
   title: 41st meeting of the CIPM
   identifier: '41'
-  date: '1945-11-15'
+  date: '1946-10-29'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/41-1946
+pdf: https://www.bipm.org/documents/20126/57335245/CIPM1945-1946.pdf/ebdf0f08-482a-19fc-9e6d-0aced9de2c36
 resolutions:
 - dates:
-  - '1945-11-15'
+  - '1946-10-29'
   subject: CIPM
   type: resolution
   title: Definitions of photometric units
@@ -19,7 +20,7 @@ resolutions:
   considerations: []
   actions:
   - type: declares
-    date_effective: '1945-11-15'
+    date_effective: '1946-10-29'
     message: |-
       ...
 
@@ -30,7 +31,7 @@ resolutions:
       *_New lumen_* (unit of luminous flux). — The new lumen is the luminous flux emitted in unit solid angle (steradian) by a uniform point source having a luminous intensity of 1 new candle.
       . ...
 - dates:
-  - '1945-11-15'
+  - '1946-10-29'
   subject: CIPM
   type: resolution
   title: Definitions of electric units
@@ -42,7 +43,7 @@ resolutions:
   considerations: []
   actions:
   - type: declares
-    date_effective: '1945-11-15'
+    date_effective: '1946-10-29'
     message: "*A) Definitions of the mechanical units which enter the definitions
       of electric units:* +\n  \n\n*Unit of force* - The unit of force [in the MKS
       (metre, kilogram, second) system] is the force which gives to a mass of 1 kilogram
