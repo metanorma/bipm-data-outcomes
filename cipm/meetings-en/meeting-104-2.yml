@@ -9,6 +9,124 @@ resolutions:
 - dates:
   - '2015-10-16'
   subject: CIPM
+  type: recommendation
+  title: CIPM Recommendation to NMIs on managing the consequences of the corrections
+    to the BIPM as-maintained mass unit
+  identifier: 1
+  url: https://www.bipm.org/en/committees/ci/cipm/104-_1-2015/resolution-1
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754
+  reference_name: Proceedings of the 104th CIPM (2015), 2016
+  reference_page: 108
+  approvals:
+  - message: The International Committee for Weights and Measures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: '2015-10-16'
+    message: |-
+      *considering*
+
+      * the good uniformity of world-wide mass measurements of NMIs in CCM.M-K4 (key comparison of stem:[1 "kg"] stainless steel standards),
+      * that CMCs for mass calibrations at the level of stem:[1 "kg"] range from 28 µg to 1850 µg,
+      * that determinations of the Planck constant will provide the basis for the future definition of the kilogram after the introduction of the “new SI”,
+      * that an extraordinary calibration using the International Prototype of the Kilogram (IPK) took place at BIPM from January 2014 to January 2015,
+      * that the as-maintained BIPM mass unit (traceable to the IPK at the 3rd Periodic Verification (3rd PV) 1988-1992) had changed over 22 years by 35 µg,
+      * that a mathematical model established by BIPM was able to explain this change between the 3rd PV and 2014,
+      * that the BIPM will update calibration certificates issued between 1.1.2003 and 31.12.2013 for calibrations of stem:[1 "kg"] mass standards,
+
+      decides
+
+      * that the published results of key comparisons carried out by the CCM will not be corrected, and that the WGD-kg will advise the RMOs about how degrees of equivalence may be linked in a way that maintains consistency,
+  actions:
+  - type: recommends
+    date_effective: '2015-10-16'
+    message: recommends that determinations of the Planck constant shall be updated
+      based on the corrections provided by the BIPM to the NMIs concerned,
+  - type: recommends
+    date_effective: '2015-10-16'
+    message: recommends that NMIs receiving updated calibration certificates from
+      the BIPM should take appropriate action as regards the need to inform their
+      customers and the correction of calibration certificates affected, and should
+      take the updated mass values as the basis for their future calibrations.
+- dates:
+  - '2015-10-16'
+  subject: CIPM
+  type: recommendation
+  title: Updates to the list of standard frequencies
+  identifier: 2
+  url: https://www.bipm.org/en/committees/ci/cipm/104-_1-2015/resolution-2
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754
+  reference_name: Proceedings of the 104th CIPM (2015), 2016
+  reference_page: 207
+  approvals:
+  - message: The International Committee for Weights and Measures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: '2015-10-16'
+    message: considering a common list of “Recommended values of standard frequencies
+      for applications including the practical realization of the metre and secondary
+      representations of the second” has been established,
+  - type: considering
+    date_effective: '2015-10-16'
+    message: considering the CCL-CCTF Frequency Standards Working Group (WGFS) has
+      reviewed several candidates for updating the list,
+  actions:
+  - type: recommends
+    date_effective: '2015-10-16'
+    message: |-
+      *recommends*
+
+      that the following transition frequencies shall be updated in the list of recommended values of standard frequencies:
+
+      * the unperturbed optical transition 6s^2^ ^1^S~0~ - 6s6p ^3^P~0~ of the ^199^Hg neutral atom with a frequency of stem:[f]~199Hg~ = stem:[1 128 575 290 808 154.8 "Hz"] and an estimated relative standard uncertainty of stem:[6 * 10^(-16)];
+      * the unperturbed optical transition 6s ^2^S~½~ - 4f^13^ 6s^2 2^stem:["F"]~7/2~ of the ^stem:[171^(Yb)]+^ ion with a frequency of f171Yb+ (octupole) = stem:[642 121 496 772 645.0 "Hz"] and an estimated relative standard uncertainty of stem:[6 * 10^(-16)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 6s ^2^S~½~ (stem:[F = 0], stem:[m_("F") = 0]) - 5d 2D3/2 (stem:["F" = 2], stem:["mF" = 0]) of the 171Yb^+^ f171Yb+ (quadrupole) = stem:[688 358 979 309 308.3 "Hz"] and an estimated relative standard uncertainty of stem:[6 * 10^(-16)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 5s ^2^S~½~ - 4d ^2^D~5/2~ of the ^stem:[88^(Sr)]+^ ion with a frequency of stem:[f]~88Sr+~ = stem:[444 779 044 095 486.6 "Hz"] and an estimated relative standard uncertainty of stem:[1.6 * 10^(-15)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 4s ^2^S~½~ - 3d ^2^D~5/2~ of the ^stem:[40^(Ca)]+^ ion with a frequency of stem:[f]~40Ca+~ = stem:[411 042 129 776 398.4 "Hz"] and an estimated relative standard uncertainty of 1.2 × 10^-14;^
+      * the unperturbed optical transition 1S - 2S of the 1H neutral atom with a frequency of stem:[f_(1H)] = 1 stem:[233 030 706 593 514 "Hz"] and an estimated relative standard uncertainty of stem:[9 * 10^(-15)].
+
+      Note: This frequency corresponds to half of the energy difference between the 1S and 2S states;
+
+      * the unperturbed optical transition 5s^2 1^S ~0~ - 5s5p ^3^P ~0~ of the ^87^Sr neutral atom with a frequency of stem:[f_(87Sr) = 429 228 004 229 873.2 "Hz"] and an estimated relative standard uncertainty of stem:[5 * 10^(-16)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 6s^2 1^S~0~ - 6s6p ^3^P~0~ of the ^171^Yb neutral atom with a frequency of stem:[f]~171Yb~ = stem:[518 295 836 590 864.0 "Hz"] and an estimated relative standard uncertainty of stem:[2 * 10^(-15)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed ground-state hyperfine transition of ^87^Rb with a frequency of stem:[f_(87Rb)] = 6 834 682 stem:[610.904 310 "Hz"] and an estimated relative standard uncertainty of stem:[7 * 10^(-16)] (this radiation is already endorsed by the CIPM as a secondary representation of the second).
+
+      and also *recommends*
+
+      that the following transition frequencies shall be included in the list of recommended values of standard frequencies:
+
+      * Absorbing molecule ^127^I~2~, saturated absorption a~1~ component, R(36) 32-0 transition.
+
+      The values
+
+      |===
+      | stem:[f_(a1) = 564 074 632.42 "MHz"]
+
+      | _Î»_~a1~ = 531 476 582.65 fm
+
+      |===
+
+      +
+       with an estimated relative standard uncertainty of stem:[1 * 10^(-10)] apply to the radiation of a frequency-doubled diode DFB laser, stabilized with an iodine cell external to the laser.
+
+       +
+      * Absorbing atom ^87^Rb 5S~1/2~ - 5P~3/2~ crossover between the d and f hyperfine components of the saturated absorption at 780 nm (D2 transition)
+
+      The values
+
+      |===
+      | stem:[f]~d/f crossover~ = stem:[384 227 981.9 "MHz"]
+
+      | Î»~d/f crossover~ = 780 246 291.6 fm
+
+      |===
+
+      +
+       with an estimated relative standard uncertainty of stem:[5 * 10^(-10)] apply to the radiation of a tunable External Cavity Diode Laser, stabilized to the d/f crossover in a rubidium cell external to the laser.
+
+      Note: The value of the standard uncertainty is assumed to correspond to a confidence level of 68 %. However, given the limited availability of data there is a possibility that in hindsight this might not prove to be exact.
+- dates:
+  - '2015-10-16'
+  subject: CIPM
   type: decision
   title: Decision CIPM/104-27 (2015)
   identifier: 104-27
