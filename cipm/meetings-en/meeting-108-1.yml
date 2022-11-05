@@ -80,7 +80,7 @@ resolutions:
   - SCs and WGs
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2019-03-21'
     message: supported the establishment of a Joint Task Group at an operational level
       to further improve the cooperation between the BIPM and the International Organization
@@ -261,7 +261,7 @@ resolutions:
   identifier: 108-15
   url: https://www.bipm.org/en/committees/ci/cipm/108-_1-2019
   categories:
-  - SI
+  - CIPM MRA
   considerations: []
   actions:
   - type: appoints
@@ -355,3 +355,12 @@ resolutions:
     message: welcomed the progress on the rationalization of the suite of CIPM MRA
       guidance documents and accepted the proposal from the JCRB that the JCRB should
       oversee their completion and implementation.
+working_documents:
+- title: CIPM2019-I-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014131/CIPM2019-I-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2019-I-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/31660491/CIPM2019-I-Decisions-FR.pdf/
+  description: ''
+  author: ''

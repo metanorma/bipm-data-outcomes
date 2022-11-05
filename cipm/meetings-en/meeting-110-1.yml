@@ -61,7 +61,7 @@ resolutions:
   identifier: 110-4
   url: https://www.bipm.org/en/committees/ci/cipm/110-_1-2021
   categories:
-  - BIPM / Finance
+  - Finance
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -78,7 +78,7 @@ resolutions:
   identifier: 110-5
   url: https://www.bipm.org/en/committees/ci/cipm/110-_1-2021
   categories:
-  - BIPM / Finance
+  - Finance
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -162,7 +162,7 @@ resolutions:
   identifier: 110-10
   url: https://www.bipm.org/en/committees/ci/cipm/110-_1-2021
   categories:
-  - CIPM / SCs and WGs
+  - SCs and WGs
   considerations: []
   actions:
   - type: decides
@@ -196,7 +196,6 @@ resolutions:
   identifier: 110-12
   url: https://www.bipm.org/en/committees/ci/cipm/110-_1-2021
   categories:
-  - BIPM / Finance
   - Finance
   considerations: []
   actions:

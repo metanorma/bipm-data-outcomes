@@ -1,0 +1,253 @@
+---
+metadata:
+  title: 30e réunion du CCEM
+  identifier: '30'
+  date: '2017-03-24'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccem/30-2017
+resolutions: []
+working_documents:
+- title: CCEM/2017-02
+  pdf: https://www.bipm.org/documents/20126/28427195/working-document-ID-7933/497dcf8a-c599-0636-6d4b-67defdab316e
+  description: Draft Agenda for the meeting of CCEM on 22 and 24 March 2017, V3, incl.
+    agenda for workshop on 23 March
+  author: ''
+  date: 21/02/2017
+- title: CCEM/2017-04
+  pdf: https://www.bipm.org/documents/20126/28427228/working-document-ID-8952/0b418a20-58bb-d92a-c57a-f827d7d51924
+  description: On the unit of reactive power (item 4.5)
+  author: G. Kyriazis
+  date: 15/02/2017
+- title: CCEM/2017-04.1
+  pdf: https://www.bipm.org/documents/20126/28430265/working-document-ID-8994/ddfa053f-9b23-666e-34fe-6b3924f69eba
+  description: Proposal to CCU on the var (item 4.5)
+  author: G. Kyriazis
+  date: 10/03/2017
+- title: CCEM/2017-04.2
+  pdf: https://www.bipm.org/documents/20126/28430122/working-document-ID-9062/f4bead0c-ce89-d70c-19c4-a5495fd212d8
+  description: Proposed change to the draft of the 9th edition of the SI brochure
+    - unit of reactive power
+  author: G. Kyriazis
+  date: 03/04/2017
+- title: CCEM/2017-08.1
+  pdf: https://www.bipm.org/documents/20126/28431596/working-document-ID-10446/1a29d390-fc09-f7f6-79a6-5ed2ea9a3433
+  description: Mise en pratique for the ampere and other electrical units in the SI,
+    Draft 4 - 17 July 2017
+  author: WGSI
+  date: 17/07/2017
+- title: CCEM/2017-12
+  pdf: https://www.bipm.org/documents/20126/28427393/working-document-ID-9028/dc0f617a-eef3-432e-6cac-018522fe2e8b
+  description: CCEM Strategic Plan (item 8.1)
+  author: ''
+  date: 20/03/2017
+- title: CCEM/2017-13
+  pdf: https://www.bipm.org/documents/20126/28427690/working-document-ID-9033/da33a73b-cf2b-8aeb-ba89-562c29fe2be5
+  description: NIS activities in the field of electricity and magnetism (request for
+    observer status)
+  author: M. Helmy Abd El-Raouf
+  date: 23/03/2017
+- title: CCEM/2017-14
+  pdf: https://www.bipm.org/documents/20126/28430298/working-document-ID-9038/f770841c-045c-df8b-fee7-38b6b2f9631f
+  description: GT-RF report to the CCEM
+  author: M. Zeier
+  date: 24/03/2017
+- title: CCEM/2017-15
+  pdf: https://www.bipm.org/documents/20126/28427756/working-document-ID-9039/704d470f-c5f0-c5cc-cfdf-a8c0e594890d
+  description: WGLF report to the CCEM
+  author: J. Williams
+  date: 24/03/2017
+- title: CCEM/2017-16
+  pdf: https://www.bipm.org/documents/20126/28427767/working-document-ID-9040/f3060bd6-69dc-f95d-e492-e1260ef57248
+  description: WGRMO report to the CCEM
+  author: I. Budovsky
+  date: 27/03/2017
+- title: CCEM/2017-17
+  pdf: https://www.bipm.org/documents/20126/28430331/working-document-ID-9041/c4eb7324-4e66-4421-b61f-168d3bf936c3
+  description: WGSI report to the CCEM
+  author: B. Wood
+  date: 24/03/2017
+- title: CCEM/2017-18
+  pdf: https://www.bipm.org/documents/20126/28427778/working-document-ID-9042/11faced8-d779-4b5e-d383-af080a82b506
+  description: Report from the CODATA TGFC
+  author: B. Wood
+  date: 24/03/2017
+- title: CCEM/2017-19
+  pdf: https://www.bipm.org/documents/20126/28427789/working-document-ID-9044/03d3aae2-1116-2216-6ecf-b640778c4a38
+  description: Report of the President of the CCU
+  author: J. Ullrich
+  date: 27/03/2017
+- title: CCEM/2017-22
+  pdf: https://www.bipm.org/documents/20126/28430342/working-document-ID-9048/a90b2500-b86e-e16c-5022-31afced9863b
+  description: On the revision of the KCDB 2.0
+  author: S. Picard
+  date: 27/03/2017
+- title: CCEM/2017-23
+  pdf: https://www.bipm.org/documents/20126/28430353/working-document-ID-9049/e97b2ccc-5ec7-ccf6-31c9-599f6ce9d93f
+  description: Report on the work of the BIPM electricity laboratories
+  author: M. Stock
+  date: 27/03/2017
+- title: CCEM/2017-24
+  pdf: https://www.bipm.org/documents/20126/28430078/working-document-ID-9050/ca71bccf-5e88-8388-a982-d3a8663b7b35
+  description: Practical quantum realization of the ampere
+  author: W. Poirier et al.
+  date: 20/04/2017
+- title: CCEM/2017-Report-CEM
+  pdf: https://www.bipm.org/documents/20126/28430254/working-document-ID-8970/d03eb054-8503-4437-b615-94ee2e0c1015
+  description: Activities from CEM Electricity and Magnetism Division
+  author: ''
+  date: 02/03/2017
+- title: CCEM/2017-Report-CENAM
+  pdf: https://www.bipm.org/documents/20126/28427272/working-document-ID-8965/cada4420-61a8-5e26-2805-ccf3b88127e4
+  description: Progress report on electrical metrology at CENAM 2015-217
+  author: ''
+  date: 27/02/2017
+- title: CCEM/2017-Report-CMI
+  pdf: https://www.bipm.org/documents/20126/28430309/working-document-ID-9036/805e2511-d634-9eb7-97eb-ac410829adf4
+  description: Progress report on electrical metrology ay CMI between 2015 and 2017
+  author: ''
+  date: 23/03/2017
+- title: CCEM/2017-Report-INMETRO
+  pdf: https://www.bipm.org/documents/20126/28427723/working-document-ID-8978/d1f735d4-5a79-fcd7-f603-ee9141f11937
+  description: REPORT OF THE RESEARCH ACTIVITIES OF INMETRO ELECTRICAL METROLOGY DIVISION
+  author: ''
+  date: 03/03/2017
+- title: CCEM/2017-Report-INRIM
+  pdf: https://www.bipm.org/documents/20126/28427316/working-document-ID-8971/0312c3fa-a9c2-0d78-cc6c-201903af2e0d
+  description: 'INRIM Progress Report: March 2015 - Feb 2017'
+  author: ''
+  date: 02/03/2017
+- title: CCEM/2017-Report-INTI
+  pdf: https://www.bipm.org/documents/20126/28427360/working-document-ID-8998/55f6963d-0fb5-8ec8-56f9-53cdefad09da
+  description: INTI Report on research and development activities in electricity and
+    magnetism 2014-2016
+  author: ''
+  date: 13/03/2017
+- title: CCEM/2017-Report-JV
+  pdf: https://www.bipm.org/documents/20126/28427371/working-document-ID-9012/6820094d-d725-64b7-990a-ccfc252298ec
+  description: Report on Electromagnetic Metrology Activities at JV
+  author: ''
+  date: 16/03/2017
+- title: CCEM/2017-Report-KRISS
+  pdf: https://www.bipm.org/documents/20126/28427734/working-document-ID-9004/5ec6aebf-461d-ff64-815e-45f3d118f63f
+  description: Progress report of KRISS electromagnetic metrology
+  author: ''
+  date: 15/03/2017
+- title: CCEM/2017-Report-LNE
+  pdf: https://www.bipm.org/documents/20126/28427261/working-document-ID-8964/85a28b23-f4c7-60a0-af15-f2d9f73b89ce
+  description: Report on activities in electricity and magnetism within the LNE between
+    2015 and 2017
+  author: ''
+  date: 27/02/2017
+- title: CCEM/2017-Report-METAS
+  pdf: https://www.bipm.org/documents/20126/28427283/working-document-ID-8966/159c9bf7-203c-d424-9676-c14423e44f83
+  description: Progress report on electrical metrology at METAS
+  author: ''
+  date: 27/02/2017
+- title: CCEM/2017-Report-MIKES
+  pdf: https://www.bipm.org/documents/20126/28430067/working-document-ID-9032/0217715a-bac8-60ae-6a98-26f6136030db
+  description: MIKES progress report
+  author: ''
+  date: 22/03/2017
+- title: CCEM/2017-Report-MSL
+  pdf: https://www.bipm.org/documents/20126/28427382/working-document-ID-9026/d0bdd4e3-cabe-4465-5982-fd2d2c546118
+  description: Report on Electromagnetic Metrology Activities at MSL
+  author: ''
+  date: 20/03/2017
+- title: CCEM/2017-Report-NIM
+  pdf: https://www.bipm.org/documents/20126/28427338/working-document-ID-8992/1b162683-e03e-591c-1d6d-346d437b64d7
+  description: Report on the Activities in Electricity and Magnetism within National
+    Institute of Metrology (NIM), China
+  author: ''
+  date: '08/03/2017'
+- title: CCEM/2017-Report-NIS
+  pdf: https://www.bipm.org/documents/20126/28427745/working-document-ID-9034/773c1230-8937-c89e-60f5-4560c37eb06e
+  description: NIS activities in the field of electricity and magnetism (request for
+    observer status)
+  author: ''
+  date: 23/03/2017
+- title: CCEM/2017-Report-NIST
+  pdf: https://www.bipm.org/documents/20126/28430056/working-document-ID-8955/98034afc-090d-c63d-b6c5-f45063eecee0
+  description: Status report to CCEM of electrical metrology developments at NIST
+  author: ''
+  date: 20/02/2017
+- title: CCEM/2017-Report-NMC
+  pdf: https://www.bipm.org/documents/20126/28429440/working-document-ID-8962/029d712d-b51d-27f8-8592-8d13991c2094
+  description: Report on electricity and magnetism metrology activities at the NMC
+  author: ''
+  date: 23/02/2017
+- title: CCEM/2017-Report-NMIA
+  pdf: https://www.bipm.org/documents/20126/28427349/working-document-ID-8996/e02e08b7-8c65-3257-d9a7-fe8d0d72ba9f
+  description: NMIA Report on research and development activities in electricity and
+    magnetism
+  author: ''
+  date: 13/03/2017
+- title: CCEM/2017-Report-NMIJ
+  pdf: https://www.bipm.org/documents/20126/28427327/working-document-ID-8976/58e8948d-f834-28c7-ef61-d0150c4c0749
+  description: Laboratory report of NMIJ and JEMIC 2015-2017
+  author: ''
+  date: 03/03/2017
+- title: CCEM/2017-Report-NMISA
+  pdf: https://www.bipm.org/documents/20126/28427294/working-document-ID-8967/880630f4-037e-845a-eb8c-076bafda74be
+  description: Progress report on activities in electricity and magnetism at NMISA
+  author: ''
+  date: 27/02/2017
+- title: CCEM/2017-Report-NPL
+  pdf: https://www.bipm.org/documents/20126/28430320/working-document-ID-9037/2027a8a2-c24f-12ef-8528-6c0bc0484044
+  description: News from NPL for the CCEM
+  author: ''
+  date: 23/03/2017
+- title: CCEM/2017-Report-PTB
+  pdf: https://www.bipm.org/documents/20126/28427250/working-document-ID-8954/cf120cc9-c1f4-935e-446c-fc542bdae15d
+  description: Progress report on electrical metrology at the PTB between 2015 and
+    2017
+  author: ''
+  date: 20/02/2017
+- title: CCEM/2017-Report-RISE
+  pdf: https://www.bipm.org/documents/20126/28430287/working-document-ID-9007/914355be-7227-22f9-d2f9-5f643b98123f
+  description: Report from RISE research institutes of Sweden within the field of
+    electrical metrology
+  author: ''
+  date: 15/03/2017
+- title: CCEM/2017-Report-SCL
+  pdf: https://www.bipm.org/documents/20126/28427239/working-document-ID-8953/85bca8ad-4146-a66e-377c-6e29d4d62091
+  description: Report on Electricity and Magnetism Metrology Activities at the SCL,
+    Hong Kong
+  author: ''
+  date: 20/02/2017
+- title: CCEM/2017-Report-UME
+  pdf: https://www.bipm.org/documents/20126/28427217/working-document-ID-8951/70d6cc4b-11d1-ab8d-6fa9-c089712d0dc6
+  description: News from TUBITAK UME
+  author: ''
+  date: 15/02/2017
+- title: CCEM/2017-Report-VNIIM
+  pdf: https://www.bipm.org/documents/20126/28430276/working-document-ID-9006/7ca866f7-0397-418f-ed69-f294f72bf1ee
+  description: VNIIM Progress report to CCEM
+  author: ''
+  date: 15/03/2017
+- title: CCEM/2017-Report-VSL
+  pdf: https://www.bipm.org/documents/20126/28427305/working-document-ID-8969/95259f4b-9a4b-eb6d-e007-87e8e31f84b2
+  description: Progress report on Electrical Metrology at VSL (2015 ? 2017)
+  author: ''
+  date: 02/03/2017
+- title: CCEM/2017-Workshop-1
+  pdf: https://www.bipm.org/documents/20126/28430089/working-document-ID-9055/9e8ec1ae-750d-2b6f-f676-e0b24e365cc1
+  description: Measurement challenges in electrical metrology
+  author: JT Janssen
+  date: 27/03/2017
+- title: CCEM/2017-Workshop-3
+  pdf: https://www.bipm.org/documents/20126/28427800/working-document-ID-9051/8588f570-19eb-d247-160a-2ff51e41d26d
+  description: Challenges in nanomagnetism and spintronics
+  author: M.  Pasquale
+  date: 27/03/2017
+- title: CCEM/2017-Workshop-4
+  pdf: https://www.bipm.org/documents/20126/28427811/working-document-ID-9052/de139157-9ad5-a606-a16d-2134ad61b89a
+  description: Needs and challenges of electrical measurements for micro/nanoelectronic
+    devices
+  author: B. Gautier
+  date: 27/03/2017
+- title: CCEM/2017-Workshop-5
+  pdf: https://www.bipm.org/documents/20126/28427822/working-document-ID-9053/a2251d3a-fa04-4032-6000-777c648022fa
+  description: Future challenges in high-frequency electromagnetic metrology (RF to
+    THz)
+  author: N. Ridler
+  date: 27/03/2017

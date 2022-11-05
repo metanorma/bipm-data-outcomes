@@ -1,0 +1,267 @@
+---
+metadata:
+  title: 28e réunion du CCT
+  identifier: '28'
+  date: '2017-06-02'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/cct/28-2017
+resolutions:
+- dates:
+  - '2017-06-02'
+  subject: CCT
+  type: recommendation
+  title: For a new definition of the kelvin in 2018
+  identifier: 1
+  url: https://www.bipm.org/fr/committees/cc/cct/28-2017/resolution-1
+  reference: https://www.bipm.org/documents/20126/2071118/CCT28.pdf/57d829eb-a5ba-4bcf-803c-5209a6fe1879
+  reference_name: Comptes rendus du 28e CCT (2017), 2017
+  reference_page: 24
+  considerations: []
+  actions: []
+working_documents:
+- title: CCT/2017-02
+  pdf: https://www.bipm.org/documents/20126/28427184/working-document-ID-7928/3df5a2e6-b005-a732-2e67-6a5742cb9403
+  description: Declaration of CCT WG-NCTh concerning the realization of thermodynamic
+    temperature
+  author: G. Machin et al.
+  date: 05/12/2016
+- title: CCT/2017-03
+  pdf: https://www.bipm.org/documents/20126/28427712/working-document-ID-7929/1418c09e-13cd-cc6c-9f30-899e4706d0bf
+  description: Report on MMC 2016
+  author: A. Merlone
+  date: 05/12/2016
+- title: CCT/2017-06
+  pdf: https://www.bipm.org/documents/20126/28427855/working-document-ID-9074/5ec51db1-c942-9081-1676-890aa9deb3e1
+  description: New Isotopic Correction Coefficients and Equations
+  author: A. Peruzzi and H.A.J Meijer
+  date: 18/04/2017
+- title: CCT/2017-09
+  pdf: https://www.bipm.org/documents/20126/28427866/working-document-ID-9094/86cf6e79-c823-59db-fd47-e4de9d1e3f90
+  description: On choosing the number of digits...
+  author: J. Fischer
+  date: 21/04/2017
+- title: CCT/2017-10
+  pdf: https://www.bipm.org/documents/20126/28430166/working-document-ID-9108/1fdb47d0-3c21-9130-25a3-795d07901a44
+  description: Report from the Task Group for the Realization of the Kelvin (TG-K)
+  author: B. Fellmuth
+  date: 07/05/2017
+- title: CCT/2017-12
+  pdf: https://www.bipm.org/documents/20126/28430177/working-document-ID-11104/f75ded28-557e-d999-87bb-5005c136bfd2
+  description: 'MeP: Electronic Temperature measurement by Johnson Noise Thermometry'
+  author: S. P. Bentz et al.
+  date: 19/02/2019
+- title: CCT/2017-15
+  pdf: https://www.bipm.org/documents/20126/28431574/working-document-ID-10423/7994d82a-13ac-5ce9-33ac-acf851ce3924
+  description: Report from the Task Group for the SI (TG-SI)
+  author: J. Fischer
+  date: 30/06/2017
+- title: CCT/2017-19
+  pdf: https://www.bipm.org/documents/20126/28431068/working-document-ID-10181/ba0669f1-9ba5-1078-9784-ec9840056d2f
+  description: Report from the Task Group for Thermophysical Quantities (TG-ThQ)
+  author: J.-R. Filtz
+  date: 24/05/2017
+- title: CCT/2017-20
+  pdf: https://www.bipm.org/documents/20126/28431112/working-document-ID-10424/41b1ab49-803c-5fce-30ed-2de860822137
+  description: Report from the Task Group for Sealed Metal Freezing Point Cells
+  author: R. White
+  date: 30/06/2017
+- title: CCT/2017-21
+  pdf: https://www.bipm.org/documents/20126/28431123/working-document-ID-10428/ae7822dc-5773-dba9-64d7-68b2e7a1b6f2
+  description: Report from the Working Group for Non-Contact Themometry (WG-NCTh)
+  author: G. Machin
+  date: 30/06/2017
+- title: CCT/2017-22
+  pdf: https://www.bipm.org/documents/20126/28431134/working-document-ID-10194/8ec6714f-c32b-eee0-b148-b16ee2294c39
+  description: Report from the Task Group for Guides on Thermometry (TG-GoTh)
+  author: R. White
+  date: 30/05/2017
+- title: CCT/2017-23
+  pdf: https://www.bipm.org/documents/20126/28431310/working-document-ID-10195/10fb8c56-4ca7-ffb6-a780-752f0580deb2
+  description: Report from TC-T SIM
+  author: E. Mendez
+  date: 30/05/2017
+- title: CCT/2017-24
+  pdf: https://www.bipm.org/documents/20126/28431145/working-document-ID-10197/e34d88da-da8b-d012-1490-010f22a2eb55
+  description: CMI presentation for CCT member status request
+  author: R. Strnad
+  date: 30/05/2017
+- title: CCT/2017-25
+  pdf: https://www.bipm.org/documents/20126/28431156/working-document-ID-10198/c8979d9d-a655-8eba-26d9-1c37fcfaa421
+  description: CMI support document with bibliography for CCT member status request
+  author: R. Strnad
+  date: 30/05/2017
+- title: CCT/2017-26
+  pdf: https://www.bipm.org/documents/20126/28431167/working-document-ID-10429/e21e4485-dc56-6735-c744-f1ab03ea972e
+  description: Overview and progress report for CCT on InK2
+  author: G. Machin
+  date: 30/06/2017
+- title: CCT/2017-27
+  pdf: https://www.bipm.org/documents/20126/28431255/working-document-ID-10231/f413c89d-875a-fdc1-97d3-13ef55eebe84
+  description: 'Recommendation CCT T1: On a new definition of the kelvin'
+  author: CCT
+  date: 12/06/2017
+- title: CCT/2017-28
+  pdf: https://www.bipm.org/documents/20126/28430562/working-document-ID-10216/5d199c76-ccf2-8476-6e32-0d820c28f1bf
+  description: 'Redefinition of the kelvin: The Boltzmann project'
+  author: J. Fischer
+  date: 11/06/2017
+- title: CCT/2017-29
+  pdf: https://www.bipm.org/documents/20126/28431222/working-document-ID-10220/ab9f3a40-a2e9-73da-25f1-3f7639f2bd39
+  description: 'Redefinition of the kelvin: Acoustic Gas Thermometry'
+  author: R. Gavioso
+  date: 12/06/2017
+- title: CCT/2017-30
+  pdf: https://www.bipm.org/documents/20126/28431233/working-document-ID-10221/ae9e4f80-6e06-3304-c3a9-b50afec36391
+  description: 'Redefinition of the kelvin: Dielectric Constant Gas Thermometry'
+  author: B. Fellmuth
+  date: 12/06/2017
+- title: CCT/2017-31
+  pdf: https://www.bipm.org/documents/20126/28431244/working-document-ID-10222/c2554f1d-e5da-e5d2-9eea-385d54ac6a5f
+  description: 'Redefinition of the kelvin: Johnson Noise Thermometry'
+  author: J. Qu
+  date: 12/06/2017
+- title: CCT/2017-32
+  pdf: https://www.bipm.org/documents/20126/28430573/working-document-ID-10224/a7fd006f-db48-b323-ea1d-c9dd937341f4
+  description: The kelvin redefinition and the MeP-K
+  author: B. Fellmuth et al.
+  date: 12/06/2017
+- title: CCT/2017-33
+  pdf: https://www.bipm.org/documents/20126/28431343/working-document-ID-10255/5796d142-0b95-fee6-8d32-ae73d8a99bbf
+  description: Photonic Thermometry
+  author: Z. Ahmed
+  date: 12/06/2017
+- title: CCT/2017-34
+  pdf: https://www.bipm.org/documents/20126/28430584/working-document-ID-10257/1ab96c44-80f0-b77f-bd17-620ff4def9c2
+  description: COOMET TC-T Report
+  author: A.I. Pokhodun
+  date: 12/06/2017
+- title: CCT/2017-35
+  pdf: https://www.bipm.org/documents/20126/28430595/working-document-ID-10258/14f4be47-1ee6-8c69-4c2f-ee9cbff2ffff
+  description: SIM TC-T Presentation
+  author: E. Mendez
+  date: 12/06/2017
+- title: CCT/2017-36
+  pdf: https://www.bipm.org/documents/20126/28430606/working-document-ID-10259/ed9791b3-3b35-7115-0a8f-ba6506360ec4
+  description: EURAMET TC-T Presentation
+  author: G. Machin
+  date: 12/06/2017
+- title: CCT/2017-37
+  pdf: https://www.bipm.org/documents/20126/28430639/working-document-ID-10262/dc3aef0f-a470-488a-298f-b5a9bc4b8fdc
+  description: AFRIMETS TC-T Presentation
+  author: E. Ejigu
+  date: 12/06/2017
+- title: CCT/2017-38
+  pdf: https://www.bipm.org/documents/20126/28430628/working-document-ID-10261/7edaf9d4-546e-140b-fa57-7e3c3b6be68f
+  description: GULFMET TC-T Presentation
+  author: M. Anagnostou
+  date: 12/06/2017
+- title: CCT/2017-39
+  pdf: https://www.bipm.org/documents/20126/28430617/working-document-ID-10260/2d69edc7-b7cb-e323-4fae-3fc7d3d7c0c6
+  description: APMP TC-T Presentation
+  author: W. Li
+  date: 12/06/2017
+- title: CCT/2017-40
+  pdf: https://www.bipm.org/documents/20126/28430650/working-document-ID-10263/10ee3243-fd6d-4034-1f1f-e2d48ad9572a
+  description: CCT WG-KC Presentation
+  author: A. Peruzzi
+  date: 12/06/2017
+- title: CCT/2017-41
+  pdf: https://www.bipm.org/documents/20126/28430661/working-document-ID-10264/301665d8-eeac-3228-d2eb-5fd15d5912a4
+  description: CCT WG-Hu Presentation
+  author: S. Bell
+  date: 12/06/2017
+- title: CCT/2017-42
+  pdf: https://www.bipm.org/documents/20126/28430672/working-document-ID-10265/46b6263a-3855-f5a7-287d-62e57ba71142
+  description: CCT WG-NCTh Presentation
+  author: G. Machin
+  date: 12/06/2017
+- title: CCT/2017-43
+  pdf: https://www.bipm.org/documents/20126/28430683/working-document-ID-10266/96dbe6c6-84e5-4bcb-2c7d-25eb6a2f02ca
+  description: CCT WG-SP Presentation
+  author: Y.Duan
+  date: 12/06/2017
+- title: CCT/2017-44
+  pdf: https://www.bipm.org/documents/20126/28431464/working-document-ID-10289/4b8956dc-d494-19bc-391a-a11ab001324e
+  description: CCT WG-CTh Presentation
+  author: J. Fischer
+  date: 13/06/2017
+- title: CCT/2017-45
+  pdf: https://www.bipm.org/documents/20126/28430771/working-document-ID-10284/e17c3e06-176b-b2ce-cd09-1c7d63d83d89
+  description: CCT WG-CMC Presentation
+  author: J. Bojkovski
+  date: 13/06/2017
+- title: CCT/2017-46
+  pdf: https://www.bipm.org/documents/20126/28430694/working-document-ID-10267/6e6aeeba-d7c6-b396-e120-4edc94ffe50d
+  description: CCT TG-GoTh Presentation
+  author: R. White and D. del Campo
+  date: 13/06/2017
+- title: CCT/2017-47
+  pdf: https://www.bipm.org/documents/20126/28430705/working-document-ID-10268/f8b02cc2-2390-30a1-63f6-73bd9d6bb4f3
+  description: CCT TG-ThQ Presentation
+  author: J.-R. Filtz
+  date: 13/06/2017
+- title: CCT/2017-48
+  pdf: https://www.bipm.org/documents/20126/28430716/working-document-ID-10269/28b626b4-98b1-7243-50b2-78cecefd8df4
+  description: CCT TG-K Presentation
+  author: B. Fellmuth
+  date: 13/06/2017
+- title: CCT/2017-49
+  pdf: https://www.bipm.org/documents/20126/28430727/working-document-ID-10270/515b9474-5e4e-73b0-c5cf-a75b5efe9386
+  description: CCT TG-Env Presentation
+  author: A. Merlone
+  date: 13/06/2017
+- title: CCT/2017-50
+  pdf: https://www.bipm.org/documents/20126/28431354/working-document-ID-10271/23940d22-7bdf-cf13-497b-907462bf5f24
+  description: CCT TG-NCTh-CMC Presentation
+  author: Y. Yamada
+  date: 13/06/2017
+- title: CCT/2017-51
+  pdf: https://www.bipm.org/documents/20126/28431365/working-document-ID-10272/c6fc6184-550e-20ce-353f-cc4b2a77f07d
+  description: CCT TG-NCTh-HTFPC Presentation
+  author: A. Todd
+  date: 13/06/2017
+- title: CCT/2017-52
+  pdf: https://www.bipm.org/documents/20126/28431420/working-document-ID-10285/57ba3cce-f319-fd27-9eb7-4ea31b223826
+  description: Report from the CIPM
+  author: M.Milton
+  date: 13/06/2017
+- title: CCT/2017-53
+  pdf: https://www.bipm.org/documents/20126/28431431/working-document-ID-10286/2424317e-745b-40b5-05ce-a89628d86b58
+  description: Report on the revision of the KCDB
+  author: S. Picard
+  date: 13/06/2017
+- title: CCT/2017-54
+  pdf: https://www.bipm.org/documents/20126/28431442/working-document-ID-10287/7812aed2-dfc1-0a2e-7d57-206cb2246f65
+  description: 'Draft recommendation : On the realisation of the redefined kelvin'
+  author: G. Machin
+  date: 13/06/2017
+- title: CCT/2017-55
+  pdf: https://www.bipm.org/documents/20126/28431453/working-document-ID-10288/3cfc49ad-f4b8-208b-b3ea-c1597244819e
+  description: Report on progress of CCT-K8
+  author: R. Benyon
+  date: 13/06/2017
+- title: CCT/2017-56
+  pdf: https://www.bipm.org/documents/20126/28431475/working-document-ID-10291/3ef7f4b1-299e-d170-4d4a-fc0f0310ca25
+  description: JCRB Report to the CCT
+  author: N. Zviagin
+  date: 14/06/2017
+- title: CCT/2017-57
+  pdf: https://www.bipm.org/documents/20126/28431486/working-document-ID-10292/b753b4ae-14dc-ced3-bf1b-97bae298fd81
+  description: Report from the Working Group for Contact Themometry (WG-CTh)
+  author: J. Fischer
+  date: 14/06/2017
+- title: CCT/2017-58
+  pdf: https://www.bipm.org/documents/20126/28431904/working-document-ID-10379/45baf219-7bea-59ee-bcbe-6e05fb5f0400
+  description: Report from the Working Group for Key Comparisons (WG-KC)
+  author: A. Peruzzi
+  date: 23/06/2017
+- title: CCT/2017-59
+  pdf: https://www.bipm.org/documents/20126/28431673/working-document-ID-10439/fc51ddbe-71a1-11e3-fb4c-dc6cad6360d8
+  description: Minutes of the WG for Strategic Planning meeting May 2017
+  author: S. Picard
+  date: '09/07/2017'
+- title: CCT/2017-60
+  pdf: https://www.bipm.org/documents/20126/28431684/working-document-ID-10488/fed67e6c-43b2-70be-6c81-7b1a0fec8cc7
+  description: Mise en Pratique of the Realization of the Kelvin
+  author: CCT
+  date: 16/08/2017

@@ -254,7 +254,7 @@ resolutions:
   identifier: 108-15
   url: https://www.bipm.org/fr/committees/ci/cipm/108-_1-2019
   categories:
-  - SI
+  - CIPM MRA
   considerations: []
   actions:
   - type: elects
@@ -351,3 +351,12 @@ resolutions:
     message: salue les progrès effectués concernant la rationalisation des documents
       d'orientation du CIPM MRA et accepte la proposition du JCRB afin que ce dernier
       supervise la finalisation des documents et leur mise en œuvre.
+working_documents:
+- title: CIPM2019-I-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014131/CIPM2019-I-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2019-I-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/31660491/CIPM2019-I-Decisions-FR.pdf/
+  description: ''
+  author: ''

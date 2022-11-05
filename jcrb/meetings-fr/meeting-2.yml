@@ -1,0 +1,57 @@
+---
+metadata:
+  title: 2e réunion du JCRB
+  identifier: '2'
+  date: '1999-02-16'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999
+pdf: https://www.bipm.org/documents/20126/41050233/JCRB2.pdf/af809b2b-5c79-9350-61c5-dbde6e6dbcb0
+resolutions:
+- dates:
+  - '1999-02-16'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/2-1 (1999)
+  identifier: 2-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999
+  categories:
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - A broad discussion took place on the way in which proposals for inclusion in Appendix
+    C should be prepared. It was agreed that (a) I. Castelazo would convene a working
+    group made up of a member from each of the RMOs to draft a format for presenting
+    inc
+- dates:
+  - '1999-02-16'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/2-2 (1999)
+  identifier: 2-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999
+  categories:
+  - Comparaisons
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '1999-02-16'
+    message: |-
+      It was agreed that: +
+      - RMOs should send to Executive Secretaries of the CCs their lists of provisional comparisons for Appendix B six weeks before the meetings of the CCs this year (see dates of CCs attached). stem:["A"] statement from RMO should be included con
+- dates:
+  - '1999-02-16'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/2-3 (1999)
+  identifier: 2-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '1999-02-16'
+    message: |-
+      It was agreed that concerning approval by the local RMO of NMI's proposedcalibration measurement capabilities (cmcs) offered under MRA paragraph 7.3(b), there are three main criteria: +
+      1. Results of participation in key and supplementary comparisons b

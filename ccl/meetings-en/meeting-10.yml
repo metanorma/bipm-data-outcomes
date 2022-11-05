@@ -1,0 +1,56 @@
+---
+metadata:
+  title: 10th meeting of the CCL
+  identifier: '10'
+  date: '2001-09-20'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccl/10-2001
+resolutions:
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Scope of the mise en pratique
+  identifier: 1
+  url: https://www.bipm.org/en/committees/cc/ccl/10-2001/resolution-1
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Proceedings of the 10th CCL (2001), 2003
+  reference_page: 107
+  considerations: []
+  actions: []
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Development of optical comb technology
+  identifier: 2
+  url: https://www.bipm.org/en/committees/cc/ccl/10-2001/resolution-2
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Proceedings of the 10th CCL (2001), 2003
+  reference_page: 108
+  considerations: []
+  actions: []
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Revision of recommended radiations
+  identifier: 3
+  url: https://www.bipm.org/en/committees/cc/ccl/10-2001/resolution-3
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Proceedings of the 10th CCL (2001), 2003
+  reference_page: 109
+  considerations: []
+  actions: []
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Radiations of spectral lamps and other sources
+  identifier: 4
+  url: https://www.bipm.org/en/committees/cc/ccl/10-2001/resolution-4
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Proceedings of the 10th CCL (2001), 2003
+  reference_page: 110
+  considerations: []
+  actions: []

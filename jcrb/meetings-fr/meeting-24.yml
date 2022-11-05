@@ -1,0 +1,223 @@
+---
+metadata:
+  title: 24e réunion du JCRB
+  identifier: '24'
+  date: '2010-03-17'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+pdf: https://www.bipm.org/documents/20126/30859719/JCRB24.pdf/fb9a7fb1-fc2d-3726-5b29-446b5c5aabd0
+resolutions:
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Recommandation JCRB/24-1 (2010)
+  identifier: 24-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2010-03-17'
+    message: The JCRB recommends that the following policy is included in CIPM MRA-G-02.
+      The initial and periodic presentations of the QS of DI to the corresponding
+      QS review panel of the RMOs, must be done directly by the responsible person
+      of the DI and not through its NMI. In the same sense, the QS annual reports
+      must be also prepared and submitted directly by the DI.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/24-1 (2010)
+  identifier: 24-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Reports from the BIPM to the JCRB March meetings will include a summary of the
+    status of the QS associated with its calibration and measurement services.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-1 (2010)
+  identifier: 24-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  - International organizations
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    The Chairman of the JCRB will contact IAEA for:
+    - establishing a date for the review of the IAEA QS;
+    - defining needs for on site peer review;
+    - suggesting IAEA to attend the regular meetings of RMOs Quality Systems review committees;
+    - current position of IAEA to support people to attend the review.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-2 (2010)
+  identifier: 24-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  - International organizations
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2010-03-17'
+    message: JCRB Executive Secretary to circulate the document related to the QS
+      review of IGOs (CIPM MRA-G-03) among the RMOs.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/24-2 (2010)
+  identifier: 24-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - CMCs
+  considerations:
+  - type: noting
+    date_effective: '2010-03-17'
+    message: CMCs that have been greyed out for more that five years will be permanently
+      deleted from the KCDB. The procedure will be discussed in the next JCRB meeting.
+  actions: []
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-3 (2010)
+  identifier: 24-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  - RMO
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2010-03-17'
+    message: RMOs will send their procedures related to the review of the QS to the
+      BIPM by end of the May.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/24-3 (2010)
+  identifier: 24-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The NMIs will include the status and actions related to greyed out CMCs in their
+    annual reports.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/24-4 (2010)
+  identifier: 24-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - ILAC
+  - Accreditation
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2010-03-17'
+    message: The JCRB recommends the BIPM to continue working in the ILAC AIC committee
+      in relation to the document "Accreditation of NMIs".
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-4 (2010)
+  identifier: 24-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2010-03-17'
+    message: Executive Secretary to prepare a template for the annual QS reports from
+      the RMOs.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-5 (2010)
+  identifier: 24-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Executive Secretary and the KCDB coordinator will explore the possibility
+    of establishing a system for monitoring the time of greyed out CMCs.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-6 (2010)
+  identifier: 24-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB further notes that RMOs are moving to a common position in which on-site
+    peer reviews are best practice, but that in some cases the RMO's policies are
+    still under discussion. The RMOs will report on state on their internal discussion
+    in the next meeting of the JCRB.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-7 (2010)
+  identifier: 24-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - ILAC
+  - Accreditation
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2010-03-17'
+    message: EURAMET will establish its position in regards of the character of the
+      document on "Accreditation of NMIs", whether this should be an ILAC or joint
+      ILAC - BIPM document and report back in the next JCRB meeting.
+- dates:
+  - '2010-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/24-8 (2010)
+  identifier: 24-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: declares
+    date_effective: '2010-03-17'
+    message: The Executive Secretary will circulate new drafts of documents CIPM MRA-D-04,
+      CIPM MRA-D-05 by mid-April. The RMOs will send their comments by end of June.
+working_documents:
+- title: JCRB/24-06
+  pdf: https://www.bipm.org/documents/20126/32646947/working-document-cc-jc-private-ID-3903/26bc3aa2-9b76-ec2e-e87a-76c14fe923d6
+  description: KCDB report
+  author: ''
+  date: 28/02/2010

@@ -46,7 +46,7 @@ resolutions:
   identifier: 110-3
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - International Liaison
+  - Relations internationales
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -63,7 +63,7 @@ resolutions:
   identifier: 110-4
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - BIPM / Finances
+  - Finance
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -79,7 +79,7 @@ resolutions:
   identifier: 110-5
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - BIPM / Finances
+  - Finance
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -96,7 +96,7 @@ resolutions:
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
   - Finance
-  - Member States and Associates
+  - Etats Membres et Associés
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -114,7 +114,7 @@ resolutions:
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
   - Finance
-  - Member States and Associates
+  - Etats Membres et Associés
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -148,7 +148,7 @@ resolutions:
   identifier: 110-9
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - CCs and WGs
+  - CCs et WGs
   considerations:
   - type: noting
     date_effective: '2021-06-24'
@@ -163,7 +163,7 @@ resolutions:
   identifier: 110-10
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - CIPM / Sous-comités et Groupes_de_travail
+  - SCs and WGs
   considerations: []
   actions:
   - type: decides
@@ -180,7 +180,7 @@ resolutions:
   identifier: 110-11
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - CCs and WGs
+  - CCs et WGs
   considerations:
   - type: accepts
     date_effective: '2021-06-24'
@@ -197,7 +197,6 @@ resolutions:
   identifier: 110-12
   url: https://www.bipm.org/fr/committees/ci/cipm/110-_1-2021
   categories:
-  - BIPM / Finances
   - Finance
   considerations: []
   actions:

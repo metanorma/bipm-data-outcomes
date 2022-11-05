@@ -5,9 +5,7 @@ metadata:
   date: '2014-03-13'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/103-_1-2014
-pdf:
-- https://www.bipm.org/documents/20126/34434405/CIPM2014-I-EN.pdf/76ab099a-306d-66f0-9d58-cff7986b5e84
-- https://www.bipm.org/documents/20126/35014176/CIPM2014-I-Decisions-EN.pdf/
+pdf: https://www.bipm.org/documents/20126/34434405/CIPM2014-I-EN.pdf/76ab099a-306d-66f0-9d58-cff7986b5e84
 resolutions:
 - dates:
   - '2014-03-13'
@@ -102,6 +100,7 @@ resolutions:
   identifier: 103-6
   url: https://www.bipm.org/en/committees/ci/cipm/103-_1-2014
   categories:
+  - Membership
   - Member States and Associates
   considerations: []
   actions:
@@ -119,6 +118,7 @@ resolutions:
   identifier: 103-7
   url: https://www.bipm.org/en/committees/ci/cipm/103-_1-2014
   categories:
+  - Membership
   - Member States and Associates
   considerations: []
   actions:
@@ -139,7 +139,7 @@ resolutions:
   - Membership
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2014-03-13'
     message: Following Decision CIPM/102-31, the CIPM in its meeting unanimously supported
       the proposed text on the planned resignation process for CIPM members required
@@ -155,7 +155,6 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/103-_1-2014
   categories:
   - Membership
-  - Member States and Associates
   considerations: []
   actions:
   - type: charges
@@ -199,7 +198,7 @@ resolutions:
   - SI
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2014-03-13'
     message: |-
       supported the proposed BIPM Work Programme for the years 2016 2019 as a basis for the final document and charged the Director of the BIPM and A. Henson to take the CIPM members comments into account.
@@ -347,7 +346,7 @@ resolutions:
   - JCTLM
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2014-03-13'
     message: supported the continued role of the BIPM as JCTLM Secretariat and approved
       the draft responses to the JCTLM questionnaire. The CIPM encouraged the BIPM

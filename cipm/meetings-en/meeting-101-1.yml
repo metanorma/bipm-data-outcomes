@@ -292,6 +292,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/101-_1-2012
   categories:
   - Finance
+  - CGPM
   considerations: []
   actions:
   - type: approves
@@ -499,7 +500,7 @@ resolutions:
   - Member States and Associates
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2012-06-08'
     message: |-
       strongly supported this proposed Draft Resolution [on the name of the intergovernmental organization created by the Metre Convention] and agreed that this will be presented at the meeting of representatives of States Parties to the Metre Convention and NMI Directors in October 2012, after the question of the acronym of the organization has been addressed.
@@ -624,7 +625,7 @@ resolutions:
   - JCGM
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2012-06-08'
     message: supported the document proposed by Dr T.J. Quinn and for him to make
       a presentation at the meeting of the JCGM Working Group 2 on the VIM.
@@ -639,7 +640,7 @@ resolutions:
   - Finance
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2012-06-08'
     message: supported the initiative to reduce the costs in connection with its meetings.
 - dates:

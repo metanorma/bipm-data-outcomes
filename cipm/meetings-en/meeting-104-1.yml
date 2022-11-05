@@ -247,7 +247,7 @@ resolutions:
   - Member States and Associates
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2015-03-10'
     message: supported the proposal from the BIPM regarding the situation of the Islamic
       Republic of Iran that the BIPM should develop a detailed case one year before
@@ -483,7 +483,6 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/104-_1-2015
   categories:
   - JCGM
-  - International Liaison
   considerations: []
   actions:
   - type: encourages
@@ -568,3 +567,12 @@ resolutions:
       The CIPM notes that assigned values for replacement materials should be done through a formal internationally vetted procedure that assures the continued comparability of delta value measurements.
 
       The CIPM encourages the continuation of programmes within the NMIs to develop absolute isotope ratio measurement values for such Reference Materials and active engagement with the IUPAC community."
+working_documents:
+- title: CIPM2015-I-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/34439492/CIPM2015-I-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2015-I-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/34439474/CIPM2015-I-Decisions-FR.pdf/
+  description: ''
+  author: ''

@@ -1,0 +1,25 @@
+---
+metadata:
+  title: 'Webinaire du CCRI: ''X-ray machine spectrometry for dosimetry'''
+  identifier: '2022-05-31'
+  date: '2022-05-31'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/web/guest/committees/cc/ccri/wg/ccri-webinar/2022-05-24
+  workgroup: ccri-webinar
+resolutions: []
+working_documents:
+- title: CCRI-Webinar/2022-500
+  pdf: https://www.bipm.org/documents/20126/70774043/500+-+Announcement_x-ray_spectrometry.pdf/49656e9d-3565-b205-c4ec-295ac5e2ed05
+  description: Announcement
+  author: ''
+  date: 31/05/2022
+- title: CCRI-Webinar/2022-501
+  pdf: https://www.bipm.org/documents/20126/70774134/501+-+Measurement_of_X-ray_spectra+-+Tikkanen.pdf/3ddd104d-b252-c2d8-e819-c5e0cf500e81
+  description: Measurement of x-ray spectra
+  author: Joonas Tikkanen
+  date: 31/05/2022
+- title: CCRI-Webinar/2022-502
+  pdf: https://www.bipm.org/documents/20126/70774059/502-Spectrum+Modelling-Poludniowski.pdf/4488004a-aeae-4075-f7eb-6a47c86ee222
+  description: 'X-ray machine spectrometry for dosimetry: Spectrum modelling'
+  author: Gavin Poludniowski
+  date: 31/05/2022

@@ -30,7 +30,7 @@ resolutions:
   identifier: 109-2
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
-  - CCs and WGs
+  - CCs et WGs
   considerations:
   - type: noting
     date_effective: '2020-10-14'
@@ -79,7 +79,7 @@ resolutions:
   identifier: 109-5
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
-  - International Liaison
+  - Relations internationales
   considerations: []
   actions:
   - type: confirms
@@ -114,8 +114,8 @@ resolutions:
   identifier: 109-7
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
+  - CCs et WGs
   - Meetings
-  - CCs and WGs
   considerations: []
   actions:
   - type: confirms
@@ -149,7 +149,7 @@ resolutions:
   identifier: 109-9
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
-  - International Liaison
+  - Relations internationales
   considerations: []
   actions:
   - type: confirms
@@ -166,7 +166,7 @@ resolutions:
   identifier: 109-10
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
-  - Member States and Associates
+  - Etats Membres et Associés
   considerations: []
   actions:
   - type: confirms
@@ -188,7 +188,7 @@ resolutions:
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
   - Finance
-  - Member States and Associates
+  - Etats Membres et Associés
   considerations:
   - type: accepts
     date_effective: '2020-10-14'
@@ -266,7 +266,7 @@ resolutions:
   identifier: 109-15
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
-  - International Liaison
+  - Relations internationales
   considerations: []
   actions:
   - type: approves
@@ -305,6 +305,8 @@ resolutions:
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
   - SI
+  - SCs and WGs
+  - Transformation numérique
   considerations: []
   actions:
   - type: approves
@@ -324,7 +326,8 @@ resolutions:
   identifier: 109-18
   url: https://www.bipm.org/fr/committees/ci/cipm/109-2020
   categories:
-  - International Liaison
+  - Relations internationales
+  - CCs et WGs
   considerations: []
   actions:
   - type: appoints

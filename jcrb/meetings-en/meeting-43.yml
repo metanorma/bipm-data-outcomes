@@ -1,0 +1,131 @@
+---
+metadata:
+  title: 43rd meeting of the JCRB (online)
+  identifier: '43'
+  date: '2021-03-17'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+pdf: https://www.bipm.org/documents/20126/52682569/43_09_KCDB_Report_to_JCRB43_Mar21.pdf/ec9bca13-0d8e-2812-f157-fdd417247f2e
+resolutions:
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Resolution JCRB/43-1 (2021)
+  identifier: 43-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Due to the continuing effects of the global pandemic on travel and workplace accessibility,
+    the JCRB allows the RMOs to extend the validity of RMO-approved quality management
+    systems for one year if it is not possible to develop sufficient confidence in
+    reviews carried out online, in person or a combination of both. The JCRB will
+    revisit this topic at its 44th meeting.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Recommendation JCRB/43-1 (2021)
+  identifier: 43-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2021-03-17'
+    message: The JCRB agrees that GULFMET fulfills all requirements described in CIPM
+      MRA-P-12 Appendix B, section B1, and recommends the CIPM to admit GULFMET as
+      a full member of the JCRB, with a voice and the right to vote.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/43-1 (2021)
+  identifier: 43-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - All RMOs to communicate to M. Dobre the email addresses of contact persons in
+    order to exchange information on digital transformation by the end of March.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/43-2 (2021)
+  identifier: 43-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2021-03-17'
+    message: The JCRB requests the JCRB Executive Secretary to incorporate the two
+      minor editorial changes to CIPM MRA-P-11 and CIPM MRA-G-13 and publish them
+      on 31st March. Versions of the documents with tracked changes will be circulated
+      to the RMOs for information.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/43-3 (2021)
+  identifier: 43-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Task Group established in Action 42/3 will prepare a short paper which proposes
+    specific changes to CIPM MRA-G-11 and provides justification for each change that
+    explains how the operation of the MRA will be improved. The paper shall be sent
+    to the JCRB Executive Secretary before 30 April for circulation to the RMOs. Comments
+    from the RMOs on the report will be requested by 15 July to allow the Task group
+    to prepare a consolidated proposal by 15 August for submission to the 44th JCRB
+    meeting.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/43-4 (2021)
+  identifier: 43-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The ad hoc Task Group established in Action 41/1 to submit its proposal (with
+    tracked changes) to the published version of CIPM MRA-G-12 and related changes
+    CIPM MRA-P-11 to the JCRB Executive Secretary by 15 April. The JCRB Secretary
+    will circulate to all RMOs for comment by 15 June. The ad hoc TG to prepare a
+    consolidated proposal for submission to the JCRB no later than 15 August.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/43-5 (2021)
+  identifier: 43-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Following the finalization of EURAMET.RI.32.2019 on the JCRB CMC website, the
+    JCRB Executive Secretary shall close the site for all other users except “tcguest”.
+    Upon closure, the JCRB CMC website will remain available but not linked from the
+    BIPM website.
+working_documents:
+- title: JCRB/43-09
+  pdf: https://www.bipm.org/documents/20126/52682569/43_09_KCDB_Report_to_JCRB43_Mar21.pdf/ec9bca13-0d8e-2812-f157-fdd417247f2e
+  description: KCDB Report to JCRB 43
+  author: BIPM
+  date: 04/03/2021

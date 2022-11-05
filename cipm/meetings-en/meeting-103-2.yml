@@ -5,9 +5,7 @@ metadata:
   date: '2014-11-14'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/103-_2-2014
-pdf:
-- https://www.bipm.org/documents/20126/34434414/CIPM2014-II-EN.pdf/2b73ddaf-90d3-0ba7-c8aa-7eca402cec39
-- https://www.bipm.org/documents/20126/35014086/CIPM2014-II-Decisions-EN.pdf/
+pdf: https://www.bipm.org/documents/20126/34434414/CIPM2014-II-EN.pdf/2b73ddaf-90d3-0ba7-c8aa-7eca402cec39
 resolutions:
 - dates:
   - '2014-11-14'
@@ -119,7 +117,7 @@ resolutions:
   - CCs and WGs
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2014-11-14'
     message: |-
       supported the proposal of CODATA to set a deadline of 1 July 2017 for submission of experimental data to be used by the CODATA Task Group on Fundamental Constants in the evaluation of the fundamental constants which will lead to the fixed values for the defining constants of the new SI.
@@ -136,7 +134,7 @@ resolutions:
   - CCs and WGs
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2014-11-14'
     message: supported the BIPM in progressing to Phase II of the extraordinary calibration
       campaign using the international prototype of the kilogram and in disseminating

@@ -702,3 +702,12 @@ resolutions:
     message: décide que la 26^e^ réunion de la Conférence générale des poids et mesures
       (CGPM) se tiendra au Palais des Congrès de Versailles du 13 au 16 novembre 2018.
       Des réunions informelles se tiendront au BIPM le 12 novembre 2018.
+working_documents:
+- title: CIPM2016-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014276/CIPM2016-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2016-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/35014267/CIPM2016-Decisions-FR.pdf/
+  description: ''
+  author: ''
