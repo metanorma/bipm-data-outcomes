@@ -1,0 +1,106 @@
+---
+metadata:
+  title: CCRI(III)
+  identifier: '2009-04-01'
+  date: '2009-04-03'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-iii-/2009-04-01
+  workgroup: ccri-iii-
+resolutions: []
+working_documents:
+- title: CCRI(III)/2009-00
+  pdf: https://www.bipm.org/documents/20126/48203372/working-document-ID-3313/e85c829d-fdd4-9725-4466-6831bf052c44
+  description: Draft agenda
+  author: D. Thomas
+  date: 30/03/2009
+- title: CCRI(III)/2009-01
+  pdf: https://www.bipm.org/documents/20126/48202362/working-document-ID-3324/1be528f4-0053-08c9-20c9-2573a6174c34
+  description: Report of the CCRI President to the 2007 CIPM
+  author: G. Moscati
+  date: 13/02/2009
+- title: CCRI(III)/2009-02
+  pdf: https://www.bipm.org/documents/20126/48202442/working-document-ID-3388/29569ab7-412b-cb66-3f4f-55b92a9bbde4
+  description: Recent activities in neutron metrology at the NIM
+  author: Zhang  Hui
+  date: 17/03/2009
+- title: CCRI(III)/2009-03
+  pdf: https://www.bipm.org/documents/20126/48202452/working-document-ID-3389/9936a40a-0796-8008-2238-6e7835e87d9a
+  description: Recent developments in neutron measurements at the EC-JRC-IRMM
+  author: S. Oberstedt
+  date: 17/03/2009
+- title: CCRI(III)/2009-04
+  pdf: https://www.bipm.org/documents/20126/48202292/working-document-ID-3390/de52d4c9-ce8c-4614-dfe0-573e5dd5b519
+  description: Progress report on the neutron metrology and dosimetry at the CMI
+  author: M. Kralik
+  date: 17/03/2009
+- title: CCRI(III)/2009-05
+  pdf: https://www.bipm.org/documents/20126/48202302/working-document-ID-3391/0ce652c3-50ef-0cdf-f9cd-f3e70f733e87
+  description: Report of the NIST to the CCRI(III)
+  author: M.S. Dewey
+  date: 27/03/2009
+- title: CCRI(III)/2009-06
+  pdf: https://www.bipm.org/documents/20126/48202312/working-document-ID-3392/f38a972c-7ed9-53b3-da9b-472c56436691
+  description: Neutron metrology activities at the CIAE from 2007 to 2008
+  author: Jun Chen
+  date: 24/03/2009
+- title: CCRI(III)/2009-08
+  pdf: https://www.bipm.org/documents/20126/48202692/working-document-ID-3401/247be5de-3194-6d51-7098-ef54300ae40d
+  description: Recent developments in neutron metrology at the IRSN
+  author: V. Gressier
+  date: 23/03/2009
+- title: CCRI(III)/2009-09
+  pdf: https://www.bipm.org/documents/20126/48202702/working-document-ID-3402/b6183065-a48b-04c7-13e8-bd9285a0aaa0
+  description: Recent developments in neutron metrology at the NPL
+  author: D. Thomas
+  date: 23/03/2009
+- title: CCRI(III)/2009-10
+  pdf: https://www.bipm.org/documents/20126/48202462/working-document-ID-3403/6e1e06de-acb9-7f34-0ca5-37fc7a56b47c
+  description: Recent activities in neutron standardization at the NMIJ/AIST
+  author: H. Harano
+  date: 23/03/2009
+- title: CCRI(III)/2009-11
+  pdf: https://www.bipm.org/documents/20126/48202012/working-document-ID-3406/047d0835-e61e-1ee4-d98d-c4dfe19bf357
+  description: APMP/TCRI Activity Summary
+  author: Ming-Chen Yuan
+  date: 27/03/2009
+- title: CCRI(III)/2009-12
+  pdf: https://www.bipm.org/documents/20126/48202332/working-document-ID-3407/e56459ef-732c-4d11-ff62-985a4c90c7fc
+  description: Recent developments in neutron metrology, neutron dosimetry and related
+    areas at the PTB
+  author: R. Nolte
+  date: 24/03/2009
+- title: CCRI(III)/2009-14
+  pdf: https://www.bipm.org/documents/20126/48202342/working-document-ID-3409/8fa8b5a3-7048-4714-b31a-a71eabb5f524
+  description: EURAMET activities in the field of neutron measurements
+  author: M. Kralik
+  date: 24/03/2009
+- title: CCRI(III)/2009-15
+  pdf: https://www.bipm.org/documents/20126/48202472/working-document-ID-3412/42580fae-fc42-dd3e-78c2-89385be73033
+  description: Report of the SIM laboratories to the CCRI(III)
+  author: M.S. Dewey
+  date: 25/03/2009
+- title: CCRI(III)/2009-16
+  pdf: https://www.bipm.org/documents/20126/48202022/working-document-ID-3417/a12c57d7-9172-a9c2-1005-a21b34eb6327
+  description: Report of the KRISS
+  author: H. Park
+  date: 25/03/2009
+- title: CCRI(III)/2009-17
+  pdf: https://www.bipm.org/documents/20126/48202032/working-document-ID-3418/fabadb09-5f97-f535-3e46-0cc7fdcabf17
+  description: AFRIMETS Report to the CCRI
+  author: Z. Msimang
+  date: 25/03/2009
+- title: CCRI(III)/2009-19
+  pdf: https://www.bipm.org/documents/20126/48202042/working-document-ID-3424/7ed3a54c-961a-92f7-3574-e26f6743a838
+  description: Recent Activity of VNIIM Neutron Group
+  author: N.N.  Moiseev
+  date: 30/03/2009
+- title: CCRI(III)/2009-20
+  pdf: https://www.bipm.org/documents/20126/48202052/working-document-ID-3425/403a47aa-8b1a-642d-ad73-c7d97f4c14d1
+  description: COOMET activity in neutron measurements
+  author: N.N. Moiseev
+  date: 30/03/2009
+- title: CCRI(III)/2009-22
+  pdf: https://www.bipm.org/documents/20126/48202072/working-document-ID-3435/096cc6f8-056b-bd9f-337c-90f5c96eb3bd
+  description: Progress report from the LNMRI
+  author: W.W. Pereira
+  date: 07/04/2009

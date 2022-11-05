@@ -62,6 +62,7 @@ resolutions:
   identifier: 106-4
   url: https://www.bipm.org/en/committees/ci/cipm/106-2017
   categories:
+  - Member States and Associates
   - CGPM
   considerations: []
   actions:
@@ -546,3 +547,12 @@ resolutions:
     message: accepted document CIPM/17-23.1 as its position on revision of the _International
       Vocabulary of Metrology_ (VIM).
   actions: []
+working_documents:
+- title: CIPM2017-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014258/CIPM2017-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2017-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/35014249/CIPM2017-Decisions-FR.pdf/
+  description: ''
+  author: ''

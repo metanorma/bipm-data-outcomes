@@ -129,8 +129,9 @@ resolutions:
   identifier: 108-28
   url: https://www.bipm.org/en/committees/ci/cipm/108-_2-2019
   categories:
-  - SCs and WGs
   - SI
+  - SCs and WGs
+  - Digital transformation
   considerations: []
   actions:
   - type: decides
@@ -156,6 +157,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/108-_2-2019
   categories:
   - SCs and WGs
+  - Digital transformation
   considerations: []
   actions:
   - type: decides
@@ -572,3 +574,12 @@ resolutions:
       of the Pension and Provident Fund, up to a maximum adjustment of 2 % on an annual
       basis, in order to meet the BIPM's financial obligations and long term financial
       sustainability of the Pension Fund.
+working_documents:
+- title: CIPM2019-II-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014140/CIPM2019-II-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2019-II-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/35014149/CIPM2019-II-Decisions-FR.pdf/
+  description: ''
+  author: ''

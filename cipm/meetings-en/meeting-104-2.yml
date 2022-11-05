@@ -509,3 +509,12 @@ resolutions:
       the matter to be closed, decided to leave the current practice to stand and
       encouraged the Director to work with Dr Quinn to update the BIPM website accordingly.
   actions: []
+working_documents:
+- title: CIPM2015-II-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/34439510/CIPM2015-II-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2015-II-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/34439519/CIPM2015-II-Decisions-FR.pdf/
+  description: ''
+  author: ''

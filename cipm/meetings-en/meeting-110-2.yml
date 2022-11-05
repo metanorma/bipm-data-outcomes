@@ -45,8 +45,8 @@ resolutions:
   identifier: 110-16
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
+  - Membership
   - Internal rules
-  - CIPM decision
   considerations: []
   actions:
   - type: decides
@@ -82,7 +82,6 @@ resolutions:
   identifier: 110-18
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
-  - BIPM / Finance
   - Finance
   considerations: []
   actions:
@@ -100,7 +99,7 @@ resolutions:
   identifier: 110-19
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
-  - BIPM / Finance
+  - Finance
   considerations: []
   actions:
   - type: approves
@@ -115,8 +114,10 @@ resolutions:
   identifier: 110-20
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
-  - SCs and WGs
   - SI
+  - SCs and WGs
+  - Digital transformation
+  - CCs and WGs
   considerations: []
   actions:
   - type: requests
@@ -134,6 +135,7 @@ resolutions:
   identifier: 110-21
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
+  - Member States and Associates
   - CCs and WGs
   considerations:
   - type: accepts
@@ -153,8 +155,8 @@ resolutions:
   identifier: 110-22
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
-  - CIPM decision
   - International Liaison
+  - Digital transformation
   considerations: []
   actions:
   - type: approves
@@ -173,10 +175,11 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
   - SI
+  - Digital transformation
   - CCs and WGs
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2021-10-20'
     message: supported the plan for a Consultative Committee survey on NMI/DI plans
       for digital calibration certificates and engagement with the Digital SI Framework.
@@ -189,6 +192,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/110-_2-2021
   categories:
   - CIPM / Meetings
+  - Digital transformation
   considerations: []
   actions:
   - type: elects

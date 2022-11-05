@@ -121,7 +121,7 @@ resolutions:
   identifier: 107-7
   url: https://www.bipm.org/en/committees/ci/cipm/107-2018
   categories:
-  - Meetings
+  - Finance
   considerations:
   - type: noting
     date_effective: '2018-06-22'
@@ -427,3 +427,12 @@ resolutions:
       is merit in the proposed definition and asked WG2 to keep it informed of future
       developments with the definition.
   actions: []
+working_documents:
+- title: CIPM2018-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014231/CIPM2018-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2018-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/35014240/CIPM2018-Decisions-FR.pdf/
+  description: ''
+  author: ''

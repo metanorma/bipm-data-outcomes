@@ -368,3 +368,12 @@ resolutions:
   - type: decides
     date_effective: '2013-10-25'
     message: décide de tenir sa prochaine réunion en mars 2014.
+working_documents:
+- title: CIPM2013-II-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/34444002/CIPM2013-II-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2013-II-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/34444107/CIPM2013-II-Decisions-FR.pdf/
+  description: ''
+  author: ''

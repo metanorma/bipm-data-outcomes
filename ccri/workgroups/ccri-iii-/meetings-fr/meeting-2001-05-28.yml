@@ -1,0 +1,70 @@
+---
+metadata:
+  title: CCRI(III)
+  identifier: '2001-05-28'
+  date: '2001-05-29'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccri/wg/ccri-iii-/2001-05-28
+  workgroup: ccri-iii-
+resolutions: []
+working_documents:
+- title: CCRI(III)/2001-01
+  pdf: https://www.bipm.org/documents/20126/48200732/working-document-ID-146/b4cd1dc3-1a8c-c566-2d70-3e2d528cadef
+  description: Measurement of the neutron emission rate of an Am-Be (alpha,n) source
+    AMN-1000-1096 according to the intercomparison program
+  author: N.N. Moisseev
+- title: CCRI(III)/2001-02
+  pdf: https://www.bipm.org/documents/20126/48200742/working-document-ID-147/9a0b0e30-550c-25aa-56e8-fdbfe4701702
+  description: Measurement of the neutron source strength of a spontaneous fission
+    source based on 244Cm and 252Cf by the calorimetric method
+  author: N.N. Moisseev
+- title: CCRI(III)/2001-03
+  pdf: https://www.bipm.org/documents/20126/48200752/working-document-ID-148/426982ea-2130-d064-1675-3c9be0130377
+  description: Neutron field shaper
+  author: N.N. Moisseev
+- title: CCRI(III)/2001-04
+  pdf: https://www.bipm.org/documents/20126/48200762/working-document-ID-149/9ce51d67-4041-6a20-792c-5f58030510ca
+  description: The neutron metrology research at CIAE
+  author: Rong Chaofan
+- title: CCRI(III)/2001-05
+  pdf: https://www.bipm.org/documents/20126/48200772/working-document-ID-150/731c49c0-7240-c171-8542-c866bf75dd2f
+  description: Recent Activities on Neutron Standardization at the Electrotechnical
+    Laboratory
+  author: K. Kudo
+- title: CCRI(III)/2001-06
+  pdf: https://www.bipm.org/documents/20126/48200782/working-document-ID-151/405eaa00-28f1-b20a-161f-e21184d184b3
+  description: Present status of FRS of JAERI
+  author: M. Yoshizawa
+- title: CCRI(III)/2001-08
+  pdf: https://www.bipm.org/documents/20126/48200802/working-document-ID-190/160de939-1b0d-26da-7b6d-22c1d397f3a1
+  description: IRD/LNMRI Neutron Laboratory progress report 2000-2001
+  author: ''
+  date: 17/05/2001
+- title: CCRI(III)/2001-09
+  pdf: https://www.bipm.org/documents/20126/48200812/working-document-ID-191/50d65886-7e8b-5088-e8cc-d7bfd0cbf730
+  description: Present status of the manganese sulfate bath at the LNMRI,
+  author: E. S. da Fonseca
+  date: 17/05/2001
+- title: CCRI(III)/2001-10
+  pdf: https://www.bipm.org/documents/20126/48200822/working-document-ID-192/2a935fba-cf95-4035-02aa-d2a1b06715f5
+  description: New quantities (Hp e H*) in neutron monitor calibration
+  author: E. S. da Fonseca
+  date: 17/05/2001
+- title: CCRI(III)/2001-12
+  pdf: https://www.bipm.org/documents/20126/48200862/working-document-ID-236/14d945c7-181a-333e-e3c7-cbf8a29a8efa
+  description: Technical activities of the Neutron Interactions and Dosimetry Group,
+    Ionizing Radiation Division, NIST
+  author: D.M.Gilliam
+  date: 05/07/2001
+- title: CCRI(III)/2001-13
+  pdf: https://www.bipm.org/documents/20126/48200832/working-document-ID-204/bc6468d4-2c98-1a63-f523-2a9494944ab3
+  description: Report of the activities of the Neutron Physics Unit with regard to
+    neutron fluence intercomparisons and measurements for standard cross sections
+  author: A.J.M. Plompen
+  date: 25/05/2001
+- title: CCRI(III)/2001-14
+  pdf: https://www.bipm.org/documents/20126/48200842/working-document-ID-205/635e691a-2c0b-8bcf-43df-671ed01bec08
+  description: A brief description of the VNIIM's facilities for measuring of neutron
+    flux and neutron fluence rate
+  author: ''
+  date: 29/05/2001

@@ -112,8 +112,8 @@ resolutions:
   identifier: 109-7
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
   categories:
-  - Meetings
   - CCs and WGs
+  - Meetings
   considerations:
   - type: noting
     date_effective: '2020-10-14'
@@ -300,6 +300,8 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
   categories:
   - SI
+  - SCs and WGs
+  - Digital transformation
   considerations: []
   actions:
   - type: recommends
@@ -320,6 +322,7 @@ resolutions:
   url: https://www.bipm.org/en/committees/ci/cipm/109-2020
   categories:
   - International Liaison
+  - CCs and WGs
   considerations: []
   actions:
   - type: decides

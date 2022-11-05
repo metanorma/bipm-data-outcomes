@@ -1,0 +1,146 @@
+---
+metadata:
+  title: 23rd meeting of the CCT
+  identifier: '23'
+  date: '2005-06-10'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/cct/23-2005
+resolutions:
+- dates:
+  - '2005-06-10'
+  subject: CCT
+  type: recommendation
+  title: Clarification of the definition of the kelvin, unit of thermodynamic temperature
+  identifier: 1
+  url: https://www.bipm.org/en/committees/cc/cct/23-2005/resolution-1
+  reference: https://www.bipm.org/documents/20126/2071118/CCT23.pdf/f5b539cb-c674-cece-8983-c7dba78eb9aa
+  reference_name: Proceedings of the 23rd CCT (2005), 2006
+  reference_page: 25
+  considerations: []
+  actions: []
+- dates:
+  - '2005-06-10'
+  subject: CCT
+  type: recommendation
+  title: New determinations of thermodynamic temperature and the Boltzmann constant
+  identifier: 2
+  url: https://www.bipm.org/en/committees/cc/cct/23-2005/resolution-2
+  reference: https://www.bipm.org/documents/20126/2071118/CCT23.pdf/f5b539cb-c674-cece-8983-c7dba78eb9aa
+  reference_name: Proceedings of the 23rd CCT (2005), 2006
+  reference_page: 26
+  considerations: []
+  actions: []
+- dates:
+  - '2005-06-10'
+  subject: CCT
+  type: recommendation
+  title: Creation of a mise en pratique of the definition of the kelvin
+  identifier: 3
+  url: https://www.bipm.org/en/committees/cc/cct/23-2005/resolution-3
+  reference: https://www.bipm.org/documents/20126/2071118/CCT23.pdf/f5b539cb-c674-cece-8983-c7dba78eb9aa
+  reference_name: Proceedings of the 23rd CCT (2005), 2006
+  reference_page: 27
+  considerations: []
+  actions: []
+working_documents:
+- title: CCT/2005-01
+  pdf: https://www.bipm.org/documents/20126/28439425/working-document-ID-1437/e2ef548a-7f4b-5fa6-2674-6b6b03aa6945
+  description: CCT Workshop on Uncertainty in Temperature Fixed Points
+  author: G. Bonnier, R. Rusby
+  date: 20/09/2004
+- title: CCT/2005-02
+  pdf: https://www.bipm.org/documents/20126/28439062/working-document-ID-1721/dda6b933-e954-4429-6980-b03cc9c1225a
+  description: Workshop on Methods for New Determinations of the Boltzmann Constant
+  author: B. Fellmuth, J. Fischer, C. Gaiser, W. Buck
+  date: 02/05/2005
+- title: CCT/2005-04/rev
+  pdf: https://www.bipm.org/documents/20126/28438527/working-document-ID-1777/1d148f98-d2f7-0190-fe71-29fba6d7618e
+  description: Cryoscopic Constant, Heat and Enthalpy of Fusion of Metals and Water
+  author: S. Rudtsch
+  date: 29/08/2005
+- title: CCT/2005-05
+  pdf: https://www.bipm.org/documents/20126/28438538/working-document-ID-1778/2b242d96-3c57-e3f6-b394-dee0afefe85a
+  description: Spectrally Selected Linearity Measurement of a Radiation Thermometer
+    Using High-Brightness Light Emitting Diodes
+  author: Chul Woung Park et al.
+  date: 13/05/2005
+- title: CCT/2005-08
+  pdf: https://www.bipm.org/documents/20126/28438963/working-document-ID-1782/44b65df6-8326-a8e8-352a-f5f85a2a64af
+  description: Methodologies for the estimation of uncertainties and the correction
+    fo fixed-point temperatures attributable to the influence of chemical impurities
+  author: B. Fellmuth et al.
+  date: 17/05/2005
+- title: CCT/2005-10
+  pdf: https://www.bipm.org/documents/20126/28438549/working-document-ID-1784/6b1a38a4-5510-4245-ef8f-a13cc8696a48
+  description: 'Working Group 5 Report to CCT: June 2005'
+  author: J. Fischer et al.
+  date: 17/05/2005
+- title: CCT/2005-11
+  pdf: https://www.bipm.org/documents/20126/28439029/working-document-ID-1785/b55e5aa5-5e8d-5d6b-8c8d-4d1ae0024d97
+  description: Hydrostatic Pressure Correction Coefficient of the Triple Point Cell
+    of Water
+  author: H. Sakurai
+  date: 17/05/2005
+- title: CCT/2005-13
+  pdf: https://www.bipm.org/documents/20126/28438560/working-document-ID-1790/edfd0438-b016-d2a0-4e4c-5b66bc39f4cd
+  description: Comparison of humidity measurements using a dew point meter as a transfer
+    standard, APMP-IC-1-97, Draft B
+  author: Wang Li
+  date: 18/05/2005
+- title: CCT/2005-14
+  pdf: https://www.bipm.org/documents/20126/28439073/working-document-ID-1791/3ad7f144-3809-6467-a240-eec120519372
+  description: Double anomalous peak in the heat capacity just below the triple point
+    of e-H2 with FeO(OH)
+  author: T. Nakano, O. Tamura, H. Sakurai
+  date: 18/05/2005
+- title: CCT/2005-16
+  pdf: https://www.bipm.org/documents/20126/28438974/working-document-ID-1807/b0286347-d2fa-1485-ea71-3521d00f5bae
+  description: Research Activities on Water Triple Point Cells in the Netherlands
+  author: A. Peruzzi et al.
+  date: 26/05/2005
+- title: CCT/2005-18
+  pdf: https://www.bipm.org/documents/20126/28438571/working-document-ID-1809/017ac845-2a7c-6dd1-cc5d-a9533241d6b5
+  description: Implementation of M-C eutectics into mainstream metrology
+  author: G. Machin, Y. Yamada, P. Bloembergen
+  date: 26/05/2005
+- title: CCT/2005-19/rev
+  pdf: https://www.bipm.org/documents/20126/28438582/working-document-ID-1810/76e3799d-8bce-416c-3d7b-06e3c189e533
+  description: Working Group 4 Report to CCT
+  author: R. L. Rusby
+  date: 07/06/2005
+- title: CCT/2005-22
+  pdf: https://www.bipm.org/documents/20126/28438615/working-document-ID-1813/a0a0fbd8-aa12-9d39-5d1c-d117b84e8cba
+  description: Effect of thermal treatment on realization of the cryogenic fixed points
+    of the ITS-90 (corrected version)
+  author: T. Nakano, O. Tamura, H. Sakurai
+  date: 30/05/2005
+- title: CCT/2005-27
+  pdf: https://www.bipm.org/documents/20126/28438633/working-document-ID-1835/76993d74-7fc0-c6af-6032-a8e80c16fbc4
+  description: '2005 Report of CCT Working Group 7: Key Comparisons'
+  author: A. Steele
+  date: 10/06/2005
+- title: CCT/2005-28
+  pdf: https://www.bipm.org/documents/20126/28438644/working-document-ID-1836/882921d1-7c77-8400-a106-557ebf46e746
+  description: The Relation between Deuterium Content and Melting Range of the Triple
+    Point of e-Hydrogen
+  author: H. Sakurai, O. Tamura
+  date: 10/06/2005
+- title: CCT/2005-29
+  pdf: https://www.bipm.org/documents/20126/28438952/working-document-ID-1844/b8408c05-3e02-abf8-408a-14205b97ef5f
+  description: Working Group 9 Report to CCT, June 2005
+  author: T. Baba
+  date: 24/06/2005
+- title: CCT/2005-Rec-T1
+  pdf: https://www.bipm.org/documents/20126/28438985/working-document-ID-1846/eee76dc0-751c-e7e9-da12-bee66d2ac92d
+  description: Recommendation T1 (2005) to the CIPM, final version
+  author: ''
+  date: 07/07/2005
+- title: CCT/2005-Rec-T3
+  pdf: https://www.bipm.org/documents/20126/28439095/working-document-ID-1856/9831bd2f-9653-b986-02d5-1eb53db9bd55
+  description: Recommendation T3 (2005) to the CIPM, final version
+  author: ''
+  date: 28/06/2005
+- title: working-document-ID-1852
+  pdf: https://www.bipm.org/documents/20126/28438996/working-document-ID-1852/280650d7-75af-d84e-45d9-c98d13b8cb6e
+  description: ''
+  author: ''

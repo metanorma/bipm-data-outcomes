@@ -108,7 +108,7 @@ resolutions:
   - CGPM
   considerations: []
   actions:
-  - type: approves
+  - type: thanks / expresses-appreciation
     date_effective: '2013-10-25'
     message: supported the proposal to hold the next General Conference on Weights
       and Measures (CGPM) over three days, preceded by a preparation day at the BIPM
@@ -359,3 +359,12 @@ resolutions:
   - type: decides
     date_effective: '2013-10-25'
     message: decided to hold its next meeting in March 2014.
+working_documents:
+- title: CIPM2013-II-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/34444002/CIPM2013-II-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2013-II-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/34444107/CIPM2013-II-Decisions-FR.pdf/
+  description: ''
+  author: ''

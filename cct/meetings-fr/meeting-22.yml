@@ -1,0 +1,162 @@
+---
+metadata:
+  title: 22e réunion du CCT
+  identifier: '22'
+  date: '2003-04-16'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/cct/22-2003
+resolutions: []
+working_documents:
+- title: CCT/2003-01
+  pdf: https://www.bipm.org/documents/20126/28439117/working-document-ID-769/0c9c4632-f180-6cce-8ed5-886b1d7c9072
+  description: 'CCT Workshop: Toward the ITS-XX, Summary of the proceedings'
+  author: R. Rusby
+  date: 14/03/2003
+- title: CCT/2003-02
+  pdf: https://www.bipm.org/documents/20126/28439128/working-document-ID-770/2ebad364-1d4d-43eb-1de5-ee9ffd569ea6
+  description: Toward the ITS-XX - a survey of needs
+  author: R. Rusby
+  date: 14/03/2003
+- title: CCT/2003-03
+  pdf: https://www.bipm.org/documents/20126/28438732/working-document-ID-775/b5219f09-2504-ec12-724b-32374500575a
+  description: 'CCT-WG5: Uncertainty budgets for realisation of scales by radiation
+    thermometry'
+  author: J. Fischer
+  date: 19/03/2003
+- title: CCT/2003-04
+  pdf: https://www.bipm.org/documents/20126/28438743/working-document-ID-853/953dc0d6-b494-e473-ec22-f7f88be6bbf2
+  description: 'WG7: Proposed Resolution on an Interpretation of the MRA'
+  author: F. Pavese
+  date: 21/03/2003
+- title: CCT/2003-05
+  pdf: https://www.bipm.org/documents/20126/28438754/working-document-ID-854/3b68c752-8f6e-0213-f7b6-4fd277fa65ee
+  description: Classes of inter-comparisons and the case of temperature standards
+  author: F. Pavese
+  date: 07/04/2003
+- title: CCT/2003-06
+  pdf: https://www.bipm.org/documents/20126/28439249/working-document-ID-916/1bb98d5b-303f-c269-fefa-c0229de0bb82
+  description: On the definition of "significant unresolved deviation" in the MRA
+    frame
+  author: F. Pavese
+  date: 15/04/2003
+- title: CCT/2003-07
+  pdf: https://www.bipm.org/documents/20126/28439260/working-document-ID-917/ed8f06ce-18c9-02c3-5e1e-35f63780cb34
+  description: On the advantages of using the "temperature amplifier" for accurate
+    temperature measurements between 660 °C and 960 °C
+  author: P. Marcarino
+  date: 15/04/2003
+- title: CCT/2003-08
+  pdf: https://www.bipm.org/documents/20126/28438765/working-document-ID-918/7298a195-72d6-bf47-7b88-28527dddcfc7
+  description: Anomalies on the heat capacity just below the triple points of e-H2
+    and e-D2 with catalysts
+  author: T. Nakano
+  date: 25/04/2003
+- title: CCT/2003-09
+  pdf: https://www.bipm.org/documents/20126/28438831/working-document-ID-919/93598876-dec3-7e9a-9812-e29ef8a0d845
+  description: Uncertainty Budget for the Realisation of the Provisional Low Temperature
+    Scale PLTS-2000 at PTB
+  author: J. Engert
+  date: 16/04/2003
+- title: CCT/2003-10
+  pdf: https://www.bipm.org/documents/20126/28439271/working-document-ID-920/0cfcc8f5-f991-c4fc-aa7c-00263ad83181
+  description: Mechanical stability of Pt/Pd thermocouples
+  author: F. Edler
+  date: 16/04/2003
+- title: CCT/2003-11
+  pdf: https://www.bipm.org/documents/20126/28439282/working-document-ID-921/e22e7922-9bec-94f9-4816-8d169983f2a0
+  description: Report to the CCT by Working Group 6 on Humidity Measurements
+  author: P. Huang
+  date: 16/04/2003
+- title: CCT/2003-12
+  pdf: https://www.bipm.org/documents/20126/28438776/working-document-ID-922/cc4450c1-0bac-720b-3460-0c18f3c951f3
+  description: Comments on the underestimation of the change of fixed-point temperatures
+    by impurities due to a non-justified application of Raoult's law
+  author: B. Fellmuth
+  date: 17/04/2003
+- title: CCT/2003-13
+  pdf: https://www.bipm.org/documents/20126/28438787/working-document-ID-923/6ffcbaae-bf94-1300-5d47-c110a994035d
+  description: Dependence of the triple-point temperature of diluted mixtures of deuterium
+    (as HD) in protium on the deuterium content
+  author: B. Fellmuth
+  date: 17/04/2003
+- title: CCT/2003-14
+  pdf: https://www.bipm.org/documents/20126/28438798/working-document-ID-924/03973612-2045-eac4-bed9-069179a41a2a
+  description: 'Report of Working Group 2 to the CCT: April 2003'
+  author: K. Hill
+  date: 17/04/2003
+- title: CCT/2003-15
+  pdf: https://www.bipm.org/documents/20126/28438809/working-document-ID-925/b89f7382-8e4d-010e-f76a-ad5d0a4f5000
+  description: Evaluation of the uncertainty in the realization of the PLTS-2000 at
+    NMi
+  author: A. Peruzzi
+  date: 18/04/2003
+- title: CCT/2003-16
+  pdf: https://www.bipm.org/documents/20126/28438023/working-document-ID-927/44e7bd5d-bc2d-3b5f-148f-4a310c7ff860
+  description: Proposal of a provisional integration of the ITS-90 definition concerning
+    the temperature of the triple point of equilibrium hydrogen
+  author: F. Pavese
+  date: 18/04/2003
+- title: CCT/2003-17
+  pdf: https://www.bipm.org/documents/20126/28437957/working-document-ID-928/87eedb8c-8717-c407-f68f-bfdca59e227e
+  description: Analysis of the requirements to SPRTs in the ITS-90 definition
+  author: N. P. Moiseeva
+  date: 22/04/2003
+- title: CCT/2003-18
+  pdf: https://www.bipm.org/documents/20126/28439139/working-document-ID-941/f118580e-5341-d640-0056-bb32f393cb4a
+  description: Acoustic measurements of the thermodynamic temperature between the
+    triple point of mercury and 380 K
+  author: G. Benedetto
+  date: 28/04/2003
+- title: CCT/2003-19
+  pdf: https://www.bipm.org/documents/20126/28438842/working-document-ID-942/cf79f8db-b2e8-c5a5-650a-1a639b4a3672
+  description: NIST methods of estimating the impurity uncertainty component for ITS-90
+    fixed-point cells from the Ar TP to the Ag FP
+  author: G. Strouse
+  date: 30/04/2003
+- title: CCT/2003-21
+  pdf: https://www.bipm.org/documents/20126/28439150/working-document-ID-945/07fc1d35-79c5-2702-e917-193e27a53b49
+  description: Evaluation of the depression constants for D and O18 isotopes for the
+    triple-point temperature of water
+  author: R. White
+  date: 07/05/2003
+- title: CCT/2003-22
+  pdf: https://www.bipm.org/documents/20126/28438853/working-document-ID-950/75ea9f9a-400e-fc80-3ab1-03189d0ec143
+  description: 'Report of WG 3 to the CCT: May 2003'
+  author: G. Bonnier
+  date: 07/05/2003
+- title: CCT/2003-24
+  pdf: https://www.bipm.org/documents/20126/28438864/working-document-ID-952/c0b519f6-ec36-1340-2e9a-e271ba60276c
+  description: The role of impurity component in the budgets of uncertainty
+  author: N. P. Moiseeva
+  date: '08/05/2003'
+- title: CCT/2003-25
+  pdf: https://www.bipm.org/documents/20126/28438875/working-document-ID-953/84e96e97-39af-5c2f-ee03-020907f0f7dc
+  description: Influence of the heat capacity anomaly on the triple point temperature
+    of equilibrium hydrogen
+  author: H. Sakurai
+  date: '08/05/2003'
+- title: CCT/2003-26
+  pdf: https://www.bipm.org/documents/20126/28438886/working-document-ID-954/8a10d31d-17c8-899a-7132-556b8079d36b
+  description: 'WG 4 report to the CCT: May 2003'
+  author: R. Rusby
+  date: '08/05/2003'
+- title: CCT/2003-27
+  pdf: https://www.bipm.org/documents/20126/28438897/working-document-ID-955/3a8d2b0d-5577-4269-5d9b-d6e1149f5e45
+  description: How the weighted mean affects the ARV (NIST-meeting protocol)
+  author: P. Steur
+  date: 16/05/2003
+- title: CCT/2003-30
+  pdf: https://www.bipm.org/documents/20126/28438908/working-document-ID-958/704cfc76-000d-eff8-e562-5eded6c253e3
+  description: 'Working Group 9 report to CCT: May 2003'
+  author: J. Redgrove
+  date: 12/05/2003
+- title: CCT/2003-32
+  pdf: https://www.bipm.org/documents/20126/28438034/working-document-ID-963/3cc2eccb-7399-25e0-993d-601a6ee7fe6b
+  description: Report of WG 8 to the 22nd session of the CCT
+  author: M. de Groot
+  date: 19/05/2003
+- title: CCT/2003-33
+  pdf: https://www.bipm.org/documents/20126/28438045/working-document-ID-964/d6acb375-539a-560a-99be-63a1effb3200
+  description: Report of WG 7 on key comparisons (13 May 2003)
+  author: WG 7
+  date: 13/05/2003

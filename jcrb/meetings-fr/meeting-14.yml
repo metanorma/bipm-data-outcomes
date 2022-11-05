@@ -1,0 +1,157 @@
+---
+metadata:
+  title: 14e réunion du JCRB (Minsk, Bélarus)
+  identifier: '14'
+  date: '2005-05-12'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+pdf: https://www.bipm.org/documents/20126/34908584/JCRB14.pdf/babc2d29-5adc-08ee-39d3-cf2d2935c0ee
+resolutions:
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-1 (2005)
+  identifier: 14-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - CMCs
+  - KCDB
+  considerations:
+  - type: noting
+    date_effective: '2005-05-12'
+    message: The KCDB office to add a note to its website indicating that only the
+      latest version of the CMCs is shown and that further details on the history
+      of a CMC should be requested from the issuing NMI.
+  actions: []
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-2 (2005)
+  identifier: 14-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - Guidance documents
+  - CMCs
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO representatives to send comments on document JCRB-14/11 to Dr. Kühne by 3
+    June 2005.
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-3 (2005)
+  identifier: 14-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - Guidance documents
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-05-12'
+    message: The Executive Secretary to post Document JCRB-14/06(1) in the open section
+      of the JCRB website, replacing the current Document JCRB-7/1.
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-4 (2005)
+  identifier: 14-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - Traceability
+  - Guidance documents
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Dr. Kaarls to add a phrase to the last paragraph of document JCRB-14/06(2a) indicating
+    how to assure traceability in the chemical field.
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-5 (2005)
+  identifier: 14-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - CMCs
+  - Guidance documents
+  considerations: []
+  actions: []
+  x-unparsed:
+  - After completion of Action 14/4, the Executive Secretary to post Document JCRB-14/06(2a)
+    in the open section of the JCRB website, replacing the current document JCRB-8/13(1b).
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-6 (2005)
+  identifier: 14-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - CMCs
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-05-12'
+    message: The Executive Secretary to post Document JCRB-14/06(2a) in the open section
+      of the JCRB website.
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-7 (2005)
+  identifier: 14-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - QMS
+  - Guidance documents
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO representatives to send comments on Document JCRB-14/07b to Dr. Kühne by 9
+    June 2005.
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-8 (2005)
+  identifier: 14-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - QMS
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-05-12'
+    message: APMP to modify document JCRB-14/07c according to the discussion at the
+      meeting and send it for comments to the JCRB.
+- dates:
+  - '2005-05-12'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/14-9 (2005)
+  identifier: 14-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
+  categories:
+  - QMS
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-05-12'
+    message: The Executive Secretary to update the references in document JCRB-14/08(6)
+      and post it in the open section of the JCRB web page.
+working_documents:
+- title: JCRB/14-04
+  pdf: https://www.bipm.org/documents/20126/32766599/working-document-cc-jc-private-ID-1746/02c6a397-5e60-d884-2e97-9784e425648e
+  description: KCDB report
+  author: ''
+  date: 04/05/2005

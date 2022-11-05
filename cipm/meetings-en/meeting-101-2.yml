@@ -83,6 +83,8 @@ resolutions:
   identifier: 101-45
   url: https://www.bipm.org/en/committees/ci/cipm/101-_2-2012
   categories:
+  - CGPM
+  - CCs and WGs
   - Meetings
   considerations:
   - type: accepts
@@ -188,7 +190,7 @@ resolutions:
   identifier: 101-52
   url: https://www.bipm.org/en/committees/ci/cipm/101-_2-2012
   categories:
-  - Membership
+  - Member States and Associates
   - CCs and WGs
   considerations: []
   actions:
@@ -416,6 +418,7 @@ resolutions:
   identifier: 101-66
   url: https://www.bipm.org/en/committees/ci/cipm/101-_2-2012
   categories:
+  - CGPM
   - Meetings
   considerations:
   - type: noting

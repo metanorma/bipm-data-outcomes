@@ -1,0 +1,61 @@
+---
+metadata:
+  title: 13th meeting of the CCL
+  identifier: '13'
+  date: '2007-09-14'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccl/13-2007
+resolutions:
+- dates:
+  - '2007-09-14'
+  subject: CCL
+  type: recommendation
+  title: Revision of the list of standard frequencies
+  identifier: 1
+  url: https://www.bipm.org/en/committees/cc/ccl/13-2007/resolution-1
+  reference: https://www.bipm.org/documents/20126/2070984/CCL13.pdf/7d8630c8-ed47-534f-5167-8f9405eaf61f
+  reference_name: Proceedings of the 13th CCL (2007), 2009
+  reference_page: 32
+  considerations: []
+  actions: []
+- dates:
+  - '2007-09-14'
+  subject: CCL
+  type: recommendation
+  title: ''
+  identifier: 2
+  url: https://www.bipm.org/en/committees/cc/ccl/13-2007/resolution-2
+  reference: https://www.bipm.org/documents/20126/2070984/CCL13.pdf/7d8630c8-ed47-534f-5167-8f9405eaf61f
+  reference_name: Proceedings of the 13th CCL (2007), 2009
+  reference_page: 37
+  considerations: []
+  actions: []
+- dates:
+  - '2007-09-14'
+  subject: CCL
+  type: recommendation
+  title: On the value and uncertainty of unstabilised He-Ne lasers
+  identifier: 3
+  url: https://www.bipm.org/en/committees/cc/ccl/13-2007/resolution-3
+  reference: https://www.bipm.org/documents/20126/2070984/CCL13.pdf/7d8630c8-ed47-534f-5167-8f9405eaf61f
+  reference_name: Proceedings of the 13th CCL (2007), 2009
+  reference_page: 38
+  considerations: []
+  actions: []
+working_documents:
+- title: CCL/2007-01
+  pdf: https://www.bipm.org/documents/20126/28437451/working-document-ID-2819/e167a4e1-d588-4ffa-1aea-373fa17c382d
+  description: Report of the 12th meeting of the CCL
+  author: CCL
+  date: 27/07/2007
+- title: CCL/2007-02
+  pdf: https://www.bipm.org/documents/20126/28437517/working-document-ID-3580/7806af5f-df92-ca80-aa83-745004a3df25
+  description: Report of the 12th meeting of the CCL-WGDM (Sept. 2007)
+  author: A. Lewis
+  date: 15/04/2009
+- title: CCL/2007-03
+  pdf: https://www.bipm.org/documents/20126/28437528/working-document-ID-3584/427dca81-9648-9e15-9078-2d729ab74b71
+  description: Report of the meeting of the CCL-CCTF Frequency Standards WG (Sept.
+    2007)
+  author: P. Gill, L. Robertsson
+  date: 30/04/2009

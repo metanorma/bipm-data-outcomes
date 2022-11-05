@@ -559,3 +559,12 @@ resolutions:
     date_effective: '2013-06-21'
     message: approuve le texte du document « Mission, Rôle et Objectifs du BIPM »
       présenté par le directeur du BIPM.
+working_documents:
+- title: CIPM2013-I-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/34443664/CIPM2013-I-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2013-I-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/34443144/CIPM2013-I-Decisions-FR.pdf/
+  description: ''
+  author: ''

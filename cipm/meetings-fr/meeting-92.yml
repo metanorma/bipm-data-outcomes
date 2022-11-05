@@ -122,4 +122,7 @@ resolutions:
 
       *réaffirme* que
 
-      * « Pour faciliter la lecture, les nombres peuvent être partagés en tranches de trois chiffres ; ces tranches ne sont jamais séparées par des points, ni par des virgules », comme le recommande la Résolution 7 de la 9^e^ Conférence générale de 1948.
+      * « Pour faciliter la lecture, les nombres peuvent être partagés en tranches de trois chiffres ; ces tranches ne sont jamais séparées par des points, ni par des virgules », comme le
+  - type: recommends
+    date_effective: '2003-10-10'
+    message: recommande la Résolution 7 de la 9^e^ Conférence générale de 1948.

@@ -1,0 +1,250 @@
+---
+metadata:
+  title: 35e réunion du JCRB
+  identifier: '35'
+  date: '2016-03-17'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+pdf: https://www.bipm.org/documents/20126/30859811/JCRB35.pdf/152b51e5-0ecf-4b93-1db0-e8503cde9fb8
+resolutions:
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-1 (2016)
+  identifier: 35-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Comparaisons
+  - Developing countries
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - GULFMET is encouraged to register their comparisons (except those used for training
+    purposes) in the KCDB and is reminded of the guidance on comparisons given in
+    CIPM MRA-D-05, particularly section 5.1, regarding linkage between CIPM and RMO
+    key comparisons.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Recommandation JCRB/35-1 (2016)
+  identifier: 35-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Comparaisons
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2016-03-17'
+    message: The JCRB recommends to the CIPM to revise Point of Clarification 6 to
+      CIPM 2005-06(REV); the revision to include the text of JCRB Resolution 34/1
+      regarding measurement comparison reports.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/35-1 (2016)
+  identifier: 35-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Meetings
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 36th meeting of the JCRB will take place on September 14 and 15, 2016 at KEBS,
+    Nairobi, Kenya.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-2 (2016)
+  identifier: 35-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - RMO
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The RMOs to include an update on strategic planning with respect to KCs and SCs
+    undertaken at the RMO TC level in their reports to the JCRB.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Résolution JCRB/35-2 (2016)
+  identifier: 35-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Meetings
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 37th meeting of the JCRB will take place during the week beginning March 13,
+    2017 at the BIPM, on days to be decided.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-3 (2016)
+  identifier: 35-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - CIPM MRA
+  - Comparaisons
+  - KCDB
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2016-03-17'
+    message: to present a draft scope for the update to the KCDB/JCRB IT suite to
+      the next JCRB meeting.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-4 (2016)
+  identifier: 35-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - CMCs
+  - RMO
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: declares
+    date_effective: '2016-03-17'
+    message: will identify possible metrics that might measure the quality of the
+      intra-regional CMC reviews carried out by each RMO.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-5 (2016)
+  identifier: 35-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - CIPM MRA
+  - Developing countries
+  - NMIs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2016-03-17'
+    message: to ask RMOs about the availability of materials to support the involvement
+      of NMIs from countries and economies with emerging metrology systems in the
+      work of the CIPM MRA.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-6 (2016)
+  identifier: 35-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - CIPM MRA
+  - JCRB
+  considerations: []
+  actions:
+  - type: charges
+    date_effective: '2016-03-17'
+    message: The JCRB charged a subgroup (comprising Alan Steele (convenor), Peter
+      Fisk, Beat Jeckelmann, Pavel Neyezhmakov, Wynand Louw, Mohammed Al Mulla and
+      Andy Henson) to prepare a draft position paper on its response to the MRA review
+      for discussion at the next meeting of the JCRB.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-7 (2016)
+  identifier: 35-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - CMCs
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: charges
+    date_effective: '2016-03-17'
+    message: The JCRB charged a subgroup (comprising Claudia Santo (convenor), Beat
+      Jeckelmann, Toshiyuki Takatsuji and Zakithi Msimang) to prepare a draft position
+      paper on the feasibility of "broader scope" CMCs for discussion at the next
+      meeting of the JCRB.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-8 (2016)
+  identifier: 35-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2016-03-17'
+    message: The KCDB will retire the use of the pop-up survey on the usage of the
+      KCDB website.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-9 (2016)
+  identifier: 35-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - CMC review
+  - CMCs
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The RMOs to remind TC and WG chairs of the requirement stated in CIPM MRA-D-04
+    to submit, at the beginning of the inter-RMO review, the confirmation that the
+    QMS evidence supports the CMC set, and to consider how this will be embedded in
+    the update to the KCDB/JCRB IT suite.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-10 (2016)
+  identifier: 35-10
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Comparaisons
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2016-03-17'
+    message: will delete the listings of non-signatory and non-designated participants
+      of comparisons that currently appear in the drop-down menus of the KCDB (recalling
+      that all participants will continue to be listed in the comparison reports).
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: decision
+  title: Action JCRB/35-11 (2016)
+  identifier: 35-11
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Comparaisons
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2016-03-17'
+    message: The JCRB approved the revision to CIPM MRA-D-05, "Measurement comparisons
+      in the CIPM MRA" and the BIPM will inform the CIPM of the revision.
+working_documents:
+- title: JCRB/35-07.0
+  pdf: https://www.bipm.org/documents/20126/32643299/working-document-cc-jc-private-ID-7570/0ef1316e-3812-ef38-653e-bd03a374f68b
+  description: KCDB report to the 35th JCRB
+  author: ''
+  date: 02/03/2016

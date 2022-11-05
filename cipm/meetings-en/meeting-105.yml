@@ -685,3 +685,12 @@ resolutions:
     message: agreed that the 26th meeting of the CGPM will be held at the Palais des
       Congrès de Versailles on 13-16 November 2018 with informal meetings planned
       on 12 November.
+working_documents:
+- title: CIPM2016-Decisions-EN.pdf
+  pdf: https://www.bipm.org/documents/20126/35014276/CIPM2016-Decisions-EN.pdf/
+  description: ''
+  author: ''
+- title: CIPM2016-Decisions-FR.pdf
+  pdf: https://www.bipm.org/documents/20126/35014267/CIPM2016-Decisions-FR.pdf/
+  description: ''
+  author: ''
