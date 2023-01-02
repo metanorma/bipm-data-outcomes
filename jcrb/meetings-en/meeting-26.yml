@@ -83,6 +83,21 @@ resolutions:
   - '2011-03-21'
   subject: JCRB
   type: decision
+  title: Resolution JCRB/26-3 (2011)
+  identifier: 26-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2011-03-21'
+    message: The JCRB agrees to hold the 28th Meeting of the JCRB on March 21-23,
+      2012 at the BIPM in Sevres.
+- dates:
+  - '2011-03-21'
+  subject: JCRB
+  type: decision
   title: Action JCRB/26-3 (2011)
   identifier: 26-3
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -97,21 +112,6 @@ resolutions:
     information is received. The BIPM will advise any new participants in the CIPM
     MRA regarding expectations concerning their active participation in the activities
     of the CIPM MRA. Such information will also be made available on the BIPM website.
-- dates:
-  - '2011-03-21'
-  subject: JCRB
-  type: decision
-  title: Resolution JCRB/26-3 (2011)
-  identifier: 26-3
-  url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
-  categories:
-  - Meetings
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2011-03-21'
-    message: The JCRB agrees to hold the 28th Meeting of the JCRB on March 21-23,
-      2012 at the BIPM in Sevres.
 - dates:
   - '2011-03-21'
   subject: JCRB
