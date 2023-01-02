@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/37-1 (2017)
   identifier: 37-1
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/37-1 (2017)
   identifier: 37-1
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -45,7 +45,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/37-2 (2017)
   identifier: 37-2
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -61,7 +61,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/37-2 (2017)
   identifier: 37-2
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -78,7 +78,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/37-3 (2017)
   identifier: 37-3
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -96,7 +96,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/37-3 (2017)
   identifier: 37-3
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -110,7 +110,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/37-4 (2017)
   identifier: 37-4
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
@@ -129,7 +129,7 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/37-4 (2017)
   identifier: 37-4
   url: https://www.bipm.org/en/committees/jc/jcrb/37-2017

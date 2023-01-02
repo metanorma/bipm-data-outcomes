@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/40-1 (2019)
   identifier: 40-1
   url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
@@ -28,7 +28,7 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/40-1 (2019)
   identifier: 40-1
   url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
@@ -55,7 +55,7 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/40-1 (2019)
   identifier: 40-1
   url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
@@ -75,7 +75,7 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/40-3 (2019)
   identifier: 40-3
   url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
@@ -91,7 +91,7 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/40-4 (2019)
   identifier: 40-4
   url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
@@ -112,7 +112,7 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/40-5 (2019)
   identifier: 40-5
   url: https://www.bipm.org/en/committees/jc/jcrb/40-2019

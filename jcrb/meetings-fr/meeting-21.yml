@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/21-1 (2008)
   identifier: 21-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/21-1 (2008)
   identifier: 21-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -43,7 +43,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/21-1 (2008)
   identifier: 21-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -59,7 +59,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/21-2 (2008)
   identifier: 21-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -76,7 +76,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/21-2 (2008)
   identifier: 21-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -92,7 +92,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/21-3 (2008)
   identifier: 21-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -110,7 +110,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/21-3 (2008)
   identifier: 21-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -126,7 +126,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/21-4 (2008)
   identifier: 21-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008
@@ -142,7 +142,7 @@ resolutions:
 - dates:
   - '2008-09-25'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/21-5 (2008)
   identifier: 21-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/21-2008

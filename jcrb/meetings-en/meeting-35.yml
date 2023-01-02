@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-1 (2016)
   identifier: 35-1
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -28,7 +28,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/35-1 (2016)
   identifier: 35-1
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -45,7 +45,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/35-1 (2016)
   identifier: 35-1
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -60,7 +60,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-2 (2016)
   identifier: 35-2
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -75,7 +75,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/35-2 (2016)
   identifier: 35-2
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -90,7 +90,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-3 (2016)
   identifier: 35-3
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -108,7 +108,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-4 (2016)
   identifier: 35-4
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -125,7 +125,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-5 (2016)
   identifier: 35-5
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -143,7 +143,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-6 (2016)
   identifier: 35-6
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -161,7 +161,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-7 (2016)
   identifier: 35-7
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -179,7 +179,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-8 (2016)
   identifier: 35-8
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -194,7 +194,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-9 (2016)
   identifier: 35-9
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -212,7 +212,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-10 (2016)
   identifier: 35-10
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016
@@ -229,7 +229,7 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/35-11 (2016)
   identifier: 35-11
   url: https://www.bipm.org/en/committees/jc/jcrb/35-2016

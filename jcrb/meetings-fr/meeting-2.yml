@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '1999-02-16'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/2-1 (1999)
   identifier: 2-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999
@@ -26,7 +26,7 @@ resolutions:
 - dates:
   - '1999-02-16'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/2-2 (1999)
   identifier: 2-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999
@@ -42,7 +42,7 @@ resolutions:
 - dates:
   - '1999-02-16'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/2-3 (1999)
   identifier: 2-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/2-1999

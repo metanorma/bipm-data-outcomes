@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2001-10-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/7-1 (2001)
   identifier: 7-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/7-2001
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2001-10-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/7-1 (2001)
   identifier: 7-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/7-2001
@@ -47,7 +47,7 @@ resolutions:
 - dates:
   - '2001-10-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/7-2 (2001)
   identifier: 7-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/7-2001

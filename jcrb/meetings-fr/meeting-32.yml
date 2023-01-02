@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-1 (2014)
   identifier: 32-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -24,7 +24,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/32-1 (2014)
   identifier: 32-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -40,7 +40,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/32-1 (2014)
   identifier: 32-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -55,7 +55,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/32-2 (2014)
   identifier: 32-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -71,7 +71,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-2 (2014)
   identifier: 32-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -88,7 +88,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-3 (2014)
   identifier: 32-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -103,7 +103,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/32-3 (2014)
   identifier: 32-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -117,7 +117,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-4 (2014)
   identifier: 32-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -133,7 +133,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/32-4 (2014)
   identifier: 32-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -148,7 +148,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-5 (2014)
   identifier: 32-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -164,7 +164,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-6 (2014)
   identifier: 32-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -185,7 +185,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-7 (2014)
   identifier: 32-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -202,7 +202,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-8 (2014)
   identifier: 32-8
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -218,7 +218,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-9 (2014)
   identifier: 32-9
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -238,7 +238,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-10 (2014)
   identifier: 32-10
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -254,7 +254,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-11 (2014)
   identifier: 32-11
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -272,7 +272,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-12 (2014)
   identifier: 32-12
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -291,7 +291,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-13 (2014)
   identifier: 32-13
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -309,7 +309,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-14 (2014)
   identifier: 32-14
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
@@ -329,7 +329,7 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/32-15 (2014)
   identifier: 32-15
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014

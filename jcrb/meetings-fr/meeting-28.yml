@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-1 (2012)
   identifier: 28-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -25,7 +25,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/28-1 (2012)
   identifier: 28-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -40,7 +40,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/28-1 (2012)
   identifier: 28-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -57,7 +57,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/28-2 (2012)
   identifier: 28-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -74,7 +74,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-2 (2012)
   identifier: 28-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -90,7 +90,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-3 (2012)
   identifier: 28-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -105,7 +105,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/28-3 (2012)
   identifier: 28-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -119,7 +119,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-4 (2012)
   identifier: 28-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -134,7 +134,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/28-4 (2012)
   identifier: 28-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -149,7 +149,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-5 (2012)
   identifier: 28-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -165,7 +165,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-6 (2012)
   identifier: 28-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -182,7 +182,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-7 (2012)
   identifier: 28-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
@@ -196,7 +196,7 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/28-8 (2012)
   identifier: 28-8
   url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012

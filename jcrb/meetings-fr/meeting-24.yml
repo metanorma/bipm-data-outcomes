@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/24-1 (2010)
   identifier: 24-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -29,7 +29,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/24-1 (2010)
   identifier: 24-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -43,7 +43,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-1 (2010)
   identifier: 24-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -62,7 +62,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-2 (2010)
   identifier: 24-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -78,7 +78,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/24-2 (2010)
   identifier: 24-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -93,7 +93,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-3 (2010)
   identifier: 24-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -110,7 +110,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/24-3 (2010)
   identifier: 24-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -124,7 +124,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/24-4 (2010)
   identifier: 24-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -140,7 +140,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-4 (2010)
   identifier: 24-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -156,7 +156,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-5 (2010)
   identifier: 24-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -170,7 +170,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-6 (2010)
   identifier: 24-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -186,7 +186,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-7 (2010)
   identifier: 24-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010
@@ -203,7 +203,7 @@ resolutions:
 - dates:
   - '2010-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/24-8 (2010)
   identifier: 24-8
   url: https://www.bipm.org/fr/committees/jc/jcrb/24-2010

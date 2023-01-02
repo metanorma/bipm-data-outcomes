@@ -12,7 +12,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-1 (2020)
   identifier: 42-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -29,7 +29,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/42-1 (2020)
   identifier: 42-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -44,7 +44,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-2 (2020)
   identifier: 42-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -60,7 +60,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/42-2 (2020)
   identifier: 42-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -78,7 +78,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-3 (2020)
   identifier: 42-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -94,7 +94,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/42-3 (2020)
   identifier: 42-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -112,7 +112,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-4 (2020)
   identifier: 42-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -128,7 +128,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-5 (2020)
   identifier: 42-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -142,7 +142,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-6 (2020)
   identifier: 42-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -157,7 +157,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-7 (2020)
   identifier: 42-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
@@ -173,7 +173,7 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/42-8 (2020)
   identifier: 42-8
   url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020

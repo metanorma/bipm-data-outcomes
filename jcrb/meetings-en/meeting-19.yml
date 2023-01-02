@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/19-1 ()
   identifier: 19-1
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -28,7 +28,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-1 ()
   identifier: 19-1
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -43,7 +43,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/19-1 ()
   identifier: 19-1
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -59,7 +59,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/19-2 ()
   identifier: 19-2
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -75,7 +75,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-2 ()
   identifier: 19-2
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -90,7 +90,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/19-2 ()
   identifier: 19-2
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -107,7 +107,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/19-3 ()
   identifier: 19-3
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -122,7 +122,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/19-3 ()
   identifier: 19-3
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -143,7 +143,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-3 ()
   identifier: 19-3
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -157,7 +157,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-4 ()
   identifier: 19-4
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -174,7 +174,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/19-4 ()
   identifier: 19-4
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -189,7 +189,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/19-4 ()
   identifier: 19-4
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -208,7 +208,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/19-5 ()
   identifier: 19-5
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -222,7 +222,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/19-5 ()
   identifier: 19-5
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -237,7 +237,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-5 ()
   identifier: 19-5
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -253,7 +253,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/19-6 ()
   identifier: 19-6
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -270,7 +270,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/19-6 ()
   identifier: 19-6
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -284,7 +284,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-6 ()
   identifier: 19-6
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -298,7 +298,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-7 ()
   identifier: 19-7
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -314,7 +314,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-8 ()
   identifier: 19-8
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -330,7 +330,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-9 ()
   identifier: 19-9
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -345,7 +345,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-10 ()
   identifier: 19-10
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -360,7 +360,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-11 ()
   identifier: 19-11
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -377,7 +377,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-12 ()
   identifier: 19-12
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007
@@ -395,7 +395,7 @@ resolutions:
 - dates:
   - '2007-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/19-13 ()
   identifier: 19-13
   url: https://www.bipm.org/en/committees/jc/jcrb/19-2007

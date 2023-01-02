@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/18-1 (2007)
   identifier: 18-1
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -23,7 +23,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-1 (2007)
   identifier: 18-1
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -38,7 +38,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/18-2 (2007)
   identifier: 18-2
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -51,7 +51,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-2 (2007)
   identifier: 18-2
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -68,7 +68,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-3 (2007)
   identifier: 18-3
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -82,7 +82,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-4 (2007)
   identifier: 18-4
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -97,7 +97,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-5 (2007)
   identifier: 18-5
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -111,7 +111,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-7 (2007)
   identifier: 18-7
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -125,7 +125,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-8 (2007)
   identifier: 18-8
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -143,7 +143,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-9 (2007)
   identifier: 18-9
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -159,7 +159,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-10 (2007)
   identifier: 18-10
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -174,7 +174,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-11 (2007)
   identifier: 18-11
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -189,7 +189,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-12 (2007)
   identifier: 18-12
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -206,7 +206,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-13 (2007)
   identifier: 18-13
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -223,7 +223,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-14 (2007)
   identifier: 18-14
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -239,7 +239,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-15 (2007)
   identifier: 18-15
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -253,7 +253,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-16 (2007)
   identifier: 18-16
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -268,7 +268,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-17 (2007)
   identifier: 18-17
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
@@ -283,7 +283,7 @@ resolutions:
 - dates:
   - '2007-05-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/18-18 (2007)
   identifier: 18-18
   url: https://www.bipm.org/en/committees/jc/jcrb/18-2007
