@@ -77,6 +77,22 @@ resolutions:
   - '2015-09-09'
   subject: JCRB
   type: decision
+  title: Resolution JCRB/34-3 (2015)
+  identifier: 34-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/34-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 36th meeting of the JCRB is notionally scheduled for week 37, September 13
+    and 14, 2016.  The decision as to whether to hold the meeting and its location
+    will be made at the 35th JCRB meeting.
+- dates:
+  - '2015-09-09'
+  subject: JCRB
+  type: decision
   title: Action JCRB/34-3 (2015)
   identifier: 34-3
   url: https://www.bipm.org/en/committees/jc/jcrb/34-2015
@@ -90,22 +106,6 @@ resolutions:
     the BIPM CBKT training program on "leaders of tomorrow" (scheduled for late 2016)
     and "a sound beginning" (scheduled for 2017) aimed at training metrologists in
     leadership and implementation roles in global metrology.
-- dates:
-  - '2015-09-09'
-  subject: JCRB
-  type: decision
-  title: Resolution JCRB/34-3 (2015)
-  identifier: 34-3
-  url: https://www.bipm.org/en/committees/jc/jcrb/34-2015
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 36th meeting of the JCRB is notionally scheduled for week 37, September 13
-    and 14, 2016.  The decision as to whether to hold the meeting and its location
-    will be made at the 35th JCRB meeting.
 - dates:
   - '2015-09-09'
   subject: JCRB

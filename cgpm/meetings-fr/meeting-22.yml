@@ -547,13 +547,15 @@ resolutions:
     date_effective: '2003-10-17'
     message: "*réaffirme* que « Pour faciliter la lecture, les nombres peuvent être
       partagés en tranches de trois chiffres ; ces tranches ne sont jamais séparées
-      par des points, ni par des virgules », comme le recommande la Résolution 7 de
-      la 9^e^ Conférence générale de 1948."
+      par des points, ni par des virgules », comme le"
   actions:
   - type: declares
     date_effective: '2003-10-17'
     message: "*déclare* que le symbole du séparateur décimal pourra être le point
       sur la ligne ou la virgule sur la ligne,"
+  - type: recommends
+    date_effective: '2003-10-17'
+    message: recommande la Résolution 7 de la 9^e^ Conférence générale de 1948.
 - dates:
   - '2003-10-17'
   subject: CGPM
