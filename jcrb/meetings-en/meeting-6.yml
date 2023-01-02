@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2001-03-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/6-1 (2001)
   identifier: 6-1
   url: https://www.bipm.org/en/committees/jc/jcrb/6-2001
@@ -28,7 +28,7 @@ resolutions:
 - dates:
   - '2001-03-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/6-1 (2001)
   identifier: 6-1
   url: https://www.bipm.org/en/committees/jc/jcrb/6-2001
@@ -44,7 +44,7 @@ resolutions:
 - dates:
   - '2001-03-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/6-2 (2001)
   identifier: 6-2
   url: https://www.bipm.org/en/committees/jc/jcrb/6-2001
@@ -59,7 +59,7 @@ resolutions:
 - dates:
   - '2001-03-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/6-2 (2001)
   identifier: 6-2
   url: https://www.bipm.org/en/committees/jc/jcrb/6-2001

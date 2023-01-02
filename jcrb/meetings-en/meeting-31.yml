@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/31-1 (2013)
   identifier: 31-1
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -23,7 +23,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/31-1 (2013)
   identifier: 31-1
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -38,7 +38,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/31-1 (2013)
   identifier: 31-1
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -54,7 +54,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/31-2 (2013)
   identifier: 31-2
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -70,7 +70,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/31-2 (2013)
   identifier: 31-2
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -88,7 +88,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/31-3 (2013)
   identifier: 31-3
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -105,7 +105,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/31-4 (2013)
   identifier: 31-4
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013
@@ -120,7 +120,7 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/31-5 (2013)
   identifier: 31-5
   url: https://www.bipm.org/en/committees/jc/jcrb/31-2013

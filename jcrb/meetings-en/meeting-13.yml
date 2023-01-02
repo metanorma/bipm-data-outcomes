@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-1 ()
   identifier: 13-1
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-2 ()
   identifier: 13-2
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -45,7 +45,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-3 ()
   identifier: 13-3
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -62,7 +62,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-4 ()
   identifier: 13-4
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -79,7 +79,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-5 ()
   identifier: 13-5
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -95,7 +95,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-6 ()
   identifier: 13-6
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -110,7 +110,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-7 ()
   identifier: 13-7
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -125,7 +125,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-8 ()
   identifier: 13-8
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -140,7 +140,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-9 ()
   identifier: 13-9
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -154,7 +154,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-10 ()
   identifier: 13-10
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004
@@ -169,7 +169,7 @@ resolutions:
 - dates:
   - '2004-09-29'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/13-11 ()
   identifier: 13-11
   url: https://www.bipm.org/en/committees/jc/jcrb/13-2004

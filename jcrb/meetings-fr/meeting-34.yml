@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/34-1 (2015)
   identifier: 34-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -29,7 +29,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-1 (2015)
   identifier: 34-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -44,7 +44,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-2 (2015)
   identifier: 34-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -61,7 +61,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/34-2 (2015)
   identifier: 34-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -76,7 +76,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/34-3 (2015)
   identifier: 34-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -92,7 +92,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-3 (2015)
   identifier: 34-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -109,7 +109,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-4 (2015)
   identifier: 34-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -126,7 +126,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-5 (2015)
   identifier: 34-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -142,7 +142,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-6 (2015)
   identifier: 34-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
@@ -161,7 +161,7 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/34-7 (2015)
   identifier: 34-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015

@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-1 (2005)
   identifier: 14-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-2 (2005)
   identifier: 14-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -43,7 +43,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-3 (2005)
   identifier: 14-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -59,7 +59,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-4 (2005)
   identifier: 14-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -74,7 +74,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-5 (2005)
   identifier: 14-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -89,7 +89,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-6 (2005)
   identifier: 14-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -105,7 +105,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-7 (2005)
   identifier: 14-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -120,7 +120,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-8 (2005)
   identifier: 14-8
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005
@@ -136,7 +136,7 @@ resolutions:
 - dates:
   - '2005-05-12'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/14-9 (2005)
   identifier: 14-9
   url: https://www.bipm.org/fr/committees/jc/jcrb/14-2005

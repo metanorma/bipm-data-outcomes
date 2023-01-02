@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2000-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/4-1 (2000)
   identifier: 4-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/4-2000
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2000-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/4-1 (2000)
   identifier: 4-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/4-2000
@@ -41,7 +41,7 @@ resolutions:
 - dates:
   - '2000-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/4-2 (2000)
   identifier: 4-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/4-2000
@@ -59,7 +59,7 @@ resolutions:
 - dates:
   - '2000-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/4-3 (2000)
   identifier: 4-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/4-2000
@@ -75,7 +75,7 @@ resolutions:
 - dates:
   - '2000-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/4-4 (2000)
   identifier: 4-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/4-2000
@@ -92,7 +92,7 @@ resolutions:
 - dates:
   - '2000-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/4-5 (2000)
   identifier: 4-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/4-2000

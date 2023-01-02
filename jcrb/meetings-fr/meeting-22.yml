@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/22-1 (2009)
   identifier: 22-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -25,7 +25,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/22-1 (2009)
   identifier: 22-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -39,7 +39,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/22-1 (2009)
   identifier: 22-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -55,7 +55,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/22-2 (2009)
   identifier: 22-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -72,7 +72,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/22-2 (2009)
   identifier: 22-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -88,7 +88,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/22-2 (2009)
   identifier: 22-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -111,7 +111,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/22-3 (2009)
   identifier: 22-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -127,7 +127,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/22-3 (2009)
   identifier: 22-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -145,7 +145,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/22-4 (2009)
   identifier: 22-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009
@@ -160,7 +160,7 @@ resolutions:
 - dates:
   - '2009-03-18'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/22-5 (2009)
   identifier: 22-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/22-2009

@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/29-1 (2012)
   identifier: 29-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -26,7 +26,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/29-1 (2012)
   identifier: 29-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -40,7 +40,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/29-1 (2012)
   identifier: 29-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -55,7 +55,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/29-2 (2012)
   identifier: 29-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -72,7 +72,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/29-2 (2012)
   identifier: 29-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -87,7 +87,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/29-2 (2012)
   identifier: 29-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -103,7 +103,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/29-3 (2012)
   identifier: 29-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -118,7 +118,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/29-3 (2012)
   identifier: 29-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -136,7 +136,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/29-4 (2012)
   identifier: 29-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -152,7 +152,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Résolution JCRB/29-4 (2012)
   identifier: 29-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -166,7 +166,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/29-5 (2012)
   identifier: 29-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012
@@ -180,7 +180,7 @@ resolutions:
 - dates:
   - '2012-09-26'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/29-6 (2012)
   identifier: 29-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/29-2012

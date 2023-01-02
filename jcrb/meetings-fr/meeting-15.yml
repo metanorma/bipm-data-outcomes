@@ -24,7 +24,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-1 (2005)
   identifier: 15-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -38,7 +38,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-1 (2005)
   identifier: 15-1
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -54,7 +54,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-2 (2005)
   identifier: 15-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -85,7 +85,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-2 (2005)
   identifier: 15-2
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -101,7 +101,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-3 (2005)
   identifier: 15-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -119,7 +119,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-3 (2005)
   identifier: 15-3
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -133,7 +133,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-4 (2005)
   identifier: 15-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -147,7 +147,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-4 (2005)
   identifier: 15-4
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -163,7 +163,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-5 (2005)
   identifier: 15-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -180,7 +180,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-5 (2005)
   identifier: 15-5
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -194,7 +194,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-6 (2005)
   identifier: 15-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -212,7 +212,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-6 (2005)
   identifier: 15-6
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -227,7 +227,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommandation JCRB/15-7 (2005)
   identifier: 15-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -247,7 +247,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-7 (2005)
   identifier: 15-7
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -263,7 +263,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-8 (2005)
   identifier: 15-8
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -279,7 +279,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-9 (2005)
   identifier: 15-9
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -295,7 +295,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-10 (2005)
   identifier: 15-10
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -311,7 +311,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-11 (2005)
   identifier: 15-11
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -329,7 +329,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-12 (2005)
   identifier: 15-12
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
@@ -346,7 +346,7 @@ resolutions:
 - dates:
   - '2005-09-28'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/15-13 (2005)
   identifier: 15-13
   url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005

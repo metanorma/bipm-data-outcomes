@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/10-1 (2003)
   identifier: 10-1
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -26,7 +26,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-1 (2003)
   identifier: 10-1
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -40,7 +40,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-2 (2003)
   identifier: 10-2
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -56,7 +56,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-3 (2003)
   identifier: 10-3
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -73,7 +73,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-4 (2003)
   identifier: 10-4
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -88,7 +88,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-5 (2003)
   identifier: 10-5
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -104,7 +104,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-6 (2003)
   identifier: 10-6
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -119,7 +119,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-7 (2003)
   identifier: 10-7
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -135,7 +135,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-8 (2003)
   identifier: 10-8
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -150,7 +150,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-9 (2003)
   identifier: 10-9
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -166,7 +166,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-10 (2003)
   identifier: 10-10
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -182,7 +182,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-11 (2003)
   identifier: 10-11
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -198,7 +198,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-12 (2003)
   identifier: 10-12
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -212,7 +212,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-13 (2003)
   identifier: 10-13
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -227,7 +227,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-14 (2003)
   identifier: 10-14
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -244,7 +244,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-15 (2003)
   identifier: 10-15
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
@@ -263,7 +263,7 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/10-16 (2003)
   identifier: 10-16
   url: https://www.bipm.org/en/committees/jc/jcrb/10-2003

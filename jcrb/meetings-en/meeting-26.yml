@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/26-1 (2011)
   identifier: 26-1
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -30,7 +30,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-1 (2011)
   identifier: 26-1
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -47,7 +47,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-2 (2011)
   identifier: 26-2
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -66,7 +66,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/26-2 (2011)
   identifier: 26-2
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -82,7 +82,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/26-3 (2011)
   identifier: 26-3
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -97,7 +97,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-3 (2011)
   identifier: 26-3
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -115,7 +115,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-4 (2011)
   identifier: 26-4
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -130,7 +130,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-5 (2011)
   identifier: 26-5
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -148,7 +148,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-6 (2011)
   identifier: 26-6
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011
@@ -168,7 +168,7 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/26-7 (2011)
   identifier: 26-7
   url: https://www.bipm.org/en/committees/jc/jcrb/26-2011

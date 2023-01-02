@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/43-1 (2021)
   identifier: 43-1
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
@@ -27,7 +27,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: recommendation
   title: Recommendation JCRB/43-1 (2021)
   identifier: 43-1
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
@@ -43,7 +43,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/43-1 (2021)
   identifier: 43-1
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
@@ -57,7 +57,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/43-2 (2021)
   identifier: 43-2
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
@@ -74,7 +74,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/43-3 (2021)
   identifier: 43-3
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
@@ -93,7 +93,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/43-4 (2021)
   identifier: 43-4
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021
@@ -110,7 +110,7 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/43-5 (2021)
   identifier: 43-5
   url: https://www.bipm.org/en/committees/jc/jcrb/43-2021

@@ -9,7 +9,7 @@ resolutions:
 - dates:
   - '2022-03-17'
   subject: JCRB
-  type: decision
+  type: resolution
   title: Resolution JCRB/45-1 (2022)
   identifier: 45-1
   url: https://www.bipm.org/en/committees/jc/jcrb/45-2022
@@ -30,7 +30,7 @@ resolutions:
 - dates:
   - '2022-03-17'
   subject: JCRB
-  type: decision
+  type: action
   title: Action JCRB/45-1 (2022)
   identifier: 45-1
   url: https://www.bipm.org/en/committees/jc/jcrb/45-2022
