@@ -104,6 +104,22 @@ resolutions:
       ** introducing networked sensor systems for diverse scientific and industrial applications,
       ** sharing data at local, national, regional and international levels,
       * the essential role of the International System of Units (SI) in providing confidence in the accuracy and global comparability of measurements needed for international trade, manufacturing, human health and safety, protection of the environment, global climate studies and scientific research,
+  - type: acknowledging
+    date_effective: '2022-11-18'
+    message: anticipating that maintaining and building confidence in the accuracy
+      and global comparability of measurements will require the creation of a full
+      digital representation of the SI, including robust, unambiguous, and machine-actionable
+      representations of measurement units, values and uncertainties,
+  - type: acknowledging
+    date_effective: '2022-11-18'
+    message: anticipating that successfully effecting such a comprehensive digital
+      transformation will require engagement with a wide range of stakeholders including,
+      but not limited to, the International Organization for Standardization (ISO),
+      International Electrotechnical Commission (IEC), International Organization
+      of Legal Metrology (OIML), International Laboratory Accreditation Cooperation
+      (ILAC), Committee on Data for Science and Technology (CODATA) of the International
+      Science Council, and other scientific, regulatory, and quality infrastructure
+      communities,
   actions:
   - type: welcomes
     date_effective: '2022-11-18'
@@ -131,18 +147,6 @@ resolutions:
       * National Metrology Institutes, Regional Metrology Organizations and other stakeholders to maintain and, where possible, increase their existing level of commitment and collaboration with the CIPM to continue the development, promotion and implementation of the SI Digital Framework,
       * all organizations with an interest in, or activities related to, the quality infrastructure - that relies on metrology, standardization, accreditation, conformity assessment, and market surveillance - to consider joining the collaborative venture of the digital transformation to ensure that the SI Digital Framework meets the needs of all stakeholders.
        The reader should note that the official version of this Resolution is the https://www.bipm.org/en/c/portal/update_language?p_l_id=77791425&redirect=%2Fen%2Fcgpm-2022%2Fresolution-2&languageId=fr_FR[French text]
-  x-unparsed:
-  - "anticipating that\n\n\n\tmaintaining and building confidence in the accuracy
-    and global comparability of measurements will require the creation of a full digital
-    representation of the SI, including robust, unambiguous, and machine-actionable
-    representations of measurement units, values and uncertainties,\n\tsuccessfully
-    effecting such a comprehensive digital transformation will require engagement
-    with a wide range of stakeholders including, but not limited to, the International
-    Organization for Standardization (ISO), International Electrotechnical Commission
-    (IEC), International Organization of Legal Metrology (OIML), International Laboratory
-    Accreditation Cooperation (ILAC), Committee on Data for Science and Technology
-    (CODATA) of the International Science Council, and other scientific, regulatory,
-    and quality infrastructure communities,"
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -425,6 +429,11 @@ resolutions:
     message: recognizing that such changes must be equitable to existing Member States
       and provide a sustainable basis for the intergovernmental organization,
   actions:
+  - type: confirms
+    date_effective: '2022-11-18'
+    message: committed to further strengthening the role of the International Bureau
+      of Weights and Measures (BIPM) and to facilitate wider participation in its
+      activities, thus achieving lasting and universal adherence to the Metre Convention,
   - type: welcomes
     date_effective: '2022-11-18'
     message: welcoming the continuous efforts by the staff of the BIPM to strengthen
@@ -451,10 +460,6 @@ resolutions:
       * to consider the implications of wider participation in the work programme and services of the BIPM,
       * to propose appropriate actions for consideration by the CGPM at its 28th meeting.
        The reader should note that the official version of this Resolution is the https://www.bipm.org/en/c/portal/update_language?p_l_id=77795407&redirect=%2Fen%2Fcgpm-2022%2Fresolution-6&languageId=fr_FR[French text]
-  x-unparsed:
-  - "committed\n\n\n\tto further strengthening the role of the International Bureau
-    of Weights and Measures (BIPM) and to facilitate wider participation in its activities,
-    thus achieving lasting and universal adherence to the Metre Convention,"
 - dates:
   - '2022-11-18'
   subject: CGPM
