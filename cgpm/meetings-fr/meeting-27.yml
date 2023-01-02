@@ -56,6 +56,10 @@ resolutions:
       nouvelles exigences vis-à-vis de la métrologie dans les domaines des technologies
       numériques, des réseaux de capteurs et du Big Data,
   actions:
+  - type: welcomes
+    date_effective: '2022-11-18'
+    message: "*saluant* le rapport du CIPM « _Evolving needs in metrology_ » sur l’évolution
+      des besoins dans le domaine de la métrologie,"
   - type: encourages
     date_effective: '2022-11-18'
     message: encourage le CIPM à élaborer une vision à long terme qui veille à ce
@@ -83,9 +87,6 @@ resolutions:
     message: "*et invite* les États Membres et les laboratoires nationaux de métrologie
       à contribuer au travail du CIPM visant à répondre à l’évolution des besoins
       dans le domaine de la métrologie et à définir une nouvelle vision pour le BIPM."
-  x-unparsed:
-  - saluant le rapport du CIPM « Evolving needs in metrology » sur l’évolution des
-    besoins dans le domaine de la métrologie,
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -106,6 +107,23 @@ resolutions:
       ** à mettre en place des systèmes de capteurs en réseau pour diverses applications scientifiques et industrielles,
       ** à partager des données à l’échelle locale, nationale, régionale et internationale,
       * le rôle essentiel que joue le Système international d’unités (SI) afin d’établir la confiance dans l’exactitude et la comparabilité au niveau mondial des mesures nécessaires pour le commerce international, l’industrie, la santé humaine et la sécurité, la protection de l’environnement, les études sur l’évolution du climat, ainsi que la recherche scientifique,
+  - type: acknowledging
+    date_effective: '2022-11-18'
+    message: anticipant que maintenir et renforcer la confiance dans l’exactitude
+      et la comparabilité au niveau mondial des mesures nécessitera d’élaborer une
+      représentation numérique complète du SI qui comprendra des représentations numériques
+      robustes, non ambiguës et exploitables par machine des unités, valeurs et incertitudes
+      de mesure,
+  - type: acknowledging
+    date_effective: '2022-11-18'
+    message: anticipant que réussir une telle transformation numérique globale requerra
+      de collaborer avec un grand nombre de parties prenantes, telles que l’Organisation
+      internationale de normalisation (ISO), la Commission électrotechnique internationale
+      (IEC), l’Organisation internationale de métrologie légale (OIML), l’International
+      Laboratory Accreditation Cooperation (ILAC), le Comité sur les données scientifiques
+      et technologiques (CODATA) du Conseil international des sciences, ainsi qu’avec
+      d’autres communautés scientifiques, organismes de réglementation et organisations
+      de l’infrastructure de la qualité,
   actions:
   - type: welcomes
     date_effective: '2022-11-18'
@@ -140,19 +158,6 @@ resolutions:
       du marché - à envisager de participer à ce projet commun de transformation numérique
       afin de s’assurer que le « cadre numérique du SI » répond aux besoins de toutes
       les parties prenantes.
-  x-unparsed:
-  - "anticipant que\n\n\n\tmaintenir et renforcer la confiance dans l’exactitude et
-    la comparabilité au niveau mondial des mesures nécessitera d’élaborer une représentation
-    numérique complète du SI qui comprendra des représentations numériques robustes,
-    non ambiguës et exploitables par machine des unités, valeurs et incertitudes de
-    mesure,\n\tréussir une telle transformation numérique globale requerra de collaborer
-    avec un grand nombre de parties prenantes, telles que l’Organisation internationale
-    de normalisation (ISO), la Commission électrotechnique internationale (IEC), l’Organisation
-    internationale de métrologie légale (OIML), l’International Laboratory Accreditation
-    Cooperation (ILAC), le Comité sur les données scientifiques et technologiques
-    (CODATA) du Conseil international des sciences, ainsi qu’avec d’autres communautés
-    scientifiques, organismes de réglementation et organisations de l’infrastructure
-    de la qualité,"
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -297,6 +302,11 @@ resolutions:
       sans ambiguïté l’UTC comme une échelle de temps continue disposant d’une chaîne
       de traçabilité parfaitement comprise,"
   actions:
+  - type: welcomes
+    date_effective: '2022-11-18'
+    message: "*saluant* la signature d’un protocole d’accord entre le BIPM et l’Union
+      internationale des télécommunications (UIT) qui confirme que les deux organisations
+      continueront à travailler en commun afin d’améliorer l’accès à l’UTC,"
   - type: decides
     date_effective: '2022-11-18'
     message: "*décide* que la valeur maximale pour la différence (UT1 - UTC) sera
@@ -316,10 +326,6 @@ resolutions:
       d’identifier la nécessité de mettre à jour les différents services qui disséminent
       la valeur de la différence (UT1 - UTC) et afin de vérifier que la nouvelle valeur
       maximale est correctement comprise et utilisée."
-  x-unparsed:
-  - saluant la signature d’un protocole d’accord entre le BIPM et l’Union internationale
-    des télécommunications (UIT) qui confirme que les deux organisations continueront
-    à travailler en commun afin d’améliorer l’accès à l’UTC,
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -446,6 +452,29 @@ resolutions:
       à vis des États Membres existants et doivent fournir une base solide à l’organisation
       intergouvernementale,
   actions:
+  - type: confirms
+    date_effective: '2022-11-18'
+    message: s'engageant à renforcer davantage le rôle du Bureau international des
+      poids et mesures (BIPM) et à faciliter une participation plus large à ses activités,
+      afin de parvenir à une adhésion durable et universelle à la Convention du Mètre,
+  - type: welcomes
+    date_effective: '2022-11-18'
+    message: saluant les efforts continus du personnel du BIPM afin de renforcer son
+      efficacité et son efficience, ainsi que les efforts du CIPM, des États Membres,
+      des organisations régionales de métrologie et de laboratoires nationaux de métrologie
+      afin d’encourager et faciliter une plus large participation,
+  - type: welcomes
+    date_effective: '2022-11-18'
+    message: saluant le soutien apporté par d’autres organisations internationales
+      aux pays en développement en vue d’établir l’infrastructure métrologique ainsi
+      que celle plus large de la qualité,
+  - type: welcomes
+    date_effective: '2022-11-18'
+    message: saluant l’initiative annuelle conjointe du BIPM et de l’Organisation
+      internationale de la métrologie légale (OIML) afin de célébrer la Journée mondiale
+      de la métrologie, qui a joué un rôle important afin de mieux faire connaître
+      les avantages de la participation aux activités des deux organisations intergouvernementales
+      et à celles des organisations régionales de métrologie,
   - type: invites / further invites
     date_effective: '2022-11-18'
     message: invite le CIPM à étudier les pratiques d’adhésion d’autres organisations
@@ -464,21 +493,6 @@ resolutions:
     date_effective: '2022-11-18'
     message: invite le CIPM à proposer les mesures qui s’imposent afin de les soumettre
       pour examen à la CGPM à sa 28^e^ réunion.
-  x-unparsed:
-  - "s'engageant\n\n\n\tà renforcer davantage le rôle du Bureau international des
-    poids et mesures (BIPM) et à faciliter une participation plus large à ses activités,
-    afin de parvenir à une adhésion durable et universelle à la Convention du Mètre,"
-  - "saluant\n\n\n\tles efforts continus du personnel du BIPM afin de renforcer son
-    efficacité et son efficience, ainsi que les efforts du CIPM, des États Membres,
-    des organisations régionales de métrologie et de laboratoires nationaux de métrologie
-    afin d’encourager et faciliter une plus large participation,\n\tle soutien apporté
-    par d’autres organisations internationales aux pays en développement en vue d’établir
-    l’infrastructure métrologique ainsi que celle plus large de la qualité,\n\tl’initiative
-    annuelle conjointe du BIPM et de l’Organisation internationale de la métrologie
-    légale (OIML) afin de célébrer la Journée mondiale de la métrologie, qui a joué
-    un rôle important afin de mieux faire connaître les avantages de la participation
-    aux activités des deux organisations intergouvernementales et à celles des organisations
-    régionales de métrologie,"
 - dates:
   - '2022-11-18'
   subject: CGPM
