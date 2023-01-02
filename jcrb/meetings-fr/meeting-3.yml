@@ -2,13 +2,13 @@
 metadata:
   title: 3e réunion du JCRB (Charlotte, États-Unis d'Amérique)
   identifier: '3'
-  date: '2023-01-15'
+  date: '1999-07-15'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/3-1999
 pdf: https://www.bipm.org/documents/20126/41050187/JCRB3.pdf/4195ca50-aa8a-fe3d-4603-2f596c639408
 resolutions:
 - dates:
-  - '2023-01-15'
+  - '1999-07-15'
   subject: JCRB
   type: decision
   title: Recommandation JCRB/3-1 (1999)
@@ -19,11 +19,11 @@ resolutions:
   considerations: []
   actions:
   - type: recommends
-    date_effective: '2023-01-15'
+    date_effective: '1999-07-15'
     message: The JCRB recommended that peers from other regions attend assessment
       review meetings of the RMOs.
 - dates:
-  - '2023-01-15'
+  - '1999-07-15'
   subject: JCRB
   type: decision
   title: Résolution JCRB/3-1 (1999)
@@ -34,13 +34,13 @@ resolutions:
   considerations: []
   actions:
   - type: confirms
-    date_effective: '2023-01-15'
+    date_effective: '1999-07-15'
     message: It was confirmed that the nomenclature used for the RMO key comparisons
       would follow the nomenclature as used by the CCs for the CIPM key comparisons,
       but that the RMOs would have their own system of consecutive numbering. Every
       comparison would have its o
 - dates:
-  - '2023-01-15'
+  - '1999-07-15'
   subject: JCRB
   type: decision
   title: Action JCRB/3-1 (1999)
@@ -51,13 +51,13 @@ resolutions:
   considerations: []
   actions:
   - type: approves
-    date_effective: '2023-01-15'
+    date_effective: '1999-07-15'
     message: The JCRB agreed that available provisional data should be sent by the
       RMOs to the BIPM before 31 December 1999. This should be done either in electronic
       form or in paper format . According to the rules of procedure of the JCRB the
       BIPM will send the gather
 - dates:
-  - '2023-01-15'
+  - '1999-07-15'
   subject: JCRB
   type: decision
   title: Résolution JCRB/3-2 (1999)
@@ -72,7 +72,7 @@ resolutions:
     with CC key comparisons; -  supplementary comparisons would not be coordinated
     by the BIPM; - every region would register its own supplementary comparisons according
 - dates:
-  - '2023-01-15'
+  - '1999-07-15'
   subject: JCRB
   type: decision
   title: Résolution JCRB/3-3 (1999)
@@ -83,7 +83,7 @@ resolutions:
   considerations: []
   actions:
   - type: approves
-    date_effective: '2023-01-15'
+    date_effective: '1999-07-15'
     message: It was agreed that the database would be in the English language. The
       database would be maintained for the first years jointly by the NIST and the
       BIPM, after which it would be held and maintained on a permanent basis by the
