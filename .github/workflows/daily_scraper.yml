@@ -2,13 +2,14 @@
 
 name: Daily Scrapper
 
-on: workflow_dispatch
-#   schedule:
-#     # Runs at UTC 1 am every day
-#     # - cron: '0 1 * * *'
-#     # Run at every 10 mintues for test
-#     - cron: '10 * * * *'  
-    
+on: 
+    schedule:
+     # Runs at UTC 1 am every day
+     # Run at every 10 mintues for test
+     - cron: '0 0 * * *'  
+
+    workflow_dispatch:
+
 jobs:
   scrap:
 
@@ -17,7 +18,6 @@ jobs:
     - name: checkout outcomes
       uses: actions/checkout@v3
       with:
-        ref: daily-scrapping # This line is for test purpose and must be removed later.
         path: bipm-data-outcomes
       
     - name: Checkout tools repo
