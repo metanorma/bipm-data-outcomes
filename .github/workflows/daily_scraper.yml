@@ -45,8 +45,8 @@ jobs:
       run: |
         pushd ${{ github.workspace }}/bipm-data-importer
         bundle install
-        exe/bipm-fetch --fork
-        exe/bipm-fetch-cgpm
+        bundle exec exe/bipm-fetch --fork
+        bundle exec exe/bipm-fetch-cgpm
         popd
     
     - name: Copy new data from importer to outcomes
