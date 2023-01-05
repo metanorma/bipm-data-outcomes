@@ -7,14 +7,3 @@ metadata:
   url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-ii-/2021-06-01
   workgroup: ccri-ii-
 resolutions: []
-working_documents:
-- title: CCRI(I)/2021-12
-  pdf: https://www.bipm.org/documents/20126/56106461/12+Impact+of+new+MEX+generator+on+K+and+Dw+standards.pdf/8f293315-df90-41fa-993a-fe5f10bfccd9
-  description: 'BIPM report: Impact of new MEX generator on K and Dw standards'
-  author: David Burns, Cecilia Kessler and Philippe Roger
-  date: 19/05/2021
-- title: CCRI(I)/2021-13
-  pdf: https://www.bipm.org/documents/20126/56106449/13+Progress+report+on+new+facility+for+medium-energy+x-rays.pdf/fbf061f1-7190-f494-1810-f7c2bf3282bb
-  description: 'BIPM report: Progress on the new facility for medium-energy x-rays'
-  author: Philippe Roger, David Burns and Cecilia Kessler
-  date: 19/05/2021
