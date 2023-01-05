@@ -18,6 +18,7 @@ jobs:
       uses: actions/checkout@v3
       with:
         ref: daily-scrapping # This line is for test purpose and must be removed later.
+        path: bipm-data-outcomes
       
     - name: Checkout tools repo
       uses: actions/checkout@v3
@@ -34,23 +35,21 @@ jobs:
 
     - name: Clean up old outcomes
       run: |
-        echo ${{ github.workspace }}
-        pwd
-        pushd bipm-data-outcomes
+        pushd ${{ github.workspace }}/bipm-data-outcomes
         rm -r $(ls -A | grep -vE ".github|.git|README.adoc")
         ls -A
         popd
 
     - name: Scrap bipm data
       run: |
-        pushd ./bipm-data-importer
+        pushd ${{ github.workspace }}/bipm-data-importer
         exe/bipm-fetch --fork
         exe/bipm-fetch-cgpm
         popd
     
     - name: Copy new data from importer to outcomes
       run: |
-        cp -rf ./bipm-data-importer/data/* ./bipm-data-outcomes/
+        cp -rf ${{ github.workspace }}/bipm-data-importer/data/* ${{ github.workspace }}/bipm-data-outcomes/
         ls -A
     
     - name: Push new data
@@ -58,7 +57,7 @@ jobs:
         CI_COMMIT_MESSAGE: Daily Update
         CI_COMMIT_AUTHOR: Daily Update
       run: |
-        pushd ./bipm-data-outcomes/
+        pushd ${{ github.workspace }}/bipm-data-outcomes/
         git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
         git config --global user.email "bot@users.noreply.github.com"
         git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || :
