@@ -118,6 +118,19 @@ resolutions:
 - dates:
   - '2011-09-15'
   subject: JCRB
+  type: resolution
+  title: Résolution JCRB/27-3 (2011)
+  identifier: 27-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 29th meeting of the JCRB will take place at NIST on September 25 and 26, 2012.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
   type: recommendation
   title: Recommandation JCRB/27-3 (2011)
   identifier: 27-3
@@ -129,19 +142,6 @@ resolutions:
   - type: recommends
     date_effective: '2011-09-15'
     message: The JCRB recommends to the CIPM to approve changes to CIPM MRA-D-05.
-- dates:
-  - '2011-09-15'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/27-3 (2011)
-  identifier: 27-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 29th meeting of the JCRB will take place at NIST on September 25 and 26, 2012.
 - dates:
   - '2011-09-15'
   subject: JCRB
