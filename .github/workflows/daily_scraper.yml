@@ -36,6 +36,7 @@ jobs:
     - name: Clean up old outcomes
       run: |
         pushd ${{ github.workspace }}/bipm-data-outcomes
+        ls -A
         rm -r $(ls -A | grep -vE ".github|.git|README.adoc")
         ls -A
         popd
