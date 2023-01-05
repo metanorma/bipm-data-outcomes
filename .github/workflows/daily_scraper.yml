@@ -1,0 +1,64 @@
+# Daily fetch bipm website
+
+name: Daily Scrapper
+
+on:
+  schedule:
+    # Runs at UTC 1 am every day
+    # - cron: '0 1 * * *'
+    # Run at every 10 mintues for test
+    - cron: '10 * * * *'
+    
+jobs:
+  scrap:
+
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout outcomes
+      uses: actions/checkout@v3
+      with:
+        ref: daily-scrapping # This line is for test purpose and must be removed later.
+        path: bipm-data-outcomes
+      
+    - name: Checkout tools repo
+      uses: actions/checkout@v3
+      with:
+        repository: metanorma/bipm-data-importer
+        path: bipm-data-importer
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+        working-directory: './bipm-data-importer'
+
+    - name: Clean up old outcomes
+      run: |
+        pushd bipm-data-outcomes
+        rm -r $(ls -A | grep -vE ".github|.git|README.adoc")
+        ls -A
+        popd
+
+    - name: Scrap bipm data
+      run: |
+        pushd ./bipm-data-importer
+        exe/bipm-fetch --fork
+        exe/bipm-fetch-cgpm
+        popd
+    
+    - name: Copy new data from importer to outcomes
+      run: |
+        cp -rf ./bipm-data-importer/data/* ./bipm-data-outcomes/
+        ls -A
+    
+    - name: Push new data
+      env: 
+        CI_COMMIT_MESSAGE: Daily Update
+        CI_COMMIT_AUTHOR: Daily Update
+      run: |
+        pushd ./bipm-data-outcomes/
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "bot@users.noreply.github.com"
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || :
+        git push || :
