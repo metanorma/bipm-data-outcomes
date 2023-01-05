@@ -25,21 +25,6 @@ resolutions:
 - dates:
   - '2017-09-14'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/38-1 (2017)
-  identifier: 38-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/38-2017
-  categories:
-  - CMCs
-  considerations: []
-  actions: []
-  x-unparsed:
-  - |-
-    RMOs and CCs are encouraged to further implement a risk-based approach to review of CMCs and to develop statements for the levels of CMCs for which an intra-RMO review may be sufficient for the purposes of international acceptance.
-    Taking note of the needs of NMIs and DIs at all levels, as a means towards implementation of recommendation 3b of the CIPM MRA review, the JCRB encourages Consultative Committees and the BIPM to continue to explore means to allow NMIs and DIs to publish CMCs in the KCDB for only their smallest uncertainty capabilities that are then used to support related services covered by their approved Quality System. Proposals are requested as to how to show the link between these capabilities and the "representative " CMCs. RMOs are encouraged to propose additions to the Quality System review process to effect a fit-for-purpose review of these capabilities.
-- dates:
-  - '2017-09-14'
-  subject: JCRB
   type: action
   title: Action JCRB/38-2 (2017)
   identifier: 38-2
@@ -53,6 +38,21 @@ resolutions:
     message: The JCRB requests the CIPM to invite representation from the JCRB to
       take part in meetings of the CC Presidents in order to encourage communication
       between the JCRB and the CCs.
+- dates:
+  - '2017-09-14'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/38-1 (2017)
+  identifier: 38-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/38-2017
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    RMOs and CCs are encouraged to further implement a risk-based approach to review of CMCs and to develop statements for the levels of CMCs for which an intra-RMO review may be sufficient for the purposes of international acceptance.
+    Taking note of the needs of NMIs and DIs at all levels, as a means towards implementation of recommendation 3b of the CIPM MRA review, the JCRB encourages Consultative Committees and the BIPM to continue to explore means to allow NMIs and DIs to publish CMCs in the KCDB for only their smallest uncertainty capabilities that are then used to support related services covered by their approved Quality System. Proposals are requested as to how to show the link between these capabilities and the "representative " CMCs. RMOs are encouraged to propose additions to the Quality System review process to effect a fit-for-purpose review of these capabilities.
 - dates:
   - '2017-09-14'
   subject: JCRB

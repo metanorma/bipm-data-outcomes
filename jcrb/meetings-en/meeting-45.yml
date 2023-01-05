@@ -9,6 +9,25 @@ resolutions:
 - dates:
   - '2022-03-17'
   subject: JCRB
+  type: action
+  title: Action JCRB/45-1 (2022)
+  identifier: 45-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/45-2022
+  categories:
+  - QMS
+  considerations:
+  - type: noting
+    date_effective: '2022-03-17'
+    message: The JCRB noted that the RMOs have submitted reports to the JCRB on the
+      status of the quality management systems of the institutes in its regions using
+      a variety of different formats and content. The JCRB reminded the RMOs that
+      the expected content is outlined in CIPM MRA-G-12 Section 5. To simplify the
+      reporting obligation, the JCRB requests the JCRB Executive Secretary to draft
+      a template and to circulate it to all RMOs for their comments in 3 months’ time.
+  actions: []
+- dates:
+  - '2022-03-17'
+  subject: JCRB
   type: resolution
   title: Resolution JCRB/45-1 (2022)
   identifier: 45-1
@@ -26,23 +45,4 @@ resolutions:
       to a case-by-case evaluation by the RMO concerned. This extension of validity
       shall be for a period not exceeding one year. The power to grant such extensions
       will be re-evaluated at the time of the 46th meeting of the JCRB.
-  actions: []
-- dates:
-  - '2022-03-17'
-  subject: JCRB
-  type: action
-  title: Action JCRB/45-1 (2022)
-  identifier: 45-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/45-2022
-  categories:
-  - QMS
-  considerations:
-  - type: noting
-    date_effective: '2022-03-17'
-    message: The JCRB noted that the RMOs have submitted reports to the JCRB on the
-      status of the quality management systems of the institutes in its regions using
-      a variety of different formats and content. The JCRB reminded the RMOs that
-      the expected content is outlined in CIPM MRA-G-12 Section 5. To simplify the
-      reporting obligation, the JCRB requests the JCRB Executive Secretary to draft
-      a template and to circulate it to all RMOs for their comments in 3 months’ time.
   actions: []

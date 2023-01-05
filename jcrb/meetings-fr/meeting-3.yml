@@ -10,6 +10,23 @@ resolutions:
 - dates:
   - '1999-07-15'
   subject: JCRB
+  type: action
+  title: Action JCRB/3-1 (1999)
+  identifier: 3-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/3-1999
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '1999-07-15'
+    message: The JCRB agreed that available provisional data should be sent by the
+      RMOs to the BIPM before 31 December 1999. This should be done either in electronic
+      form or in paper format . According to the rules of procedure of the JCRB the
+      BIPM will send the gather
+- dates:
+  - '1999-07-15'
+  subject: JCRB
   type: recommendation
   title: Recommandation JCRB/3-1 (1999)
   identifier: 3-1
@@ -39,23 +56,6 @@ resolutions:
       would follow the nomenclature as used by the CCs for the CIPM key comparisons,
       but that the RMOs would have their own system of consecutive numbering. Every
       comparison would have its o
-- dates:
-  - '1999-07-15'
-  subject: JCRB
-  type: action
-  title: Action JCRB/3-1 (1999)
-  identifier: 3-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/3-1999
-  categories:
-  - CMC review
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '1999-07-15'
-    message: The JCRB agreed that available provisional data should be sent by the
-      RMOs to the BIPM before 31 December 1999. This should be done either in electronic
-      form or in paper format . According to the rules of procedure of the JCRB the
-      BIPM will send the gather
 - dates:
   - '1999-07-15'
   subject: JCRB

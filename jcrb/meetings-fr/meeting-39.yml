@@ -10,6 +10,77 @@ resolutions:
 - dates:
   - '2018-03-16'
   subject: JCRB
+  type: action
+  title: Action JCRB/39-1 (2018)
+  identifier: 39-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - Meetings
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: Each RMO will send the name of a person responsible for capacity building
+      activities in their region to stem:["C"] Kuanbayev at BIPM together with a short
+      description of the RMO's vision for capacity building activities both at the
+      regional and the JCRB levels (by 30th April 2018). BIPM will circulate a summary
+      of the responses to the JCRB.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-2 (2018)
+  identifier: 39-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: Each RMO will complete two sheets (doc 39/05.2) summarising progress
+      with addressing the recommendations from the review of the implementation of
+      the CIPM MRA. They will be sent to the JCRB Executive Secretary by 30th April
+      2018.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-3 (2018)
+  identifier: 39-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - QMS
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: Each RMO to provide the JCRB Executive Secretary with information on
+      the date and place of upcoming TCQ Meetings. The JCRB Executive Secretary to
+      collate this information and share with RMO TCQ Chairs.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-4 (2018)
+  identifier: 39-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: to circulate a questionnaire to each participant in the 39th JCRB to
+      obtain feedback on the logistics and organization of the meeting.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
   type: resolution
   title: Résolution JCRB/39-1 (2018)
   identifier: 39-1
@@ -33,26 +104,6 @@ resolutions:
 - dates:
   - '2018-03-16'
   subject: JCRB
-  type: action
-  title: Action JCRB/39-1 (2018)
-  identifier: 39-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
-  categories:
-  - RMO
-  - Meetings
-  - Developing countries
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2018-03-16'
-    message: Each RMO will send the name of a person responsible for capacity building
-      activities in their region to stem:["C"] Kuanbayev at BIPM together with a short
-      description of the RMO's vision for capacity building activities both at the
-      regional and the JCRB levels (by 30th April 2018). BIPM will circulate a summary
-      of the responses to the JCRB.
-- dates:
-  - '2018-03-16'
-  subject: JCRB
   type: resolution
   title: Résolution JCRB/39-2 (2018)
   identifier: 39-2
@@ -67,24 +118,6 @@ resolutions:
       presentations of the BIPM Quality Management System (QMS) from 2014 to 2018
       and welcomes the offer of SIM to allow BIPM to present its QMS to the SIM QSTF
       from 2019 to 2023.
-- dates:
-  - '2018-03-16'
-  subject: JCRB
-  type: action
-  title: Action JCRB/39-2 (2018)
-  identifier: 39-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
-  categories:
-  - RMO
-  - CIPM MRA
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2018-03-16'
-    message: Each RMO will complete two sheets (doc 39/05.2) summarising progress
-      with addressing the recommendations from the review of the implementation of
-      the CIPM MRA. They will be sent to the JCRB Executive Secretary by 30th April
-      2018.
 - dates:
   - '2018-03-16'
   subject: JCRB
@@ -110,24 +143,6 @@ resolutions:
 - dates:
   - '2018-03-16'
   subject: JCRB
-  type: action
-  title: Action JCRB/39-3 (2018)
-  identifier: 39-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
-  categories:
-  - RMO
-  - QMS
-  - Meetings
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2018-03-16'
-    message: Each RMO to provide the JCRB Executive Secretary with information on
-      the date and place of upcoming TCQ Meetings. The JCRB Executive Secretary to
-      collate this information and share with RMO TCQ Chairs.
-- dates:
-  - '2018-03-16'
-  subject: JCRB
   type: resolution
   title: Résolution JCRB/39-4 (2018)
   identifier: 39-4
@@ -143,21 +158,6 @@ resolutions:
     message: The JCRB recommends that the CIPM MRA Guidance documents be updated to
       reflect the transition period agreed by the JCRB for the adoption of ISO/IEC
       17025 and ISO 17034.
-- dates:
-  - '2018-03-16'
-  subject: JCRB
-  type: action
-  title: Action JCRB/39-4 (2018)
-  identifier: 39-4
-  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
-  categories:
-  - Meetings
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2018-03-16'
-    message: to circulate a questionnaire to each participant in the 39th JCRB to
-      obtain feedback on the logistics and organization of the meeting.
 - dates:
   - '2018-03-16'
   subject: JCRB

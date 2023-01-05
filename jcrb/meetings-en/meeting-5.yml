@@ -26,6 +26,57 @@ resolutions:
 - dates:
   - '2000-10-13'
   subject: JCRB
+  type: action
+  title: Action JCRB/5-2 ()
+  identifier: 5-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
+  categories:
+  - Guidance documents
+  - CMC review
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2000-10-13'
+    message: The JCRB also decides to create a separate document with clear deadlines
+      related to the steps in the interregional review process.( document JCRB-5/3)
+- dates:
+  - '2000-10-13'
+  subject: JCRB
+  type: action
+  title: Action JCRB/5-3 ()
+  identifier: 5-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
+  categories:
+  - Guidance documents
+  - CMC review
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2000-10-13'
+    message: All RMO documents related to review procedures should be publicly available
+      so that the whole system is transparent and open. Each one should have a statement
+      from the RMO saying that the document is complete and is compatible with other
+      RMO documents. Whe
+- dates:
+  - '2000-10-13'
+  subject: JCRB
+  type: action
+  title: Action JCRB/5-4 ()
+  identifier: 5-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
+  categories:
+  - CIPM MRA
+  - ILAC
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2000-10-13'
+    message: Dr Kaarls will discuss the coordination of references to the CIPM-MRA
+      in ILAC documents, particularly the ILAC-MLA, during the General Assembly meeting
+      of ILAC to be held in the week of 30 October 2000 in Arlington, VA, USA.
+- dates:
+  - '2000-10-13'
+  subject: JCRB
   type: recommendation
   title: Recommendation JCRB/5-1 ()
   identifier: 5-1
@@ -40,6 +91,23 @@ resolutions:
       to their customers and which in general are published in the catalog of facilities
       of the NMI. So, one should not claim capabilities that may be offered under
       exceptional, time consum
+- dates:
+  - '2000-10-13'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/5-2 ()
+  identifier: 5-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
+  categories:
+  - CIPM MRA
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - In order to build up mutual confidence between the regions it is agreed that a
+    representative of each region will be invited to attend the meeting of the General
+    Assembly of the other RMOs or the other RMO Technical Committees dealing with
+    the CIPM-MRA iss
 - dates:
   - '2000-10-13'
   subject: JCRB
@@ -73,57 +141,6 @@ resolutions:
 - dates:
   - '2000-10-13'
   subject: JCRB
-  type: action
-  title: Action JCRB/5-2 ()
-  identifier: 5-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
-  categories:
-  - Guidance documents
-  - CMC review
-  considerations: []
-  actions:
-  - type: decides
-    date_effective: '2000-10-13'
-    message: The JCRB also decides to create a separate document with clear deadlines
-      related to the steps in the interregional review process.( document JCRB-5/3)
-- dates:
-  - '2000-10-13'
-  subject: JCRB
-  type: recommendation
-  title: Recommendation JCRB/5-2 ()
-  identifier: 5-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
-  categories:
-  - CIPM MRA
-  - RMO
-  considerations: []
-  actions: []
-  x-unparsed:
-  - In order to build up mutual confidence between the regions it is agreed that a
-    representative of each region will be invited to attend the meeting of the General
-    Assembly of the other RMOs or the other RMO Technical Committees dealing with
-    the CIPM-MRA iss
-- dates:
-  - '2000-10-13'
-  subject: JCRB
-  type: action
-  title: Action JCRB/5-3 ()
-  identifier: 5-3
-  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
-  categories:
-  - Guidance documents
-  - CMC review
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2000-10-13'
-    message: All RMO documents related to review procedures should be publicly available
-      so that the whole system is transparent and open. Each one should have a statement
-      from the RMO saying that the document is complete and is compatible with other
-      RMO documents. Whe
-- dates:
-  - '2000-10-13'
-  subject: JCRB
   type: resolution
   title: Resolution JCRB/5-3 ()
   identifier: 5-3
@@ -136,23 +153,6 @@ resolutions:
   - Traceability of an NMI's standards to those of an other country is acceptable,
     assuming that the CMCs of that other NMI are recognised under the CIPM MRA. This
     has to be verified during the review process.
-- dates:
-  - '2000-10-13'
-  subject: JCRB
-  type: action
-  title: Action JCRB/5-4 ()
-  identifier: 5-4
-  url: https://www.bipm.org/en/committees/jc/jcrb/5-2000
-  categories:
-  - CIPM MRA
-  - ILAC
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2000-10-13'
-    message: Dr Kaarls will discuss the coordination of references to the CIPM-MRA
-      in ILAC documents, particularly the ILAC-MLA, during the General Assembly meeting
-      of ILAC to be held in the week of 30 October 2000 in Arlington, VA, USA.
 - dates:
   - '2000-10-13'
   subject: JCRB

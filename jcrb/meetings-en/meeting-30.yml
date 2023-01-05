@@ -26,22 +26,66 @@ resolutions:
 - dates:
   - '2013-03-20'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/30-1 (2013)
-  identifier: 30-1
+  type: action
+  title: Action JCRB/30-2 (2013)
+  identifier: 30-2
   url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
   categories:
-  - CMC review
-  - CMCs
+  - QMS
   considerations: []
-  actions: []
-  x-unparsed:
-  - "In order to decrease the time taken for the inter-RMO review of CMCs, the JCRB
-    resolves to revise CIPM MRA-D-04 as follows:\n\n\n\tThe time to indicate \"intention
-    to review\" will be reduced from 6 to 3 weeks (with a reminder after 2 weeks);\n\tThe
-    deadline for submission of the RMO review report will be made a \"hard deadline\"
-    (with a reminder 3 weeks before);\n\n\tThe deadline for approval of CMCs will
-    be reduced from 6 to 3 weeks (with a reminder after 2 weeks)."
+  actions:
+  - type: recommends
+    date_effective: '2013-03-20'
+    message: The RMOs should make available their guidance documents on QS and CMC
+      review from their websites.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-3 (2013)
+  identifier: 30-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: |-
+      The JCRB Executive Secretary will place the following items on the agenda of the 31st JCRB meeting: +
+      - The performance and vitality of DIs; +
+      -What is the purpose of the KCDB? What is its impact on NMIs and stakeholders? Who uses it and what are its successes?
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-4 (2013)
+  identifier: 30-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: The RMOs to submit papers addressing the two agenda items listed in Action
+      30/3 for circulation one month prior to the 31st JCRB meeting.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-5 (2013)
+  identifier: 30-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: The JCRB Executive Secretary to write to NIM (China) to confirm the venue
+      for the 31st JCRB meeting (September 18-19, 2013) and to advise RMO representatives
+      to the JCRB accordingly.
 - dates:
   - '2013-03-20'
   subject: JCRB
@@ -79,38 +123,6 @@ resolutions:
 - dates:
   - '2013-03-20'
   subject: JCRB
-  type: action
-  title: Action JCRB/30-2 (2013)
-  identifier: 30-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
-  categories:
-  - QMS
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2013-03-20'
-    message: The RMOs should make available their guidance documents on QS and CMC
-      review from their websites.
-- dates:
-  - '2013-03-20'
-  subject: JCRB
-  type: action
-  title: Action JCRB/30-3 (2013)
-  identifier: 30-3
-  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
-  categories:
-  - KCDB
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2013-03-20'
-    message: |-
-      The JCRB Executive Secretary will place the following items on the agenda of the 31st JCRB meeting: +
-      - The performance and vitality of DIs; +
-      -What is the purpose of the KCDB? What is its impact on NMIs and stakeholders? Who uses it and what are its successes?
-- dates:
-  - '2013-03-20'
-  subject: JCRB
   type: recommendation
   title: Recommendation JCRB/30-3 (2013)
   identifier: 30-3
@@ -143,21 +155,6 @@ resolutions:
 - dates:
   - '2013-03-20'
   subject: JCRB
-  type: action
-  title: Action JCRB/30-4 (2013)
-  identifier: 30-4
-  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
-  categories:
-  - KCDB
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2013-03-20'
-    message: The RMOs to submit papers addressing the two agenda items listed in Action
-      30/3 for circulation one month prior to the 31st JCRB meeting.
-- dates:
-  - '2013-03-20'
-  subject: JCRB
   type: recommendation
   title: Recommendation JCRB/30-5 (2013)
   identifier: 30-5
@@ -179,19 +176,22 @@ resolutions:
 - dates:
   - '2013-03-20'
   subject: JCRB
-  type: action
-  title: Action JCRB/30-5 (2013)
-  identifier: 30-5
+  type: resolution
+  title: Resolution JCRB/30-1 (2013)
+  identifier: 30-1
   url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
   categories:
-  - Meetings
+  - CMC review
+  - CMCs
   considerations: []
-  actions:
-  - type: requests
-    date_effective: '2013-03-20'
-    message: The JCRB Executive Secretary to write to NIM (China) to confirm the venue
-      for the 31st JCRB meeting (September 18-19, 2013) and to advise RMO representatives
-      to the JCRB accordingly.
+  actions: []
+  x-unparsed:
+  - "In order to decrease the time taken for the inter-RMO review of CMCs, the JCRB
+    resolves to revise CIPM MRA-D-04 as follows:\n\n\n\tThe time to indicate \"intention
+    to review\" will be reduced from 6 to 3 weeks (with a reminder after 2 weeks);\n\tThe
+    deadline for submission of the RMO review report will be made a \"hard deadline\"
+    (with a reminder 3 weeks before);\n\n\tThe deadline for approval of CMCs will
+    be reduced from 6 to 3 weeks (with a reminder after 2 weeks)."
 working_documents:
 - title: JCRB/30-06
   pdf: https://www.bipm.org/documents/20126/32647331/working-document-cc-jc-private-ID-5636/942f7c87-511c-f9cf-3269-92f2fb7e6b02

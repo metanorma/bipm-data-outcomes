@@ -10,25 +10,6 @@ resolutions:
 - dates:
   - '2015-09-09'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/34-1 (2015)
-  identifier: 34-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
-  categories:
-  - Comparaisons
-  - KCDB
-  - Developing countries
-  considerations: []
-  actions: []
-  x-unparsed:
-  - |-
-    The policy for reporting comparisons that involve non-signatories to the CIPM MRA is clarified according to the following text:
-    "Measurement comparison reports should be written to reflect the experiment that was actually performed, including summary results from all participants. These reports should be accessible from the online Key Comparison Database, but the graphs and tables of equivalence explicitly shown should include results only from signatory NMIs and DIs.
-    The results for non-signatory participants should be considered as evidence of metrological competence for any future CMC submissions in the event that the laboratory becomes a signatory to the CIPM MRA.
-    Note: This would not apply to laboratories participating in a measurement comparison under less stringent rules than the signatory laboratories (e.g. as a 'pilot study' participant for a measurement comparison in chemistry)."
-- dates:
-  - '2015-09-09'
-  subject: JCRB
   type: action
   title: Action JCRB/34-1 (2015)
   identifier: 34-1
@@ -58,37 +39,6 @@ resolutions:
     date_effective: '2015-09-09'
     message: SIM will identify, by March 2016, an NMI within its region to work with
       the BIPM in developing a poster for World Metrology Day for 2017.
-- dates:
-  - '2015-09-09'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/34-2 (2015)
-  identifier: 34-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 35th meeting of the JCRB will take place on March 16 and 17, 2016 at the BIPM
-    in Sevres.
-- dates:
-  - '2015-09-09'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/34-3 (2015)
-  identifier: 34-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 36th meeting of the JCRB is notionally scheduled for week 37, September 13
-    and 14, 2016.  The decision as to whether to hold the meeting and its location
-    will be made at the 35th JCRB meeting.
 - dates:
   - '2015-09-09'
   subject: JCRB
@@ -177,6 +127,56 @@ resolutions:
       establish the feasibility of rectifying inconsistencies within the website should
       the JCRB recommend a consistent and retroactive policy of website listings (either
       always list the non-signatory participants or never list the non-signatory participants).
+- dates:
+  - '2015-09-09'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/34-1 (2015)
+  identifier: 34-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
+  categories:
+  - Comparaisons
+  - KCDB
+  - Developing countries
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    The policy for reporting comparisons that involve non-signatories to the CIPM MRA is clarified according to the following text:
+    "Measurement comparison reports should be written to reflect the experiment that was actually performed, including summary results from all participants. These reports should be accessible from the online Key Comparison Database, but the graphs and tables of equivalence explicitly shown should include results only from signatory NMIs and DIs.
+    The results for non-signatory participants should be considered as evidence of metrological competence for any future CMC submissions in the event that the laboratory becomes a signatory to the CIPM MRA.
+    Note: This would not apply to laboratories participating in a measurement comparison under less stringent rules than the signatory laboratories (e.g. as a 'pilot study' participant for a measurement comparison in chemistry)."
+- dates:
+  - '2015-09-09'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/34-2 (2015)
+  identifier: 34-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 35th meeting of the JCRB will take place on March 16 and 17, 2016 at the BIPM
+    in Sevres.
+- dates:
+  - '2015-09-09'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/34-3 (2015)
+  identifier: 34-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/34-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 36th meeting of the JCRB is notionally scheduled for week 37, September 13
+    and 14, 2016.  The decision as to whether to hold the meeting and its location
+    will be made at the 35th JCRB meeting.
 working_documents:
 - title: JCRB/34-09.0
   pdf: https://www.bipm.org/documents/20126/32643527/working-document-cc-jc-private-ID-7293/c8947167-db84-6ffc-e66c-6fd1f1fc32bd

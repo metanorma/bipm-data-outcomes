@@ -27,40 +27,6 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/37-1 (2017)
-  identifier: 37-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
-  categories:
-  - Guidance documents
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2017-03-16'
-    message: JCRB approves the proposed changes to the suite of JCRB documents, primarily
-      to update the references from ISO Guide 34 replacing them with ISO 17034 (following
-      the publication of that standard in November 2016), and including a number of
-      minor corrections, and instructs the BIPM to update and publish the guidance
-      documents accordingly.
-- dates:
-  - '2017-03-16'
-  subject: JCRB
-  type: resolution
-  title: Resolution JCRB/37-2 (2017)
-  identifier: 37-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
-  categories:
-  - Meetings
-  - JCRB
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 38th meeting of the JCRB will take on September 13 and 14, 2017 at Bern, Switzerland.  The
-    meeting will start in the morning of September 13 2017 and will last two full
-    days if warranted by the Agenda items, otherwise for a full day and a half.
-- dates:
-  - '2017-03-16'
-  subject: JCRB
   type: action
   title: Action JCRB/37-2 (2017)
   identifier: 37-2
@@ -96,6 +62,59 @@ resolutions:
 - dates:
   - '2017-03-16'
   subject: JCRB
+  type: action
+  title: Action JCRB/37-4 (2017)
+  identifier: 37-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
+  categories:
+  - KCDB
+  - CMC review
+  - CMCs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2017-03-16'
+    message: The JCRB agrees with the proposal made by the BIPM that in KCDB 2.0 the
+      range and uncertainty should, if possible, be in a numerically searchable format,
+      noting that this would require the transform of existing CMC data and charges
+      the BIPM to continue work on developing KCDB 2.0.
+- dates:
+  - '2017-03-16'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/37-1 (2017)
+  identifier: 37-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2017-03-16'
+    message: JCRB approves the proposed changes to the suite of JCRB documents, primarily
+      to update the references from ISO Guide 34 replacing them with ISO 17034 (following
+      the publication of that standard in November 2016), and including a number of
+      minor corrections, and instructs the BIPM to update and publish the guidance
+      documents accordingly.
+- dates:
+  - '2017-03-16'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/37-2 (2017)
+  identifier: 37-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
+  categories:
+  - Meetings
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 38th meeting of the JCRB will take on September 13 and 14, 2017 at Bern, Switzerland.  The
+    meeting will start in the morning of September 13 2017 and will last two full
+    days if warranted by the Agenda items, otherwise for a full day and a half.
+- dates:
+  - '2017-03-16'
+  subject: JCRB
   type: resolution
   title: Resolution JCRB/37-3 (2017)
   identifier: 37-3
@@ -126,25 +145,6 @@ resolutions:
       will be held in the November 2018). If the meeting is held then this 40th meeting
       of the JCRB will take place during week 37 (the week beginning September 10,
       2018) and will be hosted in Dubai by GULFMET.
-- dates:
-  - '2017-03-16'
-  subject: JCRB
-  type: action
-  title: Action JCRB/37-4 (2017)
-  identifier: 37-4
-  url: https://www.bipm.org/en/committees/jc/jcrb/37-2017
-  categories:
-  - KCDB
-  - CMC review
-  - CMCs
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2017-03-16'
-    message: The JCRB agrees with the proposal made by the BIPM that in KCDB 2.0 the
-      range and uncertainty should, if possible, be in a numerically searchable format,
-      noting that this would require the transform of existing CMC data and charges
-      the BIPM to continue work on developing KCDB 2.0.
 working_documents:
 - title: JCRB/37-10.0
   pdf: https://www.bipm.org/documents/20126/32642651/working-document-cc-jc-private-ID-9003/eadc4252-88d4-77de-1335-2f99a4006635

@@ -12,23 +12,6 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/42-1 (2020)
-  identifier: 42-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
-  categories:
-  - Meetings
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2020-09-10'
-    message: |-
-      *Agreed by correspondence*
-
-      Considering the restrictions imposed in response to the global coronavirus disease 2019 (COVID-19) outbreak, the end of the transition period to 17025:2017 as decided in JCRB resolution 39/3 is extended from 30 November 2020 to 1 June 2021.
-- dates:
-  - '2020-09-10'
-  subject: JCRB
   type: action
   title: Action JCRB/42-1 (2020)
   identifier: 42-1
@@ -41,22 +24,6 @@ resolutions:
   - RMOs shall work with their TCs to review the status of RMO KCs and SCs that have
     not been completed in 5 years (as listed in the KCDB report) and report to the
     43rd meeting of the JCRB.
-- dates:
-  - '2020-09-10'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/42-2 (2020)
-  identifier: 42-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - |-
-    (Agreed by correspondence)
-
-    The 42nd JCRB meeting will be held in a series of daily on-line meetings 8 – 10 September, 11:00 to 13:00 (UTC).
 - dates:
   - '2020-09-10'
   subject: JCRB
@@ -78,22 +45,6 @@ resolutions:
 - dates:
   - '2020-09-10'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/42-3 (2020)
-  identifier: 42-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - |-
-    (Agreed by correspondence)
-
-    The CIPM MRA-P-11, CIPM MRA-P-12 and CIPM MRA-P-13 documents are approved.
-- dates:
-  - '2020-09-10'
-  subject: JCRB
   type: action
   title: Action JCRB/42-3 (2020)
   identifier: 42-3
@@ -109,6 +60,55 @@ resolutions:
       at the 43rd meeting of the JCRB.  The Task Group will be led by Antonio Possolo
       (SIM-NIST) and should have representation from each RMO (1 or 2 members from
       each).
+- dates:
+  - '2020-09-10'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/42-1 (2020)
+  identifier: 42-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2020-09-10'
+    message: |-
+      *Agreed by correspondence*
+
+      Considering the restrictions imposed in response to the global coronavirus disease 2019 (COVID-19) outbreak, the end of the transition period to 17025:2017 as decided in JCRB resolution 39/3 is extended from 30 November 2020 to 1 June 2021.
+- dates:
+  - '2020-09-10'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/42-2 (2020)
+  identifier: 42-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    (Agreed by correspondence)
+
+    The 42nd JCRB meeting will be held in a series of daily on-line meetings 8 – 10 September, 11:00 to 13:00 (UTC).
+- dates:
+  - '2020-09-10'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/42-3 (2020)
+  identifier: 42-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/42-2020
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    (Agreed by correspondence)
+
+    The CIPM MRA-P-11, CIPM MRA-P-12 and CIPM MRA-P-13 documents are approved.
 - dates:
   - '2020-09-10'
   subject: JCRB

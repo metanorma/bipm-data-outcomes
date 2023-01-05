@@ -24,53 +24,6 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: recommendation
-  title: Recommendation JCRB/32-1 (2014)
-  identifier: 32-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
-  categories:
-  - RMO
-  - CIPM MRA
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2014-03-27'
-    message: Each RMO to provide an official representative to the NMI Directors Workshop
-      on CIPM MRA review.
-- dates:
-  - '2014-03-27'
-  subject: JCRB
-  type: resolution
-  title: Resolution JCRB/32-1 (2014)
-  identifier: 32-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - There will not be a meeting of the JCRB in late 2014 (because of the logistics
-    and workload related to the 25th CGPM).
-- dates:
-  - '2014-03-27'
-  subject: JCRB
-  type: resolution
-  title: Resolution JCRB/32-2 (2014)
-  identifier: 32-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - Two JCRB meetings will be scheduled each year. A decision will be made on a "case
-    by case" basis as to whether the second meeting is necessary. Rotation of the
-    meetings between BIPM and regions will be decided accordingly.
-- dates:
-  - '2014-03-27'
-  subject: JCRB
   type: action
   title: Action JCRB/32-2 (2014)
   identifier: 32-2
@@ -103,20 +56,6 @@ resolutions:
 - dates:
   - '2014-03-27'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/32-3 (2014)
-  identifier: 32-3
-  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 33rd meeting of the JCRB will take place on March 18 and 19, 2015 at the BIPM.
-- dates:
-  - '2014-03-27'
-  subject: JCRB
   type: action
   title: Action JCRB/32-4 (2014)
   identifier: 32-4
@@ -130,21 +69,6 @@ resolutions:
   - BIPM to provide a list at each JCRB meeting of Associates of the CGPM who have
     been encouraged to become a Member State of the BIPM (in accordance with Resolution
     4 of the 24th meeting of the CGPM).
-- dates:
-  - '2014-03-27'
-  subject: JCRB
-  type: resolution
-  title: Resolution JCRB/32-4 (2014)
-  identifier: 32-4
-  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 34th meeting of the JCRB is scheduled for September, 2015 at the KazInMetr,
-    Kazakhstan.
 - dates:
   - '2014-03-27'
   subject: JCRB
@@ -340,6 +264,82 @@ resolutions:
   x-unparsed:
   - AFRIMETS has volunteered to identify an NMI within its region to work with BIPM
     and BIML in developing the World Metrology Day poster for 2015.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/32-1 (2014)
+  identifier: 32-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
+  categories:
+  - RMO
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: Each RMO to provide an official representative to the NMI Directors Workshop
+      on CIPM MRA review.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/32-1 (2014)
+  identifier: 32-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - There will not be a meeting of the JCRB in late 2014 (because of the logistics
+    and workload related to the 25th CGPM).
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/32-2 (2014)
+  identifier: 32-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Two JCRB meetings will be scheduled each year. A decision will be made on a "case
+    by case" basis as to whether the second meeting is necessary. Rotation of the
+    meetings between BIPM and regions will be decided accordingly.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/32-3 (2014)
+  identifier: 32-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 33rd meeting of the JCRB will take place on March 18 and 19, 2015 at the BIPM.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/32-4 (2014)
+  identifier: 32-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 34th meeting of the JCRB is scheduled for September, 2015 at the KazInMetr,
+    Kazakhstan.
 working_documents:
 - title: JCRB/32-06.0
   pdf: https://www.bipm.org/documents/20126/32642879/working-document-cc-jc-private-ID-6397/b83a865d-7de2-b761-a855-93bf300c9f21

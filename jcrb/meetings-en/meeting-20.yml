@@ -26,19 +26,6 @@ resolutions:
 - dates:
   - '2008-05-02'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/20-1 (2008)
-  identifier: 20-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/20-2008
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - 'Next JCRB meeting: BIPM, Sèvres, France on 24-25 September 2008.'
-- dates:
-  - '2008-05-02'
-  subject: JCRB
   type: action
   title: Action JCRB/20-2 (2008)
   identifier: 20-2
@@ -51,20 +38,6 @@ resolutions:
   actions: []
   x-unparsed:
   - RMOs are to nominate members for the new CCTF WG on CMCs. (RMOs)
-- dates:
-  - '2008-05-02'
-  subject: JCRB
-  type: resolution
-  title: Resolution JCRB/20-2 (2008)
-  identifier: 20-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/20-2008
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - First 2009 meeting will be hosted by COOMET, who suggested that the meeting be
-    held in March 2009.
 - dates:
   - '2008-05-02'
   subject: JCRB
@@ -172,6 +145,33 @@ resolutions:
     date_effective: '2008-05-02'
     message: Provide an Agenda item during the 21st meeting to discuss the results
       of the Forum on Metrology Programmes for States in Development. (Executive Secretary)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/20-1 (2008)
+  identifier: 20-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/20-2008
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'Next JCRB meeting: BIPM, Sèvres, France on 24-25 September 2008.'
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/20-2 (2008)
+  identifier: 20-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/20-2008
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - First 2009 meeting will be hosted by COOMET, who suggested that the meeting be
+    held in March 2009.
 working_documents:
 - title: JCRB/20-12
   pdf: https://www.bipm.org/documents/20126/32647811/working-document-cc-jc-private-ID-3033/27d00da0-8d1e-873d-ac90-59c273f32bc3

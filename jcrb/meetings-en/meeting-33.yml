@@ -26,36 +26,6 @@ resolutions:
 - dates:
   - '2015-03-19'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/33-1 (2015)
-  identifier: 33-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/33-2015
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 34th meeting of the JCRB will take place on September 8 and 9, 2015 at KazInMetr,
-    Kazakhstan.
-- dates:
-  - '2015-03-19'
-  subject: JCRB
-  type: resolution
-  title: Resolution JCRB/33-2 (2015)
-  identifier: 33-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/33-2015
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 35th meeting of the JCRB is scheduled for March 16 and 17, 2016 at the BIPM
-    in Sevres.
-- dates:
-  - '2015-03-19'
-  subject: JCRB
   type: action
   title: Action JCRB/33-2 (2015)
   identifier: 33-2
@@ -268,6 +238,36 @@ resolutions:
     - some wider context about their role as an RMO within the region;
     - the scope of capabilities of NMIs within their RMO;
     - and their plan for engagement with NMIs within other RMOs.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/33-1 (2015)
+  identifier: 33-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/33-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 34th meeting of the JCRB will take place on September 8 and 9, 2015 at KazInMetr,
+    Kazakhstan.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/33-2 (2015)
+  identifier: 33-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/33-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 35th meeting of the JCRB is scheduled for March 16 and 17, 2016 at the BIPM
+    in Sevres.
 working_documents:
 - title: JCRB/33-07.1
   pdf: https://www.bipm.org/documents/20126/32643119/working-document-cc-jc-private-ID-6840/fc960e38-a843-4509-4b82-4f068caa3bc9

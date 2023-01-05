@@ -10,26 +10,6 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/26-1 (2011)
-  identifier: 26-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/26-2011
-  categories:
-  - QMS
-  - International organizations
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2011-03-21'
-    message: The JCRB agrees to give the mandate to the TC-Q of EURAMET to conduct
-      the QS review of the IAEA at their next meeting in March 2012. JCRB supports
-      the decision of IAEA to have the review of their quality system conducted at
-      the next meeting of the TC-Q of EURAMET. The JCRB further agrees that there
-      will be no consequences in so far as the continuing validity of IAEA's published
-      CMCs due to the delay in the review beyond the 5 year limit
-- dates:
-  - '2011-03-21'
-  subject: JCRB
   type: action
   title: Action JCRB/26-1 (2011)
   identifier: 26-1
@@ -66,22 +46,6 @@ resolutions:
 - dates:
   - '2011-03-21'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/26-2 (2011)
-  identifier: 26-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/26-2011
-  categories:
-  - CMCs
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2011-03-21'
-    message: The JCRB approves the procedure for the deletion of the greyed-out CMCs
-      after a period of 5 years. The procedure shall be put into effect beginning
-      in April 2011.
-- dates:
-  - '2011-03-21'
-  subject: JCRB
   type: action
   title: Action JCRB/26-3 (2011)
   identifier: 26-3
@@ -97,21 +61,6 @@ resolutions:
     information is received. The BIPM will advise any new participants in the CIPM
     MRA regarding expectations concerning their active participation in the activities
     of the CIPM MRA. Such information will also be made available on the BIPM website.
-- dates:
-  - '2011-03-21'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/26-3 (2011)
-  identifier: 26-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/26-2011
-  categories:
-  - Meetings
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2011-03-21'
-    message: The JCRB agrees to hold the 28th Meeting of the JCRB on March 21-23,
-      2012 at the BIPM in Sevres.
 - dates:
   - '2011-03-21'
   subject: JCRB
@@ -181,6 +130,57 @@ resolutions:
     date_effective: '2011-03-21'
     message: RMOs will send their comments on the proposed guidelines for authorship
       of key and supplementary comparison reports to the CIPM Secretary.
+- dates:
+  - '2011-03-21'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/26-1 (2011)
+  identifier: 26-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/26-2011
+  categories:
+  - QMS
+  - International organizations
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2011-03-21'
+    message: The JCRB agrees to give the mandate to the TC-Q of EURAMET to conduct
+      the QS review of the IAEA at their next meeting in March 2012. JCRB supports
+      the decision of IAEA to have the review of their quality system conducted at
+      the next meeting of the TC-Q of EURAMET. The JCRB further agrees that there
+      will be no consequences in so far as the continuing validity of IAEA's published
+      CMCs due to the delay in the review beyond the 5 year limit
+- dates:
+  - '2011-03-21'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/26-2 (2011)
+  identifier: 26-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/26-2011
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2011-03-21'
+    message: The JCRB approves the procedure for the deletion of the greyed-out CMCs
+      after a period of 5 years. The procedure shall be put into effect beginning
+      in April 2011.
+- dates:
+  - '2011-03-21'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/26-3 (2011)
+  identifier: 26-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/26-2011
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2011-03-21'
+    message: The JCRB agrees to hold the 28th Meeting of the JCRB on March 21-23,
+      2012 at the BIPM in Sevres.
 working_documents:
 - title: JCRB/26-06
   pdf: https://www.bipm.org/documents/20126/32646599/working-document-cc-jc-private-ID-4336/e4a9dd16-6160-c363-7324-54144ed5e7bc

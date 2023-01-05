@@ -10,51 +10,6 @@ resolutions:
 - dates:
   - '2019-03-14'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/40-1 (2019)
-  identifier: 40-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
-  categories:
-  - JCRB
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 41st meeting of the JCRB will take place during 9-11 September 2019 in Dubai
-    (UAE) with the QMS discussion meeting in advance of the plenary. The JCRB Executive
-    Secretary will collaborate with the Emirates Authority for Standardization and
-    Metrology (ESMA) and GULFMET to host it and confirm the timing of the meeting
-    by the end of April.
-- dates:
-  - '2019-03-14'
-  subject: JCRB
-  type: recommendation
-  title: Recommendation JCRB/40-1 (2019)
-  identifier: 40-1
-  url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
-  categories:
-  - CIPM MRA
-  - CMC review
-  - CMCs
-  - Guidance documents
-  - JCRB
-  - Comparisons
-  - KCDB
-  - Traceability
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2019-03-14'
-    message: The JCRB agrees that the Hybrid Comparison scheme proposed by APMP may
-      be used as an example of "Other available knowledge and experience" in Section
-      3 of CIPM MRA D-04, which underpins CMCs. It was noted that the use of Hybrid
-      Comparisons is not an alternative to participation in key or supplementary comparisons
-      when accessible. It was also noted that it is not intended to include Hybrid
-      Comparisons within Appendix B of the KCDB. This agreement is to be sent to the
-      CIPM for approval in order to expedite communication to the Consultative Committees.
-- dates:
-  - '2019-03-14'
-  subject: JCRB
   type: action
   title: Action JCRB/40-1 (2019)
   identifier: 40-1
@@ -124,6 +79,51 @@ resolutions:
   x-unparsed:
   - Following Resolution 39/2, the BIPM will finalize arrangements with the SIM QSTF
     Chair for the review of the BIPM QMS (by the end of April 2019).
+- dates:
+  - '2019-03-14'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/40-1 (2019)
+  identifier: 40-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
+  categories:
+  - CIPM MRA
+  - CMC review
+  - CMCs
+  - Guidance documents
+  - JCRB
+  - Comparisons
+  - KCDB
+  - Traceability
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2019-03-14'
+    message: The JCRB agrees that the Hybrid Comparison scheme proposed by APMP may
+      be used as an example of "Other available knowledge and experience" in Section
+      3 of CIPM MRA D-04, which underpins CMCs. It was noted that the use of Hybrid
+      Comparisons is not an alternative to participation in key or supplementary comparisons
+      when accessible. It was also noted that it is not intended to include Hybrid
+      Comparisons within Appendix B of the KCDB. This agreement is to be sent to the
+      CIPM for approval in order to expedite communication to the Consultative Committees.
+- dates:
+  - '2019-03-14'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/40-1 (2019)
+  identifier: 40-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/40-2019
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 41st meeting of the JCRB will take place during 9-11 September 2019 in Dubai
+    (UAE) with the QMS discussion meeting in advance of the plenary. The JCRB Executive
+    Secretary will collaborate with the Emirates Authority for Standardization and
+    Metrology (ESMA) and GULFMET to host it and confirm the timing of the meeting
+    by the end of April.
 working_documents:
 - title: JCRB/40-07.1
   pdf: https://www.bipm.org/documents/20126/32645471/working-document-cc-jc-private-ID-11135/c77dfd63-57e2-cc83-eaaa-ddc5ec4b64b1

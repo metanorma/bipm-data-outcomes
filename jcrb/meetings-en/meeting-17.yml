@@ -39,20 +39,6 @@ resolutions:
 - dates:
   - '2006-10-06'
   subject: JCRB
-  type: resolution
-  title: Resolution JCRB/17-2 (2006)
-  identifier: 17-2
-  url: https://www.bipm.org/en/committees/jc/jcrb/17-2006
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The fall 2007 meeting of the JCRB will be canceled in benefit of preparations
-    for the 23rd CGPM.
-- dates:
-  - '2006-10-06'
-  subject: JCRB
   type: action
   title: Action JCRB/17-3 (2006)
   identifier: 17-3
@@ -338,6 +324,20 @@ resolutions:
   x-unparsed:
   - The spring 2007 meeting of the JCRB (18th Meeting) will be held for a day and
     a half. (Executive Secretary)
+- dates:
+  - '2006-10-06'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/17-2 (2006)
+  identifier: 17-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/17-2006
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The fall 2007 meeting of the JCRB will be canceled in benefit of preparations
+    for the 23rd CGPM.
 working_documents:
 - title: JCRB/17-04
   pdf: https://www.bipm.org/documents/20126/32648940/working-document-cc-jc-private-ID-2323/706af0f0-68c6-3e8e-d84f-4e3b6f466ec6

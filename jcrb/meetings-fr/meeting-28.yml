@@ -25,55 +25,6 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: recommendation
-  title: Recommandation JCRB/28-1 (2012)
-  identifier: 28-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
-  categories:
-  - Guidance documents
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2012-04-04'
-    message: The JCRB recommends to the CIPM to approve changes to the text of Section
-      7.2 of document CIPM MRA-D-05.
-- dates:
-  - '2012-04-04'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/28-1 (2012)
-  identifier: 28-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
-  categories:
-  - Designated institutes
-  considerations: []
-  actions:
-  - type: resolves
-    date_effective: '2012-04-04'
-    message: The JCRB resolves that laboratories should only be designated under the
-      CIPM MRA when they have responsibility for national measurement standards and
-      the dissemination of the units (i.e. providing traceability), as demonstrated
-      by provision of appropriate and relevant services to customers.
-- dates:
-  - '2012-04-04'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/28-2 (2012)
-  identifier: 28-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
-  categories:
-  - QMS
-  - CMCs
-  considerations: []
-  actions:
-  - type: resolves
-    date_effective: '2012-04-04'
-    message: The JCRB resolves that the QMS that must be in place prior to the acceptance
-      of CMCs must be according to ISO/IEC 17025 (and ISO Guide 34 for CRMs) in line
-      with requirements for calibration laboratories.
-- dates:
-  - '2012-04-04'
-  subject: JCRB
   type: action
   title: Action JCRB/28-2 (2012)
   identifier: 28-2
@@ -105,20 +56,6 @@ resolutions:
 - dates:
   - '2012-04-04'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/28-3 (2012)
-  identifier: 28-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 29th meeting of the JCRB will take place at at NIST on September 25 and 26,
-    2012.
-- dates:
-  - '2012-04-04'
-  subject: JCRB
   type: action
   title: Action JCRB/28-4 (2012)
   identifier: 28-4
@@ -131,21 +68,6 @@ resolutions:
   - A letter will be sent to GULFMET summarizing JCRB's position on their application
     to join the JCRB as an RMO. A GULFMET delegation will be invited to join the 29th
     meeting of the JCRB as guests to discuss the next steps forward.
-- dates:
-  - '2012-04-04'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/28-4 (2012)
-  identifier: 28-4
-  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
-  categories:
-  - Meetings
-  - CMC review
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 30th meeting of the JCRB followed by the Workshop on Best Practices in CMC
-    Reviews will take place at the BIPM between March 18 and 20, 2013.
 - dates:
   - '2012-04-04'
   subject: JCRB
@@ -209,6 +131,84 @@ resolutions:
     message: At the 29th Meeting of the JCRB, RMOs will propose topics to be discussed
       within the brainstorming session that is to be on the agenda of the planned
       Workshop on Best Practices in CMC reviews.
+- dates:
+  - '2012-04-04'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/28-1 (2012)
+  identifier: 28-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2012-04-04'
+    message: The JCRB recommends to the CIPM to approve changes to the text of Section
+      7.2 of document CIPM MRA-D-05.
+- dates:
+  - '2012-04-04'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/28-1 (2012)
+  identifier: 28-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: resolves
+    date_effective: '2012-04-04'
+    message: The JCRB resolves that laboratories should only be designated under the
+      CIPM MRA when they have responsibility for national measurement standards and
+      the dissemination of the units (i.e. providing traceability), as demonstrated
+      by provision of appropriate and relevant services to customers.
+- dates:
+  - '2012-04-04'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/28-2 (2012)
+  identifier: 28-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
+  categories:
+  - QMS
+  - CMCs
+  considerations: []
+  actions:
+  - type: resolves
+    date_effective: '2012-04-04'
+    message: The JCRB resolves that the QMS that must be in place prior to the acceptance
+      of CMCs must be according to ISO/IEC 17025 (and ISO Guide 34 for CRMs) in line
+      with requirements for calibration laboratories.
+- dates:
+  - '2012-04-04'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/28-3 (2012)
+  identifier: 28-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 29th meeting of the JCRB will take place at at NIST on September 25 and 26,
+    2012.
+- dates:
+  - '2012-04-04'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/28-4 (2012)
+  identifier: 28-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/28-2012
+  categories:
+  - Meetings
+  - CMC review
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 30th meeting of the JCRB followed by the Workshop on Best Practices in CMC
+    Reviews will take place at the BIPM between March 18 and 20, 2013.
 working_documents:
 - title: JCRB/28-06
   pdf: https://www.bipm.org/documents/20126/32646335/working-document-cc-jc-private-ID-5003/a084f9de-a76c-d931-c1ae-dab8b961d3bf

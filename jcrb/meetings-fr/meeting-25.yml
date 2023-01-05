@@ -10,37 +10,6 @@ resolutions:
 - dates:
   - '2010-09-22'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/25-1 (2010)
-  identifier: 25-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
-  categories:
-  - CMCs
-  considerations: []
-  actions: []
-  x-unparsed:
-  - |-
-    For CMCs greyed out for more than 5 years, the process for deletion will be:
-    - when the 5 year period is reached a reminder will be sent by the BIPM (JCRB Executive Secretary) to the RMO and the NMI;
-    - a second reminder will be sent three weeks after;
-    - if there is no reply in three weeks, the CMCs will be deleted from the KCDB and a confirmation will be send to the RMO and NMI.
-- dates:
-  - '2010-09-22'
-  subject: JCRB
-  type: recommendation
-  title: Recommandation JCRB/25-1 (2010)
-  identifier: 25-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
-  categories:
-  - Guidance documents
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2010-09-22'
-    message: 'The JCRB recommends the CIPM the approval of the following documents:'
-- dates:
-  - '2010-09-22'
-  subject: JCRB
   type: action
   title: Action JCRB/25-1 (2010)
   identifier: 25-1
@@ -73,22 +42,6 @@ resolutions:
 - dates:
   - '2010-09-22'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/25-2 (2010)
-  identifier: 25-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
-  categories:
-  - Designated institutes
-  considerations: []
-  actions:
-  - type: requests
-    date_effective: '2010-09-22'
-    message: To create a task group to discuss criteria to be fulfilled as designated
-      institutes. The group will be chaired by M. Chambon, and W. Louw, Y. Hino, and
-      P. Neyezmakov. SIM will send the name of the representative to the chairperson.
-- dates:
-  - '2010-09-22'
-  subject: JCRB
   type: action
   title: Action JCRB/25-3 (2010)
   identifier: 25-3
@@ -104,22 +57,6 @@ resolutions:
 - dates:
   - '2010-09-22'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/25-3 (2010)
-  identifier: 25-3
-  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
-  categories:
-  - Guidance documents
-  - KCDB
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The information concerning the publication of documents in the JCRB open website
-    will be published in the KCDB newsletter and mailed to the technical contacts
-    of the RMO.
-- dates:
-  - '2010-09-22'
-  subject: JCRB
   type: action
   title: Action JCRB/25-4 (2010)
   identifier: 25-4
@@ -132,21 +69,6 @@ resolutions:
   x-unparsed:
   - BIPM to take the position of having a joint document for "Accreditation of NMIs"
     to the next AIC meeting.
-- dates:
-  - '2010-09-22'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/25-4 (2010)
-  identifier: 25-4
-  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - 'The next meeting of the JCRB will be held: March 21 (9:00 to 17:00) and 22 (9:00
-    to 13:00), 2011, at the BIPM.The following meeting will be held on September 14-15
-    (two full days), 2011, organized by EURAMET.'
 - dates:
   - '2010-09-22'
   subject: JCRB
@@ -212,6 +134,84 @@ resolutions:
     date_effective: '2010-09-22'
     message: to prepare a draft program for a "Workshop on the best practice for the
       review of CMCs" to be presented in the next meeting.
+- dates:
+  - '2010-09-22'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/25-1 (2010)
+  identifier: 25-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2010-09-22'
+    message: 'The JCRB recommends the CIPM the approval of the following documents:'
+- dates:
+  - '2010-09-22'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/25-1 (2010)
+  identifier: 25-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    For CMCs greyed out for more than 5 years, the process for deletion will be:
+    - when the 5 year period is reached a reminder will be sent by the BIPM (JCRB Executive Secretary) to the RMO and the NMI;
+    - a second reminder will be sent three weeks after;
+    - if there is no reply in three weeks, the CMCs will be deleted from the KCDB and a confirmation will be send to the RMO and NMI.
+- dates:
+  - '2010-09-22'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/25-2 (2010)
+  identifier: 25-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2010-09-22'
+    message: To create a task group to discuss criteria to be fulfilled as designated
+      institutes. The group will be chaired by M. Chambon, and W. Louw, Y. Hino, and
+      P. Neyezmakov. SIM will send the name of the representative to the chairperson.
+- dates:
+  - '2010-09-22'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/25-3 (2010)
+  identifier: 25-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
+  categories:
+  - Guidance documents
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The information concerning the publication of documents in the JCRB open website
+    will be published in the KCDB newsletter and mailed to the technical contacts
+    of the RMO.
+- dates:
+  - '2010-09-22'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/25-4 (2010)
+  identifier: 25-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/25-2010
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'The next meeting of the JCRB will be held: March 21 (9:00 to 17:00) and 22 (9:00
+    to 13:00), 2011, at the BIPM.The following meeting will be held on September 14-15
+    (two full days), 2011, organized by EURAMET.'
 working_documents:
 - title: JCRB/25-06
   pdf: https://www.bipm.org/documents/20126/32646791/working-document-cc-jc-private-ID-4109/ad01d92c-f692-cb6f-6222-06571c46fb7d

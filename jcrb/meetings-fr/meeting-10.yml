@@ -10,22 +10,6 @@ resolutions:
 - dates:
   - '2003-03-04'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/10-1 (2003)
-  identifier: 10-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/10-2003
-  categories:
-  - CIPM MRA
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2003-03-04'
-    message: The Committee agreed that the Statement referencing the CIPM MRA should
-      only be included on calibration certificates for NMIs' CMCs that are published
-      in Appendix stem:["C"] of the KCDB.
-- dates:
-  - '2003-03-04'
-  subject: JCRB
   type: action
   title: Action JCRB/10-1 (2003)
   identifier: 10-1
@@ -276,6 +260,22 @@ resolutions:
     message: 'RMO-JCRB Representatives to prepare presentations on the topic: "How
       to extend the range of participation of countries in RMO and MRA activities",
       to be presented at the October JCRB meetings.'
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/10-1 (2003)
+  identifier: 10-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/10-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2003-03-04'
+    message: The Committee agreed that the Statement referencing the CIPM MRA should
+      only be included on calibration certificates for NMIs' CMCs that are published
+      in Appendix stem:["C"] of the KCDB.
 working_documents:
 - title: JCRB/10-04
   pdf: https://www.bipm.org/documents/20126/32765877/working-document-cc-jc-private-ID-727/29b2fb35-5229-f00f-b3e3-507bfea1486c

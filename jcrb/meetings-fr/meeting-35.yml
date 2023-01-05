@@ -28,38 +28,6 @@ resolutions:
 - dates:
   - '2016-03-17'
   subject: JCRB
-  type: recommendation
-  title: Recommandation JCRB/35-1 (2016)
-  identifier: 35-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
-  categories:
-  - Comparaisons
-  - Guidance documents
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2016-03-17'
-    message: The JCRB recommends to the CIPM to revise Point of Clarification 6 to
-      CIPM 2005-06(REV); the revision to include the text of JCRB Resolution 34/1
-      regarding measurement comparison reports.
-- dates:
-  - '2016-03-17'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/35-1 (2016)
-  identifier: 35-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
-  categories:
-  - Meetings
-  - JCRB
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 36th meeting of the JCRB will take place on September 14 and 15, 2016 at KEBS,
-    Nairobi, Kenya.
-- dates:
-  - '2016-03-17'
-  subject: JCRB
   type: action
   title: Action JCRB/35-2 (2016)
   identifier: 35-2
@@ -72,21 +40,6 @@ resolutions:
   x-unparsed:
   - The RMOs to include an update on strategic planning with respect to KCs and SCs
     undertaken at the RMO TC level in their reports to the JCRB.
-- dates:
-  - '2016-03-17'
-  subject: JCRB
-  type: resolution
-  title: Résolution JCRB/35-2 (2016)
-  identifier: 35-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
-  categories:
-  - Meetings
-  - JCRB
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 37th meeting of the JCRB will take place during the week beginning March 13,
-    2017 at the BIPM, on days to be decided.
 - dates:
   - '2016-03-17'
   subject: JCRB
@@ -242,6 +195,53 @@ resolutions:
     date_effective: '2016-03-17'
     message: The JCRB approved the revision to CIPM MRA-D-05, "Measurement comparisons
       in the CIPM MRA" and the BIPM will inform the CIPM of the revision.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/35-1 (2016)
+  identifier: 35-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Comparaisons
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2016-03-17'
+    message: The JCRB recommends to the CIPM to revise Point of Clarification 6 to
+      CIPM 2005-06(REV); the revision to include the text of JCRB Resolution 34/1
+      regarding measurement comparison reports.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/35-1 (2016)
+  identifier: 35-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Meetings
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 36th meeting of the JCRB will take place on September 14 and 15, 2016 at KEBS,
+    Nairobi, Kenya.
+- dates:
+  - '2016-03-17'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/35-2 (2016)
+  identifier: 35-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/35-2016
+  categories:
+  - Meetings
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 37th meeting of the JCRB will take place during the week beginning March 13,
+    2017 at the BIPM, on days to be decided.
 working_documents:
 - title: JCRB/35-07.0
   pdf: https://www.bipm.org/documents/20126/32643299/working-document-cc-jc-private-ID-7570/0ef1316e-3812-ef38-653e-bd03a374f68b

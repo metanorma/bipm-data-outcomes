@@ -10,39 +10,6 @@ resolutions:
 - dates:
   - '2021-03-17'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/43-1 (2021)
-  identifier: 43-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/43-2021
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - Due to the continuing effects of the global pandemic on travel and workplace accessibility,
-    the JCRB allows the RMOs to extend the validity of RMO-approved quality management
-    systems for one year if it is not possible to develop sufficient confidence in
-    reviews carried out online, in person or a combination of both. The JCRB will
-    revisit this topic at its 44th meeting.
-- dates:
-  - '2021-03-17'
-  subject: JCRB
-  type: recommendation
-  title: Recommandation JCRB/43-1 (2021)
-  identifier: 43-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/43-2021
-  categories:
-  - Meetings
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2021-03-17'
-    message: DThe JCRB agrees that GULFMET fulfills all requirements described in
-      CIPM MRA-P-12 Appendix B, section B1, and recommends the CIPM to admit GULFMET
-      as a full member of the JCRB, with a voice and the right to vote.
-- dates:
-  - '2021-03-17'
-  subject: JCRB
   type: action
   title: Action JCRB/43-1 (2021)
   identifier: 43-1-xxx-1
@@ -165,6 +132,39 @@ resolutions:
     JCRB Executive Secretary shall close the site for all other users except “tcguest”.
     Upon closure, the JCRB CMC website will remain available but not linked from the
     BIPM website.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/43-1 (2021)
+  identifier: 43-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2021-03-17'
+    message: DThe JCRB agrees that GULFMET fulfills all requirements described in
+      CIPM MRA-P-12 Appendix B, section B1, and recommends the CIPM to admit GULFMET
+      as a full member of the JCRB, with a voice and the right to vote.
+- dates:
+  - '2021-03-17'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/43-1 (2021)
+  identifier: 43-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/43-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Due to the continuing effects of the global pandemic on travel and workplace accessibility,
+    the JCRB allows the RMOs to extend the validity of RMO-approved quality management
+    systems for one year if it is not possible to develop sufficient confidence in
+    reviews carried out online, in person or a combination of both. The JCRB will
+    revisit this topic at its 44th meeting.
 working_documents:
 - title: JCRB/43-09
   pdf: https://www.bipm.org/documents/20126/52682569/43_09_KCDB_Report_to_JCRB43_Mar21.pdf/ec9bca13-0d8e-2812-f157-fdd417247f2e

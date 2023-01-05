@@ -10,34 +10,6 @@ resolutions:
 - dates:
   - '2013-09-19'
   subject: JCRB
-  type: resolution
-  title: Résolution JCRB/31-1 (2013)
-  identifier: 31-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/31-2013
-  categories:
-  - Meetings
-  considerations: []
-  actions: []
-  x-unparsed:
-  - The 32nd meeting of the JCRB will take place on March 26 and 27, 2014 at the BIPM.
-- dates:
-  - '2013-09-19'
-  subject: JCRB
-  type: recommendation
-  title: Recommandation JCRB/31-1 (2013)
-  identifier: 31-1
-  url: https://www.bipm.org/fr/committees/jc/jcrb/31-2013
-  categories:
-  - Guidance documents
-  considerations: []
-  actions:
-  - type: recommends
-    date_effective: '2013-09-19'
-    message: The JCRB recommends to the CIPM to approve changes to the guidance document
-      CIPM MRA-D-04 by adding the new Section "12. Greying-out of published CMCs".
-- dates:
-  - '2013-09-19'
-  subject: JCRB
   type: action
   title: Action JCRB/31-1 (2013)
   identifier: 31-1
@@ -67,24 +39,6 @@ resolutions:
     message: RMOs to submit comments, if any, on the EURAMET document "Role of DIs
       within the CIPM-MRA" within one month, in order that EURAMET can improve the
       document for possible wider use.
-- dates:
-  - '2013-09-19'
-  subject: JCRB
-  type: recommendation
-  title: Recommandation JCRB/31-2 (2013)
-  identifier: 31-2
-  url: https://www.bipm.org/fr/committees/jc/jcrb/31-2013
-  categories:
-  - Designated institutes
-  considerations: []
-  actions:
-  - type: approves
-    date_effective: '2013-09-19'
-    message: 'The JCRB approves the proposed form for the nomination of designated
-      institutes (subject to two editorial improvements) and requests it be approved
-      by the CIPM. (The editorial changes are: to allow space for the name of a legal
-      entity for a DI, when necessary, and moving the listing of metrology areas to
-      the footnote).'
 - dates:
   - '2013-09-19'
   subject: JCRB
@@ -136,6 +90,52 @@ resolutions:
       of CMCs on the "RMO actions pending" page https://www.bipm.org/fr/committees/jc/jcrb/JCRBCMCs/CMCsStatus.jsp[(https://www.bipm.org/JCRBCMCs/CMCsStatus.jsp)]
       of the JCRB website in order to avoid CMCs stalling in the inter-regional review
       process).
+- dates:
+  - '2013-09-19'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/31-1 (2013)
+  identifier: 31-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/31-2013
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2013-09-19'
+    message: The JCRB recommends to the CIPM to approve changes to the guidance document
+      CIPM MRA-D-04 by adding the new Section "12. Greying-out of published CMCs".
+- dates:
+  - '2013-09-19'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/31-2 (2013)
+  identifier: 31-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/31-2013
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2013-09-19'
+    message: 'The JCRB approves the proposed form for the nomination of designated
+      institutes (subject to two editorial improvements) and requests it be approved
+      by the CIPM. (The editorial changes are: to allow space for the name of a legal
+      entity for a DI, when necessary, and moving the listing of metrology areas to
+      the footnote).'
+- dates:
+  - '2013-09-19'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/31-1 (2013)
+  identifier: 31-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/31-2013
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 32nd meeting of the JCRB will take place on March 26 and 27, 2014 at the BIPM.
 working_documents:
 - title: JCRB/31-06
   pdf: https://www.bipm.org/documents/20126/32644943/working-document-cc-jc-private-ID-6062/7742f04d-a6b5-e171-3c01-2f5dd27462c0
