@@ -34,6 +34,7 @@ jobs:
     - name: Scrap bipm data
       run: |
         gem install bipm-data-importer
+        gem install webmock
         bipm-fetch --fork
         bipm-fetch-cgpm
     
