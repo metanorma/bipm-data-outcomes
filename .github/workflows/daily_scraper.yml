@@ -15,43 +15,31 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-    - name: checkout outcomes
+    - name: Checkout
       uses: actions/checkout@v3
-      with:
-        path: bipm-data-outcomes
-      
-    - name: Checkout tools repo
-      uses: actions/checkout@v3
-      with:
-        repository: metanorma/bipm-data-importer
-        path: bipm-data-importer
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.1'
         bundler-cache: true
-        working-directory: '${{ github.workspace }}/bipm-data-importer'
 
-    - name: Clean up old outcomes
+    - name: Clean up
       run: |
-        pushd ${{ github.workspace }}/bipm-data-outcomes
         ls -A
         rm -r $(ls -A | grep -vE ".github|.git|README.adoc")
+        echo 'cleaned up the old data'
         ls -A
-        popd
 
     - name: Scrap bipm data
       run: |
-        pushd ${{ github.workspace }}/bipm-data-importer
-        bundle install
-        bundle exec exe/bipm-fetch --fork
-        bundle exec exe/bipm-fetch-cgpm
-        popd
+        gem install bipm-data-importer
+        bipm-fetch --fork
+        bipm-fetch-cgpm
     
-    - name: Copy new data from importer to outcomes
+    - name: Move generated outcomes to outcomes
       run: |
-        cp -rf ${{ github.workspace }}/bipm-data-importer/data/* ${{ github.workspace }}/bipm-data-outcomes/
+        mv -rf ./data/* ./
         ls -A
     
     - name: Push new data
@@ -59,7 +47,6 @@ jobs:
         CI_COMMIT_MESSAGE: Daily Update
         CI_COMMIT_AUTHOR: Daily Update
       run: |
-        pushd ${{ github.workspace }}/bipm-data-outcomes/
         git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
         git config --global user.email "bot@users.noreply.github.com"
         git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || :
