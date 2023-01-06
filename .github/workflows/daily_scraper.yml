@@ -40,7 +40,7 @@ jobs:
     
     - name: Move generated outcomes to outcomes
       run: |
-        mv -rf ./data/* ./
+        mv ./data/* ./
         ls -A
     
     - name: Push new data
