@@ -4,8 +4,7 @@ metadata:
 categories:
 - title: Documents de référence
   documents:
-  - title: "[CCAUV] AUV - Classification of services in Acoustics, Ultrasound and
-      Vibration"
+  - title: "[CCAUV] Classification of services in Acoustics, Ultrasound and Vibration"
     pdf: https://www.bipm.org/documents/20126/31848178/Classification+of+services+in+Acoustics%2C+Ultrasound+and+Vibration/75bef6fd-085d-abb4-4909-a304ec8de01f
   - title: "[CCAUV] CCAUV guidance for key comparisons"
     pdf: https://www.bipm.org/documents/20126/30124942/CCAUV+guidance+for+key+comparisons/1d8c2564-6f2a-022d-eae5-cd68a41f9b84
@@ -15,16 +14,16 @@ categories:
     pdf: https://www.bipm.org/documents/20126/30124978/Peer-reviewer+template/36b1e5ea-c6d9-af94-930d-f05f16330e5c
 - title: Synthèses
   documents:
-  - title: CCAUV10_summary.pdf
-    pdf: https://www.bipm.org/documents/20126/30720175/CCAUV10_summary.pdf/
-  - title: CCAUV11_summary.pdf
-    pdf: https://www.bipm.org/documents/20126/30720193/CCAUV11_summary.pdf/
-  - title: CCAUV12_summary.pdf
-    pdf: https://www.bipm.org/documents/20126/41367045/CCAUV12_summary.pdf/
-  - title: CCAUV8_summary.pdf
-    pdf: https://www.bipm.org/documents/20126/30720139/CCAUV8_summary.pdf/
-  - title: CCAUV9_summary.pdf
-    pdf: https://www.bipm.org/documents/20126/30720157/CCAUV9_summary.pdf/
+  - title: "[CCAUV] Summary - 10th meeting (2015)"
+    pdf: https://www.bipm.org/documents/20126/30720175/CCAUV10_summary.pdf/9bef200d-2232-896e-7b46-d8ec2cd06f97
+  - title: "[CCAUV] Summary - 11th meeting (2017)"
+    pdf: https://www.bipm.org/documents/20126/30720193/CCAUV11_summary.pdf/b83eabc4-c98b-86a5-29b2-f3f193fb159b
+  - title: "[CCAUV] Summary - 12th meeting (2019)"
+    pdf: https://www.bipm.org/documents/20126/41367045/CCAUV12_summary.pdf/011cb1b6-4c18-1dde-9a4a-7b72bcbdc5bb
+  - title: "[CCAUV] Summary - 8th meeting (2012)"
+    pdf: https://www.bipm.org/documents/20126/30720139/CCAUV8_summary.pdf/04c2b535-4d9d-c9b5-fb16-da0cc5ec379d
+  - title: "[CCAUV] Summary - 9th meeting (2013)"
+    pdf: https://www.bipm.org/documents/20126/30720157/CCAUV9_summary.pdf/eedcf74f-9890-4570-0efa-681d9da7934d
 - title: Rapports de réunion
   documents:
   - title: "[CCAUV] 13th meeting (2021)"
