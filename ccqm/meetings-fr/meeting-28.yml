@@ -5,7 +5,9 @@ metadata:
   date: '2023-04-28'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cc/ccqm/28-2023
-pdf: https://www.bipm.org/documents/20126/81977978/CCQM23-02h.pdf/ec377c1b-da1f-ebdd-36ae-e5c699c52658
+pdf:
+- https://www.bipm.org/documents/20126/81977978/CCQM23-02h.pdf/ec377c1b-da1f-ebdd-36ae-e5c699c52658
+- https://www.bipm.org/documents/20126/82330843/CCQM23-04_Secondments+Opportunities+-+Chemistry+2023.pdf/9763ed62-b2a3-7d00-65f8-c7b2a9fd606a
 resolutions: []
 working_documents:
 - title: CCQM/2023-01
@@ -24,3 +26,9 @@ working_documents:
   description: Planning for CCQM WG On-line meetings in 2023
   author: ''
   date: 01/03/2023
+- title: CCQM/2023-04
+  pdf: https://www.bipm.org/documents/20126/82330843/CCQM23-04_Secondments+Opportunities+-+Chemistry+2023.pdf/9763ed62-b2a3-7d00-65f8-c7b2a9fd606a
+  description: Visiting Scientist Opportunities in the BIPM Headquarter’s Chemistry
+    Department
+  author: ''
+  date: '09/03/2023'
