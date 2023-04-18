@@ -1,0 +1,33 @@
+---
+metadata:
+  title: 27th meeting of the CCQM
+  identifier: '27'
+  date: '2022-04-29'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccqm/27-2022
+pdf:
+- https://www.bipm.org/documents/20126/71423286/CCQM27.pdf/00d48b85-ef86-78f7-76d1-daf48355bd54
+- https://www.bipm.org/documents/20126/68877605/CCQM22-07+BIPM_Chemistry.pdf/1cf6455c-b753-6ef8-c3f5-74fe9002fc2d
+- https://www.bipm.org/documents/20126/71422857/CCQM22-68-Roadmap+to+Metrology+Readiness_15_6_22-D5.pdf/fe52b38a-d955-9eec-63bd-a697f7fa153d
+resolutions: []
+working_documents:
+- title: CCQM/2022-01
+  pdf: https://www.bipm.org/documents/20126/66502223/CCQM22-01_Plenary_Agenda/a7ca0059-3700-d2e4-2e1e-dc7141a21535
+  description: Draft Agenda of the 27th meeting of the CCQM 27-29 April 2022
+  author: ''
+  date: 25/04/2022
+- title: CCQM/2022-02
+  pdf: https://www.bipm.org/documents/20126/66581744/CCQM22-02_WG_VC-Plan.xlsx/84c4f4f8-210b-d4bb-88f9-f1341eda1f79
+  description: Planning timetable for CCQM WG VCs 1 January to 31 December 2022
+  author: ''
+  date: 03/01/2023
+- title: CCQM/2022-07
+  pdf: https://www.bipm.org/documents/20126/68877605/CCQM22-07+BIPM_Chemistry.pdf/1cf6455c-b753-6ef8-c3f5-74fe9002fc2d
+  description: Visiting Scientist Opportunities at the BIPM
+  author: R. Wielgosz
+  date: 25/03/2022
+- title: CCQM/2022-68
+  pdf: https://www.bipm.org/documents/20126/71422857/CCQM22-68-Roadmap+to+Metrology+Readiness_15_6_22-D5.pdf/fe52b38a-d955-9eec-63bd-a697f7fa153d
+  description: A roadmap to metrology readiness for infectious disease pandemic response
+  author: J. Braybrook
+  date: 16/06/2022

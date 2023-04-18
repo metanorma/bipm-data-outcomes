@@ -1,0 +1,154 @@
+---
+metadata:
+  title: CCRI(I)
+  identifier: '2009-05-13'
+  date: '2009-05-15'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccri/wg/ccri-i-/2009-05-13
+  workgroup: ccri-i-
+resolutions: []
+working_documents:
+- title: CCRI(I)/2009-00
+  pdf: https://www.bipm.org/documents/20126/48194450/working-document-ID-3317/51207f51-5187-c584-a9fb-2b24b7b84228
+  description: Draft agenda
+  author: P. Allisy
+  date: 17/04/2009
+- title: CCRI(I)/2009-02
+  pdf: https://www.bipm.org/documents/20126/48194282/working-document-ID-3322/b5d07a86-dd43-d4ad-d48e-c7313eb5e19f
+  description: Report of the CCRI President to the 2007 CIPM
+  author: G. Moscati
+  date: 13/02/2009
+- title: CCRI(I)/2009-04
+  pdf: https://www.bipm.org/documents/20126/48194062/working-document-ID-3405/1f14309f-e15a-4888-58a4-67df3ac3b62f
+  description: APMP/TCRI Activity Summary
+  author: Ming-Chen Yuan
+  date: 27/03/2009
+- title: CCRI(I)/2009-05
+  pdf: https://www.bipm.org/documents/20126/48194072/working-document-ID-3413/2767f672-85d4-e5e2-fc09-9b266c17675a
+  description: Report of the SIM laboratories to the CCRI(I)
+  author: S. Seltzer
+  date: 27/03/2009
+- title: CCRI(I)/2009-06
+  pdf: https://www.bipm.org/documents/20126/48194082/working-document-ID-3420/822c6a25-cc47-8db4-bf28-306f9a8fd0c8
+  description: AFRIMETS Report to the CCRI
+  author: Z. Msimang
+  date: 25/03/2009
+- title: CCRI(I)/2009-07
+  pdf: https://www.bipm.org/documents/20126/48194262/working-document-ID-3421/f756d7bc-b32b-417d-1988-48a9ece5aa05
+  description: Recent dosimetry activities at the NIST
+  author: S. Seltzer
+  date: 27/03/2009
+- title: CCRI(I)/2009-10
+  pdf: https://www.bipm.org/documents/20126/48194780/working-document-ID-3440/17d4932f-6bba-8c23-b9bc-50db2b647d9b
+  description: Progress report from the PTB department of Radiation Protection Dosimetry
+  author: P.Ambrosi
+  date: '09/04/2009'
+- title: CCRI(I)/2009-11
+  pdf: https://www.bipm.org/documents/20126/48194112/working-document-ID-3441/ff92e4cf-7c60-406b-93f1-91559f8dde48
+  description: PTB report on fundamentals of dosimetry
+  author: H. Rabus
+  date: '09/04/2009'
+- title: CCRI(I)/2009-12
+  pdf: https://www.bipm.org/documents/20126/48194790/working-document-ID-3447/caa08843-9dd1-a0eb-99cc-5b74df848815
+  description: EURAMET RI TC Report
+  author: I. Csete
+  date: 15/04/2009
+- title: CCRI(I)/2009-13
+  pdf: https://www.bipm.org/documents/20126/48194122/working-document-ID-3452/0d10abd1-986d-368f-9e09-eb75e9d23b42
+  description: Update on the NIST second-generation room-temperature water calorimeter
+  author: H. Chen-Mayer
+  date: 15/04/2009
+- title: CCRI(I)/2009-14
+  pdf: https://www.bipm.org/documents/20126/48194132/working-document-ID-3453/a819079d-9ba3-13d9-f181-121c0678e5b9
+  description: Update on NIST beta-particle dosimetry standards and calibrations
+  author: C.G. Soares
+  date: 15/04/2009
+- title: CCRI(I)/2009-15
+  pdf: https://www.bipm.org/documents/20126/48194142/working-document-ID-3454/7c15fa08-1633-2987-8b70-9c107a14dcbb
+  description: An update on the NIST program for Cs-137 and Co-60 gamma-ray beams
+  author: R. Minniti
+  date: 15/04/2009
+- title: CCRI(I)/2009-16
+  pdf: https://www.bipm.org/documents/20126/48194152/working-document-ID-3455/1f38c1d0-33c9-8d7a-a798-cf4d5efd8d62
+  description: NIST low-energy photon brachytherapy standards and calibrations
+  author: M.G. Mitch
+  date: 15/04/2009
+- title: CCRI(I)/2009-17
+  pdf: https://www.bipm.org/documents/20126/48194162/working-document-ID-3456/1fd874af-c50f-b085-5ef9-afdc9b14b99c
+  description: Update on NIST air-kerma standards and calibrations
+  author: M. OBrien
+  date: 15/04/2009
+- title: CCRI(I)/2009-18
+  pdf: https://www.bipm.org/documents/20126/48194362/working-document-ID-3457/418f9702-9211-9963-c374-5bd19e3dc274
+  description: IRS-NRC Dosimetry activities report
+  author: C. Ross
+  date: 16/04/2009
+- title: CCRI(I)/2009-20
+  pdf: https://www.bipm.org/documents/20126/48194182/working-document-ID-3459/e6c42ec4-3fd5-0f15-9d23-e0c3630686ae
+  description: Progress report on photon dosimetry at the CMI
+  author: V. Sochor
+  date: 17/04/2009
+- title: CCRI(I)/2009-22
+  pdf: https://www.bipm.org/documents/20126/48194292/working-document-ID-3464/2409da6e-f152-b770-fdbf-1a752cd4c231
+  description: Progress report on radiation dosimetry at the NPL
+  author: P. Sharpe
+  date: 20/04/2009
+- title: CCRI(I)/2009-23
+  pdf: https://www.bipm.org/documents/20126/48194202/working-document-ID-3466/0ca2300f-2983-c631-3dd7-0c84a1c6ee13
+  description: Update on NIST radiation-processing (high-dose) dosimetry services
+  author: M.F. Desrosiers
+  date: 20/04/2009
+- title: CCRI(I)/2009-24
+  pdf: https://www.bipm.org/documents/20126/48194212/working-document-ID-3467/02b46814-76b8-42d5-9cee-bea6fe360294
+  description: NIST-sponsored comparison of standards for absorbed dose to water (radiation
+    processing levels)
+  author: M.F. Desrosiers
+  date: 20/04/2009
+- title: CCRI(I)/2009-25
+  pdf: https://www.bipm.org/documents/20126/48194222/working-document-ID-3470/a533a67c-062b-2a71-032c-3c2e5a8ac3b9
+  description: Report to the CCRI(I) from the ENEA-INMRI on photon and charged particle
+    dosimetry 2007-2009
+  author: R. F. Laitano
+  date: '08/06/2009'
+- title: CCRI(I)/2009-26
+  pdf: https://www.bipm.org/documents/20126/48196210/working-document-ID-3509/b7bb1be7-2c56-98c2-d343-03b7929fd1a5
+  description: Progress report of the VNIIM
+  author: A. Villevalde
+  date: 23/04/2009
+- title: CCRI(I)/2009-27
+  pdf: https://www.bipm.org/documents/20126/48193952/working-document-ID-3547/37403812-752b-0c3b-109a-d5704422965e
+  description: Progress report on radiation dosimetry standards, facilities and related
+    topics at VSL, 2007-2009
+  author: E. van Dijk
+  date: 28/04/2009
+- title: CCRI(I)/2009-29
+  pdf: https://www.bipm.org/documents/20126/48194272/working-document-ID-3549/41eb15b4-990d-9ede-f142-796c354d96db
+  description: Report on IAEA activities for the CCRI(I) 2007-2008
+  author: A. Meghzifene
+  date: 29/04/2009
+- title: CCRI(I)/2009-31
+  pdf: https://www.bipm.org/documents/20126/48193962/working-document-ID-3552/eae4341f-d3f3-f259-d262-962199c4cdf2
+  description: Recent activities in measurement standards and dosimetry at ARPANSA,
+    2007-2009
+  author: D. Webb
+  date: 30/04/2009
+- title: CCRI(I)/2009-33
+  pdf: https://www.bipm.org/documents/20126/48193982/working-document-ID-3557/2c643c94-9dbb-2c75-1bbc-92a997d24222
+  description: Progress report on radiation dosimetry at the MKEH
+  author: I. Csete
+  date: 04/05/2009
+- title: CCRI(I)/2009-34
+  pdf: https://www.bipm.org/documents/20126/48193992/working-document-ID-3558/e83fea1f-85ac-cddc-2fb5-a226111c7dd4
+  description: Dosimetry comparisons and calibrations at the BIPM 2007 to 2009
+  author: P. Allisy
+  date: 05/05/2009
+- title: CCRI(I)/2009-39
+  pdf: https://www.bipm.org/documents/20126/48194032/working-document-ID-3604/7e7667ca-3579-b833-d80e-54ac0f338374
+  description: ICRU Report
+  author: S. Seltzer
+  date: 19/05/2009
+- title: CCRI(I)/2009-40
+  pdf: https://www.bipm.org/documents/20126/48194052/working-document-ID-3607/d11ee51d-d119-44f2-f2e9-5a59439027d0
+  description: Report from the COOMET
+  author: V. Yarina
+  date: 19/05/2009

@@ -1,0 +1,367 @@
+---
+metadata:
+  title: 15e réunion du JCRB
+  identifier: '15'
+  date: '2005-09-28'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+pdf: https://www.bipm.org/documents/20126/30859746/JCRB15.pdf/7e04a575-2d87-b061-49e6-99c6e014bf8e
+resolutions:
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-1 (2005)
+  identifier: 15-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Executive Secretary is to correct the minutes of the JCRB 14 to reflect
+      the correct number of the document in Action 14/6 to be JCRB-14/06(3) and repost
+      them in all appropriate sections of the JCRB website.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-2 (2005)
+  identifier: 15-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CMCs
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Executive Secretary is to introduce a note onto the minutes of the JCRB 14
+    to reflect the fact that the end of the CIPM MRA transition period for chemical
+    metrology is December 31, 2005.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-3 (2005)
+  identifier: 15-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Executive Secretary is to change the CIPM MRA logo which appears in the minutes
+    of the JCRB 14 by the correct one.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-4 (2005)
+  identifier: 15-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - JCRB
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Executive Secretary is to update the JCRB mailing list to reflect
+      changes in APMPs representation and is to maintain Dr Usuda in the mailing list.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-5 (2005)
+  identifier: 15-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Designated institutes
+  considerations: []
+  actions: []
+  x-unparsed:
+  - All RMO Representative are to assure that letters of designation are received
+    by the Director of the BIPM for Designated Laboratories in their region.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-6 (2005)
+  identifier: 15-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: Dr Korostin is to send updated list of COOMET stem:["TC"] chairs to the
+      Executive Secretary.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-7 (2005)
+  identifier: 15-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Chairman is to draft a paper on the pros and cons associated with
+      the use of regional databases to aid local efforts and how their existence might
+      lower the confidence of regulators on the CIPM MRA.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-8 (2005)
+  identifier: 15-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - RMO
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The RMO JCRB Representatives are to work with the JCRB Executive Secretary to
+    assure that the most up to date information is available on all the Technical
+    Chairs of Working Groups in the regions.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-9 (2005)
+  identifier: 15-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: is produce a paper to supplement the definition of the term CMC that
+      appears on JCRB-08/18 and forward it to the RMOs and CIPM for consideration
+      prior to the 16th meeting of the JCRB.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-10 (2005)
+  identifier: 15-10
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Chairman is to forward guidance on the use of the CIPM MRA Logo to
+      the RMOs prior to the next JCRB meeting.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-11 (2005)
+  identifier: 15-11
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - QMS
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Prof. Kühne, Mr Jones and the Executive Secretary are to draft a
+      new version of JCRB-15/09 which strikes a compromise between the positions of
+      APMP and EUROMET. The document should properly reference existing JCRB documents
+      and be sent to the committee for review prior to the next meeting.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-12 (2005)
+  identifier: 15-12
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CMCs
+  - Comparaisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Chairman is to send a letter to the Consultative Committees Presidents
+      asking them to stress the need to support CMCs when devising the scope of new
+      Key Comparisons
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/15-13 (2005)
+  identifier: 15-13
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The RMOs are to make a small presentation during the next JCRB meeting
+      describing the QS review process in their region.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: decision
+  title: Déclaration JCRB/15-1 (2005)
+  identifier: 15-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Designated institutes
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'Decision on re-designation of national laboratories for purposes of the CIPM
+    MRA: (a) no requirement of re-designation; (b) re-designation every 5-years.'
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: decision
+  title: Déclaration JCRB/15-2 (2005)
+  identifier: 15-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CMCs
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Decision on what the response of the CIPM MRA should be to problems in the area
+    of Material Metrology.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-1 (2005)
+  identifier: 15-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - JCRB Recommendations are to be clearly listed in the minutes of all future JCRB
+    meetings.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-2 (2005)
+  identifier: 15-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Guidance documents
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - As per the Terms of Reference of the JCRB, the JCRB makes recommendations on the
+    implementation of the CIPM MRA. Those recommendations need to be approved by the
+    RMOs and/or the CIPM prior to becoming policy.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-3 (2005)
+  identifier: 15-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2005-09-28'
+    message: The Chairman will make every attempt to fast-track the approval of JCRB
+      recommendations by the CIPM. Likewise, and concurrently with the above, the
+      RMO representatives to the JCRB will make every attempt to fast-track the approval
+      of JCRB recommendations by their RMO General Assemblies. If possible, these
+      approval consultation processes will be done using email.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-4 (2005)
+  identifier: 15-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Meetings
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The frequency of JCRB meetings is to be reconsidered at each meeting.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-5 (2005)
+  identifier: 15-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2005-09-28'
+    message: The CMC definition that appears in JCRB-08/18 is to be supplemented by
+      a paper to be crafted by the BIPM, reviewed by the RMOs, and approved by the
+      CIPM. The purpose of this supplement is to clarify the current definition for
+      the benefit of accreditors.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-6 (2005)
+  identifier: 15-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2005-09-28'
+    message: RMOs are to invite Chairs of Technical Committees from other RMOs, as
+      well as the heads of those RMOs, to the meetings of their Quality System review
+      groups. The Chairman and Executive Secretary should also be notified of upcoming
+      meetings.
+- dates:
+  - '2005-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/15-7 (2005)
+  identifier: 15-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/15-2005
+  categories:
+  - Comparaisons
+  considerations: []
+  actions:
+  - type: encourages
+    date_effective: '2005-09-28'
+    message: The JCRB endorses the flexible-criteria as expressed in JCRB-14/06(2a)
+      and encourages the RMO representatives to inform their Technical Chairs of this
+      decision. The JRCB goes on to remind all that participation in Key Comparisons
+      is obligatory when available - to choose to not participate in a Key Comparisons
+      will result in adverse action against the laboratory choosing not to participate.
+      The JCRB requests that all Key Comparisons (CC and RMO) be notified to the KCDB
+      Office in a timely fashion.
+working_documents:
+- title: JCRB/15-04
+  pdf: https://www.bipm.org/documents/20126/32650355/working-document-cc-jc-private-ID-1964/628a8186-1dd8-6a69-e838-52486c64ecc5
+  description: KCDB Report
+  author: ''
+  date: 19/09/2005

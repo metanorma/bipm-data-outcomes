@@ -1,0 +1,90 @@
+---
+metadata:
+  title: 38e réunion du JCRB (Bern, Suisse)
+  identifier: '38'
+  date: '2017-09-14'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/38-2017
+pdf: https://www.bipm.org/documents/20126/34908445/JCRB38.pdf/89923358-9b85-8ec1-bec8-3980dc6d346e
+resolutions:
+- dates:
+  - '2017-09-14'
+  subject: JCRB
+  type: action
+  title: Action JCRB/38-1 (2013)
+  identifier: 38-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/38-2017
+  categories:
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    Following the lessons learned during the work using the RACI analysis tool, the JCRB proposes to progress towards the development of a strategy and action plan.
+    The JCRB requests a working group consisting of Alan Steele (Chair), Toshiyuki Takatsuji, Andy Henson, Beat Jeckelmann, Wynand Louw, Mohammed Al Mulla, Pavel Neyezhmakov and Willie May to engage with the CIPM and subsequently develop some questions and draft text to initiate discussion at a one-day working session to develop both the strategy, and consequent actions at the extended JCRB Meeting in March 2018.
+- dates:
+  - '2017-09-14'
+  subject: JCRB
+  type: action
+  title: Action JCRB/38-2 (2013)
+  identifier: 38-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/38-2017
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2017-09-14'
+    message: The JCRB requests the CIPM to invite representation from the JCRB to
+      take part in meetings of the CC Presidents in order to encourage communication
+      between the JCRB and the CCs.
+- dates:
+  - '2017-09-14'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/38-1 (2013)
+  identifier: 38-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/38-2017
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    RMOs and CCs are encouraged to further implement a risk-based approach to review of CMCs and to develop statements for the levels of CMCs for which an intra-RMO review may be sufficient for the purposes of international acceptance.
+    Taking note of the needs of NMIs and DIs at all levels, as a means towards implementation of recommendation 3b of the CIPM MRA review, the JCRB encourages Consultative Committees and the BIPM to continue to explore means to allow NMIs and DIs to publish CMCs in the KCDB for only their smallest uncertainty capabilities that are then used to support related services covered by their approved Quality System. Proposals are requested as to how to show the link between these capabilities and the "representative " CMCs. RMOs are encouraged to propose additions to the Quality System review process to effect a fit-for-purpose review of these capabilities.
+- dates:
+  - '2017-09-14'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/38-2 (2013)
+  identifier: 38-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/38-2017
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 39th meeting of the JCRB will take place on March 14, 15 and 16, 2018 at Sevres,
+    France. The meeting will start in the morning of March 14, 2018 and will last
+    three days with the end of last day at 16.00.
+- dates:
+  - '2017-09-14'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/38-3 (2013)
+  identifier: 38-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/38-2017
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 40th meeting of the JCRB will take place on March 2019. The exact days and
+    place for the Meeting will be determined later.
+working_documents:
+- title: JCRB/38-08.0
+  pdf: https://www.bipm.org/documents/20126/32643983/working-document-cc-jc-private-ID-10548/2e81165a-8480-4ae4-4a2f-5393b11c327e
+  description: KCDB REPORT TO THE 38th JCRB MEETING
+  author: ''
+  date: 06/09/2017

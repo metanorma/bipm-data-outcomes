@@ -1,0 +1,121 @@
+---
+metadata:
+  title: 25e réunion du CCT
+  identifier: '25'
+  date: '2010-05-07'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/cct/25-2010
+resolutions:
+- dates:
+  - '2010-05-07'
+  subject: CCT
+  type: recommendation
+  title: Mission du CCT
+  identifier: 1
+  url: https://www.bipm.org/fr/committees/cc/cct/25-2010/resolution-1
+  reference: https://www.bipm.org/documents/20126/2071118/CCT25.pdf/e8951f4a-ad9a-a7b5-443a-9283d655be6b
+  reference_name: Comptes rendus du 25e CCT (2010), 2010
+  reference_page: 48
+  considerations: []
+  actions: []
+- dates:
+  - '2010-05-07'
+  subject: CCT
+  type: recommendation
+  title: Considérations sur une nouvelle définition du kelvin
+  identifier: 2
+  url: https://www.bipm.org/fr/committees/cc/cct/25-2010/resolution-2
+  reference: https://www.bipm.org/documents/20126/2071118/CCT25.pdf/e8951f4a-ad9a-a7b5-443a-9283d655be6b
+  reference_name: Comptes rendus du 25e CCT (2010), 2010
+  reference_page: 49
+  considerations: []
+  actions: []
+- dates:
+  - '2010-05-07'
+  subject: CCT
+  type: recommendation
+  title: Sur les mesures liées au climat et aux observations météorologiques
+  identifier: 3
+  url: https://www.bipm.org/fr/committees/cc/cct/25-2010/resolution-3
+  reference: https://www.bipm.org/documents/20126/2071118/CCT25.pdf/e8951f4a-ad9a-a7b5-443a-9283d655be6b
+  reference_name: Comptes rendus du 25e CCT (2010), 2010
+  reference_page: 50
+  considerations: []
+  actions: []
+working_documents:
+- title: CCT/2010-11
+  pdf: https://www.bipm.org/documents/20126/28436740/working-document-ID-3970/c93dce44-c289-3d7b-6684-4632150d1750
+  description: Index of refraction effects in blackbody temperature measurements
+  author: A. A. Gaertner, NRC
+  date: 16/04/2010
+- title: CCT/2010-12/rev2
+  pdf: https://www.bipm.org/documents/20126/28436399/working-document-ID-3997/58da5b21-f5a3-79a8-1516-4aa3dd1fc74d
+  description: Realisation and dissemination of thermodynamic temperature above the
+    silver point (1234.93 K)
+  author: Graham Machin et al. (WG5)
+  date: 15/06/2010
+- title: CCT/2010-13/rev2
+  pdf: https://www.bipm.org/documents/20126/28436410/working-document-ID-5499/d078ad54-effc-cfc8-2ad9-9ddcc0c41823
+  description: MeP-K Direct Method
+  author: G. Machin et al. (WG5)
+  date: 02/11/2012
+- title: CCT/2010-14/rev1
+  pdf: https://www.bipm.org/documents/20126/28436421/working-document-ID-3999/3df9bbc2-025e-55e0-313c-de58209d578e
+  description: MeP-K Indirect methods
+  author: Graham Machin et al. (WG5)
+  date: 23/04/2010
+- title: CCT/2010-15/rev2
+  pdf: https://www.bipm.org/documents/20126/28436883/working-document-ID-4033/0be36372-977a-2587-cdd4-8370e7da2dae
+  description: Working Group 4 Report to CCT; 05 May 2010
+  author: Joachim Fischer, Chair
+  date: 12/05/2010
+- title: CCT/2010-16
+  pdf: https://www.bipm.org/documents/20126/28436443/working-document-ID-4004/fc6821a7-e07c-73c4-262f-d6bd6891b81e
+  description: Task Group on the SI (TG-SI) Report to CCT
+  author: Joachim Fischer, Chair
+  date: 26/04/2010
+- title: CCT/2010-17
+  pdf: https://www.bipm.org/documents/20126/28436982/working-document-ID-4005/9d09752e-fc1b-3b18-c249-82c3e621b555
+  description: Extension of thermodynamic temperature data up to 36 K with dielectric-constant
+    gas thermometry using 3He, 4He and Ne as measuring gases
+  author: C. Gaiser, B. Fellmuth
+  date: 26/04/2010
+- title: CCT/2010-19
+  pdf: https://www.bipm.org/documents/20126/28436454/working-document-ID-4007/5e3c5f19-769c-c60d-732d-086752baa17a
+  description: A procedure for estimating ideal freezing temperatures using the gradient
+    of the freezing plateau
+  author: J.C. Greenwood et al.
+  date: 28/04/2010
+- title: CCT/2010-21
+  pdf: https://www.bipm.org/documents/20126/28436465/working-document-ID-4009/03b7550d-945f-94e8-4cac-425f8a8e5c00
+  description: Extrapolation of the ITS-90 down to the boiling point of nitrogen from
+    the triple point of argon
+  author: T. Nakano and O. Tamura
+  date: 29/04/2010
+- title: CCT/2010-22
+  pdf: https://www.bipm.org/documents/20126/28436476/working-document-ID-4010/461f0b70-a5b5-ad83-1e9b-e3797d451bf5
+  description: Direct cell comparison for evaluation of impurity effect in fixed-point
+    realization
+  author: J.V. Widiatmo et al.
+  date: 29/04/2010
+- title: CCT/2010-23/rev
+  pdf: https://www.bipm.org/documents/20126/28436487/working-document-ID-4011/04a47dba-bba4-71af-e8e6-38836a0d3b92
+  description: The resistance ratio criteria of PRTs as interpolating instruments
+    for ITS-90
+  author: K. Yamazawa et al.
+  date: 15/09/2010
+- title: CCT/2010-25/rev1
+  pdf: https://www.bipm.org/documents/20126/28436872/working-document-ID-4013/1eb7f1aa-2235-ce71-01eb-ef01accc8740
+  description: CCT - WG5 Activity Report to CCT
+  author: Graham Machin, Chair
+  date: 04/05/2010
+- title: CCT/2010-35/rev1
+  pdf: https://www.bipm.org/documents/20126/28436993/working-document-ID-4028/82138610-6def-d6db-ebf0-85fecfe0b1b8
+  description: The discontinuity in T90 at the triple point of water
+  author: Rod White, MSL
+  date: 17/05/2010
+- title: CCT/2010-38
+  pdf: https://www.bipm.org/documents/20126/28436432/working-document-ID-4034/e994ae88-6700-6055-bc99-6449766ec070
+  description: Minutes of CCT-WG5 Meeting
+  author: Graham Machin, Chair
+  date: 17/05/2010

@@ -1,0 +1,415 @@
+---
+metadata:
+  title: 19e réunion du JCRB (Ottawa, Canada)
+  identifier: '19'
+  date: '2007-09-28'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+pdf: https://www.bipm.org/documents/20126/41050024/JCRB19.pdf/53ea2a36-7cf3-16a1-c778-fc21509af01b
+resolutions:
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-1 ()
+  identifier: 19-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Comparaisons
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The policy stated in Recommendation 19/1 is to be included in the flowchart of
+    the key comparison process (JCRB-11/2(a)) available in the open-access documents
+    section of the JCRB website. (Executive Secretary).
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-2 ()
+  identifier: 19-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Traceability
+  - ILAC
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The policy stated in Recommendation 19/4 should be discussed during the 2008 RMO-RAB
+    prior to its recommendation to the CIPM. (Executive Secretary).
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-3 ()
+  identifier: 19-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO annual reports on quality systems are to be appended to their JCRB reports.
+    (RMOs).
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-4 ()
+  identifier: 19-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Comparaisons
+  - RMO
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Keep the status of KC current in the KCDB by sending the latest information to
+    the KCDB Office. It is suggested that the RMOs do this at least prior to each
+    JCRB meeting. (RMOs).
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-5 ()
+  identifier: 19-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - RMO
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: Amend the document _Suggested Content of RMO Report to the JCRB_ (JCRB-18/03.7).
+      _(Executive Secretary and Luis Mussio)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-6 ()
+  identifier: 19-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: Post a revised file for APMP.L.4.2006 in the JCRB CMC Site. _(APMP)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-7 ()
+  identifier: 19-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: 'Make a number of changes to the _Guide to the implementation of the
+      CIPM MRA_ (JCRB-19/08): _(Executive Secretary)_.'
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-8 ()
+  identifier: 19-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: Create a master list of the CIPM MRA related documents using a numbering
+      system similar to that use in the quality manuals. _(Executive Secretary)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-9 ()
+  identifier: 19-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: Distribute the new rules of procedure and collect and consolidate changes
+      for two weeks. _(Executive Secretary)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-10 ()
+  identifier: 19-10
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: Inform the CIPM of the new rules of procedure of the JCRB (JCRB-19/09.final).
+      _(Chairman)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-11 ()
+  identifier: 19-11
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Comparaisons
+  - RMO
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: SIM is to inform all other RMOs of the comparisons needs of LACOMET.
+      _(SIM)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-12 ()
+  identifier: 19-12
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Comparaisons
+  - RMO
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2007-09-28'
+    message: RMOs are to help LACOMET meet its current needs for comparisons by inviting
+      them to participate in RMO KCs and/or bilateral comparisons as appropriate.
+      _(RMOs)_.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: action
+  title: Action JCRB/19-13 ()
+  identifier: 19-13
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - CMCs
+  - CMC review
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMOs are to nominate members for the new CCTF WG on CMCs. (RMOs).
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/19-1 ()
+  identifier: 19-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Comparaisons
+  - CMCs
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2007-09-28'
+    message: The JCRB recommends the adoption of a new policy on the reporting of
+      the implications of comparison results on published CMCs.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/19-2 ()
+  identifier: 19-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Uncertainty
+  - CMCs
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2007-09-28'
+    message: The JCRB recommends that the uncertainty statements of the BIPM’s calibration
+      and measurement capabilities should appear more prominently in the BIPM website
+      and in the KCDB.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/19-3 ()
+  identifier: 19-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - QMS
+  - International organizations
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2007-09-28'
+    message: The JCRB recommends that the BIPM quality system should presented to
+      the International Panel on March 2008, following the guidelines outlined in
+      the document _Guidelines for the Review of CMCs and the Monitoring and Reporting
+      of the Operation_ _of Quality Systems by International Intergovernmental Organizations
+      Who Are Signatories of the CIPM MRA_ (CIPM/06-03), and that the International
+      Panel report its impressions to the CIPM no later than 60-days prior to the
+      2008 CIPM meeting.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/19-4 ()
+  identifier: 19-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Traceability
+  - CMCs
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2007-09-28'
+    message: |-
+      The JCRB recommends that for purposes of publishing CMC in the KCDB the following guidelines on traceability be followed: +
+      1. an NMI taking traceability for the entire calibration of its national standard fromanother laboratory must choose either the BIPM or another NMI signatory to the CIPM MRA having an independent realization of the SI unit or quantity at the appropriate level of uncertainty and having published CMCs in the relevant area; +
+      2. an NMI taking traceability in this way must still make a full assessment of the uncertainties involved in its calibration activity and must openly declare its chosen traceability route when providing its CMCs for regional and inter-regional reviews; +
+      3. NMIs are free to make use of certificates from laboratories appropriately accredited by a signatory to the ILAC Arrangement for calibration of instrumentation, major reference standards, or measurement systems which form part of its national realizations provided that the uncertainty of such calibrations has only a minor influence on the total combined uncertainty of the CMC.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/19-5 ()
+  identifier: 19-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2007-09-28'
+    message: The JCRB recommends the adoption of the new CMC definition with its accompanying
+      notes.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/19-6 ()
+  identifier: 19-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2007-09-28'
+    message: The JCRB recommends that the Guide to the implementation of the CIPM
+      MRA (JCRB-19/08) shall only quote the essential portions of the CIPM MRA and
+      other policy and guideline documents to improve its readability.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/19-1 ()
+  identifier: 19-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - NMIs wishing to change the method of evaluation of their quality systems (see
+    CIPM MRA, section 7.3, pp. 35 {English version}) will have a 1-year grace period
+    to make the change. The RMOs are to inform the Joint Committee of such changes
+    in their annual report on the status of the quality systems of their NMIs. Changes
+    requiring more than 1-year to implement will necessitate the temporary removal
+    of the NMI's CMCs from the KCDB.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/19-2 ()
+  identifier: 19-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - CMCs
+  - ILAC
+  - Accreditation
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB praises the accreditation community for their willingness to adopt the
+    term CMC.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/19-3 ()
+  identifier: 19-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Ajchara Charoensook, from APMP, is to support the peer-review evaluation of NIS
+    to be conducted by EURAMET on January 2008.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/19-4 ()
+  identifier: 19-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: thanks / expresses-appreciation
+    date_effective: '2007-09-28'
+    message: The JCRB thanked Steve Carpenter, Ichiro Fujima and Keith Jones for their
+      services to the Joint Committee.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/19-5 ()
+  identifier: 19-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The second meeting of the JCRB will be held in Wellington, New Zealand on May
+    1-2, 2008.
+- dates:
+  - '2007-09-28'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/19-6 ()
+  identifier: 19-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/19-2007
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The second meeting of 2008 will be held at the BIPM in Sèvres, France on September
+    2008.
+working_documents:
+- title: JCRB/19-04
+  pdf: https://www.bipm.org/documents/20126/32648437/working-document-cc-jc-private-ID-2866/d3bc7de0-c8ed-e96e-71d5-0e00eb775cc4
+  description: KCDB report
+  author: ''
+  date: 05/09/2007

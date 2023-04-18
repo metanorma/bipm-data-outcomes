@@ -1,0 +1,162 @@
+---
+metadata:
+  title: 21st meeting of the JCRB
+  identifier: '21'
+  date: '2008-09-25'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+pdf: https://www.bipm.org/documents/20126/30859737/JCRB21.pdf/145acc2c-b4ed-26ed-1b0c-6510c713f5ad
+resolutions:
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: action
+  title: Action JCRB/21-1 (2008)
+  identifier: 21-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - CMCs
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-09-25'
+    message: The RMOs will include the status of their greyed-out CMCs in their reports
+      to the 22nd JCRB.
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: action
+  title: Action JCRB/21-2 (2008)
+  identifier: 21-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - CMCs
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-09-25'
+    message: 'will consult the CCs on the particular procedures used, or proposed,
+      for the re-review of CMCs and report to the next JCRB meeting. _Responsible:
+      Executive Secretary._'
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: action
+  title: Action JCRB/21-3 (2008)
+  identifier: 21-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - Traceability
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-09-25'
+    message: 'Prepare a guideline with instructions for the declarations of traceability
+      in the CMC submissions. This guideline will be included in a future version
+      of the document "Calibration and Measurement Capabilities in the Context of
+      the CIPM MRA" (CIPM MRA - D- 04). _Responsible: BIPM_.'
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/21-1 (2008)
+  identifier: 21-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2008-09-25'
+    message: The JCRB recommends that the CIPM approve document CIPM MRA-G-01, "Guide
+      to the implementation of the CIPM MRA".
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/21-2 (2008)
+  identifier: 21-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - Guidance documents
+  - CMCs
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2008-09-25'
+    message: The JCRB recommends that the CIPM approve document CIPM MRA-D-04, "CMCs
+      in the context of the CIPM MRA".
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/21-3 (2008)
+  identifier: 21-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - Guidance documents
+  - JCRB
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2008-09-25'
+    message: The JCRB recommends that the CIPM approve document CIPM MRA-D-01, "Rules
+      of Procedure for the JCRB", Version 6.
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/21-4 (2008)
+  identifier: 21-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - Guidance documents
+  - RMO
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2008-09-25'
+    message: The JCRB recommends that the CIPM approve document CIPM MRA-P-01, "Procedure
+      for approval of a new RMO".
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/21-5 (2008)
+  identifier: 21-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2008-09-25'
+    message: The JCRB recommends that the CIPM approve AFRIMET as an expansion of
+      SADCMET.
+- dates:
+  - '2008-09-25'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/21-1 (2008)
+  identifier: 21-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/21-2008
+  categories:
+  - CMCs
+  - Traceability
+  considerations:
+  - type: noting
+    date_effective: '2008-09-25'
+    message: CMCs that do not comply with JCRB Resolution 19/4 will not be greyed-out.
+      The review of the traceability statements of CMCs will be performed by the RMOs
+      in the periodical review of CMCs and QS.
+  actions: []
+working_documents:
+- title: JCRB/21-05
+  pdf: https://www.bipm.org/documents/20126/32647703/working-document-cc-jc-private-ID-3147/4260bab2-2982-761c-48b1-890b0d76808c
+  description: KCDB Report
+  author: ''
+  date: 11/09/2008

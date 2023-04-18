@@ -1,0 +1,54 @@
+---
+metadata:
+  title: 26th meeting of the CCT
+  identifier: '26'
+  date: '2012-05-25'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/cct/26-2012
+resolutions: []
+working_documents:
+- title: CCT/2012-07
+  pdf: https://www.bipm.org/documents/20126/28435677/working-document-ID-5058/8fd49ede-0e53-66b1-050a-edeae2c2f62c
+  description: Disentangling Classical and Bayesian Approaches to Uncertainty Analysis
+  author: Robin Willink and Rod White
+  date: 11/04/2012
+- title: CCT/2012-08
+  pdf: https://www.bipm.org/documents/20126/28433477/working-document-ID-5522/e0ff28b6-2ec9-2e3b-08d2-e7ce201d04e5
+  description: Working Group 3 Report to the CCT - May 2012
+  author: D.R. White
+  date: 21/11/2012
+- title: CCT/2012-13
+  pdf: https://www.bipm.org/documents/20126/28433466/working-document-ID-5517/4b9d2fc1-d7c3-88cd-90e7-3eecd21cf7b9
+  description: TASK GROUP ON THE SI (TG-SI) REPORT TO CCT
+  author: J. Fischer
+  date: 21/11/2012
+- title: CCT/2012-14
+  pdf: https://www.bipm.org/documents/20126/28436608/working-document-ID-5521/506f4986-a48b-38ea-a1b2-5072e2b8f5c5
+  description: WORKING GROUP 4 REPORT TO CCT
+  author: J. Fischer
+  date: 21/11/2012
+- title: CCT/2012-17
+  pdf: https://www.bipm.org/documents/20126/28435501/working-document-ID-5519/fb93bec6-c205-d79c-f619-b845e0165d7d
+  description: Proposal for Criteria for the Inclusion of a Method in the MeP-K
+  author: B. Fellmuth and J. Fischer
+  date: 21/11/2012
+- title: CCT/2012-19
+  pdf: https://www.bipm.org/documents/20126/28435446/working-document-ID-5518/e0aa4b9b-dbf7-041e-e8b0-36528fc089c9
+  description: Proposal for a Nomenclature for the MeP-K
+  author: B. Fellmuth and J. Fischer
+  date: 21/11/2012
+- title: CCT/2012-20
+  pdf: https://www.bipm.org/documents/20126/28435512/working-document-ID-5520/d1c602bb-0fee-4d64-b5a1-fa2b546d5ae7
+  description: CCT-WG5 Activity Report May 2010 to May 2012
+  author: G. Machin
+  date: 21/11/2012
+- title: CCT/2012-21
+  pdf: https://www.bipm.org/documents/20126/28435765/working-document-ID-5127/19d6f2f5-b17d-2d57-6bab-d6600a90963c
+  description: Isotopic Effects in the Neon Fixed Point (revised)
+  author: Peter P.M. Steur et al.
+  date: 20/02/2013
+- title: CCT/2012-23
+  pdf: https://www.bipm.org/documents/20126/28435787/working-document-ID-5516/70f8e4f8-191e-b42d-aa3e-123b693f951b
+  description: Report of the WG6 2012
+  author: S. Bell et al.
+  date: 16/11/2012

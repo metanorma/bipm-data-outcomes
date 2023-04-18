@@ -1,0 +1,64 @@
+---
+metadata:
+  title: 7th meeting of the JCRB
+  identifier: '7'
+  date: '2001-10-09'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/jc/jcrb/7-2001
+pdf: https://www.bipm.org/documents/20126/38667118/JCRB7.pdf/3b2fe4a3-a9ed-db62-a6eb-2ee628b4eed6
+resolutions:
+- dates:
+  - '2001-10-09'
+  subject: JCRB
+  type: action
+  title: Action JCRB/7-1 (2001)
+  identifier: 7-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/7-2001
+  categories:
+  - QMS
+  considerations:
+  - type: noting
+    date_effective: '2001-10-09'
+    message: |-
+      An ad hoc Working Group is established to formulate the minimum requirements on what has to be reported about the review of the quality systems of the NMIs. +
+      The members of this ad hoc WG are: +
+      P. Hetherington (convenor, Note; P.Hetherington replaces M. Plantenga) +
+      H. Semerjian +
+      stem:["K"]. Seta +
+      R. Kaarls
+  actions: []
+- dates:
+  - '2001-10-09'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/7-1 (2001)
+  identifier: 7-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/7-2001
+  categories:
+  - CMCs
+  - Uncertainty
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'It was also decided that in relevant cases with respect to the uncertainty claims
+    of CRMs the following note in Appendix C may be added: "For this CMC k is not
+    explicitly k=2 but for some CRMs included in this CMC k may not equal 2, although
+    all uncertainties have a 95% confidence interval".'
+- dates:
+  - '2001-10-09'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/7-2 (2001)
+  identifier: 7-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/7-2001
+  categories:
+  - CIPM MRA
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - This certificate is consistent with the capabilities that are included in Appendix
+    C of the MRA drawn up by the CIPM. Under the MRA, all participating institutes
+    recognize the validity of each other's calibration and measurement certificates
+    for the quantities, ranges and measurement uncertainties specified in Appendix
+    C (for details see https://www.bipm.org).

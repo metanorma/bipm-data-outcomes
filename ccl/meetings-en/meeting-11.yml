@@ -1,0 +1,44 @@
+---
+metadata:
+  title: 11th meeting of the CCL
+  identifier: '11'
+  date: '2003-09-12'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccl/11-2003
+resolutions:
+- dates:
+  - '2003-09-12'
+  subject: CCL
+  type: recommendation
+  title: Future BIPM work in laser and length metrology
+  identifier: 1
+  url: https://www.bipm.org/en/committees/cc/ccl/11-2003/resolution-1
+  reference: https://www.bipm.org/documents/20126/2070984/CCL11.pdf/bc71a911-5e68-ee71-fe31-42d5ba39001f
+  reference_name: Proceedings of the 11th CCL (2003), 2004
+  reference_page: 44
+  considerations: []
+  actions: []
+- dates:
+  - '2003-09-12'
+  subject: CCL
+  type: recommendation
+  title: Revision of the Mise en Pratique list of recommended radiations
+  identifier: 2
+  url: https://www.bipm.org/en/committees/cc/ccl/11-2003/resolution-2
+  reference: https://www.bipm.org/documents/20126/2070984/CCL11.pdf/bc71a911-5e68-ee71-fe31-42d5ba39001f
+  reference_name: Proceedings of the 11th CCL (2003), 2004
+  reference_page: 45
+  considerations: []
+  actions: []
+- dates:
+  - '2003-09-12'
+  subject: CCL
+  type: recommendation
+  title: Future organization of optical frequency measurements
+  identifier: 3
+  url: https://www.bipm.org/en/committees/cc/ccl/11-2003/resolution-3
+  reference: https://www.bipm.org/documents/20126/2070984/CCL11.pdf/bc71a911-5e68-ee71-fe31-42d5ba39001f
+  reference_name: Proceedings of the 11th CCL (2003), 2004
+  reference_page: 49
+  considerations: []
+  actions: []

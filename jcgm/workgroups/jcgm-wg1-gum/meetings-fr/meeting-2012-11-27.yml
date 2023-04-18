@@ -1,0 +1,20 @@
+---
+metadata:
+  title: JCGM-WG1:GUM
+  identifier: '2012-11-27'
+  date: '2012-11-30'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcgm/wg/jcgm-wg1-gum/2012-11-27
+  workgroup: jcgm-wg1-gum
+resolutions: []
+working_documents:
+- title: JCGM-WG1-SC5-N12-14b
+  pdf: https://www.bipm.org/documents/20126/43684234/WG1-SC5-N12-14b_GUM_survey_report.pdf/f1d6acc9-1b29-7406-226c-70791c93b871
+  description: Amended report on the GUM Online Survey.
+  author: W. Bich
+  date: 27/11/2012
+- title: JCGM-WG1-SC5-N12-15
+  pdf: https://www.bipm.org/documents/20126/43684251/WG1-SC5-N12-15_JCGM_GUM_Survey_Collated_responses.pdf/f7366713-1d01-6d6b-4f91-86bd9c08b49e
+  description: JCGM Survey (GUM) - Collated responses
+  author: W. Kool
+  date: 19/07/2012

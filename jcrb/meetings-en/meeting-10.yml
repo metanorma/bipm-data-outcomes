@@ -1,0 +1,283 @@
+---
+metadata:
+  title: 10th meeting of the JCRB (Tsukuba, Japan)
+  identifier: '10'
+  date: '2003-03-04'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+pdf: https://www.bipm.org/documents/20126/38667079/JCRB10.pdf/3794ea31-d4d2-38c7-05a9-22542858c1d7
+resolutions:
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-1 (2003)
+  identifier: 10-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: JCRB Exec Secretary is to send the Committee the Annual JCRB Report.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-2 (2003)
+  identifier: 10-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: RMO-JCRB Representatives are asked to review Appendix 3 of the Report
+      of the 10th JCRB Meeting and inform the JCRB Executive Secretary at which events
+      attendance by senior BIPM staff is sought.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-3 (2003)
+  identifier: 10-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - JCRB
+  - Meetings
+  considerations:
+  - type: noting
+    date_effective: '2003-03-04'
+    message: JCRB documents that are to be tabled at each meeting are to be submitted
+      to the Executive Secretary no later than one week in advance of the meeting
+      so that they can be made available on the JCRB webpage.
+  actions: []
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-4 (2003)
+  identifier: 10-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: JCRB Chairman and Exec Secretary are to prepare the CIPM Report on the
+      JCRB and to forward this to the Committee and post it on the JCRB website.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-5 (2003)
+  identifier: 10-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - Comparisons
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - A general guidance document describing how linkages have been made between CIPM
+    and RMO key comparisons is to be provided on the KCDB, using existing technical
+    procedures on linkages as examples.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-6 (2003)
+  identifier: 10-6
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Chairman is to recommend to the 22nd CGPM that the interpretation of the term
+    "Economy" in Resolution 3 of the 21st CGPM be extended to include economic "entities"
+    such as CARICOM.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-7 (2003)
+  identifier: 10-7
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - JCRB
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: Dr Hengstberger is to forward the updated SADCMET report to the JCRB
+      Exec Secretary.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-8 (2003)
+  identifier: 10-8
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - RMO
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: The Chairman is to check which RMO Egypt has nominated for its CMC submissions.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-9 (2003)
+  identifier: 10-9
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB Exec Secretary and KCDB Coordinator will forward to RMO-JCRB Representatives
+    some options on broadening the range of the KCDB Search Engines. RMO-JCRB representatives
+    will be asked whether these adequately meet perceived needs of users or whether
+    other options are (also) needed.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-10 (2003)
+  identifier: 10-10
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: JCRB Chairman is to re-submit the revised Draft Terms of Reference for
+      "Consultative Committee Working Groups on CMCs" [Document JCRB-10/6(3)_rev]
+      to the CIPM with the JCRB's recommendations for approval.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-11 (2003)
+  identifier: 10-11
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: The JCRB Chairman is to check the types of Supplementary Comparisons
+      that are currently listed in Appendix B of the KCDB, to help define the term
+      "Supplementary Comparison".
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-12 (2003)
+  identifier: 10-12
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - Comparisons
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB Chairman is to remove the last sentence in the first paragraph of Section
+    2 of Document JCRB-10/7, "A note on Supplementary Comparisons".
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-13 (2003)
+  identifier: 10-13
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - CIPM MRA
+  considerations:
+  - type: noting
+    date_effective: '2003-03-04'
+    message: The JCRB Chairman is to recommend to the CIPM that the words "Consultative
+      Committees" be removed from Para T10 when the CIPM MRA is revised.
+  actions: []
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-14 (2003)
+  identifier: 10-14
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: Mr Hetherington is to forward the revised "JCRB Guidelines for the monitoring
+      and reporting of the operation of Quality Systems by RMOs" to the Exec Secretary
+      for posting on the website as a finalised JCRB document.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-15 (2003)
+  identifier: 10-15
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - CMCs
+  - Uncertainty
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: The Chairman and Exec Secretary are to draft a document to outline the
+      JCRB's views on the situation when a calibration laboratory claims uncertainties
+      smaller than those claimed in the associated NMI's CMCs published in Appendix
+      stem:["C"] of the KCDB. This document will be tabled for discussion and approval
+      at the next JCRB meeting.
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/10-16 (2003)
+  identifier: 10-16
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-03-04'
+    message: 'RMO-JCRB Representatives to prepare presentations on the topic: "How
+      to extend the range of participation of countries in RMO and MRA activities",
+      to be presented at the October JCRB meetings.'
+- dates:
+  - '2003-03-04'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/10-1 (2003)
+  identifier: 10-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/10-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2003-03-04'
+    message: The Committee agreed that the Statement referencing the CIPM MRA should
+      only be included on calibration certificates for NMIs' CMCs that are published
+      in Appendix stem:["C"] of the KCDB.
+working_documents:
+- title: JCRB/10-04
+  pdf: https://www.bipm.org/documents/20126/32765877/working-document-cc-jc-private-ID-727/29b2fb35-5229-f00f-b3e3-507bfea1486c
+  description: KCDB Report
+  author: ''

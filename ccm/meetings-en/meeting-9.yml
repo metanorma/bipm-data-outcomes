@@ -1,0 +1,73 @@
+---
+metadata:
+  title: 9th meeting of the CCM
+  identifier: '9'
+  date: '2005-04-29'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccm/9-2005
+resolutions:
+- dates:
+  - '2005-04-29'
+  subject: CCM
+  type: recommendation
+  title: Conditions for a new definition of the kilogram
+  identifier: 1
+  url: https://www.bipm.org/en/committees/cc/ccm/9-2005/resolution-1
+  reference: https://www.bipm.org/documents/20126/2071009/CCM9.pdf/425a484f-c25a-2450-86c4-1c931296cd84
+  reference_name: Proceedings of the 9th CCM (2005), 2005
+  reference_page: 23
+  considerations: []
+  actions: []
+working_documents:
+- title: CCM/2005-03
+  pdf: https://www.bipm.org/documents/20126/28439007/working-document-ID-1592/ba8fb8ea-4bf4-2790-6c34-851c3e4d5317
+  description: 'Position of the EUROMET TC-M on the paper: Redefinition of the kilogram'
+  author: EUROMET TC-M
+  date: 20/03/2005
+- title: CCM/2005-05
+  pdf: https://www.bipm.org/documents/20126/28439018/working-document-ID-1595/472bea17-0684-4bb1-3ecc-93864605823a
+  description: Report of the Working Group on Force (2002-2004)
+  author: M. Peters, Chairman of WGF
+  date: 21/03/2005
+- title: CCM/2005-07
+  pdf: https://www.bipm.org/documents/20126/28438067/working-document-ID-1610/8b966911-a02a-63e2-54bb-ecd030f1a6b5
+  description: 'CCM Working Group Mass Standards: Report to CCM on activities from
+    2002 to 2005'
+  author: M. Gl???ser, Chairman of WGM
+  date: 03/04/2005
+- title: CCM/2005-11
+  pdf: https://www.bipm.org/documents/20126/28438439/working-document-ID-1671/7a617f91-6b8b-d423-d226-7161345bd033
+  description: 'CCM Working Group on Gravimetry: Activity report (May 2003-April 2005)'
+  author: L. Vitushkin, Chairman of WGG
+  date: 04/05/2005
+- title: CCM/2005-12
+  pdf: https://www.bipm.org/documents/20126/28438450/working-document-ID-1678/08b3fbd4-811f-3d86-0d0d-59d01539be48
+  description: Report of the Working Group on Hardness (WGH) activities (2005)
+  author: A. Germak, WGH Chairman and S. Low, WGH Secretary
+  date: 27/04/2005
+- title: CCM/2005-13
+  pdf: https://www.bipm.org/documents/20126/28438461/working-document-ID-1681/64b50429-a7e8-8141-48ab-db5b7df0415f
+  description: SIM MWG7 activity report
+  author: C. Jacques, Chairman of SIM MWG7
+  date: 28/04/2005
+- title: CCM/2005-14
+  pdf: https://www.bipm.org/documents/20126/28438505/working-document-ID-1741/8c38c1b0-eee5-c467-9807-8a4b298376c3
+  description: 'Report of the meeting of the CCM Working Group on Low Pressures: April
+    25, 2005'
+  author: K. Jousten, Chairman of WGLP
+  date: 03/05/2005
+- title: CCM/2005-18
+  pdf: https://www.bipm.org/documents/20126/28439051/working-document-ID-1766/3eae023f-0de9-8587-2e7f-c25df291301c
+  description: CCM Medium Pressure Working Group (report)
+  author: I. Severn, Chairman of WGMP
+  date: 10/05/2005
+- title: CCM/2005-19
+  pdf: https://www.bipm.org/documents/20126/28438516/working-document-ID-1767/3fd6a240-7cec-f7a4-b22b-ad79012149a4
+  description: 'CCM Working Group on CMCs: Report to the JCRB on the formation meeting'
+  author: C. Sutton, Interim Chairman, WGCMC
+  date: 10/05/2005
+- title: CCM/2005-23
+  pdf: https://www.bipm.org/documents/20126/28439084/working-document-ID-1792/71a2da54-ffb4-a3de-6975-b020b0378af0
+  description: Report of the activities of the Working Group Viscosity
+  author: H. Bauer, Chairman of WGV
+  date: 18/05/2005

@@ -1,0 +1,281 @@
+---
+metadata:
+  title: 33e réunion du JCRB
+  identifier: '33'
+  date: '2015-03-19'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+pdf: https://www.bipm.org/documents/20126/30859674/JCRB33.pdf/e11b236a-597b-f9a3-bcae-e50077fea7aa
+resolutions:
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-1 (2015)
+  identifier: 33-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - QMS
+  - Traceability
+  considerations: []
+  actions: []
+  x-unparsed:
+  - to review with the CIPM the process of the BIPM providing annual updates on its
+    QMS between its formal presentations of the BIPM QMS (made at 5 year intervals
+    to the RMOs on a rotating basis).
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-2 (2015)
+  identifier: 33-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - AFRIMETS to update their QS review documents (which are linked from the BIPM website).
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-3 (2015)
+  identifier: 33-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Comparaisons
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - KCDB office, as part of the KCDB report to the JCRB, to identify Key and Supplementary
+    Comparisons which were started 5 or more years ago and have not reached a conclusion.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-4 (2015)
+  identifier: 33-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - CIPM MRA
+  - JCRB
+  - Meetings
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - In preparation for the October 2015 CIPM MRA review workshop, the RMOs will prepare
+    a common presentation on behalf of the JCRB panel. This presentation will summarize
+    shared views on the challenges for the sustainability of the CIPM MRA, and a range
+    of responses proposed by different RMOs with their practical ideas for improvement.
+    AFRIMETS will coordinate preparation of the presentation by collating input from
+    the RMOs.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-5 (2015)
+  identifier: 33-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Guidance documents
+  - Traceability
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2015-03-19'
+    message: The JCRB approved the revision to CIPM MRA-D-02, "Use of the CIPM MRA
+      logo and certificates statement", and the BIPM will inform the CIPM of the revision.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-6 (2015)
+  identifier: 33-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - CMC review
+  - Designated institutes
+  - Guidance documents
+  - International organizations
+  - QMS
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2015-03-19'
+    message: The JCRB approved the revision to CIPM MRA-G-03, "Guidelines for the
+      review of Quality Systems operated by IGO institutes and/or designated institutes,
+      and the review of their calibration and measurement capabilities (CMCs)", and
+      the BIPM will inform the CIPM of the revision.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-7 (2015)
+  identifier: 33-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Designated institutes
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2015-03-19'
+    message: 'The JCRB approved the new document "Designated Institutes participating
+      in the CIPM MRA: Expectations and nomination form" and the BIPM will send the
+      document to the CIPM for information.'
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-8 (2015)
+  identifier: 33-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Developing countries
+  - ILAC
+  considerations: []
+  actions: []
+  x-unparsed:
+  - COOMET volunteered to identify an NMI within its region to work with the BIPM
+    in developing a poster for World Metrology Day for 2016.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-9 (2015)
+  identifier: 33-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Developing countries
+  - ILAC
+  considerations: []
+  actions: []
+  x-unparsed:
+  - SIM volunteered to identify an NMI within its region to work with the BIPM in
+    developing a poster for World Metrology Day for 2017.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-10 (2015)
+  identifier: 33-10
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - CMC review
+  - CMCs
+  - JCRB
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2015-03-19'
+    message: RMOs will monitor the JCRB CMC website and contact appropriate stem:["TC"]
+      chairs regarding CMC sets that have been in the status of "review still in progress"
+      for two years or more.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-11 (2015)
+  identifier: 33-11
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - CMC review
+  - CMCs
+  - JCRB
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2015-03-19'
+    message: 'RMOs will monitor the JCRB CMC website and contact appropriate stem:["TC"]
+      chairs, regarding loss-of-right to vote on a CMC set due to either: not indicating
+      they will review; not submitting a review for which they had indicated yes;
+      or submitting a late review for which they had indicated yes.'
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-12 (2015)
+  identifier: 33-12
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Comparaisons
+  - Developing countries
+  - KCDB
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2015-03-19'
+    message: The JCRB will return to the issue of publication of results of non-signatory
+      participants in Supplementary Comparisons and RMO Key Comparisons at the 34th
+      JCRB. SIM, who raised the issue, will prepare a paper on the concerns and proposed
+      actions to be distributed to the JCRB Executive Secretary one month prior to
+      the 34th JCRB, for posting on the JCRB working documents webpage.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: action
+  title: Action JCRB/33-13 (2015)
+  identifier: 33-13
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - Developing countries
+  - JCRB
+  - Meetings
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    In order to facilitate the JCRB Chair in writing to the CIPM to recommend the granting of provisional acceptance of GULFMET as an RMO (within the meaning of the CIPM MRA), the JCRB decided to invite a GULFMET delegation to attend the 34th JCRB meeting to present:
+    - evidence including a roadmap and timetable for how they plan to address criterion 5 of CIPM MRA-P-01, section 3;
+    - some wider context about their role as an RMO within the region;
+    - the scope of capabilities of NMIs within their RMO;
+    - and their plan for engagement with NMIs within other RMOs.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/33-1 (2015)
+  identifier: 33-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 34th meeting of the JCRB will take place on September 8 and 9, 2015 at KazInMetr,
+    Kazakhstan.
+- dates:
+  - '2015-03-19'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/33-2 (2015)
+  identifier: 33-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/33-2015
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 35th meeting of the JCRB is scheduled for March 16 and 17, 2016 at the BIPM
+    in Sevres.
+working_documents:
+- title: JCRB/33-07.1
+  pdf: https://www.bipm.org/documents/20126/32643119/working-document-cc-jc-private-ID-6840/fc960e38-a843-4509-4b82-4f068caa3bc9
+  description: KCDB Report to 33rd JCRB part 1
+  author: ''
+  date: 20/02/2015
+- title: JCRB/33-07.2
+  pdf: https://www.bipm.org/documents/20126/32642987/working-document-cc-jc-private-ID-6879/ec266f7f-e07b-6459-532e-efe877703ffc
+  description: KCDB Report to 33rd JCRB part 2
+  author: ''
+  date: 02/03/2015

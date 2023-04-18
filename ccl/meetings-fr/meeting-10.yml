@@ -1,0 +1,56 @@
+---
+metadata:
+  title: 10e réunion du CCL
+  identifier: '10'
+  date: '2001-09-20'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccl/10-2001
+resolutions:
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Perspectives de la mise en pratique de la définition du mètre
+  identifier: 1
+  url: https://www.bipm.org/fr/committees/cc/ccl/10-2001/resolution-1
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Comptes rendus du 10e CCL (2001), 2003
+  reference_page: 41
+  considerations: []
+  actions: []
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Nouvelles techniques utilisant des peignes de fréquence
+  identifier: 2
+  url: https://www.bipm.org/fr/committees/cc/ccl/10-2001/resolution-2
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Comptes rendus du 10e CCL (2001), 2003
+  reference_page: 42
+  considerations: []
+  actions: []
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Révision des radiations recommandées
+  identifier: 3
+  url: https://www.bipm.org/fr/committees/cc/ccl/10-2001/resolution-3
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Comptes rendus du 10e CCL (2001), 2003
+  reference_page: 43
+  considerations: []
+  actions: []
+- dates:
+  - '2001-09-20'
+  subject: CCL
+  type: recommendation
+  title: Radiations de lampes spectrales et autres sources
+  identifier: 4
+  url: https://www.bipm.org/fr/committees/cc/ccl/10-2001/resolution-4
+  reference: https://www.bipm.org/documents/20126/2070984/CCL10.pdf.zip/07169bfa-16cc-bc54-72c4-c917011fe964
+  reference_name: Comptes rendus du 10e CCL (2001), 2003
+  reference_page: 44
+  considerations: []
+  actions: []
