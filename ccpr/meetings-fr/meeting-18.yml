@@ -1,0 +1,74 @@
+---
+metadata:
+  title: 18e réunion du CCPR
+  identifier: '18'
+  date: '2005-10-26'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccpr/18-2005
+resolutions:
+- dates:
+  - '2005-10-26'
+  subject: CCPR
+  type: recommendation
+  title: Sur l'importance de mesures traçables au SI dans la surveillance des changements
+    climatiques
+  identifier: 1
+  url: https://www.bipm.org/fr/committees/cc/ccpr/18-2005/resolution-1
+  reference: https://www.bipm.org/documents/20126/2071034/CCPR18.pdf/40557da5-0573-0aef-72b0-31546573f36d
+  reference_name: Comptes rendus du 18e CCPR (2005), 2005
+  reference_page: 30
+  approvals:
+  - message: Le Comité consultatif de photométrie et radiométrie (CCPR),
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2005-10-26'
+    message: "*rappelant* la Résolution 4 de la 21^e^ Conférence générale des poids
+      et mesures (1999), à propos de la nécessité d'utiliser les unités du SI dans
+      les recherches sur les ressources terrestres, l'environnement, le bien-être
+      humain et les études connexes,"
+  - type: considering
+    date_effective: '2005-10-26'
+    message: considérant l'importance croissante des mesures du rayonnement optique
+      depuis le sol, l'air et l'espace, pour soutenir l'effort de recherche visant
+      à mieux comprendre les causes et les conséquences des changements climatiques
+      ;
+  - type: considering
+    date_effective: '2005-10-26'
+    message: considérant la collaboration déjà établie entre l'Organisation météorologique
+      mondiale (OMM), le Bureau international des poids et mesures (BIPM) et le CCPR,
+      à propos des besoins de l'OMM en matière de métrologie ;
+  - type: considering
+    date_effective: '2005-10-26'
+    message: considérant combien il est difficile de démontrer et de conserver la
+      traçabilité au Système international d’unités (SI) dans l'espace, et que le
+      niveau d'exactitude requis est souvent plus élevé que celui qui satisfait la
+      demande industrielle courante ;
+  - type: considering
+    date_effective: '2005-10-26'
+    message: considérant le besoin spécifique que les expériences menées dans l'espace
+      soient traçables aux unités du SI et combien il est difficile d'étalonner les
+      instruments pendant la durée de la mission ;
+  actions:
+  - type: encourages
+    date_effective: '2005-10-26'
+    message: "*encourage* fortement les organisations appropriées à prendre les mesures
+      nécessaires pour s'assurer que toutes les mesures susceptibles d’être utilisées
+      pour les observations liées au climat sont pleinement traçables aux unités du
+      SI ; et"
+  - type: recommends
+    date_effective: '2005-10-26'
+    message: "*recommande* aussi aux organisations de financement appropriées de soutenir
+      la mise en œuvre de techniques visant à mettre au point un ensemble d'instruments
+      et d'étalons radiométriques traçables au SI, capables de réaliser une telle
+      traçabilité dans l'espace."
+working_documents:
+- title: CCPR/2005-02
+  pdf: https://www.bipm.org/documents/20126/28439106/working-document-ID-2002/ccd4e7cd-583f-a1f5-c1d0-e64eb73b433d
+  description: Replies to the CCPR questionnaire (20 laboratories)
+  author: ''
+  date: 03/02/2006
+- title: CCPR/2005-09
+  pdf: https://www.bipm.org/documents/20126/28438373/working-document-ID-2071/aedf74b9-6921-2415-0b4b-9b23a55837dd
+  description: Code of procedure for CCPR working groups and task groups
+  author: ''
+  date: 14/10/2005

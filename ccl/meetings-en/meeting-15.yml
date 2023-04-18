@@ -1,0 +1,31 @@
+---
+metadata:
+  title: 15th meeting of the CCL
+  identifier: '15'
+  date: '2012-09-20'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccl/15-2012
+resolutions:
+- dates:
+  - '2012-09-20'
+  subject: CCL
+  type: recommendation
+  title: Updates to the list of standard frequencies
+  identifier: 1
+  url: https://www.bipm.org/en/committees/cc/ccl/15-2012/resolution-1
+  reference: https://www.bipm.org/documents/20126/2070984/CCL15.pdf/4fff86a1-bcba-9031-2895-41f0184efa0f
+  reference_name: Proceedings of the 15th CCL (2012), 2013
+  reference_page: 34
+  considerations: []
+  actions: []
+working_documents:
+- title: CCL/2012-01
+  pdf: https://www.bipm.org/documents/20126/28435248/working-document-ID-5288/e225760d-f053-af5f-e17e-ec563f55d883
+  description: Agenda
+  author: ''
+  date: 24/09/2012
+- title: CCL/2012-02
+  pdf: https://www.bipm.org/documents/20126/28435259/working-document-ID-5289/2bf6b91b-3012-43de-8907-5afede2ec67a
+  description: Report from the 14th meeting
+  author: ''
+  date: 24/09/2012

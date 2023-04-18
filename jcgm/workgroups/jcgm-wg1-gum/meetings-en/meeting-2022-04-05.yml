@@ -1,0 +1,48 @@
+---
+metadata:
+  title: Joint Workshop of JCGM-WG1 and WMO-ET-MU on Measurement uncertainty in meteorology
+    and climatology
+  identifier: '2022-04-05'
+  date: '2022-04-06'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/jc/jcgm/wg/jcgm-wg1-gum/2022-04-05
+  workgroup: jcgm-wg1-gum
+resolutions: []
+working_documents:
+- title: JCGM-WG1-WMO-ET-MU-WS2022-02
+  pdf: https://www.bipm.org/documents/20126/70327967/WSApr2022-02-Merlone-Issues+with+the+measurand-v2.pdf/b7f79e0e-2325-2c56-d6bd-de0daeb44836
+  description: Issues with the measurands in meteorology and climatology
+  author: A. Merlone
+  date: 02/05/2022
+- title: JCGM-WG1-WMO-ET-MU-WS2022-03
+  pdf: https://www.bipm.org/documents/20126/70328464/WSApr2022-03-Muste-GUM+Case+Study+short.pdf/98cf3446-9ebb-f531-9181-8e4a09a6bd40
+  description: Case study on implementing GUM to streamflow measurements acquired
+    with Acoustic-Doppler Velocimeters
+  author: Marian Muste, Jongmin Kim, Dongsu Kim
+  date: 02/05/2022
+- title: JCGM-WG1-WMO-ET-MU-WS2022-04
+  pdf: https://www.bipm.org/documents/20126/70328900/WSApr2022-04-Cox-Emissions_covariance__presentation.pdf/bf838261-9f11-ca9c-b2e1-b0af9c3ca0d8
+  description: 'Uncertainties in greenhouse gas emissions: accounting for covariance'
+  author: M. Cox
+  date: 02/05/2022
+- title: JCGM-WG1-WMO-ET-MU-WS2022-05
+  pdf: https://www.bipm.org/documents/20126/70328932/WSApr2022-05-Waldmann-OCEAN_Uncertainty.pdf/9097b38c-1717-1516-3753-8452083b13ef
+  description: Uncertainty quantification from the viewpoint of the ocean community
+  author: C. Waldmann
+  date: 02/05/2022
+- title: JCGM-WG1-WMO-ET-MU-WS2022-06
+  pdf: https://www.bipm.org/documents/20126/70328968/WSApr2022-06-Fisicaro-JCGM+workshop_pH+challenges.pdf/cfb2f069-0bbd-51bf-7065-15876cfd8aa5
+  description: 'METROLOGICAL CHALLENGES FOR OCEAN ACIDIFICATION OBSERVATIONS: THE
+    EXAMPLE OF pH'
+  author: P. Fisicaro, D. Stoica, G. Capitaine
+  date: 02/05/2022
+- title: JCGM-WG1-WMO-ET-MU-WS2022-07
+  pdf: https://www.bipm.org/documents/20126/70330430/WSApr2022-07-Woolliams+-+2022-04-06+Joint+JCGM+WMO+meeting.pdf/49e661eb-4efc-4c97-8ab9-afd8be6b3486
+  description: Uncertainties in ocean variables measured from satellites
+  author: E. Woolliams
+  date: 02/05/2022
+- title: JCGM-WG1-WMO-ET-MU-WS2022-08
+  pdf: https://www.bipm.org/documents/20126/70330466/WSApr2022-08-Bich-WMO+ET-MU+Joint2022.pdf/800700f2-4a81-672c-d76d-71d6f698b0f9
+  description: GUM Part 6 –Developing and using measurement models. An outline
+  author: W. Bich
+  date: 02/05/2022

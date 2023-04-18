@@ -1,0 +1,101 @@
+---
+metadata:
+  url: https://www.bipm.org/en/committees/cc/cct/publications/
+categories:
+- title: Strategy documents
+  documents:
+  - title: "[CCT] CCT Strategy"
+    pdf: https://www.bipm.org/documents/20126/41598583/CCT+Strategy/145827b2-4f6a-42ed-bd77-bbffa782e2f7
+  - title: "[CCT] CCT Strategy \x96 Summary"
+    pdf: https://www.bipm.org/documents/20126/41598622/CCT+Strategy+Summary/f3f211d0-a520-17ae-089f-c70719e39771
+- title: Meeting reports
+  documents:
+  - title: "[CCT] 30th meeting (2022)"
+    pdf: https://www.bipm.org/documents/20126/70155781/CCT30.pdf/febd4c94-723a-480a-ae72-a3a46ac6c655
+  - title: "[CCT] 29th meeting (2020)"
+    pdf: https://www.bipm.org/documents/20126/58864527/CCT29.pdf/b537f138-2d58-290a-e697-bc394350f317
+  - title: "[CCT] 28th meeting (2017)"
+    pdf: https://www.bipm.org/documents/20126/30132201/CCT28.pdf/57d829eb-a5ba-4bcf-803c-5209a6fe1879
+  - title: "[CCT] 27th meeting (2014)"
+    pdf: https://www.bipm.org/documents/20126/30131858/CCT27.pdf/093f4f4d-38e9-fa2b-e856-f474e0331413
+  - title: "[CCT] 26th meeting (2012)"
+    pdf: https://www.bipm.org/documents/20126/30131834/CCT26.pdf/127ae3be-8381-7895-85de-4e176ee74044
+  - title: "[CCT] 25th meeting (2010)"
+    pdf: https://www.bipm.org/documents/20126/30131821/CCT25.pdf/e8951f4a-ad9a-a7b5-443a-9283d655be6b
+  - title: "[CCT] 24th meeting (2008)"
+    pdf: https://www.bipm.org/documents/20126/30131809/CCT24.pdf/2f730547-b029-5ca3-2103-1394075d350e
+  - title: "[CCT] 23rd meeting (2005)"
+    pdf: https://www.bipm.org/documents/20126/30131794/CCT23.pdf/f5b539cb-c674-cece-8983-c7dba78eb9aa
+  - title: "[CCT] 22nd meeting (2003)"
+    pdf: https://www.bipm.org/documents/20126/30131781/cc-publication-ID-107/214a6016-4064-b7f2-5abf-312113a3b6ee
+  - title: "[CCT] 21st meeting (2001)"
+    pdf: https://www.bipm.org/documents/20126/30131769/cc-publication-ID-100/a924119b-245f-4a13-5f6b-075fcb190653
+  - title: "[CCT] 20th meeting (2000)"
+    pdf: https://www.bipm.org/documents/20126/30131757/cc-publication-ID-91/565d8a78-8b3c-f0fb-bcfa-6ca6c8f1a14a
+  - title: "[CCT] 19th meeting (1996)"
+    pdf: https://www.bipm.org/documents/20126/30131732/cc-publication-ID-21/774e56a2-ff21-b5fd-fdb2-8570a455f6fb
+  - title: "[CCT] 18th meeting (1993)"
+    pdf: https://www.bipm.org/documents/20126/30131745/cc-publication-ID-55/cd5577e9-76a2-9434-ba1f-0a912426036f
+  - title: "[CCT] 17th meeting (1989)"
+    pdf: https://www.bipm.org/documents/20126/30131980/cc-publication-ID-451/48ee7b7a-e13c-69db-a79f-91de3f8c2cd0
+  - title: "[CCT] 16th meeting (1987)"
+    pdf: https://www.bipm.org/documents/20126/30131998/cc-publication-ID-452/c1616eaa-4900-998c-5f5f-d5109ef0f163
+  - title: "[CCT] 15th meeting (1984)"
+    pdf: https://www.bipm.org/documents/20126/30132015/cc-publication-ID-453/3682821c-5321-ed49-dcfc-403f7c89464a
+  - title: "[CCT] 14th meeting (1982)"
+    pdf: https://www.bipm.org/documents/20126/30132028/cc-publication-ID-454/3f494ed5-704c-fca4-a6a4-6f058ba0d30d
+  - title: "[CCT] 13th meeting (1980)"
+    pdf: https://www.bipm.org/documents/20126/30132040/cc-publication-ID-455/8849a8ca-7813-39de-7a91-5cddd0a51531
+  - title: "[CCT] 12th meeting (1978)"
+    pdf: https://www.bipm.org/documents/20126/30132052/cc-publication-ID-456/ab547a7d-e850-6b6c-0cb9-a8c2a28ecca0
+  - title: "[CCT] 11th meeting (1976)"
+    pdf: https://www.bipm.org/documents/20126/30132064/cc-publication-ID-457/338ff2f7-a1e2-dcdb-27bd-116467daf404
+  - title: "[CCT] 10th meeting (1974)"
+    pdf: https://www.bipm.org/documents/20126/30132077/cc-publication-ID-458/6ce33087-12d7-d587-c88f-24a704d6945a
+  - title: "[CCT] 9th meeting (1971)"
+    pdf: https://www.bipm.org/documents/20126/30132090/cc-publication-ID-459/dc4ee15c-dc42-7eb0-776e-2dfb61b12289
+  - title: "[CCT] 8th meeting (1967)"
+    pdf: https://www.bipm.org/documents/20126/30132102/cc-publication-ID-460/45e7717b-ea62-fcf8-9380-9f0f1ec37f65
+  - title: "[CCT] 7th meeting (1964)"
+    pdf: https://www.bipm.org/documents/20126/30132115/cc-publication-ID-461/a6fd3fc0-6eca-28af-b939-5253c92044ca
+  - title: "[CCT] 6th meeting (1963)"
+    pdf: https://www.bipm.org/documents/20126/30132127/cc-publication-ID-462/e5834a87-b975-ed51-b540-e6a72791006a
+  - title: "[CCT] 5th meeting (1958)"
+    pdf: https://www.bipm.org/documents/20126/30132139/cc-publication-ID-463/0c3edd3e-292e-d0a0-c161-0318c70067dd
+  - title: "[CCT] 4th meeting (1954)"
+    pdf: https://www.bipm.org/documents/20126/30132151/cc-publication-ID-472/3cfd7694-1554-524e-cce5-0b6fadefcc1b
+  - title: "[CCT] 3rd meeting (1952)"
+    pdf: https://www.bipm.org/documents/20126/30132164/cc-publication-ID-473/b5d67bf3-a4fe-71d4-47db-e07d95512b77
+  - title: "[CCT] 2nd meeting (1948)"
+    pdf: https://www.bipm.org/documents/20126/30132176/cc-publication-ID-474/c4324990-b473-70b8-0336-9bf03efd8545
+  - title: "[CCT] 1st meeting (1939)"
+    pdf: https://www.bipm.org/documents/20126/30132189/cc-publication-ID-475/622d5e18-590a-5f14-c249-e51a3dd73ca9
+- title: Guidance documents on the CIPM MRA
+  documents:
+  - title: "[CCT] T - Classification of services in Thermometry"
+    pdf: https://www.bipm.org/documents/20126/41594877/Classification+of+services+in+Thermometry/601bc4bf-fbfa-a886-6961-9d2db9eca3d4
+  - title: "[CCT] CCT Guidelines for comparisons"
+    pdf: https://www.bipm.org/documents/20126/50817864/CCT-Guidelines-on-comparisons.pdf/d1352c60-eea8-99cb-b281-4c295617e773
+  - title: "[CCT] CMC Review Protocol: Calibration of fixed point cells (excluding
+      the TPW) and calibration of SPRTs at fixed points"
+    pdf: https://www.bipm.org/documents/20126/30131903/CMC+Review+Protocol+-+Calibration+of+fixed+point+cells+%28excluding+the+TPW%29+and+calibration+of+SPRTs+at+fixed+points/18718ca9-7208-4eea-d042-373910bb413a
+  - title: "[CCT] CMC Review protocol: Calibration of high-temperature fixed points"
+    pdf: https://www.bipm.org/documents/20126/30131936/CMC+Review+Protocol+-+Calibration+of+high-temperature+fixed+points/6f5083aa-698d-239a-02d0-3b433866a718
+  - title: "[CCT] CMC Review Protocol: Calibration of industrial thermometers"
+    pdf: https://www.bipm.org/documents/20126/30131914/CMC+Review+Protocol+-+Calibration+of+industrial+thermometers/f045bcde-e69d-8f83-564f-98ad57f2ab59
+  - title: "[CCT] CMC Review Protocol: Humidity"
+    pdf: https://www.bipm.org/documents/20126/30131925/CMC+Review+Protocol+-+Humidity/0dcad2df-4a6c-8cd4-2575-522c5dc47b94
+  - title: "[CCT] CMC Review Protocol: Humidity generators"
+    pdf: https://www.bipm.org/documents/20126/30131947/CMC+Review+Protocol+-+Humidity+generators/56eda63f-931c-5f74-c131-3469a51a879f
+  - title: "[CCT] CMC Review Protocol: ITS-90 SPRT Subrange"
+    pdf: https://www.bipm.org/documents/20126/30131892/CMC+Review+Protocol+-+ITS-90+SPRT+subrange/61837d03-cbb7-73ed-937b-4b08fc4bd1c7
+  - title: "[CCT] CMC Review Protocol: Radiation Thermometry"
+    pdf: https://www.bipm.org/documents/20126/30131881/CMC+Review+Protocol+-+Radiation+Thermometry/78454958-63e8-7286-61c5-9b6b269fc6fb
+  - title: "[CCT] CMC Review Protocol: Relative humidity"
+    pdf: https://www.bipm.org/documents/20126/30131958/CMC+Review+Protocol+-+Relative+humidity/f422431b-c083-3e31-4082-77eade4b6b73
+  - title: "[CCT] CMC Review Protocol: TPW"
+    pdf: https://www.bipm.org/documents/20126/30131870/CMC+Review+Protocol+-+TPW/f13b8283-a0ba-0b9a-da90-f3309d53c12e
+  - title: "[CCT] CMC Review Protocol: Thermal diffusivity"
+    pdf: https://www.bipm.org/documents/20126/65564228/CMC+review+protocol+for+LF+thermal+diffusivity.pdf/890f1d66-3a69-efbd-de7a-fcfa0d5013b9
+  - title: "[CCT] CMC Review Protocol: IR spectral emissivity"
+    pdf: https://www.bipm.org/documents/20126/58019986/CMC_review_protocol_IR_spectral_emissivity.pdf/8d5c87ad-8061-94a5-1fe5-5414a677fca9

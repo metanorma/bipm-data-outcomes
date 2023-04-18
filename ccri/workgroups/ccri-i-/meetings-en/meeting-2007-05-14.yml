@@ -1,0 +1,192 @@
+---
+metadata:
+  title: CCRI(I)
+  identifier: '2007-05-14'
+  date: '2007-05-16'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-i-/2007-05-14
+  workgroup: ccri-i-
+resolutions: []
+working_documents:
+- title: CCRI(I)/2007-01
+  pdf: https://www.bipm.org/documents/20126/48194800/working-document-ID-2498/7d277751-67ec-fbc7-730b-14720c9b1dd9
+  description: Compact accelerator concept for proton therapy
+  author: G. Caporaso
+  date: 01/03/2007
+- title: CCRI(I)/2007-03
+  pdf: https://www.bipm.org/documents/20126/48196220/working-document-ID-2548/6e9d33ed-a1d7-1b6f-a559-bc710b222919
+  description: Progress report on absorbed dose calorimetry at the BIPM
+  author: S. Picard
+  date: 05/04/2007
+- title: CCRI(I)/2007-04
+  pdf: https://www.bipm.org/documents/20126/48195980/working-document-ID-2550/d94f9dec-3cba-d191-0123-67a386de7e8e
+  description: The evaluation of degrees of equivalence in regional dosimetry comparisons
+  author: D.T. Burns
+  date: 05/04/2007
+- title: CCRI(I)/2007-06
+  pdf: https://www.bipm.org/documents/20126/48194550/working-document-ID-2568/769b2cc6-723c-fcdc-4df5-5a366e3160cc
+  description: Recent activities in measurement standards and dosimetry at ARPANSA,
+    2005-2007
+  author: D. Webb
+  date: 12/04/2007
+- title: CCRI(I)/2007-09
+  pdf: https://www.bipm.org/documents/20126/48194570/working-document-ID-2583/77179548-4f08-c411-4692-f9fc0f4f7db5
+  description: Progress report on photon dosimetry at the CMI
+  author: V. Sochor
+  date: 13/04/2007
+- title: CCRI(I)/2007-10
+  pdf: https://www.bipm.org/documents/20126/48195990/working-document-ID-2584/a61a9369-d6ca-aa1a-9a5c-bd28e49c8106
+  description: Recent activities in measurement standards and dosimetry at METAS
+  author: G. Stucki
+  date: 13/04/2007
+- title: CCRI(I)/2007-11
+  pdf: https://www.bipm.org/documents/20126/48194630/working-document-ID-2597/2410f59a-c9ff-e5ce-1d18-499e72112db3
+  description: Update on NIST x-ray air-kerma standards and calibrations
+  author: M. O'Brien
+  date: 14/04/2007
+- title: CCRI(I)/2007-12
+  pdf: https://www.bipm.org/documents/20126/48196000/working-document-ID-2585/dfbda482-374d-f7a3-605f-f54bd7b4aeb7
+  description: Update on the NIST program for air kerma from Co-60 gamma-ray beams
+  author: R. Minniti
+  date: 14/04/2007
+- title: CCRI(I)/2007-13
+  pdf: https://www.bipm.org/documents/20126/48196010/working-document-ID-2586/914a2cf3-2d43-9f71-39f8-c98a3188d19d
+  description: Update on NIST beta-particle dosimetry standards and calibrations
+  author: C. Soares
+  date: 14/04/2007
+- title: CCRI(I)/2007-14
+  pdf: https://www.bipm.org/documents/20126/48194580/working-document-ID-2587/00305e08-ffb8-2537-dff0-cf417d63b8fd
+  description: Update on the NIST second-generation room-temperature water calorimeter
+  author: H. Chen-Mayer
+  date: 14/04/2007
+- title: CCRI(I)/2007-15
+  pdf: https://www.bipm.org/documents/20126/48194590/working-document-ID-2588/355e6ae6-62ba-0a90-9deb-d3a3611b9366
+  description: Update on NIST radiation-processing (high-dose) dosimetry services
+  author: M. Desrosiers
+  date: 14/04/2007
+- title: CCRI(I)/2007-16
+  pdf: https://www.bipm.org/documents/20126/48194600/working-document-ID-2589/312e9355-0326-2099-251f-021455970d6b
+  description: Update on NIST prostate-seed brachytherapy standards and calibrations
+  author: M.G. Mitch
+  date: 15/04/2007
+- title: CCRI(I)/2007-17
+  pdf: https://www.bipm.org/documents/20126/48196140/working-document-ID-2590/97f9da15-0ee6-6728-08a3-cc199bad018b
+  description: Recent dosimetry activities at the NIST
+  author: S.M. Seltzer
+  date: 15/04/2007
+- title: CCRI(I)/2007-18
+  pdf: https://www.bipm.org/documents/20126/48196180/working-document-ID-2591/11b53152-70db-1f42-6146-023bc20d9c83
+  description: NRC activities and publications, 2005-2007
+  author: C.K. Ross
+  date: 15/04/2007
+- title: CCRI(I)/2007-19
+  pdf: https://www.bipm.org/documents/20126/48196240/working-document-ID-2592/e85ec61f-4fbe-a948-406e-a61905faa45a
+  description: ICRU Report activities
+  author: S.M. Seltzer
+  date: 15/04/2007
+- title: CCRI(I)/2007-20
+  pdf: https://www.bipm.org/documents/20126/48194610/working-document-ID-2593/d5dd5ff8-ba4d-d9dd-2096-5963329666e1
+  description: Progress report on radiation dosimetry standards at the NMIJ/AIST (revised)
+  author: N. Saito
+  date: 26/04/2007
+- title: CCRI(I)/2007-21
+  pdf: https://www.bipm.org/documents/20126/48194640/working-document-ID-2598/eb9f43d7-ad9b-89b1-e570-43acff29dbae
+  description: Progress report of the PTB department 'Fundamentals of Dosimetry'
+  author: L. Buermann
+  date: 16/04/2007
+- title: CCRI(I)/2007-22
+  pdf: https://www.bipm.org/documents/20126/48194650/working-document-ID-2599/be6f8cfb-fd5d-0654-e56e-8cefcc42c18d
+  description: Progress report of the PTB department 'Radiation Protection Dosimetry'
+  author: U. Ankerhold
+  date: 16/04/2007
+- title: CCRI(I)/2007-23
+  pdf: https://www.bipm.org/documents/20126/48196190/working-document-ID-2600/3eaa638d-ad7d-e1a8-25f3-5f2a5c3ab7d5
+  description: Progress report of PTB department 'Dosimetry for Radiation Therapy'
+  author: M. Anton
+  date: 16/04/2007
+- title: CCRI(I)/2007-25
+  pdf: https://www.bipm.org/documents/20126/48194620/working-document-ID-2596/95f158e9-3e12-4137-ee95-9748f67d48f1
+  description: Highlights of 2005 and 2006 at the LNE-LNHB
+  author: F. Delaunay
+  date: 16/04/2007
+- title: CCRI(I)/2007-26
+  pdf: https://www.bipm.org/documents/20126/48194670/working-document-ID-2602/936a0d26-7ad7-5601-d201-86eb1480b0b1
+  description: Progress report on radiation dosimetry standards, facilities and related
+    topics at NMi, 2005 to 2007
+  author: E. van Dijk
+  date: 16/04/2007
+- title: CCRI(I)/2007-29
+  pdf: https://www.bipm.org/documents/20126/48194680/working-document-ID-2605/9628f4df-98b4-e54c-6465-3d446d543d89
+  description: Activity at the ENEA-INMRI in photon and charged particle dosimetry
+    2005 to 2007
+  author: R.F. Laitano
+  date: 30/04/2007
+- title: CCRI(I)/2007-30
+  pdf: https://www.bipm.org/documents/20126/48194690/working-document-ID-2611/6c116f0a-54e1-c722-fdfd-dbca53ddb65e
+  description: Dosimetry comparisons and calibrations at the BIPM (2005 to 2007)
+  author: P.J. Allisy-Roberts
+  date: 18/04/2007
+- title: CCRI(I)/2007-32
+  pdf: https://www.bipm.org/documents/20126/48194700/working-document-ID-2612/438a1c4c-0bf8-49f8-ae1e-7087d74633b9
+  description: IAEA Dosimetry and Medical Radiation Physics (DMRP) activities 2005
+    to 2006
+  author: K. Shortt
+  date: 18/04/2007
+- title: CCRI(I)/2007-33
+  pdf: https://www.bipm.org/documents/20126/48196200/working-document-ID-2613/92c83454-55cd-a504-45d4-3f1e9ccd5c02
+  description: Progress report on radiation dosimetry at NPL
+  author: P. Sharpe
+  date: 18/04/2007
+- title: CCRI(I)/2007-35
+  pdf: https://www.bipm.org/documents/20126/48194540/working-document-ID-2618/18919011-6334-d8bb-05d3-0fbe460d50c8
+  description: Recent activities in radiation dosimetry at the VNIIM
+  author: I.A. Kharitonov
+  date: 20/04/2007
+- title: CCRI(I)/2007-36
+  pdf: https://www.bipm.org/documents/20126/48194710/working-document-ID-2626/ba72829b-0d92-e159-f72d-b54b795c9d97
+  description: COOMET Annual Report TC 1.9 "Ionizing radiation and radioactivity"
+  author: V. Yarina
+  date: 20/04/2007
+- title: CCRI(I)/2007-37
+  pdf: https://www.bipm.org/documents/20126/48194720/working-document-ID-2628/fcad9cb5-ad19-6e54-a169-d8959629dee9
+  description: EUROMET Ionising Radiation Technical Committee activities related to
+    Dosimetry 2005-2007
+  author: I. Csete
+  date: 23/04/2007
+- title: CCRI(I)/2007-38
+  pdf: https://www.bipm.org/documents/20126/48196020/working-document-ID-2638/0c6db3bb-3230-a947-a6a2-d2dea5eb2af3
+  description: Report of the SIM to the CCRI(I)
+  author: L. Karam
+  date: 23/04/2007
+- title: CCRI(I)/2007-40
+  pdf: https://www.bipm.org/documents/20126/48194470/working-document-ID-2675/c9436256-971d-92ff-1ee9-e7450ee35a58
+  description: BEV progress report 2005-2007 on research activities in radiation dosimetry
+    standards and facilities
+  author: F.-J. Maringer
+  date: 16/11/2007
+- title: CCRI(I)/2007-41
+  pdf: https://www.bipm.org/documents/20126/48195940/working-document-ID-2674/3e43c09a-da7e-9c1b-84c6-d1b0bb4486af
+  description: Progress report on radiation dosimetry at the MKEH (OMH)
+  author: I. Csete
+  date: 27/04/2007
+- title: CCRI(I)/2007-43
+  pdf: https://www.bipm.org/documents/20126/48196040/working-document-ID-2683/92e3fbc7-b817-b351-c633-95998f94b804
+  description: High-dose standardization study for gamma-rays radiation processing
+    at the NIM
+  author: Y. Zhang
+  date: 30/04/2007
+- title: CCRI(I)/2007-44
+  pdf: https://www.bipm.org/documents/20126/48196050/working-document-ID-2691/b98840fc-3a47-36e5-606d-1192252a22cc
+  description: Recent SADCMET events in Ionizing Radiation
+  author: J. Mostert
+  date: 03/05/2007
+- title: CCRI(I)/2007-50
+  pdf: https://www.bipm.org/documents/20126/48196070/working-document-ID-2711/26fd2b13-f08a-4aea-f7f3-b6b65aee5710
+  description: APMP/TCRI Activity Summary
+  author: Y. Hino
+  date: 10/05/2007
+- title: CCRI(I)/2007-52
+  pdf: https://www.bipm.org/documents/20126/48194500/working-document-ID-2719/123ae00e-8fbc-052d-5a24-42597d47f43d
+  description: Recent activities in radiation dosimetry at the NMISA
+  author: J. Mostert
+  date: 12/05/2007

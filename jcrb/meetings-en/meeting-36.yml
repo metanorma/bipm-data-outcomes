@@ -1,0 +1,124 @@
+---
+metadata:
+  title: 36th meeting of the JCRB (Nairobi, Kenya)
+  identifier: '36'
+  date: '2016-09-15'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+pdf: https://www.bipm.org/documents/20126/34908462/JCRB36.pdf/1d68eaf2-6ffd-c586-5abe-207895b42ab6
+resolutions:
+- dates:
+  - '2016-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/36-1 (2016)
+  identifier: 36-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+  categories:
+  - CMC review
+  - RMO
+  considerations: []
+  actions:
+  - type: declares
+    date_effective: '2016-09-15'
+    message: The JCRB Executive Secretary will review current membership of the WG-RMO
+      (or the equivalent designation) within each CC, and provide the list of members
+      to the JCRB.
+- dates:
+  - '2016-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/36-2 (2016)
+  identifier: 36-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+  categories:
+  - CIPM MRA
+  - JCRB
+  considerations: []
+  actions:
+  - type: charges
+    date_effective: '2016-09-15'
+    message: The JCRB charged a task group (comprising Alan Steele (convener), Peter
+      Fisk, Andy Henson, Beat Jeckelmann, Wynand Louw, Mohammed Al Mulla, and Pavel
+      Neyezhmakov) to develop a presentation for the 2016 NMI Directors Meeting, of
+      the JCRB response to the CIPM MRA review. The presentation to be based on the
+      JCRB Strategic Approach to the MRA Review (JCRB working document JCRB-36/05.1).
+- dates:
+  - '2016-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/36-3 (2016)
+  identifier: 36-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+  categories:
+  - CIPM MRA
+  - JCRB
+  considerations: []
+  actions:
+  - type: charges
+    date_effective: '2016-09-15'
+    message: The JCRB charged a task group (comprising Alan Steele (convener), Peter
+      Fisk, Andy Henson, Beat Jeckelmann, Wynand Louw, Mohammed Al Mulla, and Pavel
+      Neyezhmakov) to prepare a draft RACI analysis of the MRA Review Working Group
+      recommendations, based on the JCRB Strategic Approach to the MRA Review (JCRB
+      working document JCRB-36/05.1). The draft RACI analysis to be distributed to
+      the JCRB prior to the 37th JCRB meeting in March, 2017.
+- dates:
+  - '2016-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/36-4 (2016)
+  identifier: 36-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+  categories:
+  - JCRB
+  - KCDB
+  - CMC review
+  considerations: []
+  actions:
+  - type: welcomes
+    date_effective: '2016-09-15'
+    message: The JCRB welcomes the proposal made by the BIPM and charges the BIPM
+      to progress to the next stage of developing KCDB 2.0.
+- dates:
+  - '2016-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/36-5 (2016)
+  identifier: 36-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+  categories:
+  - CMCs
+  - Service categories
+  - Comparisons
+  - CMC review
+  considerations: []
+  actions:
+  - type: charges
+    date_effective: '2016-09-15'
+    message: The JCRB charged a task group (comprising Claudia Santo (convener), Beat
+      Jeckelmann, Peter Manson, Zakithi Msimang, and Toshiyuki Takatsuji) to prepare
+      a draft document reviewing "best practices" in formulation and submission of
+      CMCs, to be distributed prior to the 37th JCRB meeting in March, 2017.
+- dates:
+  - '2016-09-15'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/36-1 (2016)
+  identifier: 36-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/36-2016
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 37th meeting of the JCRB will take on March 15 and 16, 2017 at the BIPM.  The
+    meeting will start on the afternoon of March 15 and will last a full day on March
+    16.
+working_documents:
+- title: JCRB/36-10.0
+  pdf: https://www.bipm.org/documents/20126/32642399/working-document-cc-jc-private-ID-7790/2aa48496-5b66-0b85-5388-28a4259c28a2
+  description: KCDB report to the 36th JCRB
+  author: ''
+  date: 31/08/2016

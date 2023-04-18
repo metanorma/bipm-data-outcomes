@@ -1,0 +1,99 @@
+---
+metadata:
+  title: 41e réunion du JCRB (Dubaï, Émirats arabes unis)
+  identifier: '41'
+  date: '2019-09-11'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/jc/jcrb/41-2019
+pdf: https://www.bipm.org/documents/20126/43898459/JCRB41.pdf/e0db4da6-8296-c548-f8df-0bed6b1d4073
+resolutions:
+- dates:
+  - '2019-09-11'
+  subject: JCRB
+  type: action
+  title: Action JCRB/41-1 (2019)
+  identifier: 41-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/41-2019
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - An ad hoc Task Group {Georgette Macdonald, Noha Khaled, Kazuaki Yamazawa, Nino
+    Mikanadze, Kai Stoll-Malke, Asma Al Hosani} is established to formulate a proposal
+    for consideration at the 42nd meeting of the JCRB regarding the reporting requirements
+    and associated process related to the JCRB actions to establish confidence in
+    each RMOs QS review process. The proposal may include recommendations related
+    to the informal meeting of RMO QS review representatives and updates to CIPM MRA-G-02
+    'Guidelines for the monitoring and reporting of the operation of quality systems
+    by RMOs'. The latest date for submitting the proposal to the JCRB is 11 February
+    2020.
+- dates:
+  - '2019-09-11'
+  subject: JCRB
+  type: action
+  title: Action JCRB/41-2 (2019)
+  identifier: 41-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/41-2019
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2019-09-11'
+    message: APMP to send its revised guidelines for the operation of Hybrid Comparisons
+      to the next meeting of the JCRB.
+- dates:
+  - '2019-09-11'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/41-1 (2019)
+  identifier: 41-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/41-2019
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - "The 42nd meeting of the JCRB will take place in Sèvres, France 10-11 March 2020.
+    \ \nUPDATE: See Resolution 41/3"
+- dates:
+  - '2019-09-11'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/41-2 (2019)
+  identifier: 41-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/41-2019
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 43rd meeting of the JCRB to take place week 37, 2020 in Bogota, Colombia.
+    The JCRB Executive Secretary will collaborate with the Instituto Nacional de Metrología
+    de Colombia (INM) and SIM to host it following the 42nd JCRB meeting.
+- dates:
+  - '2019-09-11'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/41-3 (2019)
+  identifier: 41-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/41-2019
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2019-09-11'
+    message: "*UPDATE of Resolution 41/1:* Following a request from the CIPM President
+      and other CIPM members participating in the JCRB to re-consider the dates of
+      the 42nd JCRB meeting, an e-mail enquiry was held amongst the RMOs. Five RMOs
+      supported the proposal and consequently Resolution 41/1 was revoked on 13 December
+      2019. The 42nd meeting of the JCRB will take place in Sèvres, France 12-13 March
+      2020."
+working_documents:
+- title: JCRB/41-11.1
+  pdf: https://www.bipm.org/documents/20126/32644835/working-document-cc-jc-private-ID-11512/c1059c70-3443-c691-7bc6-6f8dd58be7fc
+  description: KCDB report
+  author: ''
+  date: 13/09/2019
