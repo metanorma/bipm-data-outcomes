@@ -8,3 +8,9 @@ metadata:
   url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-webinar/2023-05-23
   workgroup: ccri-webinar
 resolutions: []
+working_documents:
+- title: CCRI-Webinar/2023-201
+  pdf: https://www.bipm.org/documents/20126/85730648/Presentation_BS_BIPM_webinar.pdf/d006651c-9afc-ca71-f2b2-f864704ef692
+  description: Webinar Benoit Sabot - 05232023
+  author: Benoît Sabot - CEA
+  date: 26/05/2023
