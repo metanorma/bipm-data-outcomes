@@ -5,4 +5,114 @@ metadata:
   date: '2023-05-26'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cc/ccm/19-2023
+pdf:
+- https://www.bipm.org/documents/20126/85119109/Agenda_19th+CCM+2023.pdf/e7a6535f-e23e-51cb-f4a7-8be3f53f29f0
+- https://www.bipm.org/documents/20126/85347083/CCM-23_01-A_List-of-participants.pdf/6f4da313-cc03-bf85-bf43-30c3efa3fba5
+- https://www.bipm.org/documents/20126/85785078/CCM-23_02-A_Updates-CIPM-CGPM.pdf/3c8d52af-5404-4ad8-d41d-351a644318b8
+- https://www.bipm.org/documents/20126/85785089/CCM-23_02-B_Updates-BIPM.pdf/e383e31b-fee7-ac90-ca60-23e967f34dd0
+- https://www.bipm.org/documents/20126/85785104/CCM-23_04_WGS-Report.pdf/e8ce2ee4-4b7e-35e0-0704-06fdcd9ea842
+- https://www.bipm.org/documents/20126/85785120/CCM-23_05_TGPfD_kg-Report.pdf/bbd3115f-c8c5-3b9d-064a-92a71a450f38
+- https://www.bipm.org/documents/20126/85785138/CCM-23_06-1_WGDV-Report.pdf/09fb119f-9118-1333-9c0e-836f7dd8241d
+- https://www.bipm.org/documents/20126/85785153/CCM-23_06-2_WGFF-Report.pdf/ddc48008-aff7-d7ae-e938-da81f9491624
+- https://www.bipm.org/documents/20126/85785165/CCM-23_06-3_WGFT-Report.pdf/10f81f41-4098-85ef-4b9b-b7e27f0b6080
+- https://www.bipm.org/documents/20126/85785183/CCM-23_06-4_WGG-Report.pdf/29f30772-e0f4-a901-1030-ab8eedf6bb9a
+- https://www.bipm.org/documents/20126/85785194/CCM-23_06-5_WGH-Report.pdf/5aa911e3-aa8a-2847-bb84-cdc0b207fe71
+- https://www.bipm.org/documents/20126/85785354/CCM-23_06-6_WGPV-Report.pdf/0688cf46-1cbf-ab80-864a-05320767be84
+- https://www.bipm.org/documents/20126/85785365/CCM-23_06-7_WGM-Report.pdf/22f94c79-07b0-309a-26b7-7061289df43a
+- https://www.bipm.org/documents/20126/85785384/CCM-23_07_BIPM-Mass-Laboratory.pdf/2a1a6b0c-8dab-6b87-92f8-ed5e60fca21d
+- https://www.bipm.org/documents/20126/85785395/CCM-23_08_CCM-Recommendation.pdf/45d18d61-19e4-aec0-321c-fd8b73b57098
+- https://www.bipm.org/documents/20126/85785570/CCM-23_11-1_JCRB-Report.pdf/623f5453-2bea-6493-2e06-4225eca9bd2e
+- https://www.bipm.org/documents/20126/85785585/CCM-23_12_SI-Reference-Point.pdf/fc0d3299-240a-bf9a-dfa5-e4e5e6a2c519
+- https://www.bipm.org/documents/20126/85785555/CCM-23_13_WG-Proposals_Decisions-Actions.pdf/08c9f323-f35a-d685-c50c-7ffb24d2f1cb
 resolutions: []
+working_documents:
+- title: CCM/2023-01
+  pdf: https://www.bipm.org/documents/20126/85119109/Agenda_19th+CCM+2023.pdf/e7a6535f-e23e-51cb-f4a7-8be3f53f29f0
+  description: Agenda of the 19th CCM meeting
+  author: Ph. Richard & H. Fang
+  date: 12/05/2023
+- title: CCM/2023-01-A
+  pdf: https://www.bipm.org/documents/20126/85347083/CCM-23_01-A_List-of-participants.pdf/6f4da313-cc03-bf85-bf43-30c3efa3fba5
+  description: List of participants 19th CCM meeting
+  author: BIPM
+  date: 17/05/2023
+- title: CCM/2023-02-A
+  pdf: https://www.bipm.org/documents/20126/85785078/CCM-23_02-A_Updates-CIPM-CGPM.pdf/3c8d52af-5404-4ad8-d41d-351a644318b8
+  description: News from the CIPM and CGPM
+  author: Ph. Richard
+  date: 27/05/2023
+- title: CCM/2023-02-B
+  pdf: https://www.bipm.org/documents/20126/85785089/CCM-23_02-B_Updates-BIPM.pdf/e383e31b-fee7-ac90-ca60-23e967f34dd0
+  description: Updates from the BIPM
+  author: M. Milton
+  date: 27/05/2023
+- title: CCM/2023-04
+  pdf: https://www.bipm.org/documents/20126/85785104/CCM-23_04_WGS-Report.pdf/e8ce2ee4-4b7e-35e0-0704-06fdcd9ea842
+  description: WGS report
+  author: Ph. Richard
+  date: 27/05/2023
+- title: CCM/2023-05
+  pdf: https://www.bipm.org/documents/20126/85785120/CCM-23_05_TGPfD_kg-Report.pdf/bbd3115f-c8c5-3b9d-064a-92a71a450f38
+  description: TGPfD-kg report
+  author: S. Davidson
+  date: 27/05/2023
+- title: CCM/2023-06-1
+  pdf: https://www.bipm.org/documents/20126/85785138/CCM-23_06-1_WGDV-Report.pdf/09fb119f-9118-1333-9c0e-836f7dd8241d
+  description: WGDV report
+  author: Y. Fujita
+  date: 27/05/2023
+- title: CCM/2023-06-2
+  pdf: https://www.bipm.org/documents/20126/85785153/CCM-23_06-2_WGFF-Report.pdf/ddc48008-aff7-d7ae-e938-da81f9491624
+  description: WGFF report
+  author: B. Mickan
+  date: 27/05/2023
+- title: CCM/2023-06-3
+  pdf: https://www.bipm.org/documents/20126/85785165/CCM-23_06-3_WGFT-Report.pdf/10f81f41-4098-85ef-4b9b-b7e27f0b6080
+  description: WGFT report
+  author: A. Knott
+  date: 27/05/2023
+- title: CCM/2023-06-4
+  pdf: https://www.bipm.org/documents/20126/85785183/CCM-23_06-4_WGG-Report.pdf/29f30772-e0f4-a901-1030-ab8eedf6bb9a
+  description: WGG report
+  author: S. Wu
+  date: 27/05/2023
+- title: CCM/2023-06-5
+  pdf: https://www.bipm.org/documents/20126/85785194/CCM-23_06-5_WGH-Report.pdf/5aa911e3-aa8a-2847-bb84-cdc0b207fe71
+  description: WGH repprt
+  author: F. Menelao
+  date: 27/05/2023
+- title: CCM/2023-06-6
+  pdf: https://www.bipm.org/documents/20126/85785354/CCM-23_06-6_WGPV-Report.pdf/0688cf46-1cbf-ab80-864a-05320767be84
+  description: WGPV report
+  author: K. Jousten
+  date: 27/05/2023
+- title: CCM/2023-06-7
+  pdf: https://www.bipm.org/documents/20126/85785365/CCM-23_06-7_WGM-Report.pdf/22f94c79-07b0-309a-26b7-7061289df43a
+  description: WGM report
+  author: S. Davidson
+  date: 27/05/2023
+- title: CCM/2023-07
+  pdf: https://www.bipm.org/documents/20126/85785384/CCM-23_07_BIPM-Mass-Laboratory.pdf/2a1a6b0c-8dab-6b87-92f8-ed5e60fca21d
+  description: Report from the BIPM mass laboratory
+  author: M. Stock
+  date: 27/05/2023
+- title: CCM/2023-08
+  pdf: https://www.bipm.org/documents/20126/85785395/CCM-23_08_CCM-Recommendation.pdf/45d18d61-19e4-aec0-321c-fd8b73b57098
+  description: Recommendation to address lack of agreement between realisations
+  author: CCM
+  date: 27/05/2023
+- title: CCM/2023-11-1
+  pdf: https://www.bipm.org/documents/20126/85785570/CCM-23_11-1_JCRB-Report.pdf/623f5453-2bea-6493-2e06-4225eca9bd2e
+  description: JCRB report
+  author: O. Werhahn
+  date: 27/05/2023
+- title: CCM/2023-12
+  pdf: https://www.bipm.org/documents/20126/85785585/CCM-23_12_SI-Reference-Point.pdf/fc0d3299-240a-bf9a-dfa5-e4e5e6a2c519
+  description: Towards an SI Reference Point
+  author: G. Dudle
+  date: 27/05/2023
+- title: CCM/2023-13
+  pdf: https://www.bipm.org/documents/20126/85785555/CCM-23_13_WG-Proposals_Decisions-Actions.pdf/08c9f323-f35a-d685-c50c-7ffb24d2f1cb
+  description: Decisions and Actions
+  author: CCM
+  date: 27/05/2023
