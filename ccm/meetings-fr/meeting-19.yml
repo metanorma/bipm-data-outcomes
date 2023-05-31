@@ -22,8 +22,10 @@ pdf:
 - https://www.bipm.org/documents/20126/85785384/CCM-23_07_BIPM-Mass-Laboratory.pdf/2a1a6b0c-8dab-6b87-92f8-ed5e60fca21d
 - https://www.bipm.org/documents/20126/85785395/CCM-23_08_CCM-Recommendation.pdf/45d18d61-19e4-aec0-321c-fd8b73b57098
 - https://www.bipm.org/documents/20126/85785570/CCM-23_11-1_JCRB-Report.pdf/623f5453-2bea-6493-2e06-4225eca9bd2e
+- https://www.bipm.org/documents/20126/85912636/CCM-23_11-2_KCDB-Report.pdf/89d18ac2-1a73-4e74-4912-26ab10c4bb47
 - https://www.bipm.org/documents/20126/85785585/CCM-23_12_SI-Reference-Point.pdf/fc0d3299-240a-bf9a-dfa5-e4e5e6a2c519
 - https://www.bipm.org/documents/20126/85785555/CCM-23_13_WG-Proposals_Decisions-Actions.pdf/08c9f323-f35a-d685-c50c-7ffb24d2f1cb
+- https://www.bipm.org/documents/20126/85912697/CCM-23_RMO5_GULFMET_Report.pdf/07bd7975-a90f-86ab-ce02-4629021edd7c
 resolutions: []
 working_documents:
 - title: CCM/2023-01
@@ -106,6 +108,11 @@ working_documents:
   description: JCRB report
   author: O. Werhahn
   date: 27/05/2023
+- title: CCM/2023-11-2
+  pdf: https://www.bipm.org/documents/20126/85912636/CCM-23_11-2_KCDB-Report.pdf/89d18ac2-1a73-4e74-4912-26ab10c4bb47
+  description: KCDB report
+  author: S. Maniguet
+  date: 30/05/2023
 - title: CCM/2023-12
   pdf: https://www.bipm.org/documents/20126/85785585/CCM-23_12_SI-Reference-Point.pdf/fc0d3299-240a-bf9a-dfa5-e4e5e6a2c519
   description: Towards an SI Reference Point
@@ -116,3 +123,8 @@ working_documents:
   description: Decisions and Actions
   author: CCM
   date: 27/05/2023
+- title: CCM/2023-RMO5
+  pdf: https://www.bipm.org/documents/20126/85912697/CCM-23_RMO5_GULFMET_Report.pdf/07bd7975-a90f-86ab-ce02-4629021edd7c
+  description: Activity report GULFMET
+  author: GULFMET
+  date: 30/05/2023
