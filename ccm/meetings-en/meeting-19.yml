@@ -21,11 +21,29 @@ pdf:
 - https://www.bipm.org/documents/20126/85785365/CCM-23_06-7_WGM-Report.pdf/22f94c79-07b0-309a-26b7-7061289df43a
 - https://www.bipm.org/documents/20126/85785384/CCM-23_07_BIPM-Mass-Laboratory.pdf/2a1a6b0c-8dab-6b87-92f8-ed5e60fca21d
 - https://www.bipm.org/documents/20126/85785395/CCM-23_08_CCM-Recommendation.pdf/45d18d61-19e4-aec0-321c-fd8b73b57098
+- https://www.bipm.org/documents/20126/85785521/CCM-23_10-1B_UME_presentation.pdf/79746743-2a8b-858c-8822-c61faaba9f4c
+- https://www.bipm.org/documents/20126/85540158/CCM-23_10-2B_NIS_presentation.pdf/25c09228-4e46-97ba-0e70-c5250485ccdc
 - https://www.bipm.org/documents/20126/85785570/CCM-23_11-1_JCRB-Report.pdf/623f5453-2bea-6493-2e06-4225eca9bd2e
 - https://www.bipm.org/documents/20126/85912636/CCM-23_11-2_KCDB-Report.pdf/89d18ac2-1a73-4e74-4912-26ab10c4bb47
 - https://www.bipm.org/documents/20126/85785585/CCM-23_12_SI-Reference-Point.pdf/fc0d3299-240a-bf9a-dfa5-e4e5e6a2c519
 - https://www.bipm.org/documents/20126/85785555/CCM-23_13_WG-Proposals_Decisions-Actions.pdf/08c9f323-f35a-d685-c50c-7ffb24d2f1cb
+- https://www.bipm.org/documents/20126/85862683/CCM-23_D1-1_Kibble-based-technoligies.pdf/a102a425-8bd3-d11d-bf37-6d898f8df5f2
+- https://www.bipm.org/documents/20126/85862709/CCM-23_D1-3_ClimatChange-Environment.pdf/042f5b7e-ad3d-d845-bd45-cdfc0ea61241
+- https://www.bipm.org/documents/20126/85862728/CCM-23_D1-4_Atomic-Sensors.pdf/fcfe7c01-b592-6b91-e1e8-36e355d6940a
+- https://www.bipm.org/documents/20126/85862739/CCM-23_D2-1_ComTraForce.pdf/cd4aa180-0954-858e-35cc-83ea0ebeba84
+- https://www.bipm.org/documents/20126/85862757/CCM-23_D2-2_Digitalisation-Support-CCM.pdf/87ed5acf-19e6-5d57-ac9e-416bb73a0309
+- https://www.bipm.org/documents/20126/85862773/CCM-23_D2-3_CCM_AKC_final.pdf/31afa0ec-f9e5-4b34-3e5d-802b57d76e57
+- https://www.bipm.org/documents/20126/85862788/CCM-23_D2-4_Digitalization-EuropeanWeighingMarket.pdf/4d2f8625-cec5-2ead-8a01-9aeae4be512d
+- https://www.bipm.org/documents/20126/84599100/CCM-23_R01_BEV_Report.pdf/93f736a8-df62-2639-0aa1-9cad5fb18c5f
+- https://www.bipm.org/documents/20126/84599266/CCM-23_R04_CENAM_Report.pdf/2e7bf638-f530-57a9-9eab-9a25b0ec5a21
+- https://www.bipm.org/documents/20126/84599418/CCM-23_R07_VSL_Report.pdf/8dceafc5-9d76-e8be-25fc-a164859cc179
+- https://www.bipm.org/documents/20126/84599473/CCM-23_R08_UME_Report.pdf/a2c3d31d-8153-dfa9-3d5f-17c128ce4d2b
+- https://www.bipm.org/documents/20126/85281501/CCM-23_R16_NIS_Report.pdf/f84386e6-ea3e-d14e-6693-19f774634aea
+- https://www.bipm.org/documents/20126/85072934/CCM-23_RMO1_AFRIMETS_Report.pdf/ec55d71e-629c-a66b-8d51-31d7d5f37fe3
+- https://www.bipm.org/documents/20126/85643523/CCM-23_RMO3_COOMET_Report.pdf/9efbc7ea-3ba5-712e-64c0-89df9a1e6248
+- https://www.bipm.org/documents/20126/84728516/CCM-23_RMO4_EURAMET_Report.pdf/cf63c800-0513-a0ac-aa65-d4306ef6a4a5
 - https://www.bipm.org/documents/20126/85912697/CCM-23_RMO5_GULFMET_Report.pdf/07bd7975-a90f-86ab-ce02-4629021edd7c
+- https://www.bipm.org/documents/20126/85643492/CCM-23_RMO6_SIM_Report.pdf/c267a25d-539c-487e-7dd2-4b4fe0614d22
 resolutions: []
 working_documents:
 - title: CCM/2023-01
@@ -103,6 +121,16 @@ working_documents:
   description: Recommendation to address lack of agreement between realisations
   author: CCM
   date: 27/05/2023
+- title: CCM/2023-10-1B
+  pdf: https://www.bipm.org/documents/20126/85785521/CCM-23_10-1B_UME_presentation.pdf/79746743-2a8b-858c-8822-c61faaba9f4c
+  description: Presentation UME to support Membership application
+  author: UME
+  date: 27/05/2023
+- title: CCM/2023-10-2B
+  pdf: https://www.bipm.org/documents/20126/85540158/CCM-23_10-2B_NIS_presentation.pdf/25c09228-4e46-97ba-0e70-c5250485ccdc
+  description: Presentation NIS to support Membership application
+  author: NIS
+  date: 22/05/2023
 - title: CCM/2023-11-1
   pdf: https://www.bipm.org/documents/20126/85785570/CCM-23_11-1_JCRB-Report.pdf/623f5453-2bea-6493-2e06-4225eca9bd2e
   description: JCRB report
@@ -122,9 +150,91 @@ working_documents:
   pdf: https://www.bipm.org/documents/20126/85785555/CCM-23_13_WG-Proposals_Decisions-Actions.pdf/08c9f323-f35a-d685-c50c-7ffb24d2f1cb
   description: Decisions and Actions
   author: CCM
-  date: 27/05/2023
+  date: 02/06/2023
+- title: CCM/2023-D1-1
+  pdf: https://www.bipm.org/documents/20126/85862683/CCM-23_D1-1_Kibble-based-technoligies.pdf/a102a425-8bd3-d11d-bf37-6d898f8df5f2
+  description: Recent developments of tabletop Kibble-based technoligies at NIST
+  author: D. Haddad
+  date: 29/05/2023
+- title: CCM/2023-D1-3
+  pdf: https://www.bipm.org/documents/20126/85862709/CCM-23_D1-3_ClimatChange-Environment.pdf/042f5b7e-ad3d-d845-bd45-cdfc0ea61241
+  description: 'Climate change and Environment: needs and challenges to be addressed
+    by the CCM'
+  author: C. G. Izquierdo
+  date: 29/05/2023
+- title: CCM/2023-D1-4
+  pdf: https://www.bipm.org/documents/20126/85862728/CCM-23_D1-4_Atomic-Sensors.pdf/fcfe7c01-b592-6b91-e1e8-36e355d6940a
+  description: Atomic sensors metrology for long term and trustable monitoring of
+    climate change Key Geodetic Parameters
+  author: S. Merlet
+  date: 29/05/2023
+- title: CCM/2023-D2-1
+  pdf: https://www.bipm.org/documents/20126/85862739/CCM-23_D2-1_ComTraForce.pdf/cd4aa180-0954-858e-35cc-83ea0ebeba84
+  description: ComTraForce – EMPIR project  for continuous and dynamic  force measurements
+  author: F. Hauschild
+  date: 29/05/2023
+- title: CCM/2023-D2-2
+  pdf: https://www.bipm.org/documents/20126/85862757/CCM-23_D2-2_Digitalisation-Support-CCM.pdf/87ed5acf-19e6-5d57-ac9e-416bb73a0309
+  description: How digitalisation might support CCM’s areas of interest
+  author: L. Wright
+  date: 29/05/2023
+- title: CCM/2023-D2-3
+  pdf: https://www.bipm.org/documents/20126/85862773/CCM-23_D2-3_CCM_AKC_final.pdf/31afa0ec-f9e5-4b34-3e5d-802b57d76e57
+  description: Actionable Key Comparisons
+  author: B. Rodiek
+  date: 02/06/2023
+- title: CCM/2023-D2-4
+  pdf: https://www.bipm.org/documents/20126/85862788/CCM-23_D2-4_Digitalization-EuropeanWeighingMarket.pdf/4d2f8625-cec5-2ead-8a01-9aeae4be512d
+  description: Digitalization and the European Weighing Market
+  author: I. Turner
+  date: 29/05/2023
+- title: CCM/2023-R01
+  pdf: https://www.bipm.org/documents/20126/84599100/CCM-23_R01_BEV_Report.pdf/93f736a8-df62-2639-0aa1-9cad5fb18c5f
+  description: Activity report BEV
+  author: BEV
+  date: 30/04/2023
+- title: CCM/2023-R04
+  pdf: https://www.bipm.org/documents/20126/84599266/CCM-23_R04_CENAM_Report.pdf/2e7bf638-f530-57a9-9eab-9a25b0ec5a21
+  description: Activity report CENAM
+  author: CENAM
+  date: 30/04/2023
+- title: CCM/2023-R07
+  pdf: https://www.bipm.org/documents/20126/84599418/CCM-23_R07_VSL_Report.pdf/8dceafc5-9d76-e8be-25fc-a164859cc179
+  description: Activity report VSL
+  author: VSL
+  date: 30/04/2023
+- title: CCM/2023-R08
+  pdf: https://www.bipm.org/documents/20126/84599473/CCM-23_R08_UME_Report.pdf/a2c3d31d-8153-dfa9-3d5f-17c128ce4d2b
+  description: Activity report UME
+  author: UME
+  date: 30/04/2023
+- title: CCM/2023-R16
+  pdf: https://www.bipm.org/documents/20126/85281501/CCM-23_R16_NIS_Report.pdf/f84386e6-ea3e-d14e-6693-19f774634aea
+  description: Activity report NIS
+  author: NIS
+  date: 16/05/2023
+- title: CCM/2023-RMO1
+  pdf: https://www.bipm.org/documents/20126/85072934/CCM-23_RMO1_AFRIMETS_Report.pdf/ec55d71e-629c-a66b-8d51-31d7d5f37fe3
+  description: Activity report AFRIMETS
+  author: AFRIMETS
+  date: 11/05/2023
+- title: CCM/2023-RMO3
+  pdf: https://www.bipm.org/documents/20126/85643523/CCM-23_RMO3_COOMET_Report.pdf/9efbc7ea-3ba5-712e-64c0-89df9a1e6248
+  description: Activity report COOMET
+  author: COOMET
+  date: 24/05/2023
+- title: CCM/2023-RMO4
+  pdf: https://www.bipm.org/documents/20126/84728516/CCM-23_RMO4_EURAMET_Report.pdf/cf63c800-0513-a0ac-aa65-d4306ef6a4a5
+  description: Activity report EURAMET
+  author: EURAMET
+  date: 03/05/2023
 - title: CCM/2023-RMO5
   pdf: https://www.bipm.org/documents/20126/85912697/CCM-23_RMO5_GULFMET_Report.pdf/07bd7975-a90f-86ab-ce02-4629021edd7c
   description: Activity report GULFMET
   author: GULFMET
   date: 30/05/2023
+- title: CCM/2023-RMO6
+  pdf: https://www.bipm.org/documents/20126/85643492/CCM-23_RMO6_SIM_Report.pdf/c267a25d-539c-487e-7dd2-4b4fe0614d22
+  description: Activity report SIM
+  author: SIM
+  date: 24/05/2023
