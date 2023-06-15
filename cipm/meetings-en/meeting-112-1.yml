@@ -5,7 +5,9 @@ metadata:
   date: '2023-03-23'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/112-_1-2023
-pdf: https://www.bipm.org/documents/20126/83231519/CIPM2023-+I-Decisions-EN.pdf/e8bf4367-ba36-0a6c-19a5-6761467dba49
+pdf:
+- https://www.bipm.org/documents/20126/83231519/CIPM2023-+I-Decisions-EN.pdf/e8bf4367-ba36-0a6c-19a5-6761467dba49
+- https://www.bipm.org/documents/20126/86569823/CIPM2023-I-Report-EN.pdf/ca70901f-097a-e096-ce64-778c94b28e72
 resolutions:
 - dates:
   - '2023-03-23'
