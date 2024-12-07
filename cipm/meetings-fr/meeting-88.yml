@@ -42,6 +42,10 @@ resolutions:
 
       * que tous les systèmes satellitaires de navigation à couverture globale soient conçus de telle façon qu'il soit possible d'utiliser leurs signaux pour les comparaisons de temps et de fréquences,
       * que ces systèmes diffusent en plus de leur temps spécifique (ST) :
+      +
+
       .. la différence entre ST et une réalisation en temps réel de l'UTC et du TAI,
       .. une prévision des différences de temps entre ST, TAI et UTC,
+
       * que les fabricants étudient des récepteurs et des systèmes de traitement spécifiquement conçus pour servir aux comparaisons de temps et de fréquences.
+  doi: 10.59161/CIPM1999REC1F

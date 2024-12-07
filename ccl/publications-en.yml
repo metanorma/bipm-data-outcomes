@@ -58,8 +58,6 @@ categories:
   - title: "[CCL] CCL-GD-1 Running of MRA comparisons in length metrology and monitoring
       their impact on CMCs"
     pdf: https://www.bipm.org/documents/20126/30125568/CCL-GD-1+Running+of+MRA+comparisons+in+length+metrology+and+monitoring+their+impact+on+CMCs/974865cb-9ff5-47b4-d1a0-18d42aae05f1
-  - title: "[CCL] L - Classification of services in Length - DimVIM"
-    pdf: https://www.bipm.org/documents/20126/41414840/Classification+of+services+in+Length/05544318-b5d9-36f8-c1f0-e00f766f6887
   - title: "[CCL] CCL-GD-2 Comparison scheme applied in dimensional metrology"
     pdf: https://www.bipm.org/documents/20126/30125579/CCL-GD-2+Comparison+scheme+applied+in+dimensional+metrology/19411cfb-b2f5-9911-a97e-2b51ea5ffbd3
   - title: "[CCL] CCL-GD-3 Guide to preparation of Key Comparison Reports in Dimensional
@@ -82,13 +80,15 @@ categories:
     pdf: https://www.bipm.org/documents/20126/30125667/CCL-GD-6+CMCs+of+category+Standards+of+1D+point-to-point+dimensions/ac8d172e-ed36-bc4a-8cd0-aa2ae4457866
   - title: "[CCL] CCL-GD-8 CMCs on frequency stabilized lasers – Guidelines"
     pdf: https://www.bipm.org/documents/20126/70501796/CCL-GD-8+CMCs+on+frequency+stabilized+lasers+%E2%80%93+Guidelines/7c0f3d6b-b232-8d1c-2542-1cedf9b1fb46
+  - title: "[CCL] L - Classification of services in Length - DimVIM"
+    pdf: https://www.bipm.org/documents/20126/41414840/Classification+of+services+in+Length/05544318-b5d9-36f8-c1f0-e00f766f6887
   - title: "[CCL] Example Excel file for comparison analysis"
     pdf: https://www.bipm.org/documents/20126/30125690/Example+Excel+file+for+comparison+analysis/871c5f01-a3ac-19dd-0a51-effba7c2a69d
   - title: "[CCL] Example Excel file for comparison analysis of linked-loop comparisons"
     pdf: https://www.bipm.org/documents/20126/30125701/Example+Excel+file+for+comparison+analysis+of+linked-loop+comparisons/fc2360be-039e-7bef-e8f4-b2b5b45bb447
   - title: "[CCL] WGMRA Comparison progress report template"
     pdf: https://www.bipm.org/documents/20126/30125712/WGMRA+Comparison+progress+report+template/e5b38c79-37c5-ea4f-f01c-b319e198ef34
-- title: CardsList
+- title: ''
   documents:
   - title: "[CCL] Linking report for Key Comparison CCL-K1"
     pdf: https://www.bipm.org/documents/20126/61771128/%5BCCL%5D+Linking+report+for+Key+Comparison+CCL-K1/a218839a-8eb2-1198-21b2-51c6266d63ed

@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 22nd meeting of the CGPM
-  identifier: 22
+  identifier: '22'
   date: '2003-10-17'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/22-2003
@@ -56,6 +56,7 @@ resolutions:
       and the joint efforts so as to extend the influence and impact of the Metre
       Convention and of traceability of calibration and measurement results into user
       domains where these form part of national rather than international responsibilities.
+  doi: 10.59161/CGPM2003RES1E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -91,6 +92,7 @@ resolutions:
     date_effective: '2003-10-17'
     message: "*requests* Member States of the Metre Convention to press for a positive
       acceptance of this application as soon as possible."
+  doi: 10.59161/CGPM2003RES2E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -141,6 +143,7 @@ resolutions:
       countries and economies in such a way as to avoid any conflict with the independent
       policies and activities of the national metrology institutes of Member States
       of the Metre Convention."
+  doi: 10.59161/CGPM2003RES3E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -186,6 +189,7 @@ resolutions:
     message: "*invites* Member States to promote wider membership through their initiatives,
       such as aid programmes in developing countries, and through their discussions
       in appropriate international fora."
+  doi: 10.59161/CGPM2003RES4E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -247,6 +251,7 @@ resolutions:
     date_effective: '2003-10-17'
     message: invites the International Committee if necessary, to update their 2002
       Report.
+  doi: 10.59161/CGPM2003RES5E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -312,6 +317,7 @@ resolutions:
       other designated institutes that form part of the metrological infrastructure
       of the Members States of the Metre Convention and the Associates of the General
       Conference."
+  doi: 10.59161/CGPM2003RES6E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -359,6 +365,7 @@ resolutions:
     message: recommends that these facilities be used to provide services for industrial,
       scientific, medical and other organizations that require or would benefit from
       calibration results that are traceable to the International System of Units.
+  doi: 10.59161/CGPM2003RES7E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -374,45 +381,42 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2003-10-17'
-    message: recalling that the 21st General Conference in 1999 welcomed the adoption
-      in 1997 by the International Committee of a revised _mise en pratique_ of the
-      definition of the metre, and
-  - type: recalling / further recalling
-    date_effective: '2003-10-17'
-    message: recalling that the Conference also recommended that national laboratories
-      pursue experimental and theoretical research on optical wavelength and frequency
-      standards, including the development of new techniques for the comparison of
-      different standards over a wide range of wavelength and frequency to improve
-      yet further the experimental basis of the International System of Units (SI),
+    message: |-
+      *recalling* that
+
+      * the 21st General Conference in 1999 welcomed the adoption in 1997 by the International Committee of a revised
+      +
+      _mise en pratique_
+      +
+
+      +
+      of the definition of the metre, and
+      * the Conference also recommended that national laboratories pursue experimental and theoretical research on optical wavelength and frequency standards, including the development of new techniques for the comparison of different standards over a wide range of wavelength and frequency to improve yet further the experimental basis of the International System of Units (SI),
   - type: considering
     date_effective: '2003-10-17'
-    message: considering that new techniques based on trapped ions and atoms have
-      opened up the possibility of highly accurate and stable optical clocks and frequency
-      standards,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considering that these systems appear to have the potential for providing
-      the basis for a future, improved, definition of the second,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considering that the introduction of femtosecond comb technology has
-      considerably facilitated the absolute frequency measurement of optical radiation
-      sources, including those sources used to realize the metre,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considering that the International Committee in 2002 updated the recommended
-      values of a number of radiations published in the 1997 _mise en pratique_ and
-      added values for several new radiations,
+    message: |-
+      *considering* that
+
+      * new techniques based on trapped ions and atoms have opened up the possibility of highly accurate and stable optical clocks and frequency standards,
+      * these systems appear to have the potential for providing the basis for a future, improved, definition of the second,
+      * the introduction of femtosecond comb technology has considerably facilitated the absolute frequency measurement of optical radiation sources, including those sources used to realize the metre,
+      * the International Committee in 2002 updated the recommended values of a number of radiations published in the 1997
+      +
+      _mise en pratique_
+      +
+      and added values for several new radiations,
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: welcomes the adoption of these new values and their subsequent http://stacks.iop.org/met/40/103[publication
-      in _Metrologia_] in 2003, and
-  - type: welcomes
-    date_effective: '2003-10-17'
-    message: welcomes the close collaboration and discussions between the length and
-      time and frequency communities aimed at the eventual linking of optical and
-      microwave frequency standards,
+    message: |-
+      *welcomes*
+
+      * the adoption of these new values and their subsequent
+      +
+      http://stacks.iop.org/met/40/103[publication in _Metrologia_]
+      +
+      in 2003, and
+      * the close collaboration and discussions between the length and time and frequency communities aimed at the eventual linking of optical and microwave frequency standards,
   - type: recommends
     date_effective: '2003-10-17'
     message: "*recommends* that national laboratories continue to develop reliable
@@ -423,6 +427,7 @@ resolutions:
     message: "*invites* the International Committee to keep this important subject
       under regular review, especially in relation to a possible redefinition of the
       second."
+  doi: 10.59161/CGPM2003RES8E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -479,7 +484,8 @@ resolutions:
     message: |-
       *recommends* that national metrology institutes, government bodies and international organizations responsible for the control and regulation of the movement of goods and substances, all work with relevant bodies to investigate, propose and implement special procedures that relate to the free and unimpeded movement of metrological materials and equipment among national metrology institutes, designated institutes and the International Bureau of Weights and Measures,
 
-      and further *recommends* the International Committee to draw the attention of other international organizations having responsibilities in this area to this Resolution*.*
+      and further *recommends* the International Committee to draw the attention of other international organizations having responsibilities in this area to this Resolution**.**
+  doi: 10.59161/CGPM2003RES9E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -551,6 +557,7 @@ resolutions:
     date_effective: '2003-10-17'
     message: "*declares* that the symbol for the decimal marker shall be either the
       point on the line or the comma on the line,"
+  doi: 10.59161/CGPM2003RES10E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -633,6 +640,7 @@ resolutions:
     message: recommends that this relationship fosters collaboration on matters concerning
       traceability of measurement results and ensures effective and complementary
       actions under the CIPM MRA and the ILAC arrangement,
+  doi: 10.59161/CGPM2003RES11E
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -728,3 +736,4 @@ resolutions:
     message: "*requests* Member States to declare to the BIPM, at the latest by 1
       April 2004, their intention to pay for the full four years their share of this
       discretionary contribution.\n\n "
+  doi: 10.59161/CGPM2003RES12E

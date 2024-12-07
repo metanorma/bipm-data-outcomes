@@ -4,23 +4,26 @@ metadata:
 categories:
 - title: 'GUM : Guide pour l''expression de l''incertitude de mesure'
   documents:
-  - title: "JCGM 100:2008(E) \x96 Version anglaiseEvaluation of measurement data (2008)"
+  - title: "JCGM 100:2008(E) \x96 Version anglaiseEvaluation of measurement data -
+      Guide to the expression of uncertainty in measurement (2008)"
     pdf: https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6
   - title: "JCGM 100:2008(F) \x96 Version françaiseÉvaluation des données de mesure
-      (2008)"
+      - Guide pour l’expression de l’incertitude de mesure"
     pdf: https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_F.pdf/53384399-1e6d-b598-dd17-2831a6b5b812
-  - title: JCGM 101:2008Supplément 1 – Propagation de distributions par une méthode
-      de Monte CarloVersion anglaise uniquement (2008)
+  - title: JCGM 101:2008Supplément 1 du “Guide pour l’expression de l’incertitude
+      de mesure” - Propagation de distributions par une méthode de Monte CarloVersion
+      anglaise uniquement (2008)
     pdf: https://www.bipm.org/documents/20126/2071204/JCGM_101_2008_E.pdf/325dcaad-c15a-407c-1105-8b7f322d651c
-  - title: JCGM 102:2011Supplément 2 – Extension à un nombre quelconque de grandeurs
-      de sortieVersion anglaise uniquement (2011)
+  - title: JCGM 102:2011Supplément 2 du “Guide pour l’expression de l’incertitude
+      de mesure” - Extension à un nombre quelconque de grandeurs de sortieVersion
+      anglaise uniquement (2011)
     pdf: https://www.bipm.org/documents/20126/2071204/JCGM_102_2011_E.pdf/6a3281aa-1397-d703-d7a1-a8d58c9bf2a5
-  - title: JCGM 104:2009Une introduction au « Guide pour l'expression de l'incertitude
-      de mesure » et aux documents qui le concernent)Version anglaise uniquement (2009)
-    pdf: https://www.bipm.org/documents/20126/2071204/JCGM_104_2009.pdf/19e0a96c-6cf3-a056-4634-4465c576e513
-  - title: JCGM 106:2012Évaluation des données de mesure – Le rôle de l'incertitude
-      de mesure dans l'évaluation de la conformitéVersion anglaise uniquement (2012)
+  - title: JCGM 106:2012Le rôle de l'incertitude de mesure dans l'évaluation de la
+      conformitéVersion anglaise uniquement (2012)
     pdf: https://www.bipm.org/documents/20126/2071204/JCGM_106_2012_E.pdf/fe9537d2-e7d7-e146-5abb-2649c3450b25
+  - title: 'JCGM GUM-1:2023Guide pour l’expression de l’incertitude de mesure — Partie
+      1: Introduction (2023)'
+    pdf: https://www.bipm.org/documents/20126/2071204/JCGM_GUM-1.pdf/74e7aa56-2403-7037-f975-cd6b555b80e6
   - title: 'JCGM GUM-6:2020Guide pour l''expression de l''incertitude de mesure —
       Partie 6 : Élaboration et utilisation des modèles de mesureVersion anglaise
       uniquement (2020)'

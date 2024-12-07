@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 14e réunion de la CGPM
-  identifier: 14
+  identifier: '14'
   date: '1971-10-07'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/14-1971
@@ -36,8 +36,11 @@ resolutions:
       * que les étalons atomiques de fréquence servant à la réalisation de la seconde ont été considérés et doivent continuer de l'être par le Comité international des poids et mesures assisté d'un comité consultatif, et que l'intervalle unitaire de l'échelle de Temps atomique international doit être la seconde réalisée conformément à sa définition atomique,
       * que toutes les organisations scientifiques internationales compétentes et les laboratoires nationaux actifs dans ce domaine ont exprimé le désir que le Comité international et la Conférence générale des poids et mesures donnent une définition du Temps atomique international, et contribuent à l'établissement de l'échelle de Temps atomique international,
       * que l'utilité du Temps atomique international nécessite une coordination étroite avec les échelles de temps fondées sur des mouvements astronomiques,
+      +
+
       .. de donner une définition du Temps atomique international ;
       .. de prendre les mesures nécessaires, en accord avec les organisations internationales intéressées, pour que les compétences scientifiques et les moyens d'action existants soient utilisés au mieux pour la réalisation de l'échelle de Temps atomique international, et pour que soient satisfaits les besoins des utilisateurs du Temps atomique international.
+  doi: 10.59161/CGPM1971RES1F
   notes: La définition du TAI a été donnée par le CCDS en 1970 (maintenant renommé
     CCTF).
 - dates:
@@ -78,6 +81,7 @@ resolutions:
     message: "*autorise* le Comité international des poids et mesures à conclure avec
       le Bureau international de l'heure les arrangements nécessaires pour la réalisation
       de l'échelle de Temps atomique international à définir par le Comité international."
+  doi: 10.59161/CGPM1971RES2F
 - dates:
   - '1971-10-07'
   subject: CGPM
@@ -111,6 +115,7 @@ resolutions:
   - type: decides
     date_effective: '1971-10-07'
     message: décide La mole est une unité de base du Système international d'unités.
+  doi: 10.59161/CGPM1971RES3F
   notes: |-
     À sa session de 1980, le CIPM a approuvé le rapport de la 7^e^ session du CCU (1980) précisant que, dans cette définition, il est entendu que l'on se réfère à des atomes de carbone 12 non liés, au repos et dans leur état fondamental. +
      +
@@ -149,6 +154,7 @@ resolutions:
     message: "*donne son approbation* au programme d'activité du Bureau international
       des poids et mesures proposé par le Comité international des poids et mesures
       pour les quatre années 1973-1976."
+  doi: 10.59161/CGPM1971RES4F
 - dates:
   - '1971-10-07'
   subject: CGPM
@@ -185,8 +191,8 @@ resolutions:
       façon que l'ensemble de la partie fixe et de la partie complémentaire [définies
       à l'Art. 6 (1921) du Règlement annexé à la Convention du Mètre] soit, pour les
       États parties à la Convention à l'époque de la Treizième Conférence générale
-      :\n\n\n\n|===\n| 3 340 000 francs-or en 1973\n\n| 3 740 000 francs-or en 1974\n|
-      4 180 000 francs-or en 1975\n| 4 670 000 francs-or en 1976\n\n|===\n\n "
+      :\n\n\n\n[cols=1]\n|===\n| 3 340 000 francs-or en 1973\n\n| 3 740 000 francs-or
+      en 1974\n| 4 180 000 francs-or en 1975\n| 4 670 000 francs-or en 1976\n\n|===\n\n "
   - type: authorizes
     date_effective: '1971-10-07'
     message: "*autorise* que, sous réserve de la condition ci-après, un pourcentage
@@ -201,12 +207,13 @@ resolutions:
       nationale à se mettre d'accord avec le Comité international des poids et mesures
       pour qu'ils soient employés à la satisfaction des besoins du Bureau international
       des poids et mesures en tenant compte des lois du pays."
+  doi: 10.59161/CGPM1971RES5F
 - dates:
   - '1971-10-07'
   subject: CGPM
   type: declaration
   title: Pascal ; siemens
-  identifier: 0
+  identifier: 1971
   url: https://www.bipm.org/fr/committees/cg/cgpm/14-1971/resolution-
   reference: https://www.bipm.org/documents/20126/17314988/CGPM14.pdf/335f1f31-e905-f5c2-d979-7c023c545db1
   reference_name: Comptes rendus de la 14e CGPM (1971), 1972
@@ -219,3 +226,4 @@ resolutions:
       « pascal » (symbole Pa) pour l'unité SI de pression (newton par mètre carré)
       et « siemens » (symbole S) pour l'unité SI de conductance électrique (ohm à
       la puissance moins un).
+  doi: 10.59161/CGPM1971DECLF

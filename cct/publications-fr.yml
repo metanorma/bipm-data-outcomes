@@ -8,24 +8,24 @@ categories:
     pdf: https://www.bipm.org/documents/20126/41594877/Classification+of+services+in+Thermometry/601bc4bf-fbfa-a886-6961-9d2db9eca3d4
   - title: "[CCT] CCT Guidelines for comparisons"
     pdf: https://www.bipm.org/documents/20126/50817864/CCT-Guidelines-on-comparisons.pdf/d1352c60-eea8-99cb-b281-4c295617e773
-  - title: "[CCT] CMC Review Protocol - Calibration of fixed point cells (excluding
+  - title: "[CCT] CMC Review Protocol: Calibration of fixed point cells (excluding
       the TPW) and calibration of SPRTs at fixed points"
     pdf: https://www.bipm.org/documents/20126/30131903/CMC+Review+Protocol+-+Calibration+of+fixed+point+cells+%28excluding+the+TPW%29+and+calibration+of+SPRTs+at+fixed+points/18718ca9-7208-4eea-d042-373910bb413a
-  - title: "[CCT] CMC Review Protocol - Calibration of high-temperature fixed points"
+  - title: "[CCT] CMC Review protocol: Calibration of high-temperature fixed points"
     pdf: https://www.bipm.org/documents/20126/30131936/CMC+Review+Protocol+-+Calibration+of+high-temperature+fixed+points/6f5083aa-698d-239a-02d0-3b433866a718
-  - title: "[CCT] CMC Review Protocol - Calibration of industrial thermometers"
+  - title: "[CCT] CMC Review Protocol: Calibration of industrial thermometers"
     pdf: https://www.bipm.org/documents/20126/30131914/CMC+Review+Protocol+-+Calibration+of+industrial+thermometers/f045bcde-e69d-8f83-564f-98ad57f2ab59
-  - title: "[CCT] CMC Review Protocol - Humidity"
+  - title: "[CCT] CMC Review Protocol: Humidity"
     pdf: https://www.bipm.org/documents/20126/30131925/CMC+Review+Protocol+-+Humidity/0dcad2df-4a6c-8cd4-2575-522c5dc47b94
-  - title: "[CCT] CMC Review Protocol - Humidity generators"
+  - title: "[CCT] CMC Review Protocol: Humidity generators"
     pdf: https://www.bipm.org/documents/20126/30131947/CMC+Review+Protocol+-+Humidity+generators/56eda63f-931c-5f74-c131-3469a51a879f
-  - title: "[CCT] CMC Review Protocol - ITS-90 SPRT subrange"
+  - title: "[CCT] CMC Review Protocol: ITS-90 SPRT Subrange"
     pdf: https://www.bipm.org/documents/20126/30131892/CMC+Review+Protocol+-+ITS-90+SPRT+subrange/61837d03-cbb7-73ed-937b-4b08fc4bd1c7
-  - title: "[CCT] CMC Review Protocol - Radiation Thermometry"
+  - title: "[CCT] CMC Review Protocol: Radiation Thermometry"
     pdf: https://www.bipm.org/documents/20126/30131881/CMC+Review+Protocol+-+Radiation+Thermometry/78454958-63e8-7286-61c5-9b6b269fc6fb
-  - title: "[CCT] CMC Review Protocol - Relative humidity"
+  - title: "[CCT] CMC Review Protocol: Relative humidity"
     pdf: https://www.bipm.org/documents/20126/30131958/CMC+Review+Protocol+-+Relative+humidity/f422431b-c083-3e31-4082-77eade4b6b73
-  - title: "[CCT] CMC Review Protocol - TPW"
+  - title: "[CCT] CMC Review Protocol: TPW"
     pdf: https://www.bipm.org/documents/20126/30131870/CMC+Review+Protocol+-+TPW/f13b8283-a0ba-0b9a-da90-f3309d53c12e
   - title: "[CCT] CMC Review Protocol: Thermal diffusivity"
     pdf: https://www.bipm.org/documents/20126/65564228/CMC+review+protocol+for+LF+thermal+diffusivity.pdf/890f1d66-3a69-efbd-de7a-fcfa0d5013b9
@@ -33,9 +33,11 @@ categories:
     pdf: https://www.bipm.org/documents/20126/58019986/CMC_review_protocol_IR_spectral_emissivity.pdf/8d5c87ad-8061-94a5-1fe5-5414a677fca9
 - title: Rapports de réunion
   documents:
-  - title: "[CCT] 30th meeting (2022)"
+  - title: "[CCT] 31e session (2024)"
+    pdf: https://www.bipm.org/documents/20126/265252622/CCT31/4d3d43cf-dfdd-7833-1d8f-45a8c6eb695b
+  - title: "[CCT] 30e session (2022)"
     pdf: https://www.bipm.org/documents/20126/70155781/CCT30.pdf/febd4c94-723a-480a-ae72-a3a46ac6c655
-  - title: "[CCT] 29th meeting (2020)"
+  - title: "[CCT] 29e session (2020)"
     pdf: https://www.bipm.org/documents/20126/58864527/CCT29.pdf/b537f138-2d58-290a-e697-bc394350f317
   - title: "[CCT] 28e session (2017)"
     pdf: https://www.bipm.org/documents/20126/30132201/CCT28.pdf/57d829eb-a5ba-4bcf-803c-5209a6fe1879

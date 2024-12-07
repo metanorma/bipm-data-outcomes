@@ -45,6 +45,7 @@ resolutions:
     message: recommande que la Brochure sur le SI soit étendue au domaine des mesures
       par comptage (dénombrement) afin de fournir des indications sur les unités devant
       être utilisées pour exprimer les résultats de ces mesures.
+  doi: 10.59161/CCQM2011REC1F
 - dates:
   - '2011-04-15'
   subject: CCQM
@@ -109,6 +110,7 @@ resolutions:
       * de prendre des dispositions afin de remédier à la perte éventuelle de compétences et d’équipements indispensables,
       * de soutenir les programmes permettant d’établir des techniques de mesure spécialisées essentielles à la métrologie en chimie inorganique,
       * d’étudier le moyen le plus efficace de mettre en œuvre les recommandations du Groupe de travail du CCQM sur l’analyse inorganique, en collaboration avec des laboratoires nationaux de métrologie et/ou des laboratoires spécialisés.
+  doi: 10.59161/CCQM2011REC2F
 - dates:
   - '2011-04-15'
   subject: CCQM
@@ -129,27 +131,21 @@ resolutions:
       de la métrologie en chimie,
   - type: noting
     date_effective: '2011-04-15'
-    message: notant la Résolution 12 adoptée par la Conférence générale des poids
-      et mesures (CGPM) à sa 23^e^ réunion (2007) recommandant aux laboratoires nationaux
-      de métrologie et au BIPM de lancer « des campagnes de sensibilisation pour alerter
-      les communautés d'utilisateurs sur l'éventualité de nouvelles définitions afin
-      que leurs implications techniques et juridiques, ainsi que leurs réalisations
-      pratiques, soient discutées et examinées avec soin »,
-  - type: noting
-    date_effective: '2011-04-15'
-    message: notant la Recommandation Q 1 du CCQM (2009) sur les éventuelles redéfinitions
-      de la mole et du kilogramme,
-  - type: noting
-    date_effective: '2011-04-15'
-    message: notant le projet de résolution stem:["A"] sur l’éventuelle révision à
-      venir du Système international d’unités, qui a été adopté par le Comité international
-      des poids et mesures (CIPM) en 2010 et qui sera soumis à la CGPM lors de sa
-      24^e^ réunion (2011),
-  - type: noting
-    date_effective: '2011-04-15'
-    message: notant le nombre limité de documents permettant de savoir si les communautés
-      concernées prennent réellement conscience de la proposition de redéfinir la
-      mole,
+    message: |-
+      *notant*
+
+      * la Résolution 12 adoptée par la Conférence générale des poids et mesures (CGPM) à sa 23
+      +
+      ^e^
+      +
+      réunion (2007) recommandant aux laboratoires nationaux de métrologie et au BIPM de lancer « des campagnes de sensibilisation pour alerter les communautés d'utilisateurs sur l'éventualité de nouvelles définitions afin que leurs implications techniques et juridiques, ainsi que leurs réalisations pratiques, soient discutées et examinées avec soin »,
+      * la Recommandation Q 1 du CCQM (2009) sur les éventuelles redéfinitions de la mole et du kilogramme,
+      * le projet de résolution stem:["A"] sur l’éventuelle révision à venir du Système international d’unités, qui a été adopté par le Comité international des poids et mesures (CIPM) en 2010 et qui sera soumis à la CGPM lors de sa 24
+      +
+      ^e^
+      +
+      réunion (2011),
+      * le nombre limité de documents permettant de savoir si les communautés concernées prennent réellement conscience de la proposition de redéfinir la mole,
   actions:
   - type: decides
     date_effective: '2011-04-15'
@@ -163,7 +159,11 @@ resolutions:
       * d’identifier les organismes nationaux et internationaux les plus influents qui ont des responsabilités dans le domaine des mesures chimiques, notamment en ce qui concerne l’enseignement et la normalisation,
       * de s’assurer que ces organismes sont informés de la proposition de redéfinir la mole publiée sur le site internet du BIPM,
       * de déterminer si ces organismes envisagent que la mise en oeuvre d’une telle définition dès 2015 posera des difficultés significatives, compte tenu des indications fournies dans la nouvelle mise en pratique,
-      * de communiquer les résultats de leurs consultations au CCQM lors de sa 18^e^ session prévue en avril 2012,
+      * de communiquer les résultats de leurs consultations au CCQM lors de sa 18
+      +
+      ^e^
+      +
+      session prévue en avril 2012,
   - type: invites / further invites
     date_effective: '2011-04-15'
     message: "*invite le directeur du BIPM* à écrire à la présidente de l’Union internationale
@@ -173,6 +173,7 @@ resolutions:
       de la mole, et l’inviter à faire part au BIPM des progrès des consultations
       sur cette éventuelle redéfinition effectuées auprès des organismes membres de
       l’UICPA."
+  doi: 10.59161/CCQM2011DECL3F
 working_documents:
 - title: CCQM/2011-18
   pdf: https://www.bipm.org/documents/20126/28439502/working-document-ID-4428/4784a8ab-7679-c8a8-a183-bd61e5b08941

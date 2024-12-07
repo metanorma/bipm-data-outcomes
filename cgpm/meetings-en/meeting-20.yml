@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 20th meeting of the CGPM (1995)
-  identifier: 20
+  identifier: '20'
   date: '1995-10-13'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/20-1995
@@ -22,35 +22,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: considering that the effects on the geosphere and biosphere of industrial
-      and commercial activities and of many other human pursuits, and the consequences
-      for human health and well-being, are the subject of major studies world-wide,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considering that governments are increasingly faced with decisions of
-      great economic and political significance concerning the regulation of these
-      activities,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considering that the policies of governments are influenced by studies
-      depending critically on accurate and mutually compatible measurements often
-      requiring very large economic investments,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considering that much of the important scientific evidence required for
-      decisions by governments comes from measurements of small changes in certain
-      key parameters, measurements sometimes extending over several decades,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considering that certain critical measurements have traditionally been
-      made in _ad hoc_ units based upon special instrumentation or procedures, and
-      not in the well-characterized and internationally agreed SI units,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considering that experience over many years has shown that measurements
-      not directly linked to the SI cannot be relied upon in the long term, cannot
-      be compared with similar measurements made elsewhere and do not adequately bring
-      out possible relationships with measurements made in other scientific disciplines,
+    message: |-
+      *considering that*
+
+      * the effects on the geosphere and biosphere of industrial and commercial activities and of many other human pursuits, and the consequences for human health and well-being, are the subject of major studies world-wide,
+      * governments are increasingly faced with decisions of great economic and political significance concerning the regulation of these activities,
+      * the policies of governments are influenced by studies depending critically on accurate and mutually compatible measurements often requiring very large economic investments,
+      * much of the important scientific evidence required for decisions by governments comes from measurements of small changes in certain key parameters, measurements sometimes extending over several decades,
+      * certain critical measurements have traditionally been made in
+      +
+      _ad hoc_
+      +
+      units based upon special instrumentation or procedures, and not in the well-characterized and internationally agreed SI units,
+      * experience over many years has shown that measurements not directly linked to the SI cannot be relied upon in the long term, cannot be compared with similar measurements made elsewhere and do not adequately bring out possible relationships with measurements made in other scientific disciplines,
   actions:
   - type: recommends
     date_effective: '1995-10-13'
@@ -60,6 +44,7 @@ resolutions:
       that they are reliable in the long term, are comparable world-wide and are linked
       to other areas of science and technology through the world’s measurement system
       established and maintained under the Convention du Mètre."
+  doi: 10.59161/CGPM1995RES1E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -126,6 +111,7 @@ resolutions:
     message: recommends and that the results of comparisons carried out by the regional
       groups be communicated to the BIPM in appropriate form for them to be published
       by the BIPM and thereby given wide international recognition.
+  doi: 10.59161/CGPM1995RES2E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -164,6 +150,7 @@ resolutions:
     message: recommends that national laboratories keep the Bureau International des
       Poids et Mesures informed as to the results of the work related to fundamental
       metrology.
+  doi: 10.59161/CGPM1995RES3E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -179,30 +166,17 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1995-10-13'
-    message: recalling that in 1983 the 17th Conférence Générale des Poids et Mesures
-      adopted a new definition of the metre,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: recalling that in the same year the Conférence Générale invited the Comité
-      International des Poids et Mesures
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: recalling to draw up instructions for the practical realization of the
-      metre,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: recalling to choose radiations which can be recommended as standards
-      of wavelength for the interferometric measurement of length and draw up instructions
-      for their use,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: recalling to pursue studies to improve these standards and, in due course,
-      to extend or revise these instructions,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: recalling that in response to this invitation the Comité International
-      made recommendations in 1983 concerning the practical realization of the metre
-      (the _mise en pratique_),
+    message: |-
+      *recalling*
+
+      * that in 1983 the 17th Conférence Générale des Poids et Mesures adopted a new definition of the metre,
+      * that in the same year the Conférence Générale invited the Comité International des Poids et Mesures
+
+      * that in response to this invitation the Comité International made recommendations in 1983 concerning the practical realization of the metre (the
+      +
+      _mise en pratique_
+      +
+      ),
   - type: considering
     date_effective: '1995-10-13'
     message: considering that science and technology continue to demand improved accuracy
@@ -230,6 +204,7 @@ resolutions:
     message: "*recommends* that national laboratories pursue their research on optical
       wavelength and frequency standards to improve yet further the experimental basis
       of the Système International d'Unités."
+  doi: 10.59161/CGPM1995RES4E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -269,6 +244,7 @@ resolutions:
       and develop new ones, with a view to monitoring the stability of the international
       prototype of the kilogram and in due course opening the way to a new definition
       of the unit of mass based upon fundamental or atomic constants."
+  doi: 10.59161/CGPM1995RES5E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -310,6 +286,7 @@ resolutions:
     message: "*recommends* that the space agencies consider the installation on their
       satellites of appropriate equipment for clock comparison by satellite laser
       techniques."
+  doi: 10.59161/CGPM1995RES6E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -355,6 +332,7 @@ resolutions:
       in chemistry to collaborate with the Comité International and the new Comité
       Consultatif in establishing world-wide traceability at the highest level for
       measurements in chemistry."
+  doi: 10.59161/CGPM1995RES7E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -399,6 +377,7 @@ resolutions:
     date_effective: '1995-10-13'
     message: decides and, consequently, to eliminate the class of supplementary units
       as a separate class in the SI.
+  doi: 10.59161/CGPM1995RES8E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -435,6 +414,7 @@ resolutions:
     message: |-
       *decides* that the fixed part of the annual dotation of the Bureau International des Poids et Mesures will be increased in a way such that the sum of the fixed part and the complementary part (defined by Article 6; (1921) of the Rules annexed to the Convention du Mètre 1875) shall, for those States members of the Convention du Mètre at the time of the 20th Conférence Générale des Poids et Mesures, be
 
+      [cols=1]
       |===
       | 27 144 000 gold francs in 1997
 
@@ -443,6 +423,7 @@ resolutions:
       | 30 976 000 gold francs in 2000.
 
       |===
+  doi: 10.59161/CGPM1995RES9E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -485,6 +466,7 @@ resolutions:
       received the Report of its President, advise Member States of the Convention
       du Mètre of the outcome of the discussions and of its opinion as to whether
       further action should be taken."
+  doi: 10.59161/CGPM1995RES10E
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -520,3 +502,4 @@ resolutions:
       the appropriate international collaborations and the unique role of the BIPM
       to meet these needs, and the financial and other commitments that will be required
       from the Member States in the coming decades."
+  doi: 10.59161/CGPM1995RES11E

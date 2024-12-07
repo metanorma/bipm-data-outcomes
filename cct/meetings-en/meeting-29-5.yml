@@ -107,16 +107,54 @@ resolutions:
       *_considering_*
 
       * the discussions held at the 27th, and 28th meetings of the CCT in 2014 and 2017,
-      * that experimental progress has allowed the development of a _Mise en Pratique_ for the realization of the kelvin (stem:[MeP]-K), which has been extended to cover direct measurement of thermodynamic temperature, stem:[T], after the redefinition of the kelvin;
+      * that experimental progress has allowed the development of a
+      +
+      _Mise en Pratique_
+      +
+      for the realization of the kelvin (
+      +
+      stem:[MeP]
+      +
+      -K), which has been extended to cover direct measurement of thermodynamic temperature,
+      +
+      __T__
+      +
+      , after the redefinition of the kelvin;
   - type: noting
     date_effective: '2021-02-09'
     message: |-
       *_noting that_*
 
-      * Resolution 1 of the 26th meeting of the CGPM (2018) stated “that Member State NMIs take full advantage of the opportunities for the realization and dissemination of thermodynamic temperature afforded by the kelvin redefinition and the stem:[MeP]-K”,
-      * in the last years, primary thermometry by acoustic gas thermometry, dielectric-constant gas thermometry, and refractive-index gas thermometry have yielded low uncertainty thermodynamic-temperature data and so improved considerably the knowledge on _T - T_~90~ below stem:[400 "K"] (stem:[T_(90)] is the temperature according to the International Temperature Scale of 1990, ITS-90),
+      * Resolution 1 of the 26th meeting of the CGPM (2018) stated “that Member State NMIs take full advantage of the opportunities for the realization and dissemination of thermodynamic temperature afforded by the kelvin redefinition and the
+      +
+      stem:[MeP]
+      +
+      -K”,
+      * in the last years, primary thermometry by acoustic gas thermometry, dielectric-constant gas thermometry, and refractive-index gas thermometry have yielded low uncertainty thermodynamic-temperature data and so improved considerably the knowledge on
+      +
+      __T - T__
+      +
+      ~90~
+      +
+      below stem:[400 "K"] (
+      +
+      __T__
+      +
+      ~90~
+      +
+      is the temperature according to the International Temperature Scale of 1990, ITS-90),
       * above stem:[400 "K"], there is a dearth of new accurate measurements of thermodynamic temperature, which are urgently required,
-      * primary thermometry approaches to facilitate implementation of the stem:[MeP]-K by thermodynamic thermometry and to evaluate _T - T_~90~ in this important temperature region need significant further development;
+      * primary thermometry approaches to facilitate implementation of the
+      +
+      stem:[MeP]
+      +
+      -K by thermodynamic thermometry and to evaluate
+      +
+      __T - T__
+      +
+      ~90~
+      +
+      in this important temperature region need significant further development;
   actions:
   - type: welcomes
     date_effective: '2021-02-09'
@@ -129,7 +167,14 @@ resolutions:
     message: |-
       *_recommends_*
 
-      * that Member State NMIs improve their capabilities in primary thermometry, by various means, above stem:[400 "K"] to improve determination of _T - T_~90~, accompanied by appropriate research to ensure that International Temperature Scale realization remains fit for purpose, allowing access to lower uncertainty thermodynamic temperature values over a wide range for a broader community.
+      * that Member State NMIs improve their capabilities in primary thermometry, by various means, above stem:[400 "K"] to improve determination of
+      +
+      __T - T__
+      +
+      ~90~
+      +
+      , accompanied by appropriate research to ensure that International Temperature Scale realization remains fit for purpose, allowing access to lower uncertainty thermodynamic temperature values over a wide range for a broader community.
+  doi: 10.59161/CCT2021REC1E
 working_documents:
 - title: CCT/2020-01
   pdf: https://www.bipm.org/documents/20126/43508681/Draft-agenda-29th_CCT_meeting-Session-1.pdf/5725ffc7-b996-9950-594b-1c45de6db11c

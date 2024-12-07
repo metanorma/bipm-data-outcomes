@@ -25,13 +25,14 @@ resolutions:
 
       1° Radiations du krypton 86
 
+      [cols=2]
       |===
       | Termes spectraux | Longueurs d'onde dans le vide
 
-      | 2_p_~9~-5_d'_~4~ | stem:[6 458","072 0 * 10^(-10) "m"]
-      | 2_p_~8~-5_d_~4~ | 6 422,800 6
-      | 1_s_~3~-3_p_~10~ | 5 651,128 6
-      | 1_s_~4~-3_p_~8~ | 4 503,616 2
+      | 2__p__~9~-5__d'__~4~ | stem:[6 458","072 0 * 10^(-10) "m"]
+      | 2__p__~8~-5__d__~4~ | 6 422,800 6
+      | 1__s__~3~-3__p__~10~ | 5 651,128 6
+      | 1__s__~4~-3__p__~8~ | 4 503,616 2
 
       |===
 
@@ -43,6 +44,7 @@ resolutions:
 
       2° Radiations du mercure 198
 
+      [cols=2]
       |===
       | Termes spectraux | Longueurs d'onde dans le vide
 
@@ -64,10 +66,15 @@ resolutions:
       * le diamètre intérieur du capillaire de la lampe est environ stem:[5 "mm"], et les radiations sont observées en travers ;
       * la lampe est excitée par un champ à haute fréquence de puissance modérée;
       * elle est maintenue à une température inférieure à stem:[10 "°C"] ;
-      * le volume de la lampe est de préférence supérieur à stem:[20 "cm"^(3)].
+      * le volume de la lampe est de préférence supérieur à stem:[20 "cm"]
+      +
+      ^3^
+      +
+      .
 
       3° Radiations du cadmium 114
 
+      [cols=2]
       |===
       | Termes spectraux | Longueurs d'onde dans le vide
 
@@ -89,6 +96,7 @@ resolutions:
       * le diamètre intérieur du capillaire de la lampe est environ stem:[5 "mm"], et les radiations sont observées en travers ;
       * la lampe est excitée par un champ à haute fréquence de puissance modérée; elle est maintenue à une température telle que la raie verte ne soit pas renversée.
   actions: []
+  doi: 10.59161/CIPM1963REC1E
 - dates:
   - '1963-10-04'
   subject: CIPM
@@ -108,3 +116,4 @@ resolutions:
     message: recommande que le curie soit retenu comme unité spéciale pour l'activité
       avec le symbole Ci et la valeur stem:[3","7 * 10^(10) "s"^(-1)], la seconde
       à la puissance moins un (S^-1^) étant l'unité SI d'activité.
+  doi: 10.59161/CIPM1963REC2E

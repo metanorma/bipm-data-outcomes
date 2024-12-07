@@ -22,47 +22,24 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2001-10-12'
-    message: considérant que le logarithme naturel est utilisé pour exprimer la valeur
-      du décrément logarithmique, du niveau de champ et du niveau de puissance dans
-      le système de grandeurs sur lequel est fondé le Système international d'unités
-      (SI),
-  - type: considering
-    date_effective: '2001-10-12'
-    message: considérant que les grandeurs et les équations entre grandeurs sont simplifiées
-      lorsqu'on utilise le logarithme naturel (logarithme de base e) plutôt que d'autres
-      logarithmes, de base différente,
-  - type: considering
-    date_effective: '2001-10-12'
-    message: considérant que en particulier pour les grandeurs complexes, le seul
-      logarithme utile est le logarithme naturel,
-  - type: considering
-    date_effective: '2001-10-12'
-    message: considérant que en utilisant le logarithme naturel pour les grandeurs
-      complexes, le radian et le neper deviennent des unités analogues et devraient
-      donc avoir le même statut dans le SI,
-  - type: considering
-    date_effective: '2001-10-12'
-    message: considérant que la 20^e^ Conférence générale (1995, Résolution 8), a
-      décidé d’interpréter les unités supplémentaires du SI, c’est-à-dire le radian
-      et le stéradian, comme des unités dérivées sans dimension et, en conséquence,
-      de supprimer la classe des unités supplémentaires comme classe séparée dans
-      le SI,
-  - type: considering
-    date_effective: '2001-10-12'
-    message: considérant que le Comité international, dans la brochure sur le SI,
-      7^e^ édition (1998), a accepté, pour l'usage avec le SI, le neper, symbole Np,
-      comme un nom spécial de l’unité SI cohérente, le nombre un, pour exprimer la
-      valeur des grandeurs logarithmiques définies en utilisant les logarithmes naturels
-      et aussi l'unité non cohérente, le bel, symbole B, comme unité pour exprimer
-      la valeur des grandeurs logarithmiques définies en utilisant les logarithmes
-      de base dix, en insistant sur la nécessité de mentionner le niveau de référence,
-  - type: considering
-    date_effective: '2001-10-12'
-    message: considérant que il est nécessaire, pour compléter la cohérence interne
-      du SI, d'adopter formellement le nom spécial neper, avec son symbole Np, pour
-      l’unité cohérente du SI, le nombre un, pour exprimer la valeur des grandeurs
-      logarithmiques dans les domaines tels que la décroissance des signaux, l’électrotechnique
-      et l'acoustique,
+    message: |-
+      *considérant* que
+
+      * le logarithme naturel est utilisé pour exprimer la valeur du décrément logarithmique, du niveau de champ et du niveau de puissance dans le système de grandeurs sur lequel est fondé le Système international d'unités (SI),
+      * les grandeurs et les équations entre grandeurs sont simplifiées lorsqu'on utilise le logarithme naturel (logarithme de base e) plutôt que d'autres logarithmes, de base différente,
+      * en particulier pour les grandeurs complexes, le seul logarithme utile est le logarithme naturel,
+      * en utilisant le logarithme naturel pour les grandeurs complexes, le radian et le neper deviennent des unités analogues et devraient donc avoir le même statut dans le SI,
+      * la 20
+      +
+      ^e^
+      +
+      Conférence générale (1995, Résolution 8), a décidé d’interpréter les unités supplémentaires du SI, c’est-à-dire le radian et le stéradian, comme des unités dérivées sans dimension et, en conséquence, de supprimer la classe des unités supplémentaires comme classe séparée dans le SI,
+      * le Comité international, dans la brochure sur le SI, 7
+      +
+      ^e^
+      +
+      édition (1998), a accepté, pour l'usage avec le SI, le neper, symbole Np, comme un nom spécial de l’unité SI cohérente, le nombre un, pour exprimer la valeur des grandeurs logarithmiques définies en utilisant les logarithmes naturels et aussi l'unité non cohérente, le bel, symbole B, comme unité pour exprimer la valeur des grandeurs logarithmiques définies en utilisant les logarithmes de base dix, en insistant sur la nécessité de mentionner le niveau de référence,
+      * il est nécessaire, pour compléter la cohérence interne du SI, d'adopter formellement le nom spécial neper, avec son symbole Np, pour l’unité cohérente du SI, le nombre un, pour exprimer la valeur des grandeurs logarithmiques dans les domaines tels que la décroissance des signaux, l’électrotechnique et l'acoustique,
   actions:
   - type: confirms
     date_effective: '2001-10-12'
@@ -76,6 +53,7 @@ resolutions:
       valeurs des grandeurs logarithmiques telles que le décrément logarithmique,
       le niveau de champ et le niveau de puissance, définies en utilisant les logarithmes
       naturels."
+  doi: 10.59161/CIPM2001REC1F
 - dates:
   - '2001-10-12'
   subject: CIPM
@@ -98,3 +76,4 @@ resolutions:
       « Nous suggérons que les termes « unité SI » et « unité du SI » fassent tous deux référence aux unités de base et aux unités cohérentes dérivées, ainsi qu’à toutes les unités obtenues en les combinant aux préfixes recommandés des multiples et sous multiples.
 
       Nous suggérons que le terme « unité cohérente du SI » soit utilisé quand nous désirons restreindre son sens aux seules unités de base et aux unités cohérentes dérivées du SI. »
+  doi: 10.59161/CIPM2001DECLF

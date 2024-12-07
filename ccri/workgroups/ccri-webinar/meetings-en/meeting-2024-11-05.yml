@@ -1,0 +1,25 @@
+---
+metadata:
+  title: 'CCRI Webinar: Approaches to assess image quality in x-ray diagnostics'
+  identifier: '2024-11-05'
+  date: '2024-11-05'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-webinar/2024-11-05
+  workgroup: ccri-webinar
+resolutions: []
+working_documents:
+- title: CCRI-Webinar/2024-701
+  pdf: https://www.bipm.org/documents/20126/263978189/701+-+de_las_Heras_Gala_Introduction+to+the+problem+of+dose+efficiency+in+computed+tomography/e36b07db-6098-ad07-3abd-7972619f15e7
+  description: Introduction to the problem of dose efficiency in computed tomography
+  author: Hugo DE LAS HERAS GALA
+  date: 07/11/2024
+- title: CCRI-Webinar/2024-702
+  pdf: https://www.bipm.org/documents/20126/263978207/702+-+Goeppel+-+Type+testing+of+CTs+using+the+model+observer+approach/51cd3d9f-9f6f-5925-e44b-5a8eec0324bb
+  description: Type testing of CTs using the model observer approach
+  author: Maximilian GÖPPEL
+  date: 07/11/2024
+- title: CCRI-Webinar/2024-703
+  pdf: https://www.bipm.org/documents/20126/263978229/703+-+Anton+-+Image+quality+parameters+derived+from+patient+images/c38b4379-6f7b-17ba-6b37-0a6f63060ec4
+  description: Image quality parameters derived from patient images
+  author: Mathias ANTON
+  date: 07/11/2024

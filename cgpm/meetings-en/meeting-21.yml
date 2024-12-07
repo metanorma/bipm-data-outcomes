@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 21st meeting of the CGPM
-  identifier: 21
+  identifier: '21'
   date: '1999-10-15'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/21-1999
@@ -22,19 +22,16 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: considering Resolution 11 of the 20th General Conference, which requested
-      the International Committee to study and report on the long-term needs relating
-      to metrology,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering the study which was completed in 1997 after extensive international
-      consultations,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: 'considering the resultant report, entitled _National and international
-      needs relating to metrology: International collaborations and the role of the
-      BIPM_, which was sent by the International Committee in 1998 to the governments
-      of the Member States,'
+    message: |-
+      *considering*
+
+      * Resolution 11 of the 20th General Conference, which requested the International Committee to study and report on the long-term needs relating to metrology,
+      * the study which was completed in 1997 after extensive international consultations,
+      * the resultant report, entitled
+      +
+      __National and international needs relating to metrology: International collaborations and the role of the BIPM__
+      +
+      , which was sent by the International Committee in 1998 to the governments of the Member States,
   - type: noting
     date_effective: '1999-10-15'
     message: "*notes* the discussion in the report of the International Committee
@@ -56,6 +53,7 @@ resolutions:
     date_effective: '1999-10-15'
     message: "*thanks* the many organizations and individuals who have contributed
       to the study and the report of the International Committee."
+  doi: 10.59161/CGPM1999RES1E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -122,6 +120,7 @@ resolutions:
     message: invites all States to use this arrangement as the basis for recognizing
       the national measurement standards and calibration and measurement certificates
       of signatory national metrology institutes.
+  doi: 10.59161/CGPM1999RES2E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -175,6 +174,7 @@ resolutions:
       * that Associate States and Economies shall pay an annual subscription to the BIPM to meet the cost of providing the services that the International Committee may make available to them; the annual subscription of each Associate State or Economy will be determined from its UN contribution, as for Member States but with a minimum equal to 0.05 % of the annual dotation of the BIPM,
       * that a State or Economy wishing to become an Associate may do so by application to the Director of the BIPM, either directly or through its Embassy in Paris, and by the payment of the first annual subscription,
       * that an Associate State or Economy three years in arrears with its subscription cease to be an Associate; it may be reinstated on payment of these arrears.
+  doi: 10.59161/CGPM1999RES3E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -191,41 +191,22 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: considering that the effects on the geosphere and biosphere of industrial
-      and commercial activities and of many other human pursuits, as well as natural
-      phenomena, and the consequences for human health and well-being are the subject
-      of major studies worldwide,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that governments are increasingly faced with decisions of
-      great economic and political significance concerning the regulation of these
-      activities,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that the policies of governments are influenced by studies
-      depending critically on accurate and mutually compatible measurements often
-      requiring very large economic investments,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that much of the important scientific evidence required for
-      decisions by governments comes from measurements of small changes in certain
-      key parameters, measurements sometimes extending over several decades,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that certain critical measurements have traditionally been
-      made in _ad hoc_ units, based upon special instrumentation or procedures, and
-      not in the well-characterized and internationally agreed SI units,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that experience over many years has shown that measurements
-      not directly linked to the SI cannot be relied upon in the long term, cannot
-      be compared with similar measurements made elsewhere and do not adequately bring
-      out possible relationships with measurements made in other scientific disciplines,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that increasing demands for reliability in measurements made
-      for medical and therapeutic purposes are leading to more demanding regulation
-      in these areas,
+    message: |-
+      *considering* that
+
+      * the effects on the geosphere and biosphere of industrial and commercial activities and of many other human pursuits, as well as natural phenomena, and the consequences for human health and well-being are the subject of major studies worldwide,
+      * governments are increasingly faced with decisions of great economic and political significance concerning the regulation of these activities,
+      * the policies of governments are influenced by studies depending critically on accurate and mutually compatible measurements often requiring very large economic investments,
+      * much of the important scientific evidence required for decisions by governments comes from measurements of small changes in certain key parameters, measurements sometimes extending over several decades,
+      * certain critical measurements have traditionally been made in
+      +
+      _ad hoc_
+      +
+
+      +
+      units, based upon special instrumentation or procedures, and not in the well-characterized and internationally agreed SI units,
+      * experience over many years has shown that measurements not directly linked to the SI cannot be relied upon in the long term, cannot be compared with similar measurements made elsewhere and do not adequately bring out possible relationships with measurements made in other scientific disciplines,
+      * increasing demands for reliability in measurements made for medical and therapeutic purposes are leading to more demanding regulation in these areas,
   actions:
   - type: recommends
     date_effective: '1999-10-15'
@@ -235,6 +216,7 @@ resolutions:
       they are reliable in the long term, are comparable worldwide and are linked
       to other areas of science and technology through the world's measurement system
       established and maintained under the Metre Convention."
+  doi: 10.59161/CGPM1999RES4E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -256,19 +238,6 @@ resolutions:
     date_effective: '1999-10-15'
     message: recalling that in the same year the General Conference invited the International
       Committee
-  - type: recalling / further recalling
-    date_effective: '1999-10-15'
-    message: recalling that to draw up instructions for the practical realization
-      of the metre (the _mise en pratique_,
-  - type: recalling / further recalling
-    date_effective: '1999-10-15'
-    message: recalling that to choose radiations which can be recommended as standards
-      of wavelength for the interferometric measurement of length and draw up instructions
-      for their use,
-  - type: recalling / further recalling
-    date_effective: '1999-10-15'
-    message: recalling that to pursue studies to improve these standards and, in due
-      course, to extend or revise these instructions,
   - type: recalling / further recalling
     date_effective: '1999-10-15'
     message: recalling that in response to this invitation the International Committee
@@ -309,6 +278,7 @@ resolutions:
       *welcomes* the adoption by the International Committee in 1997 of a revised _mise en pratique_ of the definition of the metre,
 
       and *recommends* that national laboratories pursue experimental and theoretical research on optical wavelength and frequency standards, including the development of new techniques for the comparison of different standards over a wide range of wavelength and frequency to improve yet further the experimental basis of the International System of Units.
+  doi: 10.59161/CGPM1999RES5E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -355,6 +325,7 @@ resolutions:
     message: "*recommends* that national laboratories maintain a wide research base
       in length metrology that includes the maintenance and development of techniques
       to meet the diverse and growing demands in the field of dimensional metrology."
+  doi: 10.59161/CGPM1999RES6E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -394,6 +365,7 @@ resolutions:
     message: "*recommends* that national laboratories continue their efforts to refine
       experiments that link the unit of mass to fundamental or atomic constants with
       a view to a future redefinition of the kilogram."
+  doi: 10.59161/CGPM1999RES7E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -435,6 +407,7 @@ resolutions:
       new primary standards, to make every effort to provide the human and other resources
       necessary to maintain as operational facilities these new standards upon which
       the accuracy of TAI and UTC will be based."
+  doi: 10.59161/CGPM1999RES8E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -450,23 +423,17 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: considering that many important research activities are in progress at
-      temperatures below stem:[0.65 "K"],
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that these researches require an accepted temperature scale
-      which closely represents thermodynamic temperatures,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that the direct measurement of thermodynamic temperature
-      is often difficult and time-consuming at temperatures below stem:[0.65 "K"]
-      down to a few millikelvin, but at temperatures much lower than this direct measurements
-      once again become feasible,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that considerable work has already been accomplished towards
-      the development of a temperature scale for the range from stem:[0.65 "K"] down
-      to stem:[1 "mK"] based on the melting pressure of stem:[""_(3) "He"],
+    message: |-
+      *considering* that
+
+      * many important research activities are in progress at temperatures below stem:[0.65 "K"],
+      * these researches require an accepted temperature scale which closely represents thermodynamic temperatures,
+      * the direct measurement of thermodynamic temperature is often difficult and time-consuming at temperatures below stem:[0.65 "K"] down to a few millikelvin, but at temperatures much lower than this direct measurements once again become feasible,
+      * considerable work has already been accomplished towards the development of a temperature scale for the range from stem:[0.65 "K"] down to stem:[1 "mK"] based on the melting pressure of
+      +
+      ^3^
+      +
+      He,
   actions:
   - type: invites / further invites
     date_effective: '1999-10-15'
@@ -474,6 +441,7 @@ resolutions:
       melting pressure equation as a function of thermodynamic temperature to serve
       as the basis for an extension of the ITS-90 below its present lower limit of
       stem:[0.65 "K"].'
+  doi: 10.59161/CGPM1999RES9E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -519,6 +487,7 @@ resolutions:
       International Committee, work to define the areas of priority and essential
       international comparisons which are key to the traceability of measurements
       in chemistry, both worldwide and within regions.
+  doi: 10.59161/CGPM1999RES10E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -555,6 +524,7 @@ resolutions:
       scientific unions and the international organizations concerned in the establishment
       of an adequate international measurement infrastructure to ensure traceability
       to the SI in measurements in biotechnology.
+  doi: 10.59161/CGPM1999RES11E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -571,33 +541,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: considering the importance for human health and safety of facilitating
-      the use of SI units in the fields of medicine and biochemistry,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that a non-SI unit called "unit", symbol U, equal to 1 µmol
-      · min^-1^, which is not coherent with the SI, has been in widespread use in
-      medicine and biochemistry since 1964 for expressing catalytic activity,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that the absence of a special name for the SI coherent derived
-      unit mole per second has led to results of clinical measurements being given
-      in various local units,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that the use of SI units in medicine and clinical chemistry
-      is strongly recommended by the international unions in these fields,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that the International Federation of Clinical Chemistry and
-      Laboratory Medicine has asked the Consultative Committee for Units to recommend
-      the special name katal, symbol kat, for the SI unit mole per second,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering that while the proliferation of special names represents
-      a danger for the SI, exceptions are made in matters related to human health
-      and safety (15th General Conference, 1975, Resolutions 8 and 9, 16th General
-      Conference, 1979, Resolution 5),
+    message: |-
+      *considering*
+
+      * the importance for human health and safety of facilitating the use of SI units in the fields of medicine and biochemistry,
+      * that a non-SI unit called "unit", symbol U, equal to 1 µmol · min
+      +
+      ^-1^
+      +
+      , which is not coherent with the SI, has been in widespread use in medicine and biochemistry since 1964 for expressing catalytic activity,
+      * that the absence of a special name for the SI coherent derived unit mole per second has led to results of clinical measurements being given in various local units,
+      * that the use of SI units in medicine and clinical chemistry is strongly recommended by the international unions in these fields,
+      * that the International Federation of Clinical Chemistry and Laboratory Medicine has asked the Consultative Committee for Units to recommend the special name katal, symbol kat, for the SI unit mole per second,
+      * that while the proliferation of special names represents a danger for the SI, exceptions are made in matters related to human health and safety (15th General Conference, 1975, Resolutions 8 and 9, 16th General Conference, 1979, Resolution 5),
   - type: noting
     date_effective: '1999-10-15'
     message: "*noting* that the name katal, symbol kat, has been used for the SI unit
@@ -609,6 +565,7 @@ resolutions:
       *decides* to adopt the special name katal, symbol kat, for the SI unit mole per second to express catalytic activity, especially in the fields of medicine and biochemistry,
 
       and *recommends* that when the katal is used, the measurand be specified by reference to the measurement procedure; the measurement procedure must identify the indicator reaction.
+  doi: 10.59161/CGPM1999RES12E
 - dates:
   - '1999-10-15'
   subject: CGPM
@@ -624,29 +581,18 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: considering the importance of the work carried out by the Bureau International
-      des Poids et Mesures (BIPM) and the services it renders to Member States of
-      the Metre Convention,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering the considerable efforts made by the BIPM to enhance the
-      efficiency of its operation, and its commitment to continue these efforts,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: 'considering the conclusions of the report _National and international
-      needs relating to metrology: International collaborations and the role of the
-      BIPM_,'
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering the decision of the International Committee, based on this
-      report, to broaden the responsibilities of the BIPM,
-  - type: considering
-    date_effective: '1999-10-15'
-    message: considering the recommendation in the report that, in recognition of
-      the difficult economic situation now existing in many Member States of the Metre
-      Convention, the BIPM annual dotation be held constant in real terms during the
-      quadrennium 2001-2004 at the level determined by the 20th General Conference
-      for the year 2000,
+    message: |-
+      *considering*
+
+      * the importance of the work carried out by the Bureau International des Poids et Mesures (BIPM) and the services it renders to Member States of the Metre Convention,
+      * the considerable efforts made by the BIPM to enhance the efficiency of its operation, and its commitment to continue these efforts,
+      * the conclusions of the report
+      +
+      __National and international needs relating to metrology: International collaborations and the role of the BIPM__
+      +
+      ,
+      * the decision of the International Committee, based on this report, to broaden the responsibilities of the BIPM,
+      * the recommendation in the report that, in recognition of the difficult economic situation now existing in many Member States of the Metre Convention, the BIPM annual dotation be held constant in real terms during the quadrennium 2001-2004 at the level determined by the 20th General Conference for the year 2000,
   - type: noting
     date_effective: '1999-10-15'
     message: noting that on 1 January 1999, the new currency, the euro, came into
@@ -668,3 +614,4 @@ resolutions:
       Conference, be\n\n\n\n8 697 000 euros in 2001 (31 440 039 gold francs) +\n8
       828 000 euros in 2002 (31 913 610 gold francs) +\n8 960 000 euros in 2003 (32
       390 796 gold francs) +\n9 094 000 euros in 2004 (32 875 212 gold francs).\n\n "
+  doi: 10.59161/CGPM1999RES13E

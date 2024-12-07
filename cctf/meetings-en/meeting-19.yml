@@ -36,27 +36,485 @@ resolutions:
 
       that the following transition frequencies shall be included or updated in the list of recommended values of standard frequencies:
 
-      * the unperturbed optical transition 3_s_^2^ ^1^S~0~ - 3_s_3_p_ ^3^P~0~ of the ^stem:[27^(Al)]+^ ion with a frequency of stem:[f]~27Al+~ = stem:[1 121 015 393 207 857.3 "Hz"] and an estimated relative standard uncertainty of 1.9 × 10^−15^. +
-       This radiation is recommended to be endorsed by the CIPM as a secondary representation of the second;
-      * the unperturbed optical transition 5_d_^10^6_s_ ^2^S~1/2~ - 5_d_ ^9^6_s_^2^ ^2^D~5/2~ of the ^stem:[199^(Hg)]+^ ion with a frequency of stem:[f]~199Hg+~ = stem:[1 064 721 609 899 145.3 "Hz"] and an estimated relative standard uncertainty of 1.9 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary  +
-       representation of the second);
-      * the unperturbed optical transition 6_s_^2^ ^1^S~0~ - 6_s_6_p_ ^3^P~0~ of the ^199^Hg neutral atom with a frequency of stem:[f]~199Hg~ = stem:[1 128 575 290 808 162 "Hz"] and an estimated relative standard uncertainty of 1.7 × 10^−14^;
-      * the unperturbed optical transition 6_s_ ^2^S~1/2~ - 4_f_ ^13^6_s_^2^ ^2^stem:["F"]~7/2~ of the ^stem:[171^(Yb)]+^ ion with a frequency of stem:[f]~171Yb+~ (octupole) = stem:[642 121 496 772 645.6 "Hz"] and an estimated relative standard uncertainty of 1.3 × 10^−15^. +
-       This radiation is recommended to be endorsed by the CIPM as a secondary representation of the second;
-      * the unperturbed optical transition 6_s_ ^2^S~1/2~ (stem:["F" = 0], stem:["m"_("F") = 0]) - 5_d_ ^2^D~3/2~ (stem:["F" = 2], stem:["m"_("F") = 0]) of the ^stem:[171^(Yb)]+^ ion with a frequency of stem:[f]~171Yb+~ (quadrupole) = stem:[688 358 979 309 307.1 "Hz"] and an estimated relative standard uncertainty of 3 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 5_s_ ^2^S~1/2~ - 4_d_ ^2^D~5/2~ of the ^stem:[88^(Sr)]+^ ion with a frequency of stem:[f]~88Sr+~ = stem:[444 779 044 095 485.3 "Hz"] and an estimated relative standard uncertainty of 4.0 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 4_s_ ^2^S~1/2~ - 3_d_ ^2^D~5/2~ of the ^stem:[40^(Ca)]+^ ion with a frequency of stem:[f]~40Ca+~ = stem:[411 042 129 776 395 "Hz"] and an estimated relative standard uncertainty of 1.5 × 10^−14^;
-      * the unperturbed optical transition 1S - 2S of the stem:[""_(1) "H"] neutral atom with a frequency of stem:[f_(1H) = 1 233 030 706 593 518 "Hz"] and an estimated relative standard uncertainty of 1.2 × 10^−14^. +
-       Note: This frequency corresponds to half of the energy difference between the 1S and 2S states;
-      * the unperturbed optical transition 5_s_^2^ ^1^S~0~ - 5_s_5_p_ ^3^P~0~ of the ^87^Sr neutral atom with a frequency of stem:[f_(87Sr) = 429 228 004 229 873.4 "Hz"] and an estimated relative standard uncertainty of 1 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 6_s_^2^ ^1^S~0~ - 6_s_6_p_ ^3^P~0~ of the ^171^Yb neutral atom with a frequency of stem:[f]~171Yb~ = stem:[518 295 836 590 865.0 "Hz"] and an estimated relative standard uncertainty of 2.7 × 10^−15^. +
-       This radiation is recommended to be endorsed by the CIPM as a secondary representation of the second;
-      * the unperturbed ground-state hyperfine transition of ^87^Rb with a frequency of stem:[f_(87Rb) = 6 834 682 610.904 312 "Hz"] and an estimated relative standard uncertainty of 1.3 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary representation of the second).
+      * the unperturbed optical transition 3
+      +
+      __s__
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 3
+      +
+      __s__
+      +
+      3
+      +
+      __p__
+      +
+
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      of the
+      +
+      ^27^
+      +
+      Al
+      +
+      ^+^
+      +
+      ion with a frequency of
+      +
+      __f__
+      +
+      ~27Al+~
+      +
+      = stem:[1 121 015 393 207 857.3 "Hz"] and an estimated relative standard uncertainty of 1.9 × 10
+      +
+      ^−15^
+      +
+      .
+      +
+      This radiation is recommended to be endorsed by the CIPM as a secondary representation of the second;
+      * the unperturbed optical transition 5
+      +
+      __d__
+      +
+      ^10^
+      +
+      6
+      +
+      __s__
+      +
+
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 5
+      +
+      __d__
+      +
+
+      +
+      ^9^
+      +
+      6
+      +
+      __s__
+      +
+      ^2^
+      +
+
+      +
+      ^2^
+      +
+      D
+      +
+      ~5/2~
+      +
+      of the
+      +
+      ^199^
+      +
+      Hg
+      +
+      ^+^
+      +
+      ion with a frequency of
+      +
+      __f__
+      +
+      ~199Hg+~
+      +
+      = stem:[1 064 721 609 899 145.3 "Hz"] and an estimated relative standard uncertainty of 1.9 × 10
+      +
+      ^−15^
+      +
+      (this radiation is already endorsed by the CIPM as a secondary
+      +
+      representation of the second);
+      * the unperturbed optical transition 6
+      +
+      __s__
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 6
+      +
+      __s__
+      +
+      6
+      +
+      __p__
+      +
+
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      of the
+      +
+      ^199^
+      +
+      Hg neutral atom with a frequency of
+      +
+      __f__
+      +
+      ~199Hg~
+      +
+      = stem:[1 128 575 290 808 162 "Hz"] and an estimated relative standard uncertainty of 1.7 × 10
+      +
+      ^−14^
+      +
+      ;
+      * the unperturbed optical transition 6
+      +
+      __s__
+      +
+
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 4
+      +
+      __f__
+      +
+
+      +
+      ^13^
+      +
+      6
+      +
+      __s__
+      +
+      ^2^
+      +
+
+      +
+      ^2^
+      +
+      stem:["F"]
+      +
+      ~7/2~
+      +
+      of the
+      +
+      ^171^
+      +
+      Yb
+      +
+      ^+^
+      +
+      ion with a frequency of
+      +
+      __f__
+      +
+      ~171Yb+~
+      +
+      (octupole) = stem:[642 121 496 772 645.6 "Hz"] and an estimated relative standard uncertainty of 1.3 × 10
+      +
+      ^−15^
+      +
+      .
+      +
+      This radiation is recommended to be endorsed by the CIPM as a secondary representation of the second;
+      * the unperturbed optical transition 6
+      +
+      __s__
+      +
+
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      (stem:["F" = 0], stem:["m"]
+      +
+      ~stem:["F"]~
+      +
+      = 0) - 5
+      +
+      __d__
+      +
+
+      +
+      ^2^
+      +
+      D
+      +
+      ~3/2~
+      +
+      (stem:["F" = 2], stem:["m"]
+      +
+      ~stem:["F"]~
+      +
+      = 0) of the
+      +
+      ^171^
+      +
+      Yb
+      +
+      ^+^
+      +
+      ion with a frequency of
+      +
+      __f__
+      +
+      ~171Yb+~
+      +
+      (quadrupole) = stem:[688 358 979 309 307.1 "Hz"] and an estimated relative standard uncertainty of 3 × 10
+      +
+      ^−15^
+      +
+      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 5
+      +
+      __s__
+      +
+
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 4
+      +
+      __d__
+      +
+
+      +
+      ^2^
+      +
+      D
+      +
+      ~5/2~
+      +
+      of the
+      +
+      ^88^
+      +
+      Sr
+      +
+      ^+^
+      +
+      ion with a frequency of
+      +
+      __f__
+      +
+      ~88Sr+~
+      +
+      = stem:[444 779 044 095 485.3 "Hz"] and an estimated relative standard uncertainty of 4.0 × 10
+      +
+      ^−15^
+      +
+      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 4
+      +
+      __s__
+      +
+
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 3
+      +
+      __d__
+      +
+
+      +
+      ^2^
+      +
+      D
+      +
+      ~5/2~
+      +
+      of the
+      +
+      ^40^
+      +
+      Ca
+      +
+      ^+^
+      +
+      ion with a frequency of
+      +
+      __f__
+      +
+      ~40Ca+~
+      +
+      = stem:[411 042 129 776 395 "Hz"] and an estimated relative standard uncertainty of 1.5 × 10
+      +
+      ^−14^
+      +
+      ;
+      * the unperturbed optical transition 1S - 2S of the
+      +
+      ^1^
+      +
+      stem:["H"] neutral atom with a frequency of
+      +
+      __f__
+      +
+      ~1H~
+      +
+      = stem:[1 233 030 706 593 518 "Hz"] and an estimated relative standard uncertainty of 1.2 × 10
+      +
+      ^−14^
+      +
+      .
+      +
+      Note: This frequency corresponds to half of the energy difference between the 1S and 2S states;
+      * the unperturbed optical transition 5
+      +
+      __s__
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 5
+      +
+      __s__
+      +
+      5
+      +
+      __p__
+      +
+
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      of the
+      +
+      ^87^
+      +
+      Sr neutral atom with a frequency of
+      +
+      __f__
+      +
+      ~87Sr~
+      +
+      = stem:[429 228 004 229 873.4 "Hz"] and an estimated relative standard uncertainty of 1 × 10
+      +
+      ^−15^
+      +
+      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 6
+      +
+      __s__
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 6
+      +
+      __s__
+      +
+      6
+      +
+      __p__
+      +
+
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      of the
+      +
+      ^171^
+      +
+      Yb neutral atom with a frequency of
+      +
+      __f__
+      +
+      ~171Yb~
+      +
+      = stem:[518 295 836 590 865.0 "Hz"] and an estimated relative standard uncertainty of 2.7 × 10
+      +
+      ^−15^
+      +
+      .
+      +
+      This radiation is recommended to be endorsed by the CIPM as a secondary representation of the second;
+      * the unperturbed ground-state hyperfine transition of
+      +
+      ^87^
+      +
+      Rb with a frequency of
+      +
+      __f__
+      +
+      ~87Rb~
+      +
+      = stem:[6 834 682 610.904 312 "Hz"] and an estimated relative standard uncertainty of 1.3 × 10
+      +
+      ^−15^
+      +
+      (this radiation is already endorsed by the CIPM as a secondary representation of the second).
 
       Note: The value of the standard uncertainty is assumed to correspond to a confidence level of 68 %. However, given the very limited number of available data there is a possibility that in hindsight this might not prove to be exact.
   - type: asks
     date_effective: '2012-09-14'
     message: "*and asks* the CIPM for approval."
+  doi: 10.59161/CCTF2012REC1E
 - dates:
   - '2012-09-14'
   subject: CCTF
@@ -77,6 +535,8 @@ resolutions:
       *considering that*
 
       * the International Bureau of Weights and Measures (BIPM) has steadily improved the visibility of its time and frequency information in numerous ways, including via downloads from the BIPM website. This information includes:
+      +
+
       ** Clock data from both primary and secondary standards,
       ** Operational time transfer data,
       ** Backup time transfer data,
@@ -86,6 +546,7 @@ resolutions:
       ** Intermediate products used in the creation of official BIPM products,
       ** Products and data of special, experimental, and/or unofficial projects, for example rapid Coordinated Universal Time (UTCr),
       ** Other publications,
+
       * the information is frequently used for official, unofficial, published, informal and pedagogical studies,
       * the information is used by manufacturers seeking to assess and improve the quality of their products,
       * the public dissemination of information is very useful to the time and frequency community, and to the improvement of Coordinated Universal Time (UTC) itself,
@@ -100,6 +561,7 @@ resolutions:
 
       * annual requests could be made for both general and specific comments on the information that should be made available, the internet file structure, nomenclature, and documentation, and those comments responded to,
       * additional and different types of data on the historical configuration of, and the observed performance of, relevant commercial equipment such as amplifiers, frequency standards, and time transfer hardware, both primary and redundant, could be gathered from laboratories that are able to supply the information.
+  doi: 10.59161/CCTF2012REC2E
 - dates:
   - '2012-09-14'
   subject: CCTF
@@ -129,25 +591,35 @@ resolutions:
       a permanent product from the BIPM, respecting a regular weekly publication schedule,
   - type: noting
     date_effective: '2012-09-14'
-    message: noting that by contributing to UTCr, time laboratories can better steer
-      their respective stem:["UTC" (k)] to the reference UTC,
-  - type: noting
-    date_effective: '2012-09-14'
-    message: noting that the staff of the BIPM Time Department must continue to assure
-      the monthly publication of BIPM _Circular T_, which is the only way of making
-      local realizations stem:["UTC" (k)] traceable to UTC,
-  - type: noting
-    date_effective: '2012-09-14'
-    message: noting that the timely and regular production and publication of UTCr
-      imposes real time constraints on the staff of the BIPM Time Department and requires
-      a reliable means of dissemination,
+    message: |-
+      *noting that*
+
+      * by contributing to UTCr, time laboratories can better steer their respective UTC(
+      +
+      stem:[k]
+      +
+      ) to the reference UTC,
+      * the staff of the BIPM Time Department must continue to assure the monthly publication of BIPM
+      +
+      __Circular T__
+      +
+      , which is the only way of making local realizations UTC(
+      +
+      stem:[k]
+      +
+      ) traceable to UTC,
+      * the timely and regular production and publication of UTCr imposes real time constraints on the staff of the BIPM Time Department and requires a reliable means of dissemination,
   actions:
   - type: recommends
     date_effective: '2012-09-14'
     message: |-
       *recommends to the BIPM that*
 
-      * the evaluation of UTCr as a pilot project continues and that a report is sent to the CCTF Working Group on TAI^1^ (WGTAI) in 2013 to discuss the possibility of transforming UTCr into a routine operational product,
+      * the evaluation of UTCr as a pilot project continues and that a report is sent to the CCTF Working Group on TAI
+      +
+      ^1^
+      +
+      (WGTAI) in 2013 to discuss the possibility of transforming UTCr into a routine operational product,
       * the dissemination of UTCr is pursued by ensuring timely availability of the results in a suitable and definitive format, so that widespread use of UTCr is supported and encouraged,
   - type: recommends
     date_effective: '2012-09-14'
@@ -155,11 +627,12 @@ resolutions:
       *further recommends to the International Committee for Weights and Measures (CIPM) that*
 
       * efforts be made to improve the equipment at the BIPM involved in data exchange, calculation and distribution of results,
-      * the human resources necessary for assuring the regular computation and publication of\> UTCr be maintained.
+      * the human resources necessary for assuring the regular computation and publication of> UTCr be maintained.
 
       * * *
 
       ^1^International Atomic Time (TAI)
+  doi: 10.59161/CCTF2012REC3E
 - dates:
   - '2012-09-14'
   subject: CCTF
@@ -226,30 +699,19 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2012-09-14'
-    message: recommends that the laboratories contributing to UTC upgrade their equipment
-      towards multi-frequency, multi-constellation receiving systems providing code-
-      and carrier-phase measurements,
-  - type: recommends
-    date_effective: '2012-09-14'
-    message: recommends that institutions developing software algorithms for time
-      transfer work to upgrade their multi-constellation and multi-receiver solutions,
-  - type: recommends
-    date_effective: '2012-09-14'
-    message: recommends that the BIPM in collaboration with the regional metrology
-      organizations (RMOs) develops calibration guidelines for new multi-frequency,
-      multi-constellation equipment,
-  - type: recommends
-    date_effective: '2012-09-14'
-    message: recommends that the BIPM continues to organize and run campaigns to measure
-      delays of this new GNSS equipment in laboratories, with the support of the RMOs
-      within the frame of regional comparisons,
-  - type: recommends
-    date_effective: '2012-09-14'
-    message: recommends that all laboratories, especially those playing a unique role
-      in International Atomic Time (TAI) computations, such as pivot laboratories
-      and those contributing directly to Section 5 of the BIPM _Circular T_, to supply
-      data from at least three GNSS receivers traceable to their local realization
-      of UTC; this would help verify the stability of their hardware delays.
+    message: |-
+      *recommends that*
+
+      * the laboratories contributing to UTC upgrade their equipment towards multi-frequency, multi-constellation receiving systems providing code- and carrier-phase measurements,
+      * institutions developing software algorithms for time transfer work to upgrade their multi-constellation and multi-receiver solutions,
+      * the BIPM in collaboration with the regional metrology organizations (RMOs) develops calibration guidelines for new multi-frequency, multi-constellation equipment,
+      * the BIPM continues to organize and run campaigns to measure delays of this new GNSS equipment in laboratories, with the support of the RMOs within the frame of regional comparisons,
+      * all laboratories, especially those playing a unique role in International Atomic Time (TAI) computations, such as pivot laboratories and those contributing directly to Section 5 of the BIPM
+      +
+      __Circular T__
+      +
+      , to supply data from at least three GNSS receivers traceable to their local realization of UTC; this would help verify the stability of their hardware delays.
+  doi: 10.59161/CCTF2012REC4E
 - dates:
   - '2012-09-14'
   subject: CCTF
@@ -303,10 +765,14 @@ resolutions:
       *recommends that*
 
       * national metrology institutes (NMIs), optical fibre network providers, space agencies, national governments, regional metrology organizations (RMOs), the International Committee for Weights and Measures (CIPM), International Telecommunications Union (ITU) and other relevant bodies:
+      +
+
       ** vigorously pursue the development of continental-scale optical fibre time and frequency transfer networks,
       ** actively encourage and support research aimed at significantly improving time and frequency transfer over intercontinental distances,
       ** consult and coordinate with each other on access to the necessary infrastructures for new time and frequency transfer methods and on synergies with other applications of these infrastructures,
+
       * the BIPM participates actively in these developments, notably by making preparations for exploiting, in time scale realization, clock comparison data issued from new time and frequency transfer methods.
+  doi: 10.59161/CCTF2012REC5E
 - dates:
   - '2012-09-14'
   subject: CCTF
@@ -359,6 +825,7 @@ resolutions:
       *and further recommends*
 
       that the International Committee for Weights and Measures (CIPM) and the International Telecommunication Union - Radiocommunication Sector (ITU-R) consider the formation of a joint working group to study the possibility of coordinating future actions in the definition of the continuous world-reference time scale.
+  doi: 10.59161/CCTF2012REC6E
 working_documents:
 - title: CCTF/2012-00
   pdf: https://www.bipm.org/documents/20126/28435127/working-document-ID-5256/ebdbe300-28b8-3112-9523-d7fbb2c6d323

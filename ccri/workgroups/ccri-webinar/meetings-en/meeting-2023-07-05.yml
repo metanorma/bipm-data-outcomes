@@ -1,0 +1,18 @@
+---
+metadata:
+  title: CCRI Webinar on ‘Ionizing radiation metrology developments at GULFMET’
+  identifier: '2023-07-05'
+  date: '2023-07-05'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-webinar/2023-07-05
+  workgroup: ccri-webinar
+resolutions: []
+working_documents:
+- title: CCRI-Webinar/2023-301
+  pdf: https://www.bipm.org/documents/20126/112165537/Introduction+of+GULFMET+as+New+RMO/28e5128e-909c-9ee0-4c8c-9ed69b752b51
+  description: Introduction of GULFMET as New RMO
+  author: Omar S. Kanakrieh
+- title: CCRI-Webinar/2023-302
+  pdf: https://www.bipm.org/documents/20126/112163963/GULFMET+TC+IR+and+its+capabilities/6ad3a460-6f4f-f8ac-a988-8e2fbe2e2c4c
+  description: Introduction of GULFMET TC IR and its capabilities
+  author: Samia Mohamed

@@ -58,6 +58,7 @@ resolutions:
       le BIPM soit informé de l'état d'avancement et des résultats de ces comparaisons,
       en particulier lorsqu'elles sont organisées par des groupes régionaux, afin
       qu'il puisse les publier ou y faire référence.
+  doi: 10.59161/CIPM1992REC1F
 - dates:
   - '1992-10-01'
   subject: CIPM
@@ -97,6 +98,7 @@ resolutions:
     message: recommande que les laboratoires nationaux informent régulièrement le
       Bureau international des poids et mesures des résultats des travaux liés à la
       métrologie fondamentale.
+  doi: 10.59161/CIPM1992REC2F
 - dates:
   - '1992-10-01'
   subject: CIPM
@@ -115,11 +117,18 @@ resolutions:
     message: |-
       *rappelant*
 
-      * que la 17^e^ Conférence générale des poids et mesures (CGPM), en 1983, a adopté une nouvelle définition du mètre,
+      * que la 17
+      +
+      ^e^
+      +
+      Conférence générale des poids et mesures (CGPM), en 1983, a adopté une nouvelle définition du mètre,
       * que la même CGPM a invité le Comité international des poids et mesures (CIPM)
+      +
+
       ** à établir des instructions pour la mise en pratique de cette définition,
       ** à choisir des radiations qui puissent être recommandées comme étalons de longueur d'onde pour les mesures de longueur par interférométrie et à donner les instructions nécessaires pour leur utilisation,
       ** à poursuivre les études nécessaires pour améliorer ces étalons et à étendre ou réviser ces instructions en temps utile, si besoin est,
+
       * que le CIPM, en conséquence, a publié en 1983 une liste des radiations recommandées pour la mise en pratique de la définition du mètre,
   - type: considering
     date_effective: '1992-10-01'
@@ -149,9 +158,9 @@ resolutions:
 
 
 
-      Cette liste remplace celle qui avait été publiée dans _BIPM Proc.-Verb. Com. Int. Poids et Mesures_, 1983,*51*, 25-28 et dans _Metrologia_, 1984, *19*, 165-166.
+      Cette liste remplace celle qui avait été publiée dans __BIPM Proc.-Verb. Com. Int. Poids et Mesures__, 1983,**51**, 25-28 et dans __Metrologia__, 1984, **19**, 165-166.
 
-      Dans cette liste, les valeurs de la fréquence stem:[f] et de la longueur d'onde _λ_ (d'une même radiation) devraient être liées exactement par la relation _λ_ stem:[f = c], avec stem:[c = 299 792 458 "m"/"s"], mais les valeurs de _λ_ sont arrondies rounded.
+      Dans cette liste, les valeurs de la fréquence stem:[f] et de la longueur d'onde _λ_ (d'une même radiation) devraient être liées exactement par la relation _λ_ stem:[f] = __c__, avec stem:[c = 299 792 458 "m"/"s"], mais les valeurs de _λ_ sont arrondies rounded.
 
       Les résultats de mesures qui ont été utilisés pour la compilation de cette liste, et leur analyse, sont donnés dans l'annexe : Données utilisées pour établir la liste des radiations recommandées, 1992, et Bibliographie commentée*.
 
@@ -173,14 +182,26 @@ resolutions:
       avec une incertitude-type relative estimée de stem:[2","3 * 10^(-11)], s'appliquent à la radiation émise par un laser à He-Ne asservi sur le centre de la structure hyperfine non résolue d'une cuve à méthane à la température ambiante, située à l'intérieur ou à l'extérieur du laser, lorsque les conditions suivantes sont respectées :
 
       * pression du méthane ≤ 3 Pa,
-      * puissance surfacique moyenne sur l'axe transportée par le faisceau dans un seul sens, à l'intérieur de la cavité^+^ ≤ stem:[10^(4) "W" * "m"^(-2)],
+      * puissance surfacique moyenne sur l'axe transportée par le faisceau dans un seul sens, à l'intérieur de la cavité
+      +
+      ^+^
+      +
+      ≤ 10
+      +
+      ^4^
+      +
+      stem:["W" * "m"]
+      +
+      ^-2^
+      +
+      ,
       * rayon de courbure des surfaces d'onde ≥ stem:[1 "m"],
       * différence (relative) de puissance entre les deux ondes qui se propagent en sens inverse l'une de l'autre ≤ 5 %,
       * récepteur placé à la sortie du côté du tube laser.
 
-      \* L'annexe citée ci-dessus est publiée dans le rapport de la 8sup\>e session du CCDM (1992).
+      \* L'annexe citée ci-dessus est publiée dans le rapport de la 8sup>e session du CCDM (1992).
 
-      1.2. Atome absorbant ^40^Ca, transition ^3^P~1~ - ^1^S~0~; stem:[ sf Delta ]_m_~stem:["J"]~ = O.
+      1.2. Atome absorbant ^40^Ca, transition ^3^P~1~ - ^1^S~0~; stem:[ sf Delta ]__m__~stem:["J"]~ = O.
 
       Les valeurs +
       stem:[f = 455 986 240","5 "MHz"] +
@@ -204,7 +225,11 @@ resolutions:
       * température des parois de la cuve : stem:[(25  +-  5) "°C"]
       * point froid à la température de : stem:[(15  +-  0","2) "°C"]
       * modulation de fréquence, de crête à creux : stem:[(6  +-  0","3) "MHz"]
-      * puissance transportée par le faisceau dans un seul sens, à l'intérieur de la cavité ^+^: stem:[(10  +-  5)] mWpour une valeur absolue du coefficient de décalage en fonction de la puissance ≤ 1,4 kHzlmW.
+      * puissance transportée par le faisceau dans un seul sens, à l'intérieur de la cavité
+      +
+      ^+^
+      +
+      : stem:[(10  +-  5)] mWpour une valeur absolue du coefficient de décalage en fonction de la puissance ≤ 1,4 kHzlmW.
 
       Ces conditions ne suffisent pas par elles-mêmes à garantir l'obtention de l'incertitude-type indiquée. Il faut en outre que les parties optique et électronique du système d'asservissement fonctionnent avec les performances appropriées. La cuve à iode peut aussi être utilisée dans des conditions moins rigoureuses, ce qui conduit à l'incertitude plus grande donnée dans l'annexe M2 du rapport du CCDM (1992).
 
@@ -243,6 +268,7 @@ resolutions:
 
       Les valeurs +
       _λ_ = 605 780 210,3 fm +
-      avec une incertitude globale relative estimée de stem:[ +-  4 * 10^(-9)] [égale à trois fois l'écart-type estimé à stem:[1","3 * 10^(-9)]en valeur relative], s'applique à la radiation émise par une lampe utilisée dans les conditions recommandées par le CIPM (_BlPM Proc.-Verb. Corn. Int. Poids et Mesures_, 1960, *28*, 71-72 et _BlPM Comptes Rendus lle Conf. Gén. Poids et Mesures_, 1960, 85)].
+      avec une incertitude globale relative estimée de stem:[ +-  4 * 10^(-9)] [égale à trois fois l'écart-type estimé à stem:[1","3 * 10^(-9)]en valeur relative], s'applique à la radiation émise par une lampe utilisée dans les conditions recommandées par le CIPM (__BlPM Proc.-Verb. Corn. Int. Poids et Mesures__, 1960, **28**, 71-72 et __BlPM Comptes Rendus lle Conf. Gén. Poids et Mesures__, 1960, 85)].
 
-      2.2. Les radiations des atomes de ^86^Kr, ^198^Hg et ^114^Cd recommendées par le CIPM en 1963 (_BIPM Corn. Cons. Déf. Mètre_, 1962, *3*, 18-19 et _BIPM Proc. Verb. Com. Int. Poids et Mesures_, 1963, *52*, 26-27), avec les valeurs indiquées pour leur longueur d'onde et pour l'incertitude correspondante.
+      2.2. Les radiations des atomes de ^86^Kr, ^198^Hg et ^114^Cd recommendées par le CIPM en 1963 (__BIPM Corn. Cons. Déf. Mètre__, 1962, **3**, 18-19 et __BIPM Proc. Verb. Com. Int. Poids et Mesures__, 1963, **52**, 26-27), avec les valeurs indiquées pour leur longueur d'onde et pour l'incertitude correspondante.
+  doi: 10.59161/CIPM1992REC3F

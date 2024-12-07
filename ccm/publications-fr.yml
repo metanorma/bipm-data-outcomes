@@ -4,17 +4,19 @@ metadata:
 categories:
 - title: Documents de référence
   documents:
-  - title: "[CCM] CCM Guidelines for Submission and Review of CMCs"
-    pdf: https://www.bipm.org/documents/20126/30125918/CCM+Guidelines+for+Submission+and+Review+of+CMCs/2c961fc4-c9f3-0b60-f197-78d1630a3d93
-  - title: "[CCM] CCM Key Comparison Report Template"
-    pdf: https://www.bipm.org/documents/20126/30125929/CCM+Key+Comparison+Report+Template/cf0a4b60-2ece-819c-e50f-f91972f29901
   - title: "[CCM] M - Classification of services in Mass and related quantities"
     pdf: https://www.bipm.org/documents/20126/41442309/Classification+of+services+in+Mass+and+related+quantities/3cfc4f69-1770-c1eb-31a5-a23144418a23
   - title: "[CCM] CCM Guidelines for approval and publication of the final reports
       of key and supplementary comparisons (with Appendix on Pilot Studies)"
     pdf: https://www.bipm.org/documents/20126/30125832/CCM+Guidelines+for+approval+and+publication+of+the+final+reports+of+key+and+supplementary+comparisons+%28with+Appendix+on+Pilot+Studies%29/d017b16a-3264-9d6f-8c6b-d7a982d59948
+  - title: "[CCM] CCM Guidelines for Submission and Review of CMCs"
+    pdf: https://www.bipm.org/documents/20126/30125918/CCM+Guidelines+for+Submission+and+Review+of+CMCs/2c961fc4-c9f3-0b60-f197-78d1630a3d93
+  - title: "[CCM] CCM Key Comparison Report Template"
+    pdf: https://www.bipm.org/documents/20126/30125929/CCM+Key+Comparison+Report+Template/cf0a4b60-2ece-819c-e50f-f91972f29901
 - title: Rapports de réunion
   documents:
+  - title: "[CCM] 19th meeting (2023)"
+    pdf: https://www.bipm.org/documents/20126/128101439/CCM19/722dc455-9a31-0721-56fa-8b8e9fe6afe6
   - title: "[CCM] 18th meeting (2021)"
     pdf: https://www.bipm.org/documents/20126/65885206/CCM18.pdf/1f0e1da6-5e4a-ab73-ed4d-f90782f4f878
   - title: "[CCM] 17e session (2019)"
@@ -71,11 +73,11 @@ categories:
     pdf: https://www.bipm.org/documents/20126/46573767/CCM-eNews+Nov+2015.pdf/089f40f3-40fb-7f0f-4c0e-c9cc74cb2e3a
 - title: Procédure de dissémination après la redéfinition du kilogramme
   documents:
-  - title: "[CCM] Dissémination à partir de la valeur de consensus du kilogramme"
-    pdf: https://www.bipm.org/documents/20126/81108172/Dissemination+from+the+Consensus+Value+for+the+Kilogram.pdf/df1e81fa-18d1-981d-851d-45be2709d862
   - title: "[CCM] Note sur la procédure de dissémination du kilogramme après la redéfinition
       de l'unité de masse"
     pdf: https://www.bipm.org/documents/20126/41507140/CCM_Note-on-dissemination-after-redefinition.pdf/3743d0d0-d8cc-325c-3219-547a6ea47a47
+  - title: "[CCM] Dissémination à partir de la valeur de consensus du kilogramme"
+    pdf: https://www.bipm.org/documents/20126/81108172/Dissemination+from+the+Consensus+Value+for+the+Kilogram.pdf/df1e81fa-18d1-981d-851d-45be2709d862
 - title: Documents de stratégie
   documents:
   - title: "[CCM] CCM Strategy 2022-2032"

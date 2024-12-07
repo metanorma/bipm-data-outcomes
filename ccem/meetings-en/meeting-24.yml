@@ -48,12 +48,15 @@ resolutions:
       a future redefinition of the kilogram,"
   - type: noting
     date_effective: '2005-03-18'
-    message: noting the existing discrepancy of about 1 part in stem:[10^(6)] between
-      the results from watt balance and x-ray crystal density measurements,
-  - type: noting
-    date_effective: '2005-03-18'
-    message: noting the fact that this discrepancy is significant at the practical
-      level and is unlikely to be resolved by 2007,
+    message: |-
+      *noting*
+
+      * the existing discrepancy of about 1 part in 10
+      +
+      ^6^
+      +
+      between the results from watt balance and x-ray crystal density measurements,
+      * the fact that this discrepancy is significant at the practical level and is unlikely to be resolved by 2007,
   actions:
   - type: recommends
     date_effective: '2005-03-18'
@@ -68,6 +71,7 @@ resolutions:
     date_effective: '2005-03-18'
     message: recommends that at that time, consideration be given to fixing the values
       of both the Planck constant and the elementary charge.
+  doi: 10.59161/CCEM2005REC1E
 working_documents:
 - title: CCEM/2005-27
   pdf: https://www.bipm.org/documents/20126/28438428/working-document-ID-1572/d333b377-f268-c153-519e-580177dd4f1a

@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 22e réunion de la CGPM
-  identifier: 22
+  identifier: '22'
   date: '2003-10-17'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/22-2003
@@ -63,6 +63,7 @@ resolutions:
       de la traçabilité des résultats de mesure et des étalonnages à d'autres communautés
       d'utilisateurs, lorsque les responsabilités mises en jeu se situent au niveau
       national plutôt qu'au niveau international.
+  doi: 10.59161/CGPM2003RES1F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -89,6 +90,7 @@ resolutions:
 
       *demande* aux États membres de la Convention du Mètre de faire pression pour que cette candidature soit agréée dès que possible.
   actions: []
+  doi: 10.59161/CGPM2003RES2F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -143,6 +145,7 @@ resolutions:
       en voie de développement, de façon à éviter tout conflit avec les politiques
       et activités indépendantes des laboratoires nationaux de métrologie des États
       membres de la Convention du Mètre."
+  doi: 10.59161/CGPM2003RES3F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -191,6 +194,7 @@ resolutions:
       membres et des associés par leurs initiatives, telles que des programmes d'aide
       aux pays en voie de développement, et lors de discussions dans des forums internationaux
       appropriés."
+  doi: 10.59161/CGPM2003RES4F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -208,18 +212,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant la Résolution 11 de la 20^e^ Conférence générale, qui recommandait
-      au Comité international d'étudier les besoins à long terme dans le domaine de
-      la métrologie,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant la Résolution 1 de la 21^e^ Conférence générale, qui a pris
-      acte du Rapport à la Conférence générale sur les besoins à long terme dans le
-      domaine de la métrologie,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant le nouveau Rapport approuvé par le Comité international en
-      octobre 2002,
+    message: |-
+      *considérant*
+
+      * la Résolution 11 de la 20
+      +
+      ^e^
+      +
+       Conférence générale, qui recommandait au Comité international d'étudier les besoins à long terme dans le domaine de la métrologie,
+      * la Résolution 1 de la 21
+      +
+      ^e^
+      +
+       Conférence générale, qui a pris acte du Rapport à la Conférence générale sur les besoins à long terme dans le domaine de la métrologie,
+      * le nouveau Rapport approuvé par le Comité international en octobre 2002,
   - type: noting
     date_effective: '2003-10-17'
     message: prend acte du contenu du nouveau Rapport,
@@ -254,6 +260,7 @@ resolutions:
     date_effective: '2003-10-17'
     message: invite le Comité international si nécessaire, d'actualiser le Rapport
       de 2002.
+  doi: 10.59161/CGPM2003RES5F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -307,6 +314,7 @@ resolutions:
       nationaux de métrologie et autres laboratoires désignés qui font partie de l'infrastructure
       métrologique des États membres de la Convention du Mètre et des associés à la
       Conférence générale."
+  doi: 10.59161/CGPM2003RES6F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -356,6 +364,7 @@ resolutions:
       dans les domaines industriel, scientifique, médical ou autres, qui ont besoin
       ou tireraient profit de résultats d'étalonnages traçables au Système international
       d'unités.
+  doi: 10.59161/CGPM2003RES7F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -371,17 +380,15 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2003-10-17'
-    message: rappelant qu'en 1999 la 21^e^ Conférence générale a accueilli favorablement
-      l'adoption de la révision de la mise en pratique de la définition du mètre approuvée
-      par le Comité international des poids et mesures en 1997,
-  - type: recalling / further recalling
-    date_effective: '2003-10-17'
-    message: rappelant que la Conférence générale a aussi recommandé aux laboratoires
-      nationaux de métrologie de poursuivre les études expérimentales et théoriques
-      entreprises pour améliorer les étalons optiques de fréquence et de longueur
-      d'onde, et de mettre au point de nouvelles techniques pour comparer les différents
-      étalons dans un domaine étendu de fréquences et de longueurs d'onde, afin d'améliorer
-      le fondement expérimental du Système international d'unités (SI),
+    message: |-
+      *rappelant*
+
+      * qu'en 1999 la 21
+      +
+      ^e^
+      +
+      Conférence générale a accueilli favorablement l'adoption de la révision de la mise en pratique de la définition du mètre approuvée par le Comité international des poids et mesures en 1997,
+      * que la Conférence générale a aussi recommandé aux laboratoires nationaux de métrologie de poursuivre les études expérimentales et théoriques entreprises pour améliorer les étalons optiques de fréquence et de longueur d'onde, et de mettre au point de nouvelles techniques pour comparer les différents étalons dans un domaine étendu de fréquences et de longueurs d'onde, afin d'améliorer le fondement expérimental du Système international d'unités (SI),
   - type: considering
     date_effective: '2003-10-17'
     message: considérant que les nouvelles techniques fondées sur des ions et des
@@ -406,13 +413,15 @@ resolutions:
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: accueille favorablement l'adoption de ces nouvelles valeurs et leur http://stacks.iop.org/met/40/103[publication
-      dans _Metrologia_] en 2003, et
-  - type: welcomes
-    date_effective: '2003-10-17'
-    message: accueille favorablement la collaboration étroite et les discussions entre
-      la communauté des longueurs et celle du temps et des fréquences, en vue du rattachement
-      à venir des étalons de fréquence optiques et micro-ondes,
+    message: |-
+      *accueille favorablement*
+
+      * l'adoption de ces nouvelles valeurs et leur
+      +
+      http://stacks.iop.org/met/40/103[publication dans _Metrologia_]
+      +
+      en 2003, et
+      * la collaboration étroite et les discussions entre la communauté des longueurs et celle du temps et des fréquences, en vue du rattachement à venir des étalons de fréquence optiques et micro-ondes,
   - type: recommends
     date_effective: '2003-10-17'
     message: "*recommande* que les laboratoires nationaux de métrologie continuent
@@ -423,6 +432,7 @@ resolutions:
     date_effective: '2003-10-17'
     message: "*invite* le Comité international à suivre cette question en permanence,
       en particulier en vue d'une éventuelle redéfinition de la seconde."
+  doi: 10.59161/CGPM2003RES8F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -480,6 +490,7 @@ resolutions:
       *recommande* que les laboratoires nationaux de métrologie, les organismes gouvernementaux et les organisations internationales responsables du contrôle et des règlements sur le transport des biens et substances travaillent tous avec les organismes concernés pour étudier, proposer et mettre en œuvre des procédures spéciales relatives au transport libre et sans encombre de matériaux et d'équipements métrologiques entre les laboratoires nationaux de métrologie, les laboratoires désignés et le Bureau international des poids et mesures,
 
       et *recommande* aussi que le Comité international attire l'attention des autres organisations internationales ayant des responsabilités dans ce domaine sur cette Résolution.
+  doi: 10.59161/CGPM2003RES9F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -495,54 +506,26 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant que l'un des principaux objectifs du Système international
-      d'unités (SI) est de permettre d'exprimer la valeur des grandeurs d'une manière
-      aisément compréhensible dans le monde entier,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que la valeur d'une grandeur est normalement exprimée par
-      un nombre qui multiplie une unité,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que souvent le nombre utilisé pour exprimer la valeur d'une
-      grandeur contient plusieurs chiffres, avec une partie entière et une partie
-      décimale,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que la 9^e^ Conférence générale dans sa Résolution 7 (1948)
-      avait décidé que « Dans les nombres, la virgule (usage français) ou le point
-      (usage britannique) sont utilisés seulement pour séparer la partie entière des
-      nombres de leur partie décimale »,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que conformément à la décision du Comité international des
-      poids et mesures lors de sa 86^e^ session (1997), le Bureau international des
-      poids et mesures utilise maintenant le point (sur la ligne) comme séparateur
-      décimal dans toutes les versions en anglais de ses publications, y compris dans
-      le texte anglais de la brochure sur le SI (la référence internationale sur le
-      SI), tout en continuant à utiliser la virgule (sur la ligne) comme séparateur
-      décimal dans toutes ses publications en français,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que néanmoins certaines organisations internationales utilisent
-      la virgule sur la ligne comme séparateur décimal dans leurs documents en anglais,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que de plus, certaines organisations internationales, y compris
-      certaines organisations internationales de normalisation, spécifient que le
-      séparateur décimal doit être la virgule sur la ligne, dans toutes les langues,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que la recommandation d'utiliser la virgule sur la ligne
-      comme séparateur décimal est, dans de nombreuses langues, en conflit avec l'usage
-      courant, qui consiste à utiliser le point sur la ligne,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant que le fait d'utiliser le point sur la ligne ou la virgule
-      sur la ligne comme séparateur décimal n'est pas toujours lié à la langue, car
-      certains pays de même langue maternelle ont des usages différents, alors que
-      d'autres pays pratiquant le plurilinguisme utilisent le point sur la ligne ou
-      la virgule sur la ligne suivant la langue,
+    message: |-
+      *considérant* que
+
+      * l'un des principaux objectifs du Système international d'unités (SI) est de permettre d'exprimer la valeur des grandeurs d'une manière aisément compréhensible dans le monde entier,
+      * la valeur d'une grandeur est normalement exprimée par un nombre qui multiplie une unité,
+      * souvent le nombre utilisé pour exprimer la valeur d'une grandeur contient plusieurs chiffres, avec une partie entière et une partie décimale,
+      * la 9
+      +
+      ^e^
+      +
+       Conférence générale dans sa Résolution 7 (1948) avait décidé que « Dans les nombres, la virgule (usage français) ou le point (usage britannique) sont utilisés seulement pour séparer la partie entière des nombres de leur partie décimale »,
+      * conformément à la décision du Comité international des poids et mesures lors de sa 86
+      +
+      ^e^
+      +
+       session (1997), le Bureau international des poids et mesures utilise maintenant le point (sur la ligne) comme séparateur décimal dans toutes les versions en anglais de ses publications, y compris dans le texte anglais de la brochure sur le SI (la référence internationale sur le SI), tout en continuant à utiliser la virgule (sur la ligne) comme séparateur décimal dans toutes ses publications en français,
+      * néanmoins certaines organisations internationales utilisent la virgule sur la ligne comme séparateur décimal dans leurs documents en anglais,
+      * de plus, certaines organisations internationales, y compris certaines organisations internationales de normalisation, spécifient que le séparateur décimal doit être la virgule sur la ligne, dans toutes les langues,
+      * la recommandation d'utiliser la virgule sur la ligne comme séparateur décimal est, dans de nombreuses langues, en conflit avec l'usage courant, qui consiste à utiliser le point sur la ligne,
+      * le fait d'utiliser le point sur la ligne ou la virgule sur la ligne comme séparateur décimal n'est pas toujours lié à la langue, car certains pays de même langue maternelle ont des usages différents, alors que d'autres pays pratiquant le plurilinguisme utilisent le point sur la ligne ou la virgule sur la ligne suivant la langue,
   - type: reaffirming
     date_effective: '2003-10-17'
     message: "*réaffirme* que « Pour faciliter la lecture, les nombres peuvent être
@@ -556,6 +539,7 @@ resolutions:
   - type: recommends
     date_effective: '2003-10-17'
     message: recommande la Résolution 7 de la 9^e^ Conférence générale de 1948.
+  doi: 10.59161/CGPM2003RES10F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -641,6 +625,7 @@ resolutions:
       * cette relation stimule la collaboration en matière de traçabilité des résultats de mesure et assure que des actions efficaces et complémentaires soient entreprises dans le cadre de l'Arrangement de reconnaissance mutuelle du CIPM et de l'Arrangement de l'ILAC,
 
       et *note* que les étalonnages ne sont pas une évaluation de la conformité.
+  doi: 10.59161/CGPM2003RES11F
 - dates:
   - '2003-10-17'
   subject: CGPM
@@ -656,40 +641,25 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2003-10-17'
-    message: considérant l'importance croissante de la métrologie pour les échanges
-      commerciaux, l'industrie, l'environnement, la santé publique et la sécurité
-      dans tous les États membres de la Convention du Mètre,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant le besoin correspondant d'une coordination internationale
-      efficace et compétente des activités de métrologie,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant le rôle central joué par le Bureau international des poids
-      et mesures (BIPM) dans cette coordination et les services qu'il rend aux États
-      membres de la Convention du Mètre,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant les responsabilités élargies confiées au BIPM lors de la
-      21^e^ Conférence générale en 1999, sans augmentation correspondante de sa dotation,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant l'augmentation de la charge de travail, non prévue lors de
-      la 21^e^ Conférence générale, à laquelle le BIPM a fait face depuis la précédente
-      Conférence générale,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant l'extension des activités de la Convention du Mètre incombant
-      aux États membres, notamment dans les domaines de la chimie, de la biotechnologie
-      et de la médecine,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant la nécessité d'élargir le domaine de compétence du personnel
-      scientifique du BIPM pour répondre aux demandes dans ces nouveaux domaines,
-  - type: considering
-    date_effective: '2003-10-17'
-    message: considérant les efforts considérables qui continuent d'être faits par
-      le BIPM pour augmenter son efficacité, et son engagement à poursuivre ces efforts,
+    message: |-
+      *considérant*
+
+      * l'importance croissante de la métrologie pour les échanges commerciaux, l'industrie, l'environnement, la santé publique et la sécurité dans tous les États membres de la Convention du Mètre,
+      * le besoin correspondant d'une coordination internationale efficace et compétente des activités de métrologie,
+      * le rôle central joué par le Bureau international des poids et mesures (BIPM) dans cette coordination et les services qu'il rend aux États membres de la Convention du Mètre,
+      * les responsabilités élargies confiées au BIPM lors de la 21
+      +
+      ^e^
+      +
+       Conférence générale en 1999, sans augmentation correspondante de sa dotation,
+      * l'augmentation de la charge de travail, non prévue lors de la 21
+      +
+      ^e^
+      +
+       Conférence générale, à laquelle le BIPM a fait face depuis la précédente Conférence générale,
+      * l'extension des activités de la Convention du Mètre incombant aux États membres, notamment dans les domaines de la chimie, de la biotechnologie et de la médecine,
+      * la nécessité d'élargir le domaine de compétence du personnel scientifique du BIPM pour répondre aux demandes dans ces nouveaux domaines,
+      * les efforts considérables qui continuent d'être faits par le BIPM pour augmenter son efficacité, et son engagement à poursuivre ces efforts,
   - type: recognizing
     date_effective: '2003-10-17'
     message: reconnaissant la situation économique difficile actuelle de certains
@@ -742,3 +712,4 @@ resolutions:
     message: "*demande* aux États membres de déclarer au BIPM, au plus tard le 1^er^
       avril 2004, s'ils ont l'intention de payer leur part de cette contribution discrétionnaire
       pour les quatre années ci-dessus."
+  doi: 10.59161/CGPM2003RES12F

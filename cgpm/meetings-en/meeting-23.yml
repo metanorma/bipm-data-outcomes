@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 23rd meeting of the CGPM
-  identifier: 23
+  identifier: '23'
   date: '2007-11-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/23-2007
@@ -52,6 +52,7 @@ resolutions:
     date_effective: '2007-11-16'
     message: "*invites* the BIPM and the ILAC to pursue further initiatives to enhance
       their cooperation and regular dialogue."
+  doi: 10.59161/CGPM2007RES1E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -146,6 +147,7 @@ resolutions:
     date_effective: '2007-11-16'
     message: invites the International Committee to continue to report to subsequent
       General Conferences on evolving needs in metrology.
+  doi: 10.59161/CGPM2007RES2E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -227,14 +229,15 @@ resolutions:
       be increased in such a way that the fixed part and the complementary part (defined
       in Article 6, 1921, of the Rules annexed to the Metre Convention (1875)) shall,
       for those States that are parties to the Metre Convention at the time of the
-      23rd General Conference be:\n\n|===\n| 10 540 000 euros in 2009\n\n| 10 751
-      000 euros in 2010\n| 10 966 000 euros in 2011\n| 11 185 000 euros in 2012,\n\n|===\n\n "
+      23rd General Conference be:\n\n[cols=1]\n|===\n| 10 540 000 euros in 2009\n\n|
+      10 751 000 euros in 2010\n| 10 966 000 euros in 2011\n| 11 185 000 euros in
+      2012,\n\n|===\n\n "
   - type: decides
     date_effective: '2007-11-16'
     message: "*and further decides* to support the increasing workload of the BIPM
-      by an additional discretionary contribution of:\n\n\n\n|===\n| 407 000 euros
-      in 2009\n\n| 415 000 euros in 2010\n| 423 000 euros in 2011\n| 431 000 euros
-      in 2012,\n\n|===\n\n "
+      by an additional discretionary contribution of:\n\n\n\n[cols=1]\n|===\n| 407
+      000 euros in 2009\n\n| 415 000 euros in 2010\n| 423 000 euros in 2011\n| 431
+      000 euros in 2012,\n\n|===\n\n "
   - type: requests
     date_effective: '2007-11-16'
     message: "*requests* Member States to declare to the BIPM, as soon as possible,
@@ -243,6 +246,7 @@ resolutions:
     date_effective: '2007-11-16'
     message: "*and requests* the Director and the CIPM to prioritize the activities
       proposed in the programme of work in light of the dotation agreed by the CGPM."
+  doi: 10.59161/CGPM2007RES3E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -291,6 +295,7 @@ resolutions:
     date_effective: '2007-11-16'
     message: "*requests* Member States to address any impediments to the acceptance
       of this application as soon as possible."
+  doi: 10.59161/CGPM2007RES4E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -345,6 +350,7 @@ resolutions:
     message: decides that an Associate State which accedes to the Metre Convention
       will pay an entrance fee from which its subscriptions paid as Associate of the
       CGPM, will be deducted, up to a maximum of five years subscription.
+  doi: 10.59161/CGPM2007RES5E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -383,6 +389,7 @@ resolutions:
     date_effective: '2007-11-16'
     message: decides that no further Economies shall become Associates of the CGPM
       until these criteria are approved by the CGPM.
+  doi: 10.59161/CGPM2007RES6E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -466,6 +473,7 @@ resolutions:
     message: decides that such an NMI shall be encouraged to work with the appropriate
       authorities in its State to accede to the Metre Convention or to become an Associate
       of the General Conference.
+  doi: 10.59161/CGPM2007RES7E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -521,6 +529,7 @@ resolutions:
       * the exclusion shall be notified by the CGPM to that Member State through the French Ministry of Foreign Affairs, which shall accordingly inform all Member States,
       * an excluded Member State may only again accede to the Metre Convention if its remaining arrears have been paid. Pursuant to Article 11 of the Metre Convention, that Member State shall pay an entrance contribution equal to its first annual contribution,
       * a Member State which withdraws may only again accede to the Metre Convention if its remaining arrears have been paid. Pursuant to Article 11 of the Metre Convention, that Member State shall pay an entrance contribution equal to its first annual contribution.
+  doi: 10.59161/CGPM2007RES8E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -547,18 +556,16 @@ resolutions:
   actions:
   - type: welcomes
     date_effective: '2007-11-16'
-    message: welcomes the activities of the Joint Working Group of the Consultative
-      Committee for Length and the Consultative Committee for Time and Frequency to
-      review the frequencies of optically-based representations of the second,
-  - type: welcomes
-    date_effective: '2007-11-16'
-    message: welcomes the additions to the _mise en pratique_ of the definition of
-      the metre and to the list of recommended radiations made by the International
-      Committee in 2002, 2003, 2005, 2006, and 2007,
-  - type: welcomes
-    date_effective: '2007-11-16'
-    message: welcomes the initiative taken by the International Bureau of Weights
-      and Measures (BIPM) to raise the issue of how to compare optical frequency standards,
+    message: |-
+      *welcomes*
+
+      * the activities of the Joint Working Group of the Consultative Committee for Length and the Consultative Committee for Time and Frequency to review the frequencies of optically-based representations of the second,
+      * the additions to the
+      +
+      _mise en pratique_
+      +
+      of the definition of the metre and to the list of recommended radiations made by the International Committee in 2002, 2003, 2005, 2006, and 2007,
+      * the initiative taken by the International Bureau of Weights and Measures (BIPM) to raise the issue of how to compare optical frequency standards,
   - type: recommends
     date_effective: '2007-11-16'
     message: |-
@@ -566,6 +573,7 @@ resolutions:
 
       * NMIs commit resources to the development of optical frequency standards and their comparison,
       * the BIPM works toward the coordination of an international project with the participation of NMIs, oriented to the study of the techniques which could serve to compare optical frequency standards.
+  doi: 10.59161/CGPM2007RES9E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -597,19 +605,18 @@ resolutions:
     message: "*notes and welcomes* the decision by the International Committee for
       Weights and Measures in October 2005, on the advice of the Consultative Committee
       for Thermometry, that\n\n* the definition of the kelvin refers to water of a
-      specified isotopic composition,\n* this composition be:\n\n0.000 155 76 mole
-      of 2H per mole of 1H, +\n 0.000 379 9 mole of 17O per mole of 16O, and +\n 0.002
-      005 2 mole of 18O per mole of 16O,\n\nwhich is the composition of the International
-      Atomic Energy Agency reference material Vienna Standard Mean Ocean Water (VSMOW),
-      as recommended by the International Union of Pure and Applied Chemistry in \"Atomic
-      Weights of the Elements: Review 2000\",\n\n* this composition be stated in a
-      note attached to the definition of the kelvin in the SI Brochure as follows:\n\n\"This
-      definition refers to water having the isotopic composition defined by the following
-      amount-of-substance ratios: 0.000 155 76 mole of stem:[\"\"_(2) \"H\"] per mole
-      of stem:[\"\"_(1) \"H\"], 0.000 379 9 mole of stem:[\"\"_(17) \"O\"] per mole
-      of stem:[\"\"_(16) \"O\"] and 0.002 005 2 mole of stem:[\"\"_(18) \"O\"] per
-      mole of stem:[\"\"_(16) \"O\"]\".\n\n "
+      specified isotopic composition,\n* this composition be:\n\nwhich is the composition
+      of the International Atomic Energy Agency reference material Vienna Standard
+      Mean Ocean Water (VSMOW), as recommended by the International Union of Pure
+      and Applied Chemistry in \"Atomic Weights of the Elements: Review 2000\",\n\n*
+      this composition be stated in a note attached to the definition of the kelvin
+      in the SI Brochure as follows:\n\n\"This definition refers to water having the
+      isotopic composition defined by the following amount-of-substance ratios: 0.000
+      155 76 mole of stem:[\"\"_(2) \"H\"] per mole of stem:[\"\"_(1) \"H\"], 0.000
+      379 9 mole of stem:[\"\"_(17) \"O\"] per mole of stem:[\"\"_(16) \"O\"] and
+      0.002 005 2 mole of stem:[\"\"_(18) \"O\"] per mole of stem:[\"\"_(16) \"O\"]\".\n\n "
   actions: []
+  doi: 10.59161/CGPM2007RES10E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -659,6 +666,7 @@ resolutions:
       *recommends* relevant bodies to take steps to ensure that all measurements used to make observations which may be used for climate studies are made fully traceable to SI units,
 
       and *further recommends* appropriate funding bodies to support the development of techniques which can make possible a set of SI-traceable radiometric standards and instruments to allow such traceability to be established in terrestrial and space based measurements.
+  doi: 10.59161/CGPM2007RES11E
 - dates:
   - '2007-11-16'
   subject: CGPM
@@ -675,44 +683,32 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2007-11-16'
-    message: considering that, for many years, National Metrology Institutes (NMIs)
-      as well as the International Bureau of Weights and Measures (BIPM) have made
-      considerable efforts to advance and improve the International System of Units
-      (SI) by extending the frontiers of metrology so that the SI base units could
-      be defined in terms of the invariants of nature - the fundamental physical constants,
-  - type: considering
-    date_effective: '2007-11-16'
-    message: considering that, of the seven base units of the SI, only the kilogram
-      is still defined in terms of a material artefact - the international prototype
-      of the kilogram (2nd CGPM, 1889, 3rd CGPM, 1901) and that the definitions of
-      the ampere, mole and candela depend on the kilogram,
-  - type: considering
-    date_effective: '2007-11-16'
-    message: considering Resolution 7 of the 21st General Conference (1999) which
-      recommended that "national laboratories continue their efforts to refine experiments
-      that link the unit of mass to fundamental or atomic constants with a view to
-      a future redefinition of the kilogram",
-  - type: considering
-    date_effective: '2007-11-16'
-    message: considering the many advances, made in recent years, in experiments which
-      relate the mass of the international prototype to the Planck constant stem:[h]
-      or the Avogadro constant stem:[N_("A")],
-  - type: considering
-    date_effective: '2007-11-16'
-    message: considering initiatives to determine the value of a number of relevant
-      fundamental constants, including work to redetermine the Boltzmann constant
-      stem:[k_(B)],
-  - type: considering
-    date_effective: '2007-11-16'
-    message: considering that as a result of recent advances, there are significant
-      implications for, and potential benefits from, redefinitions of the kilogram,
-      the ampere, the kelvin and the mole,
-  - type: considering
-    date_effective: '2007-11-16'
-    message: considering Recommendation 1 of the International Committee (C1-2005)
-      at its meeting in October 2005, and various Recommendations of Consultative
-      Committees on the subject of a redefinition of one or more of the base units
-      of the SI,
+    message: |-
+      *considering*
+
+      * that, for many years, National Metrology Institutes (NMIs) as well as the International Bureau of Weights and Measures (BIPM) have made considerable efforts to advance and improve the International System of Units (SI) by extending the frontiers of metrology so that the SI base units could be defined in terms of the invariants of nature - the fundamental physical constants,
+      * that, of the seven base units of the SI, only the kilogram is still defined in terms of a material artefact - the international prototype of the kilogram (2nd CGPM, 1889, 3rd CGPM, 1901) and that the definitions of the ampere, mole and candela depend on the kilogram,
+      * Resolution 7 of the 21st General Conference (1999) which recommended that "national laboratories continue their efforts to refine experiments that link the unit of mass to fundamental or atomic constants with a view to a future redefinition of the kilogram",
+      * the many advances, made in recent years, in experiments which relate the mass of the international prototype to the Planck constant
+      +
+      stem:[h]
+      +
+      or the Avogadro constant
+      +
+      __N__
+      +
+      ~stem:["A"]~
+      +
+      ,
+      * initiatives to determine the value of a number of relevant fundamental constants, including work to redetermine the Boltzmann constant
+      +
+      __k__
+      +
+      ~B~
+      +
+      ,
+      * that as a result of recent advances, there are significant implications for, and potential benefits from, redefinitions of the kilogram, the ampere, the kelvin and the mole,
+      * Recommendation 1 of the International Committee (C1-2005) at its meeting in October 2005, and various Recommendations of Consultative Committees on the subject of a redefinition of one or more of the base units of the SI,
   - type: noting
     date_effective: '2007-11-16'
     message: noting that any changes in definitions of units of the SI must be constrained
@@ -739,25 +735,16 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2007-11-16'
-    message: recommends that National Metrology Institutes and the BIPM pursue the
-      relevant experiments so that the International Committee can come to a view
-      on whether it may be possible to redefine the kilogram, the ampere, the kelvin,
-      and the mole using fixed values of the fundamental constants at the time of
-      the 24th General Conference (2011),
-  - type: recommends
-    date_effective: '2007-11-16'
-    message: recommends that National Metrology Institutes and the BIPM should, together
-      with the International Committee, its Consultative Committees, and appropriate
-      working groups, work on practical ways of realizing any new definitions based
-      on fixed values of the fundamental constants, prepare a _mise en pratique_ for
-      each of them, and consider the most appropriate way of explaining the new definitions
-      to users,
-  - type: recommends
-    date_effective: '2007-11-16'
-    message: recommends that National Metrology Institutes and the BIPM initiate awareness
-      campaigns to alert user communities to the possibility of redefinitions and
-      that the technical and legislative implications of such redefinitions and their
-      practical realizations be carefully discussed and considered,
+    message: |-
+      *recommends* that National Metrology Institutes and the BIPM
+
+      * pursue the relevant experiments so that the International Committee can come to a view on whether it may be possible to redefine the kilogram, the ampere, the kelvin, and the mole using fixed values of the fundamental constants at the time of the 24th General Conference (2011),
+      * should, together with the International Committee, its Consultative Committees, and appropriate working groups, work on practical ways of realizing any new definitions based on fixed values of the fundamental constants, prepare a
+      +
+      _mise en pratique_
+      +
+      for each of them, and consider the most appropriate way of explaining the new definitions to users,
+      * initiate awareness campaigns to alert user communities to the possibility of redefinitions and that the technical and legislative implications of such redefinitions and their practical realizations be carefully discussed and considered,
   - type: requests
     date_effective: '2007-11-16'
     message: "*and requests* the International Committee to report on these issues
@@ -766,3 +753,4 @@ resolutions:
       be satisfactory and the needs of users met, formal proposals for changes in
       the definitions of the kilogram, ampere, the kelvin and mole can be put to the
       24th General Conference."
+  doi: 10.59161/CGPM2007RES12E

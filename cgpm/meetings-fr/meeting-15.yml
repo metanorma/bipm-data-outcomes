@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 15e réunion de la CGPM (1975)
-  identifier: 15
+  identifier: '15'
   date: '1975-06-03'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/15-1975
@@ -42,6 +42,7 @@ resolutions:
     date_effective: '1975-06-03'
     message: "*et demande* au Comité international des poids et mesures de coordonner
       ces recherches."
+  doi: 10.59161/CGPM1975RES1F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -72,6 +73,7 @@ resolutions:
     message: "*recommande* l'emploi de la valeur qui en résulte pour la vitesse de
       propagation des ondes électromagnétiques dans le vide stem:[c = 299 792 458]
       mètres par seconde."
+  doi: 10.59161/CGPM1975RES2F
   notes: L'incertitude relative doit être comprise comme étant trois fois l'incertitude-type
     estimée sur les résultats considérés.
 - dates:
@@ -109,6 +111,7 @@ resolutions:
     date_effective: '1975-06-03'
     message: et charge le Bureau international des poids et mesures d'organiser ensuite
       une vérification des étalons nationaux de masse.
+  doi: 10.59161/CGPM1975RES3F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -142,6 +145,7 @@ resolutions:
     message: et demande au Comité international des poids et mesures de veiller à
       maintenir ses relations avec le Bureau international de l'heure et son Comité
       directeur en vue de l'amélioration de l'exactitude et de la continuité du TAI.
+  doi: 10.59161/CGPM1975RES4F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -170,6 +174,7 @@ resolutions:
     date_effective: '1975-06-03'
     message: "*estime* que cet emploi est parfaitement recommandable."
   actions: []
+  doi: 10.59161/CGPM1975RES5F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -200,6 +205,7 @@ resolutions:
       travaux, et de poursuivre l'organisation de mesures comparatives, non seulement
       des étalons des grandeurs correspondantes en courant continu, mais des grandeurs
       électromagnétiques en haute fréquence.
+  doi: 10.59161/CGPM1975RES6F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -229,6 +235,7 @@ resolutions:
     message: et demande au Comité international des poids et mesures de poursuivre
       la préparation d'une Échelle révisée qui donnerait une exactitude meilleure,
       c'est-à-dire des valeurs encore plus voisines des températures thermodynamiques.
+  doi: 10.59161/CGPM1975RES7F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -251,8 +258,9 @@ resolutions:
 
       adopte le nom spécial suivant d'unité SI pour l'activité :
 
-      le *_becquerel_*, symbole Bq, égal à la seconde à la puissance moins un.
+      le **__becquerel__**, symbole Bq, égal à la seconde à la puissance moins un.
   actions: []
+  doi: 10.59161/CGPM1975RES8F
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -278,9 +286,10 @@ resolutions:
     message: |-
       *adopte* le nom spécial suivant d'unité SI pour les rayonnements ionisants :
 
-      le *_gray_*, symbole Gy, égal au joule par kilogramme.
+      le **__gray__**, symbole Gy, égal au joule par kilogramme.
 
       Note : le gray est l'unité SI de dose absorbée. Dans le domaine des rayonnements ionisants, le gray peut encore être employé avec d'autres grandeurs physiques qui s'expriment aussi en joules par kilogramme ; le Comité consultatif des unités est chargé d'étudier cette question en collaboration avec les organisations internationales compétentes.
+  doi: 10.59161/CGPM1975RES9F
   notes: À sa session de 1976, le Comité international a approuvé le rapport de la
     5^e^ session du CCU (1976) précisant que, suivant l'avis de l'ICRU, le gray peut
     être employé aussi pour exprimer l'énergie communiquée massique, le kerma et l'indice
@@ -304,18 +313,24 @@ resolutions:
     message: |-
       *décide* d'ajouter à la liste des préfixes SI pour la formation des noms des multiples des unités, adoptée par la Onzième Conférence générale, Résolution 12, paragraphe 3, les deux préfixes suivants :
 
-      [width=100%]
+      [cols="8,7,5"]
       |===
       a| Facteur par lequel +
        l'unité est multipliée
-      | Préfixe | Symbole
+      | Préfixe
+      | Symbole
 
       | stem:[10^(15)] | peta | P
       | stem:[10^(18)] | exa | E
 
       |===
+  doi: 10.59161/CGPM1975RES10F
   notes: |-
-    De nouveaux préfixes furent ajoutés en 1991 par la 19^e^ CGPM (Résolution 4).
+    De nouveaux préfixes furent ajoutés en 1991 par la 19
+    +
+    ^e^
+    +
+    CGPM (Résolution 4).
      En français, il est d'usage courant de mettre un accent à péta.
 - dates:
   - '1975-06-03'
@@ -341,6 +356,7 @@ resolutions:
     message: |-
       *décide* que la partie fixe de la dotation annuelle du Bureau international des poids et mesures sera augmentée de façon que l'ensemble de la partie fixe et de la partie complémentaire (définies à l'Article 6 (1921) du Règlement annexé à la Convention du Mètre) soit, pour les États parties à la Convention à l'époque de la Quinzième Conférence générale :
 
+      [cols=1]
       |===
       | 5 310 000 francs-or en 1977
 
@@ -349,3 +365,4 @@ resolutions:
       | 7 460 000 francs-or en 1980
 
       |===
+  doi: 10.59161/CGPM1975RES11F

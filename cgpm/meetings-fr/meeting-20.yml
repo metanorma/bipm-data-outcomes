@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 20e réunion de la CGPM (1995)
-  identifier: 20
+  identifier: '20'
   date: '1995-10-13'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/20-1995
@@ -22,40 +22,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: considérant que les effets des activités industrielles et commerciales
-      ainsi que ceux de nombreuses autres activités humaines sur la géosphère et la
-      biosphère et leurs conséquences sur la santé et le bien-être humains font l'objet
-      d'importantes études dans le monde entier,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que les Gouvernements sont de plus en plus amenés à prendre
-      des décisions réglementant ces activités, avec des répercussions économiques
-      et politiques majeures,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que les choix politiques des Gouvernements sont influencés
-      par les résultats d'études qui dépendent de manière critique de l'exactitude
-      et de la cohérence de mesures pouvant nécessiter d'importants investissements
-      économiques,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que de nombreuses preuves scientifiques importantes sur lesquelles
-      s'appuient ces décisions sont issues de mesures de petites variations à long
-      terme de certains paramètres clés, mesures qui s'étendent parfois sur plusieurs
-      décennies,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que certaines mesures critiques ont été traditionnellement
-      exprimées en utilisant des unités _ad hoc_, fondées sur des instruments et des
-      méthodes spécifiques, et non pas les unités du SI, lesquelles sont bien définies
-      et adoptées au niveau international,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que depuis de nombreuses années l'expérience montre que les
-      mesures qui ne sont pas reliées directement au SI ne sont ni fiables à long
-      terme, ni comparables aux mesures semblables faites ailleurs ni adaptées à la
-      mise en évidence de relations avec les mesures faites dans d'autres domaines
-      scientifiques,
+    message: |-
+      *considérant que*
+
+      * les effets des activités industrielles et commerciales ainsi que ceux de nombreuses autres activités humaines sur la géosphère et la biosphère et leurs conséquences sur la santé et le bien-être humains font l'objet d'importantes études dans le monde entier,
+      * les Gouvernements sont de plus en plus amenés à prendre des décisions réglementant ces activités, avec des répercussions économiques et politiques majeures,
+      * les choix politiques des Gouvernements sont influencés par les résultats d'études qui dépendent de manière critique de l'exactitude et de la cohérence de mesures pouvant nécessiter d'importants investissements économiques,
+      * de nombreuses preuves scientifiques importantes sur lesquelles s'appuient ces décisions sont issues de mesures de petites variations à long terme de certains paramètres clés, mesures qui s'étendent parfois sur plusieurs décennies,
+      * certaines mesures critiques ont été traditionnellement exprimées en utilisant des unités
+      +
+      __ad hoc__
+      +
+      , fondées sur des instruments et des méthodes spécifiques, et non pas les unités du SI, lesquelles sont bien définies et adoptées au niveau international,
+      * depuis de nombreuses années l'expérience montre que les mesures qui ne sont pas reliées directement au SI ne sont ni fiables à long terme, ni comparables aux mesures semblables faites ailleurs ni adaptées à la mise en évidence de relations avec les mesures faites dans d'autres domaines scientifiques,
   actions:
   - type: recommends
     date_effective: '1995-10-13'
@@ -66,6 +45,7 @@ resolutions:
       cohérence mondiale et le rattachement aux autres domaines scientifiques et techniques
       grâce au système de mesures mondial établi et conservé dans le cadre de la Convention
       du Mètre."
+  doi: 10.59161/CGPM1995RES1F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -134,6 +114,7 @@ resolutions:
       régionaux soient communiqués au BIPM sous une forme convenable pour publication
       par le BIPM afin qu'ils puissent ainsi bénéficier d'une reconnaissance au niveau
       international.
+  doi: 10.59161/CGPM1995RES2F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -173,6 +154,7 @@ resolutions:
     message: recommande que les laboratoires nationaux informent régulièrement le
       Bureau international des poids et mesures des résultats des travaux liés à la
       métrologie fondamentale.
+  doi: 10.59161/CGPM1995RES3F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -188,29 +170,17 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1995-10-13'
-    message: rappelant que la 17^e^ Conférence générale des poids et mesures, en 1983,
-      a adopté une nouvelle définition du mètre,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: rappelant que la même année, la Conférence générale a invité le Comité
-      international des poids et mesures,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: rappelant à établir des instructions pour la mise en pratique de cette
-      définition,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: rappelant à choisir des radiations qui puissent être recommandées comme
-      étalons de longueur d'onde pour les mesures de longueur par interférométrie
-      et à donner les instructions nécessaires pour leur utilisation,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: rappelant à poursuivre les études nécessaires pour améliorer ces étalons
-      et à étendre ou réviser ces instructions en temps utile,
-  - type: recalling / further recalling
-    date_effective: '1995-10-13'
-    message: rappelant que, en conséquence, le Comité international a publié en 1983
-      une recommandation pour la mise en pratique de la définition du mètre,
+    message: |-
+      *rappelant*
+
+      * que la 17
+      +
+      ^e^
+      +
+      Conférence générale des poids et mesures, en 1983, a adopté une nouvelle définition du mètre,
+      * que la même année, la Conférence générale a invité le Comité international des poids et mesures,
+
+      * que, en conséquence, le Comité international a publié en 1983 une recommandation pour la mise en pratique de la définition du mètre,
   - type: considering
     date_effective: '1995-10-13'
     message: considérant que les sciences et les techniques continuent à exiger une
@@ -238,6 +208,7 @@ resolutions:
     message: "*recommande* aux laboratoires nationaux de poursuivre leurs recherches
       sur les étalons de longueur d'onde et de fréquence optiques en vue d'améliorer
       encore la base expérimentale du Système international d'unités."
+  doi: 10.59161/CGPM1995RES4F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -279,6 +250,7 @@ resolutions:
       entreprises et en explorent de nouvelles afin de contrôler la stabilité du prototype
       international du kilogramme et, le moment venu, d'ouvrir la voie à une nouvelle
       définition de l'unité de masse fondée sur des constantes fondamentales ou atomiques."
+  doi: 10.59161/CGPM1995RES5F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -323,6 +295,7 @@ resolutions:
     message: "*recommande* que les agences spatiales étudient l'installation sur leurs
       satellites d'équipements permettant d'effectuer des comparaisons d'horloges
       utilisant des techniques par laser visant des satellites."
+  doi: 10.59161/CGPM1995RES6F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -368,6 +341,7 @@ resolutions:
       en chimie à collaborer avec le Comité international et le nouveau Comité consultatif
       en vue d'établir mondialement la traçabilité au plus haut niveau pour les mesures
       chimiques."
+  doi: 10.59161/CGPM1995RES7F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -383,20 +357,16 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: considérant que la 11^e^ Conférence générale, en 1960, dans sa Résolution
-      12 établissant le Système international d'unités, SI, a distingué trois classes
-      d'unités, celle des unités de base, celle des unités dérivées et celle des unités
-      supplémentaires, cette dernière comprenant seulement le radian et le stéradian,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que le statut des unités supplémentaires par rapport aux
-      unités de base et aux unités dérivées, a donné lieu à des discussions,
-  - type: considering
-    date_effective: '1995-10-13'
-    message: considérant que le Comité international des poids et mesures (CIPM),
-      en 1980, constatant que le statut ambigu des unités supplémentaires compromet
-      la cohérence interne du SI, a interprété dans sa Recommandation 1 (CI-1980)
-      les unités supplémentaires, dans le SI, comme des unités dérivées sans dimension,
+    message: |-
+      *considérant*
+
+      * que la 11
+      +
+      ^e^
+      +
+      Conférence générale, en 1960, dans sa Résolution 12 établissant le Système international d'unités, SI, a distingué trois classes d'unités, celle des unités de base, celle des unités dérivées et celle des unités supplémentaires, cette dernière comprenant seulement le radian et le stéradian,
+      * que le statut des unités supplémentaires par rapport aux unités de base et aux unités dérivées, a donné lieu à des discussions,
+      * que le Comité international des poids et mesures (CIPM), en 1980, constatant que le statut ambigu des unités supplémentaires compromet la cohérence interne du SI, a interprété dans sa Recommandation 1 (CI-1980) les unités supplémentaires, dans le SI, comme des unités dérivées sans dimension,
   actions:
   - type: approves
     date_effective: '1995-10-13'
@@ -411,6 +381,7 @@ resolutions:
     date_effective: '1995-10-13'
     message: décide et, par conséquent, de supprimer la classe des unités supplémentaires
       en tant que classe séparée dans le SI.
+  doi: 10.59161/CGPM1995RES8F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -448,6 +419,7 @@ resolutions:
     message: |-
       *décide* que la partie fixe de la dotation annuelle du Bureau international des poids et mesures sera augmentée de telle façon que l'ensemble de la partie fixe et de la partie complémentaire (définie à l'Article 6 (1921) du Règlement annexé à la Convention du Mètre de 1875) soit, pour les États parties à la Convention à l'époque de la 20^e^ Conférence générale des poids et mesures, portée à
 
+      [cols=1]
       |===
       | 27 144 000 francs-or en 1997
 
@@ -456,6 +428,7 @@ resolutions:
       | 30 976 000 francs-or en 2000.
 
       |===
+  doi: 10.59161/CGPM1995RES9F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -498,6 +471,7 @@ resolutions:
       pris connaissance du rapport de son président, de faire connaître aux États
       membres de la Convention du Mètre les résultats des discussions et son opinion
       au sujet de l'opportunité de poursuivre des actions dans ce sens."
+  doi: 10.59161/CGPM1995RES10F
 - dates:
   - '1995-10-13'
   subject: CGPM
@@ -534,3 +508,4 @@ resolutions:
       nécessaires collaborations internationales et le rôle primordial du BIPM pour
       faire face à ces besoins, les engagements financiers ou autres qui seront demandés
       aux États membres au cours des décennies à venir, et d'en rendre compte."
+  doi: 10.59161/CGPM1995RES11F

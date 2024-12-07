@@ -2,23 +2,21 @@
 metadata:
   url: https://www.bipm.org/en/committees/cc/ccri/publications/
 categories:
-- title: General documents
-  documents:
-  - title: "[CCRI] CCRI Facilities list"
-    pdf: https://www.bipm.org/documents/20126/43440646/CCRI+Facilities+list/7d891bb4-810f-f229-40c1-0d8853e4fb4f
-  - title: "[CCRI] Key technical decisions of the CCRI and CCRI Sections"
-    pdf: https://www.bipm.org/documents/20126/43440659/Key+technical+decisions+of+the+CCRI+and+CCRI+Sections/bdfe3d43-bc05-f7e7-02fb-282388cd9dee
 - title: Strategy documents
   documents:
-  - title: "[CCRI] CCRI Strategic Plan for the period 2018-2028"
-    pdf: https://www.bipm.org/documents/20126/32868100/CCRI+Strategic+Plan+for+the+period+2018-2028/4a664b74-4247-4335-2645-fe3ce1b22cef
-  - title: "[CCRI] CCRI Workshop on the 2018-2028 Strategic Plan"
-    pdf: https://www.bipm.org/documents/20126/32868195/CCRI+Workshop+on+the+2018-2028+Strategic+Plan/84628a80-a48b-46b2-5e0e-835d76832466
-  - title: "[CCRI] CCRI Workshop on the 2020-2025 Strategic Plan and the CIPM MRA
-      Review"
-    pdf: https://www.bipm.org/documents/20126/32868221/CCRI+Workshop+on+the+2020-2025+Strategic+Plan+and+the+CIPM+MRA+Review/dd42645f-f8f8-a100-2fb8-d9c8471be428
+  - title: "[CCRI] CCRI-S-01CCRI Strategic Plan 2030+"
+    pdf: https://www.bipm.org/documents/20126/32868100/CCRI-S-01+CCRI+Strategic+Plan+2030%2B/4a664b74-4247-4335-2645-fe3ce1b22cef
+- title: General documents
+  documents:
+  - title: "[CCRI] CCRI-D-01CCRI CMC rules"
+    pdf: https://www.bipm.org/documents/20126/54619299/CCRI-D-01+Rules+for+entering+CMC+claims+in+ionizing+radiation+metrology/c0b97b77-99e1-4abb-1d10-9a90a35fc9bf
+  - title: "[CCRI] CCRI-D-02Facilities list"
+    pdf: https://www.bipm.org/documents/20126/43440646/CCRI-D-02+Facilities+list/7d891bb4-810f-f229-40c1-0d8853e4fb4f
+  - title: "[CCRI] CCRI-D-03Key technical decisions of the CCRI and CCRI Sections"
+    pdf: https://www.bipm.org/documents/20126/43440659/CCRI-D-03+Key+technical+decisions+of+the+CCRI+and+CCRI+Sections/bdfe3d43-bc05-f7e7-02fb-282388cd9dee
 - title: Meeting reports
   documents:
+  - title: "[CCRI] 29th meeting (2023)"
   - title: "[CCRI] 28th meeting (2021)"
     pdf: https://www.bipm.org/documents/20126/59879266/CCRI28.pdf/34493e67-4ed9-0d0c-0831-db78836a755e
   - title: "[CCRI] 27th meeting (2019)"
@@ -85,15 +83,18 @@ categories:
     pdf: https://www.bipm.org/documents/20126/30130629/Qualit%C3%A9s+de+rayonnement/efae635d-e50e-59b8-c043-dccf057ea70c
 - title: Guidance documents on the CIPM MRA
   documents:
+  - title: "[CCRI] CCRI-G-03An Interpretation of CIPM MRA-G-11: Implications and Impacts
+      for CCRI (2023)"
+    pdf: https://www.bipm.org/documents/20126/135297098/CCRI-G-03+An-Interpretation-of-CIPM-MRA-G11/3eb5ef45-8906-9ce9-a3c5-602ab974aba6
+  - title: "[CCRI] CCRI-G-04CMC review checklist (2023)"
+    pdf: https://www.bipm.org/documents/20126/135297108/CCRI-G-04+CMC-review-Checklist-generic/ef6c0bbc-922f-731f-9fbd-5e59ae1e1f1a
   - title: "[CCRI] RI - Classification of services in Ionizing Radiation"
     pdf: https://www.bipm.org/documents/20126/41591239/Classification+of+services+in+Ionizing+Radiation/04b1cf44-81ae-e458-cb21-0f42ea7a09a0
-  - title: "[CCRI] Rules for entering CMC claims in ionizing radiation metrology"
-    pdf: https://www.bipm.org/documents/20126/54619299/Rules+for+entering+CMC+claims+in+ionizing+radiation+metrology/c0b97b77-99e1-4abb-1d10-9a90a35fc9bf
-  - title: "[CCRI] Validity of Ionizing Radiation Comparisons under the auspices of
-      the CIPM MRA"
-    pdf: https://www.bipm.org/documents/20126/30130670/Validity+of+ionizing+radiation+comparisons+under+the+CIPM+MRA/dcca49e5-51e6-1511-6053-e509679b806c
-  - title: "[CCRI] Interpretation of CMCs"
-    pdf: https://www.bipm.org/documents/20126/56870171/Interpretation+of+CMCs+v1.0.docx/46b66cd9-5c0e-a9f3-0f5a-83fa3642c5f8
-  - title: "[CCRI] Guidance on applying the Measurement Methods Matrix (MMM) in using
-      comparison results to support CMCs (2023)"
-    pdf: https://www.bipm.org/documents/20126/72227223/MMM+and+supporting+docs.pdf/3e2bc3be-ce68-591f-a4f5-fce0c3aedefc
+  - title: "[CCRI] CCRI-G-01 Validity of Ionizing Radiation Comparisons under the
+      auspices of the CIPM MRA"
+    pdf: https://www.bipm.org/documents/20126/30130670/CCRI-G-01+Validity+of+ionizing+radiation+comparisons+under+the+CIPM+MRA/dcca49e5-51e6-1511-6053-e509679b806c
+  - title: "[CCRI] CCRI-G-02Interpretation of CMCs"
+    pdf: https://www.bipm.org/documents/20126/56870171/CCRI-G-02+Interpretation+of+CMCs+v1.0.docx/46b66cd9-5c0e-a9f3-0f5a-83fa3642c5f8
+  - title: "[CCRI] CCRI-S2-G-01Guidance on applying the Measurement Methods Matrix
+      (MMM) in using comparison results to support CMCs (2023)"
+    pdf: https://www.bipm.org/documents/20126/72227223/CCRI-S2-G-01+MMM+and+supporting+docs.pdf/3e2bc3be-ce68-591f-a4f5-fce0c3aedefc

@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 27e réunion de la CGPM
-  identifier: 27
+  identifier: '27'
   date: '2022-11-18'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/cgpm-2022
@@ -19,23 +19,24 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2022-11-18'
-    message: rappelant la Résolution 2 adoptée par la CGPM à sa 23^e^ réunion (2007)
-      qui invite le Comité international des poids et mesures (CIPM) à présenter un
-      rapport sur l’évolution des besoins dans le domaine de la métrologie aux prochaines
-      réunions de la CGPM et à préparer des propositions d’activités à mettre en œuvre
-      par le Bureau international des poids et mesures (BIPM) au niveau international,
-  - type: recalling / further recalling
-    date_effective: '2022-11-18'
-    message: rappelant la Résolution 1 adoptée par la CGPM à sa 26^e^ réunion (2018)
-      sur la révision du Système international d’unités (SI) qui définit les sept
-      unités de base à partir de la valeur numérique fixée de constantes choisies,
-      ce qui ouvre de nouvelles perspectives à la réalisation des unités,
-  - type: recalling / further recalling
-    date_effective: '2022-11-18'
-    message: rappelant la Résolution 3 adoptée par la CGPM à sa 26^e^ réunion (2018)
-      qui accueille favorablement le développement d’une vision stratégique à long
-      terme qui, associée à un processus de planification consolidée, étaye le développement
-      du Programme de travail du BIPM en consultation avec les États Membres,
+    message: |-
+      *rappelant*
+
+      * la Résolution 2 adoptée par la CGPM à sa 23
+      +
+      ^e^
+      +
+      réunion (2007) qui invite le Comité international des poids et mesures (CIPM) à présenter un rapport sur l’évolution des besoins dans le domaine de la métrologie aux prochaines réunions de la CGPM et à préparer des propositions d’activités à mettre en œuvre par le Bureau international des poids et mesures (BIPM) au niveau international,
+      * la Résolution 1 adoptée par la CGPM à sa 26
+      +
+      ^e^
+      +
+      réunion (2018) sur la révision du Système international d’unités (SI) qui définit les sept unités de base à partir de la valeur numérique fixée de constantes choisies, ce qui ouvre de nouvelles perspectives à la réalisation des unités,
+      * la Résolution 3 adoptée par la CGPM à sa 26
+      +
+      ^e^
+      +
+      réunion (2018) qui accueille favorablement le développement d’une vision stratégique à long terme qui, associée à un processus de planification consolidée, étaye le développement du Programme de travail du BIPM en consultation avec les États Membres,
   - type: noting
     date_effective: '2022-11-18'
     message: notant le rôle essentiel que joue le Système international d’unités (SI)
@@ -62,31 +63,27 @@ resolutions:
       des besoins dans le domaine de la métrologie,"
   - type: encourages
     date_effective: '2022-11-18'
-    message: encourage le CIPM à élaborer une vision à long terme qui veille à ce
-      que le système mondial de mesures demeure pertinent et qu’il réponde de manière
-      adéquate aux nouveaux défis métrologiques,
-  - type: encourages
-    date_effective: '2022-11-18'
-    message: encourage le CIPM à établir des groupes interdisciplinaires (« horizontaux
-      ») qui relèveront ces nouveaux défis et qui compléteront l’actuelle structure
-      (« verticale ») de ses Comités consultatifs, fondée sur les grandeurs,
-  - type: encourages
-    date_effective: '2022-11-18'
-    message: encourage le CIPM à marquer, le 20 mai 2025, le stem:[150^(e)] anniversaire
-      de la signature de la Convention du Mètre en présentant une nouvelle vision
-      pour le BIPM qui s’appuie sur le rapport du CIPM sur l’évolution des besoins
-      dans le domaine de la métrologie et qui se fonde sur un examen des réalisations
-      du BIPM et des exigences futures concernant ses activités,
-  - type: encourages
-    date_effective: '2022-11-18'
-    message: encourage le CIPM à consulter de façon élargie sur la proposition qu’il
-      formulera au sujet d’une nouvelle vision pour le BIPM qui sera présentée à la
-      CGPM lors de sa 28^e^ réunion (2026),
+    message: |-
+      *encourage le CIPM*
+
+      * à élaborer une vision à long terme qui veille à ce que le système mondial de mesures demeure pertinent et qu’il réponde de manière adéquate aux nouveaux défis métrologiques,
+      * à établir des groupes interdisciplinaires (« horizontaux ») qui relèveront ces nouveaux défis et qui compléteront l’actuelle structure (« verticale ») de ses Comités consultatifs, fondée sur les grandeurs,
+      * à marquer, le 20 mai 2025, le 150
+      +
+      ^e^
+      +
+      anniversaire de la signature de la Convention du Mètre en présentant une nouvelle vision pour le BIPM qui s’appuie sur le rapport du CIPM sur l’évolution des besoins dans le domaine de la métrologie et qui se fonde sur un examen des réalisations du BIPM et des exigences futures concernant ses activités,
+      * à consulter de façon élargie sur la proposition qu’il formulera au sujet d’une nouvelle vision pour le BIPM qui sera présentée à la CGPM lors de sa 28
+      +
+      ^e^
+      +
+      réunion (2026),
   - type: invites / further invites
     date_effective: '2022-11-18'
     message: "*et invite* les États Membres et les laboratoires nationaux de métrologie
       à contribuer au travail du CIPM visant à répondre à l’évolution des besoins
       dans le domaine de la métrologie et à définir une nouvelle vision pour le BIPM."
+  doi: 10.59161/CGPM2022RES1F
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -103,9 +100,12 @@ resolutions:
       *considérant*
 
       * le fait que les gouvernements, l’industrie, le monde universitaire et la société civile œuvrent depuis de nombreuses années pour une transformation numérique globale et qu’ils sont ainsi amenés :
+      +
+
       ** à établir des systèmes de collecte, d’agrégation, d’analyse et d’interprétation des données numériques,
       ** à mettre en place des systèmes de capteurs en réseau pour diverses applications scientifiques et industrielles,
       ** à partager des données à l’échelle locale, nationale, régionale et internationale,
+
       * le rôle essentiel que joue le Système international d’unités (SI) afin d’établir la confiance dans l’exactitude et la comparabilité au niveau mondial des mesures nécessaires pour le commerce international, l’industrie, la santé humaine et la sécurité, la protection de l’environnement, les études sur l’évolution du climat, ainsi que la recherche scientifique,
   - type: acknowledging
     date_effective: '2022-11-18'
@@ -140,9 +140,15 @@ resolutions:
 
       * le CIPM à continuer ses actions de promotion et de mobilisation afin de s’assurer que le rôle de la Convention du Mètre, en tant que fondement de la confiance vis-à-vis de la métrologie accepté au niveau international, s’ouvre à l’ère numérique,
       * le CIPM à commencer à développer et promouvoir un « cadre numérique du SI » qui présentera notamment les caractéristiques suivantes :
+      +
+
       ** constituer une représentation numérique du SI acceptée au niveau mondial qui soit compatible et utilisable avec les normes et protocoles d’échange de données numériques, et qui conserve sa compatibilité avec les solutions non numériques existantes,
       ** faciliter l’utilisation des certificats numériques dans l’actuelle infrastructure robuste qui permet la reconnaissance et l’acceptation au niveau international des aptitudes en matière de mesures et d’étalonnages,
-      ** adopter les principes FAIR (_Findable, Accessible, Interoperable, and Reusable_ - données trouvables, accessibles, interopérables et réutilisables) pour les données et métadonnées métrologiques numériques, en s’assurant que les autres communautés reconnaissent l’importance critique de la traçabilité métrologique des données de mesure, cette dernière étant une condition préalable à l’instauration de la confiance,
+      ** adopter les principes FAIR (
+      +
+      _Findable, Accessible, Interoperable, and Reusable_
+      +
+      - données trouvables, accessibles, interopérables et réutilisables) pour les données et métadonnées métrologiques numériques, en s’assurant que les autres communautés reconnaissent l’importance critique de la traçabilité métrologique des données de mesure, cette dernière étant une condition préalable à l’instauration de la confiance,
   - type: invites / further invites
     date_effective: '2022-11-18'
     message: invite les laboratoires nationaux de métrologie, les organisations régionales
@@ -158,6 +164,7 @@ resolutions:
       du marché - à envisager de participer à ce projet commun de transformation numérique
       afin de s’assurer que le « cadre numérique du SI » répond aux besoins de toutes
       les parties prenantes.
+  doi: 10.59161/CGPM2022RES2F
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -178,26 +185,20 @@ resolutions:
       par la CGPM à sa 19^e^ réunion (1991),"
   - type: considering
     date_effective: '2022-11-18'
-    message: considérant le rôle essentiel que joue le Système international d’unités
-      (SI) afin d’établir la confiance dans l’exactitude et la comparabilité au niveau
-      mondial des mesures nécessaires pour le commerce international, l’industrie,
-      la santé humaine et la sécurité, la protection de l’environnement, les études
-      sur l’évolution du climat, ainsi que la recherche scientifique,
-  - type: considering
-    date_effective: '2022-11-18'
-    message: considérant les avantages à encourager l’utilisation des unités du SI
-      en mettant de nouveaux préfixes du SI à la disposition des communautés scientifiques
-      qui dépendent de mesures qui ne sont pas couvertes par les préfixes existant
-      actuellement,
-  - type: considering
-    date_effective: '2022-11-18'
-    message: considérant les besoins de la science des données, dans un futur proche,
-      afin d’exprimer des quantités d’informations numériques d’un ordre de grandeur
-      supérieur à stem:[10^(24)],
-  - type: considering
-    date_effective: '2022-11-18'
-    message: considérant l’importance de prendre une mesure en temps opportun afin
-      d’éviter que des noms de préfixe non officiels ne soient adoptés _de facto_
+    message: |-
+      *considérant*
+
+      * le rôle essentiel que joue le Système international d’unités (SI) afin d’établir la confiance dans l’exactitude et la comparabilité au niveau mondial des mesures nécessaires pour le commerce international, l’industrie, la santé humaine et la sécurité, la protection de l’environnement, les études sur l’évolution du climat, ainsi que la recherche scientifique,
+      * les avantages à encourager l’utilisation des unités du SI en mettant de nouveaux préfixes du SI à la disposition des communautés scientifiques qui dépendent de mesures qui ne sont pas couvertes par les préfixes existant actuellement,
+      * les besoins de la science des données, dans un futur proche, afin d’exprimer des quantités d’informations numériques d’un ordre de grandeur supérieur à 10
+      +
+      ^24^
+      +
+      ,
+      * l’importance de prendre une mesure en temps opportun afin d’éviter que des noms de préfixe non officiels ne soient adoptés
+      +
+      _de facto_
+      +
       par d’autres communautés,
   actions:
   - type: decides
@@ -205,22 +206,31 @@ resolutions:
     message: |-
       *décide* d’ajouter à la liste des préfixes du SI pour la formation des noms des multiples et sous multiples des unités les préfixes suivants :
 
-      [width=60%]
+      [cols="5,3,2"]
       |===
       a| Facteur par lequel +
        l'unité est multipliée
-      | Préfixe | Symbole
+      | Préfixe
+      | Symbole
 
       | stem:[10^(27)] | ronna |
+
       ===== R
+
       | stem:[10^(-27)] | ronto |
+
       ===== r
+
       | stem:[10^(30)] | quetta |
+
       ===== Q
+
       | stem:[10^(-30)] | quecto |
+
       ===== q
 
       |===
+  doi: 10.59161/CGPM2022RES3F
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -319,13 +329,20 @@ resolutions:
       * proposer une valeur maximale pour la différence (UT1 - UTC) qui permettra d’assurer la continuité de l’UTC pendant au moins un siècle,
       * préparer un plan de mise en œuvre d’ici 2035 au plus tard de la valeur maximale proposée pour la différence (UT1 - UTC),
       * proposer une périodicité pour l’examen par la CGPM de la nouvelle valeur maximale après sa mise en œuvre afin que la CGPM garde le contrôle de l’applicabilité et de l’acceptabilité de la valeur appliquée,
-      * rédiger une résolution décrivant ces propositions qui sera soumise pour adoption par la CGPM à sa 28^e^ réunion (2026),
+      * rédiger une résolution décrivant ces propositions qui sera soumise pour adoption par la CGPM à sa 28
+      +
+      ^e^
+      +
+
+      +
+      réunion (2026),
   - type: encourages
     date_effective: '2022-11-18'
     message: "*encourage* le BIPM à travailler avec les organisations concernées afin
       d’identifier la nécessité de mettre à jour les différents services qui disséminent
       la valeur de la différence (UT1 - UTC) et afin de vérifier que la nouvelle valeur
       maximale est correctement comprise et utilisée."
+  doi: 10.59161/CGPM2022RES4F
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -338,18 +355,27 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2022-11-18'
-    message: rappelant que la CGPM à sa 13^e^ réunion (1967) a défini la seconde comme
-      « la durée de 9 192 631 770 périodes de la radiation correspondant à la transition
-      entre les deux niveaux hyperfins de l’état fondamental de l’atome de césium
-      133 »,
-  - type: recalling / further recalling
-    date_effective: '2022-11-18'
-    message: rappelant que la CGPM à sa 26^e^ réunion (2018) a révisé les définitions
-      des unités de base du SI, y compris en ce qui concerne la seconde qui est définie
-      en prenant la valeur numérique fixée de la fréquence du césium, stem:[ sf Delta  nu
-      ]~Cs~, la fréquence de la transition hyperfine de l’état fondamental de l’atome
-      de césium 133 non perturbé, égale à 9 192 631 770 lorsqu’elle est exprimée en
-      stem:["Hz"], unité égale à stem:["s"^(-1)],
+    message: |-
+      *rappelant* que
+
+      * la CGPM à sa 13
+      +
+      ^e^
+      +
+      réunion (1967) a défini la seconde comme « la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l’état fondamental de l’atome de césium 133 »,
+      * la CGPM à sa 26
+      +
+      ^e^
+      +
+      réunion (2018) a révisé les définitions des unités de base du SI, y compris en ce qui concerne la seconde qui est définie en prenant la valeur numérique fixée de la fréquence du césium, stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      , la fréquence de la transition hyperfine de l’état fondamental de l’atome de césium 133 non perturbé, égale à 9 192 631 770 lorsqu’elle est exprimée en stem:["Hz"], unité égale à stem:["s"]
+      +
+      ^-1^
+      +
+      ,
   - type: noting
     date_effective: '2022-11-18'
     message: notant que des étalons de fréquence optiques fondés sur différentes espèces
@@ -386,9 +412,18 @@ resolutions:
       *encourage* le Comité international des poids et mesures (CIPM)
 
       * à promouvoir combien il est important de réaliser les objectifs fixés dans la feuille de route pour la redéfinition de la seconde,
-      * à formuler des propositions lors de la 28^e^ réunion de la CGPM (2026) afin de choisir l’espèce privilégiée, ou l’ensemble d’espèces, pour une redéfinition de la seconde et afin de définir les mesures suivantes qui devront être prises afin qu’une nouvelle définition de la seconde soit adoptée par la CGPM à sa 29^e^ réunion (2030),
+      * à formuler des propositions lors de la 28
+      +
+      ^e^
+      +
+      réunion de la CGPM (2026) afin de choisir l’espèce privilégiée, ou l’ensemble d’espèces, pour une redéfinition de la seconde et afin de définir les mesures suivantes qui devront être prises afin qu’une nouvelle définition de la seconde soit adoptée par la CGPM à sa 29
+      +
+      ^e^
+      +
+      réunion (2030),
 
       et *invite* les États Membres à soutenir les activités de recherche, ainsi que le développement d’infrastructures nationales et internationales, afin de pouvoir progresser vers l’adoption d’une nouvelle définition de la seconde.
+  doi: 10.59161/CGPM2022RES5F
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -407,12 +442,38 @@ resolutions:
       * qu’en 1875 les Hautes Parties contractantes, désirant assurer l’unification internationale et le perfectionnement du système métrique, ont résolu de conclure une Convention à cet effet (connue depuis sous le nom de Convention du Mètre) et avaient ainsi, dès le départ, l’ambition d’une participation universelle,
       * qu’une telle ambition a été rappelée dans la Convention en 1921 par l’insertion de l’Article III, lequel prévoit que « [t]out État pourra adhérer à la […] Convention en notifiant son adhésion au Gouvernement français […] »,
       * qu’il est important et pertinent de promouvoir et faciliter une plus large participation, tel que l’a souligné en particulier la CGPM dans les résolutions suivantes :
-      ** la Résolution 14 adoptée par la CGPM à sa 11^e^ réunion (1960),
-      ** la Résolution 2 et la Résolution 3 adoptées par la CGPM à sa 21^e^ réunion (1999),
-      ** la Résolution 3 et la Résolution 4 adoptées par la CGPM à sa 22^e^ réunion (2003),
-      ** la Résolution 5, la Résolution 6 et la Résolution 7 adoptées par la CGPM à sa 23^e^ réunion (2007),
-      ** la Résolution 4 et la Résolution 5 adoptées par la CGPM à sa 24^e^ réunion (2011),
-      ** la Résolution 3 adoptée par la CGPM à sa 26^e^ réunion (2018),
+      +
+
+      ** la Résolution 14 adoptée par la CGPM à sa 11
+      +
+      ^e^
+      +
+      réunion (1960),
+      ** la Résolution 2 et la Résolution 3 adoptées par la CGPM à sa 21
+      +
+      ^e^
+      +
+      réunion (1999),
+      ** la Résolution 3 et la Résolution 4 adoptées par la CGPM à sa 22
+      +
+      ^e^
+      +
+      réunion (2003),
+      ** la Résolution 5, la Résolution 6 et la Résolution 7 adoptées par la CGPM à sa 23
+      +
+      ^e^
+      +
+      réunion (2007),
+      ** la Résolution 4 et la Résolution 5 adoptées par la CGPM à sa 24
+      +
+      ^e^
+      +
+      réunion (2011),
+      ** la Résolution 3 adoptée par la CGPM à sa 26
+      +
+      ^e^
+      +
+      réunion (2018),
   - type: noting
     date_effective: '2022-11-18'
     message: notant que à la suite de l’adoption des résolutions susmentionnées, un
@@ -477,22 +538,22 @@ resolutions:
       et à celles des organisations régionales de métrologie,
   - type: invites / further invites
     date_effective: '2022-11-18'
-    message: invite le CIPM à étudier les pratiques d’adhésion d’autres organisations
-      internationales,
-  - type: invites / further invites
-    date_effective: '2022-11-18'
-    message: invite le CIPM à examiner comment l’Article III de la Convention du Mètre
-      est actuellement appliqué et à présenter à la CGPM à sa 28^e^ réunion comment
-      cet article pourrait être mis en œuvre afin de faciliter une adhésion durable
-      et universelle à la Convention du Mètre,
-  - type: invites / further invites
-    date_effective: '2022-11-18'
-    message: invite le CIPM à analyser les implications d’une participation plus large
-      au programme de travail et aux services du BIPM,
-  - type: invites / further invites
-    date_effective: '2022-11-18'
-    message: invite le CIPM à proposer les mesures qui s’imposent afin de les soumettre
-      pour examen à la CGPM à sa 28^e^ réunion.
+    message: |-
+      *invite* le CIPM
+
+      * à étudier les pratiques d’adhésion d’autres organisations internationales,
+      * à examiner comment l’Article III de la Convention du Mètre est actuellement appliqué et à présenter à la CGPM à sa 28
+      +
+      ^e^
+      +
+      réunion comment cet article pourrait être mis en œuvre afin de faciliter une adhésion durable et universelle à la Convention du Mètre,
+      * à analyser les implications d’une participation plus large au programme de travail et aux services du BIPM,
+      * à proposer les mesures qui s’imposent afin de les soumettre pour examen à la CGPM à sa 28
+      +
+      ^e^
+      +
+      réunion.
+  doi: 10.59161/CGPM2022RES6F
 - dates:
   - '2022-11-18'
   subject: CGPM
@@ -506,24 +567,17 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2022-11-18'
-    message: considérant l’importance croissante du travail du Bureau international
-      des poids et mesures (BIPM), dans tous les États Membres, pour le commerce international,
-      l’innovation dans le secteur industriel, la surveillance du changement climatique,
-      la santé humaine et la médecine, l’alimentation et la médecine légale,
-  - type: considering
-    date_effective: '2022-11-18'
-    message: considérant le fait que le BIPM est reconnu comme l’organisation intergouvernementale
-      scientifique experte dans le domaine de la métrologie, ainsi que la valeur ajoutée
-      et l’optimisation des coûts que le travail du BIPM apporte aux États Membres
-      sur les plans technique et économique,
-  - type: considering
-    date_effective: '2022-11-18'
-    message: considérant la façon dont le BIPM continue d’adopter les meilleures pratiques
-      de gestion et d’améliorer l’efficacité de son fonctionnement,
-  - type: considering
-    date_effective: '2022-11-18'
-    message: considérant la Résolution 7 adoptée par la CGPM à sa 16^e^ réunion (1979),
-      établissant le principe de détermination de la dotation de base,
+    message: |-
+      *considérant*
+
+      * l’importance croissante du travail du Bureau international des poids et mesures (BIPM), dans tous les États Membres, pour le commerce international, l’innovation dans le secteur industriel, la surveillance du changement climatique, la santé humaine et la médecine, l’alimentation et la médecine légale,
+      * le fait que le BIPM est reconnu comme l’organisation intergouvernementale scientifique experte dans le domaine de la métrologie, ainsi que la valeur ajoutée et l’optimisation des coûts que le travail du BIPM apporte aux États Membres sur les plans technique et économique,
+      * la façon dont le BIPM continue d’adopter les meilleures pratiques de gestion et d’améliorer l’efficacité de son fonctionnement,
+      * la Résolution 7 adoptée par la CGPM à sa 16
+      +
+      ^e^
+      +
+      réunion (1979), établissant le principe de détermination de la dotation de base,
   - type: noting
     date_effective: '2022-11-18'
     message: notant la situation financière mondiale actuelle et les contraintes financières
@@ -546,8 +600,17 @@ resolutions:
     message: |-
       *décide* que
 
-      * la dotation annuelle du BIPM, telle que définie à l’article 6 (1921) du Règlement annexé à la Convention du Mètre, sera fixée de façon à ce qu’elle corresponde, pour les États Parties à la Convention du Mètre au moment de la 27^e^ réunion de la CGPM, à^1^ :
+      * la dotation annuelle du BIPM, telle que définie à l’article 6 (1921) du Règlement annexé à la Convention du Mètre, sera fixée de façon à ce qu’elle corresponde, pour les États Parties à la Convention du Mètre au moment de la 27
+      +
+      ^e^
+      +
+      réunion de la CGPM, à
+      +
+      ^1^
+      +
+      :
 
+      [cols=1]
       |===
       | 13 161 218 euros en 2024
 
@@ -566,3 +629,4 @@ resolutions:
       bien développée.\n\n* * *\n\n   \n\n1. Le Costa Rica n’a pas été pas inclus
       dans le calcul de la dotation car le BIPM a été notifié de son accession après
       la réunion du CIPM de juin 2022.\n\n "
+  doi: 10.59161/CGPM2022RES7F

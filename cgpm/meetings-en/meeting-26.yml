@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 26th meeting of the CGPM
-  identifier: 26
+  identifier: '26'
   date: '2018-11-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/26-2018
@@ -87,20 +87,77 @@ resolutions:
     message: |-
       *decides* that, effective from 20 May 2019, the International System of Units, the SI, is the system of units in which:
 
-      * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom stem:[ sf Delta  nu ]~Cs~ is stem:[9 192 631 770 "Hz"],
-      * the speed of light in vacuum stem:[c] is stem:[299 792 458 "m"/"s"],
-      * the Planck constant stem:[h] is stem:[6.626 070 15 * 10^(-34) "J" * "s"],
-      * the elementary charge stem:[e] is stem:[1.602 176 634 * 10^(-19) "C"],
-      * the Boltzmann constant stem:[k] is stem:[1.380 649 * 10^(-23) "J"/"K"],
-      * the Avogadro constant stem:[N_("A")] is stem:[6.022 140 76 * 10^(23) "mol"^(-1)],
-      * the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:[K_("cd")], is stem:[683 "lm"/"W"],
+      * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      is stem:[9 192 631 770 "Hz"],
+      * the speed of light in vacuum
+      +
+      stem:[c]
+      +
+      is stem:[299 792 458 "m"/"s"],
+      * the Planck constant
+      +
+      stem:[h]
+      +
+      is 6.626 070 15 × 10
+      +
+      ^-34^
+      +
+      stem:["J" * "s"],
+      * the elementary charge
+      +
+      stem:[e]
+      +
+      is 1.602 176 634 × 10
+      +
+      ^-19^
+      +
+      stem:["C"],
+      * the Boltzmann constant
+      +
+      stem:[k]
+      +
+      is 1.380 649 × 10
+      +
+      ^-23^
+      +
+      stem:["J"/"K"],
+      * the Avogadro constant
+      +
+      __N__
+      +
+      ~stem:["A"]~
+      +
+      is 6.022 140 76 × 10
+      +
+      ^23^
+      +
+      stem:["mol"]
+      +
+      ^-1^
+      +
+      ,
+      * the luminous efficacy of monochromatic radiation of frequency 540 × 10
+      +
+      ^12^
+      +
+      stem:["Hz"],
+      +
+      __K__
+      +
+      ~stem:["cd"]~
+      +
+      , is stem:[683 "lm"/"W"],
 
       where the hertz, joule, coulomb, lumen, and watt, with unit symbols stem:["Hz"], stem:["J"], stem:["C"], stem:["lm"], and stem:["W"], respectively, are related to the units second, metre, kilogram, ampere, kelvin, mole, and candela, with unit symbols stem:["s"], stem:["m"], stem:["kg"], stem:["A"], stem:["K"], stem:["mol"], and stem:["cd"], respectively, according to stem:["Hz" = "s"^(-1)], stem:["J" = "kg" * "m"^(2) * "s"^(-2)], stem:["C" = "A" * "s"], stem:["lm" = "cd" * "m"^(2) * "m"^(-2) = "cd" * "sr"], and stem:["W" = "kg" * "m"^(2) * "s"^(-3)]
   - type: invites / further invites
     date_effective: '2018-11-16'
     message: '*invites* the International Committee for Weights and Measures (CIPM)
-      to produce a new edition of its Brochure entitled "_The International System
-      of Units_" in which a full description of the revised SI will be given.'
+      to produce a new edition of its Brochure entitled "__The International System
+      of Units__" in which a full description of the revised SI will be given.'
+  doi: 10.59161/CGPM2018RES1E
   appendices:
   - identifier: 1
     message: |-
@@ -115,31 +172,262 @@ resolutions:
       * the definition of the kelvin in force since 1967/68 (13th meeting of the CGPM, Resolution 4) is abrogated,
       * the definition of the mole in force since 1971 (14th meeting of the CGPM, Resolution 3) is abrogated,
       * the definition of the candela in force since 1979 (16th meeting of the CGPM, Resolution 3) is abrogated,
-      * the decision to adopt the conventional values of the Josephson constant stem:[K_(J-90)] and of the von Klitzing constant stem:[R_(K-90)] taken by the CIPM (1988, Recommendations 1 and 2) at the request of the CGPM (18th meeting of the CGPM, 1987, Resolution 6) for the establishment of representations of the volt and the ohm using the Josephson and quantum Hall effects, respectively, is abrogated.
+      * the decision to adopt the conventional values of the Josephson constant
+      +
+      __K__
+      +
+      ~J-90~
+      +
+      and of the von Klitzing constant
+      +
+      __R__
+      +
+      ~K-90~
+      +
+      taken by the CIPM (1988, Recommendations 1 and 2) at the request of the CGPM (18th meeting of the CGPM, 1987, Resolution 6) for the establishment of representations of the volt and the ohm using the Josephson and quantum Hall effects, respectively, is abrogated.
   - identifier: 2
     message: |-
       *Appendix 2. Status of constants previously used in the former definitions*
 
       It follows from the new definition of the SI described above, and from the recommended values of the 2017 special adjustment of the Committee on Data for Science and Technology (CODATA) on which the values of the defining constants are based, that effective from 20 May 2019:
 
-      * the mass of the international prototype of the kilogram stem:[m("K")] is equal to stem:[1 "kg"] within a relative standard uncertainty equal to that of the recommended value of stem:[h] at the time this Resolution was adopted, namely stem:[1.0 * 10^(-8)] and that in the future its value will be determined experimentally,
-      * the vacuum magnetic permeability _μ_~0~ is equal to stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] within a relative standard uncertainty equal to that of the recommended value of the fine-structure constant _stem:[ alpha ]_ at the time this Resolution was adopted, namely stem:[2.3 * 10^(-10)] and that in the future its value will be determined experimentally,
-      * the thermodynamic temperature of the triple point of water stem:["T"_(TPW)] is equal to stem:[273.16 "K"] within a relative standard uncertainty closely equal to that of the recommended value of stem:[k] at the time this Resolution was adopted, namely stem:[3.7 * 10^(-7)], and that in the future its value will be determined experimentally,
-      * the molar mass of carbon 12, stem:[M(""_(12) "C")], is equal to stem:[0.012 "kg" * "mol"^(-1)] within a relative standard uncertainty equal to that of the recommended value of stem:[N_("A") h] at the time this Resolution was adopted, namely stem:[4.5 * 10^(-10)], and that in the future its value will be determined experimentally.
+      * the mass of the international prototype of the kilogram
+      +
+      stem:[m]
+      +
+      stem:[("K")] is equal to stem:[1 "kg"] within a relative standard uncertainty equal to that of the recommended value of
+      +
+      stem:[h]
+      +
+      at the time this Resolution was adopted, namely 1.0 × 10
+      +
+      ^-8^
+      +
+      and that in the future its value will be determined experimentally,
+      * the vacuum magnetic permeability
+      +
+      __μ__
+      +
+      ~0~
+      +
+      is equal to stem:[4 pi ] × 10
+      +
+      ^-7^
+      +
+      stem:["H" * "m"]
+      +
+      ^-1^
+      +
+      within a relative standard uncertainty equal to that of the recommended value of the fine-structure constant
+      +
+      _stem:[ alpha ]_
+      +
+      at the time this Resolution was adopted, namely 2.3 × 10
+      +
+      ^-10^
+      +
+      and that in the future its value will be determined experimentally,
+      * the thermodynamic temperature of the triple point of water stem:["T"]
+      +
+      ~TPW~
+      +
+      is equal to stem:[273.16 "K"] within a relative standard uncertainty closely equal to that of the recommended value of
+      +
+      stem:[k]
+      +
+      at the time this Resolution was adopted, namely 3.7 × 10
+      +
+      ^-7^
+      +
+      , and that in the future its value will be determined experimentally,
+      * the molar mass of carbon 12,
+      +
+      stem:[M]
+      +
+      (
+      +
+      ^12^
+      +
+      stem:["C"]), is equal to stem:[0.012 "kg" * "mol"]
+      +
+      ^-1^
+      +
+      within a relative standard uncertainty equal to that of the recommended value of
+      +
+      __N__
+      +
+      ~stem:["A"]~
+      +
+
+      +
+      stem:[h]
+      +
+      at the time this Resolution was adopted, namely 4.5 × 10
+      +
+      ^-10^
+      +
+      , and that in the future its value will be determined experimentally.
   - identifier: 3
     message: |-
       *Appendix 3. The base units of the SI*
 
       Starting from the new definition of the SI described above in terms of fixed numerical values of the defining constants, definitions of each of the seven base units are deduced by taking, as appropriate, one or more of these defining constants to give the following set of definitions, effective from 20 May 2019:
 
-      * The second, symbol stem:["s"], is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency stem:[ sf Delta  nu ]~Cs~, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"], which is equal to stem:["s"^(-1)].
-      * The metre, symbol stem:["m"], is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum stem:[c] to be 299 792 458 when expressed in the unit stem:["m"/"s"], where the second is defined in terms of stem:[ sf Delta  nu ]~Cs~.
-      * The kilogram, symbol stem:["kg"], is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant stem:[h] to be stem:[6.626 070 15 * 10^(-34)] when expressed in the unit stem:["J" * "s"], which is equal to stem:["kg" * "m"^(2) * "s"^(-1)], where the metre and the second are defined in terms of stem:[c] and stem:[ sf Delta  nu ]~Cs~.
-      * The ampere, symbol stem:["A"], is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge stem:[e] to be stem:[1.602 176 634 * 10^(-19)] when expressed in the unit stem:["C"], which is equal to stem:["A" * "s"], where the second is defined in terms of stem:[ sf Delta  nu ]~Cs~.
-      * The kelvin, symbol stem:["K"], is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant stem:[k] to be stem:[1.380 649 * 10^(-23)] when expressed in the unit stem:["J" * "K"^(-1)], which is equal to stem:["kg" * "m"^(2) * "s"^(-2) * "K"^(-1)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu ]~Cs~.
-      * The mole, symbol stem:["mol"], is the SI unit of amount of substance. One mole contains exactly stem:[6.022 140 76 * 10^(23)] elementary entities. This number is the fixed numerical value of the Avogadro constant, stem:[N_("A")], when expressed in the unit stem:["mol"^(-1)] and is called the Avogadro number. +
-       The amount of substance, symbol stem:[n], of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.
-      * The candela, symbol stem:["cd"], is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:["K"_("cd")], to be 683 when expressed in the unit stem:["lm" * "W"^(-1)], which is equal to stem:["cd" * "sr" * "W"^(-1)], or stem:["cd" * "sr" * "kg"^(-1) * "m"^(-2) * "s"^(3)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu ]~Cs~.
+      * The second, symbol stem:["s"], is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      , the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"], which is equal to stem:["s"]
+      +
+      ^-1^
+      +
+      .
+      * The metre, symbol stem:["m"], is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum
+      +
+      stem:[c]
+      +
+      to be 299 792 458 when expressed in the unit stem:["m"/"s"], where the second is defined in terms of stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      .
+      * The kilogram, symbol stem:["kg"], is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant
+      +
+      stem:[h]
+      +
+      to be 6.626 070 15 × 10
+      +
+      ^-34^
+      +
+      when expressed in the unit stem:["J" * "s"], which is equal to stem:["kg" * "m"]
+      +
+      ^2^
+      +
+      stem:["s"]
+      +
+      ^-1^
+      +
+      , where the metre and the second are defined in terms of
+      +
+      stem:[c]
+      +
+      and stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      .
+      * The ampere, symbol stem:["A"], is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge
+      +
+      stem:[e]
+      +
+      to be 1.602 176 634 × 10
+      +
+      ^-19^
+      +
+      when expressed in the unit stem:["C"], which is equal to stem:["A" * "s"], where the second is defined in terms of stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      .
+      * The kelvin, symbol stem:["K"], is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant
+      +
+      stem:[k]
+      +
+      to be 1.380 649 × 10
+      +
+      ^-23^
+      +
+      when expressed in the unit stem:["J" * "K"]
+      +
+      ^-1^
+      +
+      , which is equal to stem:["kg" * "m"]
+      +
+      ^2^
+      +
+      stem:["s"]
+      +
+      ^-2^
+      +
+      stem:["K"]
+      +
+      ^-1^
+      +
+      , where the kilogram, metre and second are defined in terms of
+      +
+      __h__
+      +
+      ,
+      +
+      stem:[c]
+      +
+      and stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      .
+      * The mole, symbol stem:["mol"], is the SI unit of amount of substance. One mole contains exactly 6.022 140 76 × 10
+      +
+      ^23^
+      +
+      elementary entities. This number is the fixed numerical value of the Avogadro constant,
+      +
+      __N__
+      +
+      ~stem:["A"]~
+      +
+      , when expressed in the unit stem:["mol"]
+      +
+      ^-1^
+      +
+      and is called the Avogadro number.
+      +
+      The amount of substance, symbol
+      +
+      __n__
+      +
+      , of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.
+      * The candela, symbol stem:["cd"], is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency 540 × 10
+      +
+      ^12^
+      +
+      stem:["Hz"], stem:["K"]
+      +
+      ~stem:["cd"]~
+      +
+      , to be 683 when expressed in the unit stem:["lm" * "W"]
+      +
+      ^-1^
+      +
+      , which is equal to stem:["cd" * "sr" * "W"]
+      +
+      ^-1^
+      +
+      , or stem:["cd" * "sr" * "kg"]
+      +
+      ^-1^
+      +
+      stem:["m"]
+      +
+      ^-2^
+      +
+      stem:["s"]
+      +
+      ^3^
+      +
+      , where the kilogram, metre and second are defined in terms of
+      +
+      __h__
+      +
+      ,
+      +
+      stem:[c]
+      +
+      and stem:[ sf Delta  nu ]
+      +
+      ~Cs~
+      +
+      .
 - dates:
   - '2018-11-16'
   subject: CGPM
@@ -197,70 +485,103 @@ resolutions:
       and for deciding and announcing leap second insertions,
   - type: noting
     date_effective: '2018-11-16'
-    message: noting that Resolution A4 (1991) of the IAU defined, in Recommendations
-      I and II, the Geocentric Reference System as a system of space-time coordinates
-      for the Earth within the framework of general relativity, and, in Recommendation
-      III, named the time coordinate of that reference system "Geocentric Coordinate
-      Time" (TCG),
-  - type: noting
-    date_effective: '2018-11-16'
-    message: noting that Resolution A4 (1991) of the IAU further defined, in Recommendation
-      IV, Terrestrial Time stem:[("TT")] as another time coordinate in the Geocentric
-      Reference System, differing from TCG by a constant rate; the unit of measurement
-      of stem:["TT"] being chosen to agree with the SI second on the geoid,
-  - type: noting
-    date_effective: '2018-11-16'
-    message: 'noting that Resolution B1.9 (2000) of the IAU redefined stem:["TT"]
-      to be a time scale differing from TCG by a constant rate: stem:[(d "TT")/(d
-      "TCG") = 1 - L_(G)], where stem:[L_(G) = 6.969 290 134 * 10^(-10)] is a defining
-      constant (the numerical value of stem:[L_(G)] was chosen to conform to the value
-      stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] for the gravity potential on the
-      geoid as recommended by Special Commission 3 of the IAG in 1999),'
-  - type: noting
-    date_effective: '2018-11-16'
-    message: noting that the redefinition of stem:["TT"] in 2000 introduced an ambiguity
-      between stem:["TT"] and TAI as the CCDS had stated in 1980 that TAI was to have
-      "_the SI second as realized on the rotating geoid as the scale unit_" while
-      the definition of stem:["TT"] does not refer to the geoid,
+    message: |-
+      *noting* that
+
+      * Resolution A4 (1991) of the IAU defined, in Recommendations I and II, the Geocentric Reference System as a system of space-time coordinates for the Earth within the framework of general relativity, and, in Recommendation III, named the time coordinate of that reference system "Geocentric Coordinate Time" (TCG),
+      * Resolution A4 (1991) of the IAU further defined, in Recommendation IV, Terrestrial Time stem:[("TT")] as another time coordinate in the Geocentric Reference System, differing from TCG by a constant rate; the unit of measurement of stem:["TT"] being chosen to agree with the SI second on the geoid,
+      * Resolution B1.9 (2000) of the IAU redefined stem:["TT"] to be a time scale differing from TCG by a constant rate:
+      +
+      __d__
+      +
+      stem:["TT"]/
+      +
+      __d__
+      +
+      TCG = 1 -
+      +
+      __L__
+      +
+      ~G~
+      +
+      , where
+      +
+      __L__
+      +
+      ~G~
+      +
+      = 6.969 290 134 × 10
+      +
+      ^-10^
+      +
+      is a defining constant (the numerical value of
+      +
+      __L__
+      +
+      ~G~
+      +
+      was chosen to conform to the value
+      +
+      __W__
+      +
+      ~0~
+      +
+      = stem:[62 636 856.0 "m"]
+      +
+      ^2^
+      +
+      stem:["s"]
+      +
+      ^-2^
+      +
+      for the gravity potential on the geoid as recommended by Special Commission 3 of the IAG in 1999),
+      * the redefinition of stem:["TT"] in 2000 introduced an ambiguity between stem:["TT"] and TAI as the CCDS had stated in 1980 that TAI was to have "
+      +
+      __the SI second as realized on the rotating geoid as the scale unit__
+      +
+      " while the definition of stem:["TT"] does not refer to the geoid,
   actions:
   - type: states
     date_effective: '2018-11-16'
-    message: states that TAI is a continuous time scale produced by the BIPM based
-      on the best realizations of the SI second, and is a realization of stem:["TT"]
-      as defined by IAU Resolution B1.9 (2000),
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that in the transformation from the proper time of a clock to
-      TAI, the relativistic rate shift is computed with respect to the conventionally
-      adopted equipotential stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] of the Earth's
-      gravity potential, which conforms to the constant stem:[L_(G)] defining the
-      rate of stem:["TT"],
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that as stated in the IAU Resolution A4 (1991), stem:["TT"] -
-      TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre,
-      in order to ensure continuity of stem:["TT"] with Ephemeris Time,
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that UTC produced by the BIPM, based on TAI, is the only recommended
-      time scale for international reference and the basis of civil time in most countries,
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that UTC differs from TAI only by an integral number of seconds
-      as published by the BIPM,
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that users can derive the rotation angle of the Earth by applying
-      to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS,
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that UTC provides a means to measure time intervals and to disseminate
-      the standard of frequency during intervals in which leap seconds do not occur,
-  - type: states
-    date_effective: '2018-11-16'
-    message: states that traceability to UTC is obtained through local real-time realizations
-      "stem:["UTC" (k)]" maintained by laboratories contributing data to the calculation
-      of UTC, identified by "stem:[k]",
+    message: |-
+      *states* that
+
+      * TAI is a continuous time scale produced by the BIPM based on the best realizations of the SI second, and is a realization of stem:["TT"] as defined by IAU Resolution B1.9 (2000),
+      * in the transformation from the proper time of a clock to TAI, the relativistic rate shift is computed with respect to the conventionally adopted equipotential
+      +
+      __W__
+      +
+      ~0~
+      +
+      = stem:[62 636 856.0 "m"]
+      +
+      ^2^
+      +
+      stem:["s"]
+      +
+      ^-2^
+      +
+      of the Earth's gravity potential, which conforms to the constant
+      +
+      __L__
+      +
+      ~G~
+      +
+      defining the rate of stem:["TT"],
+      * as stated in the IAU Resolution A4 (1991), stem:["TT"] - TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre, in order to ensure continuity of stem:["TT"] with Ephemeris Time,
+      * UTC produced by the BIPM, based on TAI, is the only recommended time scale for international reference and the basis of civil time in most countries,
+      * UTC differs from TAI only by an integral number of seconds as published by the BIPM,
+      * users can derive the rotation angle of the Earth by applying to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS,
+      * UTC provides a means to measure time intervals and to disseminate the standard of frequency during intervals in which leap seconds do not occur,
+      * traceability to UTC is obtained through local real-time realizations "UTC(
+      +
+      stem:[k]
+      +
+      )" maintained by laboratories contributing data to the calculation of UTC, identified by "
+      +
+      __k__
+      +
+      ",
   - type: confirms
     date_effective: '2018-11-16'
     message: |-
@@ -273,6 +594,7 @@ resolutions:
 
       * all relevant unions and organizations consider these definitions and work together to develop a common understanding on reference time scales, their realization and dissemination with a view to consider the present limitation on the maximum magnitude of UT1 - UTC so as to meet the needs of the current and future user communities,
       * all relevant unions and organizations work together to improve further the accuracy of the prediction of UT1 - UTC and the method for its dissemination to satisfy the future requirements of users.
+  doi: 10.59161/CGPM2018RES2E
 - dates:
   - '2018-11-16'
   subject: CGPM
@@ -288,18 +610,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2018-11-16'
-    message: considering the world-wide use of the metric system - now the International
-      System of Units (SI),
-  - type: considering
-    date_effective: '2018-11-16'
-    message: considering Resolution 3 adopted by the CGPM at its 21st meeting (1999),
-      which
+    message: |-
+      *considering*
+
+      * the world-wide use of the metric system - now the International System of Units (SI),
+      * Resolution 3 adopted by the CGPM at its 21st meeting (1999)
+      +
+      , which
   - type: considering
     date_effective: '2018-11-16'
     message: |-
       considers that all States, not only those that are Parties to the Metre Convention, engage in measurements which are related to trade and need to be traceable to the SI,
 
-       Resolution 4 adopted by the CGPM at its 22nd meeting (2003), which considers the desirability of extending the number of Member States or Associates so as to increase the impact and benefit of participation in the Mutual Recognition Arrangement (CIPM MRA) drawn up by the International Committee for Weights and Measures (CIPM),
+       Resolution 4 adopted by the CGPM at its 22nd meeting (2003)
+      +
+      , which considers the desirability of extending the number of Member States or Associates so as to increase the impact and benefit of participation in the Mutual Recognition Arrangement (CIPM MRA) drawn up by the International Committee for Weights and Measures (CIPM),
        that best practice in communication, transparency and governance has been implemented following adoption of Resolution 10 by the CGPM at its 24th meeting (2011), on the role, mission, objectives, long-term strategy and governance of the International Bureau of Weights and Measures (BIPM),
        Resolution 4 adopted by the CGPM at its 25th meeting (2014) on the Dotation of the BIPM for the years 2016 - 2019, which urges Member States, as well as international organizations, private organizations and foundations to maintain the provision of additional voluntary support of all kinds to support specific BIPM mission-related activities, particularly those that facilitate participation in the activities of the BIPM by those States with emerging metrology systems,
   - type: noting
@@ -360,6 +685,7 @@ resolutions:
 
       * capacity building, which aims to achieve a global balance between the metrology capabilities in Member States,
       * knowledge transfer, which ensures that the work of the BIPM has the greatest impact.
+  doi: 10.59161/CGPM2018RES3E
 - dates:
   - '2018-11-16'
   subject: CGPM
@@ -411,6 +737,7 @@ resolutions:
 
 
 
+      [cols=1]
       |===
       | 12 356 526 euros in 2020
 
@@ -426,6 +753,7 @@ resolutions:
       support of all kinds to support specific BIPM mission related activities, particularly
       those that facilitate participation in the activities of the BIPM by those countries
       without well-developed metrology infrastructure.
+  doi: 10.59161/CGPM2018RES4E
 - dates:
   - '2018-11-16'
   subject: CGPM
@@ -445,9 +773,20 @@ resolutions:
       *recalling* that
 
       * Article 6 paragraphs 6 to 8 (1921) of the Regulations annexed to the Metre Convention reads as follows:
-      **"_6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui ci vient à acquitter ses contributions arriérées. +
+      +
+
+      **"
+      +
+
+      +
+      __6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui ci vient à acquitter ses contributions arriérées. +
        7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années. +
-       8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l’article 20 du présent Règlement._"^(1)^
+       8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l’article 20 du présent Règlement.__
+      +
+      "
+      +
+      ^(1)^
+
       * Resolution 8 adopted by the CGPM at its 23rd meeting (2007) on financial arrears of Member States sets a procedure concerning States who fail to fulfil their financial obligations,
   - type: observing
     date_effective: '2018-11-16'
@@ -519,3 +858,131 @@ resolutions:
       years, the State in arrears is excluded from the Convention and the calculation
       of contributions is re-established in accordance with the provisions of Article
       20 of the present Regulations.\n\n "
+  doi: 10.59161/CGPM2018RES5E
+working_documents:
+- title: CGPM/2018-00
+  pdf: https://www.bipm.org/documents/20126/60327947/Convocation-2018.pdf/7ff2076c-1868-9764-1a62-ce22b2cad3c4
+  description: Convocation
+  author: ''
+  date: 12/02/2018
+- title: CGPM/2018-00-Programme
+  pdf: https://www.bipm.org/documents/20126/43988908/26th-CGPM-provisional-timetable.pdf/92766cc0-2129-1195-7c05-2cf1860d7dd4
+  description: Provisional timetable
+  author: ''
+- title: CGPM/2018-01-Report-CIPM-President
+  pdf: https://www.bipm.org/documents/20126/44023306/26th-CGPM-Report-of-CIPM-President-EN.pdf/a1aa6cf7-03ef-64a8-d958-af5a97a773b3
+  description: Report of the CIPM President
+  author: Barry Inglis
+- title: CGPM/2018-02-a-Report-BIPM-Director
+  pdf: https://www.bipm.org/documents/20126/83808354/Highlights-of-progress-since-2014.pdf/3c2483f8-cbd3-afeb-f759-499f0ebb2667
+  description: Highlights of progress  made since the 25th meeting of the CGPM (2014)
+    and Notes supporting the proposed dotation 2020-2023
+  author: Martin Milton
+- title: CGPM/2018-02-b-Report-BIPM-Director
+  pdf: https://www.bipm.org/documents/20126/43975185/Presentation-CGPM26-Milton-Highlights.pdf/36866a58-0abc-9f75-8e4d-3ceeb6a03ad5
+  description: Highlights of achievements at the BIPM
+  author: Martin Milton
+- title: CGPM/2018-03-Report-CIPM MRA
+  pdf: https://www.bipm.org/documents/20126/43974849/Presentation-CGPM26-Rietveld-MRA.pdf/ba9bc214-94a0-eacf-c49b-bd68367281fc
+  description: The work of the Consultative Committees to increase the impact of the
+    CIPM MRA
+  author: Gerrit Rietveld
+- title: CGPM/2018-04-Impact-CIPM MRA
+  pdf: https://www.bipm.org/documents/20126/43975114/Presentation-CGPM26-Laiz-Americas.pdf/2bfc010a-95f4-0343-114d-6f272845c26b
+  description: The impact of the CIPM MRA in the Americas
+  author: Héctor Laiz
+- title: CGPM/2018-05-Invited-Speaker-ISO
+  pdf: https://www.bipm.org/documents/20126/43974801/Presentation-CGPM26-Mujica-ISO.pdf/c6e79041-bf06-660c-7447-3bf14eac4af8
+  description: Importance of measurement for international standards
+  author: Sergio Mujica
+- title: CGPM/2018-06-Invited-Speaker-World Bank
+  pdf: https://www.bipm.org/documents/20126/43975168/Presentation-CGPM26-Mikhnev-Economic.pdf/cdfc68c7-5282-111c-3d0d-435744b01b3d
+  description: Quality infrastructure as a tool for economic development
+  author: Andrei Mikhnev
+- title: CGPM/2018-07-Invited-Speaker-ILAC
+  pdf: https://www.bipm.org/documents/20126/43975673/Presentation-CGPM26-Nilsson-Accreditation.pdf/bca690b8-e6c7-e024-841f-94221aacbae0
+  description: The role of accreditation in disseminating metrological traceability
+  author: Merih Malmqvist Nilsson
+- title: CGPM/2018-08-Invited-Speaker-LNE-SYRTE
+  pdf: https://www.bipm.org/documents/20126/43975028/Presentation-CGPM26-Dimarcq.pdf/e4559ef3-9559-a636-0e18-43bc4cd29f93
+  description: On the importance of a reference timescale for metrology
+  author: Noël Dimarcq (LNE-SYRTE)
+- title: CGPM/2018-09-CCTF-presentation
+  pdf: https://www.bipm.org/documents/20126/43988933/CCTF-presentation-CGPM26.pdf/f78783ec-591b-1a55-557d-b884d1479d64
+  description: Presentation by the President of the CCTF
+  author: Luc Erard
+- title: CGPM/2018-10-CCL-presentation
+  pdf: https://www.bipm.org/documents/20126/43989114/CCL-presentation-CGPM26.pdf/a9a1edcb-79a5-7025-4073-38715d4a4239
+  description: Presentation by the President of the CCL
+  author: Ismael Castelazo
+- title: CGPM/2018-11-Invited-Speaker-UNIDO
+  pdf: https://www.bipm.org/documents/20126/43974911/Presentation-CGPM26-Sarmiento-SDG.pdf/c2dacbcf-8e92-ea6f-56e0-7253ff777769
+  description: Metrology and QI in support of the sustainable development goals
+  author: Bernardo Calzadilla Sarmiento
+- title: CGPM/2018-12-Invited-Speaker-CBKT
+  pdf: https://www.bipm.org/documents/20126/43975056/Presentation-CGPM26-Fang.pdf/0c25a698-d52c-ced9-8b3a-759b78481335
+  description: 'Building capacity in metrology: applications to food and feed'
+  author: Fang Xiang
+- title: CGPM/2018-13-Invited-Speaker-CBKT
+  pdf: https://www.bipm.org/documents/20126/43974993/Presentation-CGPM26-Cetintas-UME.pdf/c7fd6918-6edd-4dcf-7014-95f220814d57
+  description: Partnership in capacity building with the BIPM
+  author: Mustafa Cetintas (UME)
+- title: CGPM/2018-14-Invited-Speaker-CBKT
+  pdf: https://www.bipm.org/documents/20126/43974788/Presentation-CGPM26-Moturi-Africa.pdf/04957d1b-c122-b832-cc73-11376c074029
+  description: Supporting the development of metrology in Africa
+  author: Dennis Moturi
+- title: CGPM/2018-15
+  pdf: https://www.bipm.org/documents/20126/43974937/Presentation-CGPM26-Usuda-Strategy.pdf/84fc9ac8-4faa-950a-5de0-4e7491ea42f5
+  description: A long-term strategy for the BIPM
+  author: Takashi Usuda
+- title: CGPM/2018-16-BIPM-WP
+  pdf: https://www.bipm.org/documents/20126/43975198/Presentation-CGPM26-Milton-WP.pdf/ee75eebf-ccd9-3af8-79c3-b300751869a4
+  description: Work programme of the BIPM proposed for the years 2020-2023
+  author: Martin Milton
+- title: CGPM/2018-17-Invited-Speaker
+  pdf: https://www.bipm.org/documents/20126/43974866/Presentation-CGPM26-Salit-biology.pdf/3ed4adeb-13af-7652-50f2-72df344bfa2a
+  description: New frontiers for metrology in biology
+  author: Marc Salit (JIMB/SLAC/Stanford)
+- title: CGPM/2018-18-Invited-Speaker-IAEA
+  pdf: https://www.bipm.org/documents/20126/43975082/Presentation-CGPM26-Groening-IAEA.pdf/8e5db55f-85e1-8acc-f171-a95acb4049d3
+  description: Measuring isotopes accurately for a safer, healthier and sustainable
+    world
+  author: M. Groening
+- title: CGPM/2018-19-Invited-Speaker-IFCC-JCTLM
+  pdf: https://www.bipm.org/documents/20126/43974976/Presentation-CGPM26-Beastall-JCTLM.pdf/55aa68cd-9b0e-0f09-d843-f2ebb05c62bb
+  description: 'Traceability in laboratory medicine: a driver of accurate results
+    for patients'
+  author: Graham Beastall (IFCC and JCTLM)
+- title: CGPM/2018-20-CCQM-presentation
+  pdf: https://www.bipm.org/documents/20126/43988959/CCQM-presentation-CGPM26.pdf/e805f069-1beb-34d3-05f2-1401e976ef2c
+  description: Presentation by the President of the CCQM
+  author: Willie May
+- title: CGPM/2018-21-Invited-Speaker
+  pdf: https://www.bipm.org/documents/20126/43975065/Presentation-CGPM26-Flux-radiotherapy.pdf/3808ef97-decc-2149-bc0e-1c4088b6d7a5
+  description: Metrology to support innovation in molecular radiotherapy
+  author: Glenn Flux (Royal Marsden Hospital and ICR)
+- title: CGPM/2018-22-CCRI-presentation
+  pdf: https://www.bipm.org/documents/20126/43988946/CCRI-presentation-CGPM26.pdf/2f22655b-9203-e1c5-9ead-895e38d30d58
+  description: Presentation by the President of the CCRI
+  author: Wynand Louw
+- title: CGPM/2018-23-Invited-Speaker-CTBTO
+  pdf: https://www.bipm.org/documents/20126/43975125/Presentation-CGPM26-Marty-seismic.pdf/0410bfe6-bfea-a7b3-86d0-ecaf3761edcb
+  description: Standards and measurement science for nuclear test monitoring technologies
+  author: Julien Marty
+- title: CGPM/2018-24-CCAUV-presentation
+  pdf: https://www.bipm.org/documents/20126/43989316/CCAUV-presentation-CGPM26.pdf/9398b320-857f-39da-d177-a46f14126267
+  description: Presentation by the President of the CCAUV
+  author: Takashi Usuda
+- title: CGPM/2018-25-Invited-Speaker-OIML
+  pdf: https://www.bipm.org/documents/20126/43974924/Presentation-CGPM26-Schwartz-OIML.pdf/f4b48ecf-4139-9e4d-f9aa-001a63c2372e
+  description: 'Developing a common vision for scientific and legal metrology: The
+    OIML perspective'
+  author: Roman Schwartz
+- title: CGPM/2018-26-Invited-Speaker-CIE
+  pdf: https://www.bipm.org/documents/20126/43974823/Presentation-CGPM26-Ohno.pdf/94e4c3ae-91f7-51de-cedd-addf8420940f
+  description: Measurement challenges for efficient sustainable lighting technologies
+  author: Yoshi Ohno
+- title: CGPM/2018-27-CCPR-presentation
+  pdf: https://www.bipm.org/documents/20126/43988974/CCPR-presentation-CGPM26.pdf/1eac9618-fc8a-9dba-60c7-9ae8534c2fa3
+  description: Presentation by the President of the CCPR
+  author: Maria Luisa Rastello

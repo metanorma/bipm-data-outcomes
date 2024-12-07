@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 18th meeting of the CGPM
-  identifier: 18
+  identifier: '18'
   date: '1987-10-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/18-1987
@@ -41,6 +41,7 @@ resolutions:
     message: "*recommends* that the laboratories concerned prepare to send to the
       Bureau International des Poids et Mesures their national prototypes of the kilogram
       in platinum-iridium for a general comparison of these prototypes."
+  doi: 10.59161/CGPM1987RES1E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -84,6 +85,7 @@ resolutions:
     message: "*recommends* that laboratories apply the wide range of techniques now
       available for the study of surface composition and behaviour to platinum/10%
       iridium and other alloys used in mass standards."
+  doi: 10.59161/CGPM1987RES2E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -125,6 +127,7 @@ resolutions:
     message: "*recommends* the national institutions concerned to pursue with the
       Bureau International des Poids et Mesures their collaboration for establishing
       and improving International Atomic Time."
+  doi: 10.59161/CGPM1987RES3E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -163,6 +166,7 @@ resolutions:
       synchronization techniques by means of pseudo-random-noise modulation within
       the framework of the international timing programs as part of the generation
       of International Atomic Time."
+  doi: 10.59161/CGPM1987RES4E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -194,6 +198,7 @@ resolutions:
     message: recommends that experiments in order to identify these effects, to verify
       their theoretical interpretation and to evaluate the uncertainty of the corresponding
       corrections be actively pursued.
+  doi: 10.59161/CGPM1987RES5E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -244,6 +249,7 @@ resolutions:
       with a date for them to be put into practice simultaneously in all countries;
       these values should be announced at least one year in advance and would be adopted
       on 1 January 1990."
+  doi: 10.59161/CGPM1987RES6E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -288,6 +294,7 @@ resolutions:
       values of the differences between this new scale and the IPTS-68 should be announced
       at least one year before the adoption of the new scale which could take place
       on January 1st 1990."
+  doi: 10.59161/CGPM1987RES7E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -314,6 +321,7 @@ resolutions:
       to all the assessment percentages, including the maximum and minimum percentages
       defined in Article 20 of the Rules Appended to the Convention du Mètre and modified
       by the 11th and 16th CGPM."
+  doi: 10.59161/CGPM1987RES8E
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -350,3 +358,4 @@ resolutions:
       18 858 000 francs-or in 1990 +
       19 801 000 francs-or in 1991 +
       20 791 000 francs-or in 1992.
+  doi: 10.59161/CGPM1987RES9E

@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 13th meeting of the CGPM
-  identifier: 13
+  identifier: '13'
   date: '1967-10-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/13-1967
@@ -46,12 +46,13 @@ resolutions:
   - type: decides
     date_effective: '1967-10-16'
     message: |-
-      decides The SI unit of time is the second defined as follows: +
-       "The second is the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom";
-  - type: decides
-    date_effective: '1967-10-16'
-    message: decides Resolution 1 adopted by the CIPM at its meeting of 1956 and Resolution
-      9 of the 11th CGPM are now abrogated.
+      *decides*
+
+      . The SI unit of time is the second defined as follows:
+      +
+      "The second is the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom";
+      . Resolution 1 adopted by the CIPM at its meeting of 1956 and Resolution 9 of the 11th CGPM are now abrogated.
+  doi: 10.59161/CGPM1967RES1E
   notes: |-
     At its 1997 meeting, the CIPM affirmed that this definition refers to a caesium atom at rest at a thermodynamic temperature of stem:[0 "K"]. +
      +
@@ -79,6 +80,7 @@ resolutions:
     date_effective: '1967-10-16'
     message: "*invite* les organisations et laboratoires experts dans le domaine des
       étalons atomiques de fréquence à poursuivre activement leurs études."
+  doi: 10.59161/CGPM1967RES2E
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -94,15 +96,15 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: considering the names "degree Kelvin" and "degree", the symbols "°K"
-      and "deg" and the rules for their use given in Resolution 7 of the 9th CGPM
-      (1948), in Resolution 12 of the 11th CGPM (1960), and the decision taken by
-      the Comité International des Poids et Mesures in 1962 (PV, *30*, 27),
-  - type: considering
-    date_effective: '1967-10-16'
-    message: considering that the unit of thermodynamic temperature and the unit of
-      temperature interval are one and the same unit, which ought to be denoted by
-      a single name and a single symbol,
+    message: |-
+      *considering*
+
+      * the names "degree Kelvin" and "degree", the symbols "°K" and "deg" and the rules for their use given in Resolution 7 of the 9th CGPM (1948), in Resolution 12 of the 11th CGPM (1960), and the decision taken by the Comité International des Poids et Mesures in 1962 (PV,
+      +
+      **30**
+      +
+      , 27),
+      * that the unit of thermodynamic temperature and the unit of temperature interval are one and the same unit, which ought to be denoted by a single name and a single symbol,
   actions:
   - type: decides
     date_effective: '1967-10-16'
@@ -122,9 +124,14 @@ resolutions:
       of the unit to express an interval or a difference of temperatures are abrogated,
       but the usages which derive from these decisions remain permissible for the
       time being.
+  doi: 10.59161/CGPM1967RES3E
   notes: |-
     At its 1980 meeting, the CIPM approved the report of the 7th meeting of the CCU, which requested that the use of the symbols "°K" and "deg" no longer be permitted.
-     See https://www.bipm.org/utils/en/pdf/CI-2005-2-EN.pdf[Recommendation 2 (CI-2005)] of the CIPM on the isotopic composition of water entering in the definition of the kelvin.
+     See
+    +
+    https://www.bipm.org/utils/en/pdf/CI-2005-2-EN.pdf[Recommendation 2 (CI-2005)]
+    +
+    of the CIPM on the isotopic composition of water entering in the definition of the kelvin.
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -150,6 +157,7 @@ resolutions:
       *decides* to express this definition as follows:
 
       "The kelvin, unit of thermodynamic temperature, is the fraction 1/273.16 of the thermodynamic temperature of the triple point of water."
+  doi: 10.59161/CGPM1967RES4E
   notes: |-
     See Recommendation 5 (CI-1989) of the CIPM on the International Temperature Scale of 1990. +
      +
@@ -169,20 +177,24 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: considering the definition of the unit of luminous intensity ratified
-      by the 9th CGPM (1948) and contained in the "Resolution concerning the change
-      of photometric units" adopted by the Comité International des Poids et Mesures
-      in 1946 (PV, *20*, 119) in virtue of the powers conferred by the 8th CGPM (1933),
-  - type: considering
-    date_effective: '1967-10-16'
-    message: considering that this definition fixes satisfactorily the unit of luminous
-      intensity, but that its wording may be open to criticism,
+    message: |-
+      *considering*
+
+      * the definition of the unit of luminous intensity ratified by the 9th CGPM (1948) and contained in the "Resolution concerning the change of photometric units" adopted by the Comité International des Poids et Mesures in 1946 (PV,
+      +
+
+      +
+      **20**
+      +
+      , 119) in virtue of the powers conferred by the 8th CGPM (1933),
+      * that this definition fixes satisfactorily the unit of luminous intensity, but that its wording may be open to criticism,
   actions:
   - type: decides
     date_effective: '1967-10-16'
     message: |-
       *decides* to express the definition of the candela as follows: +
       "The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600 000 square metre of a black body at the temperature of freezing platinum under a pressure of 101 325 newtons per square metre."
+  doi: 10.59161/CGPM1967RES5E
   notes: This definition was abrogated by the 16th CGPM in 1979 (Resolution 3).
 - dates:
   - '1967-10-16'
@@ -207,6 +219,7 @@ resolutions:
     message: |-
       *decides* to add:
 
+      [cols="21,16,10"]
       |===
       .>| wave number .>| 1 per metre .>| stem:["m"^(-1)]
 
@@ -217,6 +230,7 @@ resolutions:
       .>| activity (of a radioactive source) .>| 1 per second .>| stem:["s"^(-1)]
 
       |===
+  doi: 10.59161/CGPM1967RES6E
   notes: The unit of activity was given a special name and symbol by the 15th CGPM
     in 1975 (Resolution 8).
 - dates:
@@ -245,6 +259,7 @@ resolutions:
 
       . the unit name "micron", and the symbol "µ" which had been given to that unit but which has now become a prefix;
       . the unit name "new candle".
+  doi: 10.59161/CGPM1967RES7E
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -275,6 +290,7 @@ resolutions:
       nouvelle Échelle internationale pratique de température (Voir p.A 1, le texte
       de l' « Échelle internationale pratique de température de 1968 » adopté par
       le Comité international à sa 57^e^ session (octobre 1968)."
+  doi: 10.59161/CGPM1967RES8E
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -299,6 +315,7 @@ resolutions:
       et mesures en 1965 (Procès-Verbaux, 33, p. 21) d'inclure dans ses activités
       et dans celles du Bureau international des poids et mesures les aspects métrologiques
       fondamentaux de la colorimétrie et de la radiométrie."
+  doi: 10.59161/CGPM1967RES9E
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -333,9 +350,9 @@ resolutions:
     message: "*décide* que la partie fixe de la dotation annuelle à partir du 1^er^
       janvier 1969 sera augmentée par rapport à ce qu'elle était au 1^er^ octobre
       1967, de façon que l'ensemble de la partie fixe et de la partie complémentaire
-      calculée à cette dernière date ne soit pas inférieur à\n\n|===\n| 1 910 000
-      francs-or en 1969\n\n| 2 080 000 francs-or en 1970\n| 2 270 000 francs-or en
-      1971\n| 2 475 000 francs-or en 1972\n\n|===\n\n "
+      calculée à cette dernière date ne soit pas inférieur à\n\n[cols=1]\n|===\n|
+      1 910 000 francs-or en 1969\n\n| 2 080 000 francs-or en 1970\n| 2 270 000 francs-or
+      en 1971\n| 2 475 000 francs-or en 1972\n\n|===\n\n "
   - type: requests
     date_effective: '1967-10-16'
     message: "*demande* au Comité international des poids et mesures de fournir aux
@@ -343,6 +360,7 @@ resolutions:
       documentée qui permette aux États de décider la nature et le montant des ressources
       supplémentaires à consacrer au Bureau international et d'apprécier les conséquences
       de leur décision sur l'avenir du Bureau international.\n\n "
+  doi: 10.59161/CGPM1967RES10E
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -367,6 +385,7 @@ resolutions:
   - type: decides
     date_effective: '1967-10-16'
     message: "*décide* de reprendre sa session le mercredi 5 juin 1968."
+  doi: 10.59161/CGPM1967RES11E
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -385,6 +404,7 @@ resolutions:
     message: |-
       *considérant* que les dotations minimales décidées par sa Résolution 10, à savoir
 
+      [cols=1]
       |===
       | 1 910 000 francs-or en 1969
 
@@ -401,9 +421,9 @@ resolutions:
   - type: decides
     date_effective: '1967-10-16'
     message: "*décide* d'allouer au Bureau international, dans les quatre années 1969-1972,
-      les sommes supplémentaires suivantes :\n\n|===\n| 90 000 francs-or en 1969\n\n|
-      210 000 francs-or en 1970\n| 350 000 francs-or en 1971\n| 515 000 francs-or
-      en 1972\n\n|===\n\n "
+      les sommes supplémentaires suivantes :\n\n[cols=1]\n|===\n| 90 000 francs-or
+      en 1969\n\n| 210 000 francs-or en 1970\n| 350 000 francs-or en 1971\n| 515 000
+      francs-or en 1972\n\n|===\n\n "
   - type: authorizes
     date_effective: '1967-10-16'
     message: "*autorise* que ces sommes supplémentaires puissent être payées en monnaie
@@ -414,3 +434,4 @@ resolutions:
       nationale à se mettre d'accord avec le Comité international des poids et mesures
       pour qu'ils soient employés à la satisfaction des besoins du Bureau international
       des poids et mesures en tenant compte des lois du pays."
+  doi: 10.59161/CGPM1967RES12E

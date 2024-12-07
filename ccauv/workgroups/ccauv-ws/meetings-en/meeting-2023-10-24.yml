@@ -7,3 +7,16 @@ metadata:
   url: https://www.bipm.org/en/committees/cc/ccauv/wg/ccauv-ws/2023-10-24
   workgroup: ccauv-ws
 resolutions: []
+working_documents:
+- title: CCAUV-WS/2023-00
+  pdf: https://www.bipm.org/documents/20126/138002778/CCAUV_workshop_2023/b3d42c99-efb5-e8d3-332c-5d07d4dfa8c1
+  description: Agenda of the workshop
+  author: ''
+- title: CCAUV-WS/2023-00.01
+  pdf: https://www.bipm.org/documents/20126/148473633/CCAUV_30.00_01_Workshop+Abstracts/721fad55-e9e8-7757-5407-daa5eb86421c
+  description: Workshop Abstracts
+  author: ''
+- title: CCAUV-WS/2023-04
+  pdf: https://www.bipm.org/documents/20126/156719373/NRC+KRISS+INRIM+-+CCAUV+workshop+2023-10-24/af2f965e-c3fb-7008-98f4-842cde9adc34
+  description: NRC KRISS INRIM - CCAUV workshop
+  author: ''

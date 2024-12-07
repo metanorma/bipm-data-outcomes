@@ -23,5 +23,6 @@ resolutions:
     date_effective: '1948-10-22'
     message: From three names (“degree centigrade”, “centesimal degree”, “degree Celsius”)
       proposed to denote the degree of temperature, the CIPM has chosen “degree Celsius”
-      (PV, *21*, 88).
+      (PV, **21**, 88).
+  doi: 10.59161/CIPM1948RESE
   notes: This name is also adopted by the 9th CGPM (CR, 64).

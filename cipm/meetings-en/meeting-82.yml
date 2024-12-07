@@ -22,22 +22,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1993-09-23'
-    message: considering that the accuracy of an increasing number of primary frequency
-      standards is now approaching the level of one part in stem:[10^(14)],
-  - type: considering
-    date_effective: '1993-09-23'
-    message: considering that new configurations of primary frequency standards have
-      been proposed that appear to have a high potential for accuracy,
-  - type: considering
-    date_effective: '1993-09-23'
-    message: considering that at a level of accuracy of one part in stem:[10^(14)]
-      or higher certain corrections must be made that were previously considered insignificant
-      or not sufficiently weIl known,
-  - type: considering
-    date_effective: '1993-09-23'
-    message: considering that an essential step in establishing confidence in the
-      accuracy of primary standards is the international comparison of independent
-      standards of different designs,
+    message: |-
+      _considering_
+
+      * that the accuracy of an increasing number of primary frequency standards is now approaching the level of one part in 10
+      +
+      ^14^
+      +
+      ,
+      * that new configurations of primary frequency standards have been proposed that appear to have a high potential for accuracy,
+      * that at a level of accuracy of one part in 10
+      +
+      ^14^
+      +
+      or higher certain corrections must be made that were previously considered insignificant or not sufficiently weIl known,
+      * that an essential step in establishing confidence in the accuracy of primary standards is the international comparison of independent standards of different designs,
   actions:
   - type: recommends
     date_effective: '1993-09-23'
@@ -52,6 +51,7 @@ resolutions:
     date_effective: '1993-09-23'
     message: recommends that the results of these comparisons, including full accounts
       of uncertainties, be communicated to the Bureau International des Poids et Mesures.
+  doi: 10.59161/CIPM1993REC1E
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -89,6 +89,7 @@ resolutions:
     message: recommends that reports on the timing data and data reduction procedures
       be communicated to the Bureau International des Poids et Mesures noting that
       privacy of the data can be maintained if desired.
+  doi: 10.59161/CIPM1993REC2E
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -125,6 +126,7 @@ resolutions:
     date_effective: '1993-09-23'
     message: _recommends_ that the space agencies consider the installation on their
       satellites of appropriate equipment for dock comparison by satellite laser techniques.
+  doi: 10.59161/CIPM1993REC3E
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -167,6 +169,7 @@ resolutions:
       and develop new ones, with a view to monitoring the stability of the international
       prototype of the kilogram and in due course opening the way to a new definition
       of the unit of mass based upon fundamental or atomic constants.
+  doi: 10.59161/CIPM1993REC4E
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -205,3 +208,4 @@ resolutions:
     message: _recommends_ that national laboratories pursue fundamental research in
       thermometry, and in particular the measurement of thermodynamic temperature
       in the ranges referred to above.
+  doi: 10.59161/CIPM1993REC5E

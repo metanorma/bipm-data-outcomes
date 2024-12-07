@@ -22,22 +22,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1993-09-23'
-    message: considérant que l'exactitude relative d'un nombre croissant d'étalons
-      primaires de fréquence approche maintenant stem:[1 * 10^(-14)],
-  - type: considering
-    date_effective: '1993-09-23'
-    message: considérant que de nouvelles configurations ont été proposées qui semblent
-      avoir des possibilités encore plus élevées en matière d'exactitude,
-  - type: considering
-    date_effective: '1993-09-23'
-    message: considérant qu'à un niveau d'exactitude de l'ordre de stem:[1 * 10^(-14)]
-      ou mieux on doit tenir compte de corrections qui étaient jusqu'ici considérées
-      comme non significatives ou comme insuffisamment connues,
-  - type: considering
-    date_effective: '1993-09-23'
-    message: considérant qu'une étape essentielle pour établir avec confiance l'exactitude
-      des étalons primaires est de pouvoir comparer entre eux des étalons indépendants
-      de construction différente,
+    message: |-
+      _considérant_
+
+      * que l'exactitude relative d'un nombre croissant d'étalons primaires de fréquence approche maintenant 1 × 10
+      +
+      ^-14^
+      +
+      ,
+      * que de nouvelles configurations ont été proposées qui semblent avoir des possibilités encore plus élevées en matière d'exactitude,
+      * qu'à un niveau d'exactitude de l'ordre de 1 × 10
+      +
+      ^-14^
+      +
+      ou mieux on doit tenir compte de corrections qui étaient jusqu'ici considérées comme non significatives ou comme insuffisamment connues,
+      * qu'une étape essentielle pour établir avec confiance l'exactitude des étalons primaires est de pouvoir comparer entre eux des étalons indépendants de construction différente,
   actions:
   - type: recommends
     date_effective: '1993-09-23'
@@ -54,6 +53,7 @@ resolutions:
     message: recommande que les résultats de ces comparaisons, y compris un bilan
       complet des incertitudes, soient communiqués au Bureau international des poids
       et mesures.
+  doi: 10.59161/CIPM1993REC1F
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -94,6 +94,7 @@ resolutions:
       et les procédés de réduction de ces résultats soient transmis au Bureau international
       des poids et mesures, étant entendu que la nature confidentielle des résultats
       peut être respectée si nécessaire.
+  doi: 10.59161/CIPM1993REC2F
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -133,6 +134,7 @@ resolutions:
     message: _recommande_ que les agences spatiales étudient l'installation sur leurs
       satellites d'équipements permettant d'effectuer des comparaisons d'horloges
       utilisant des techniques par laser.
+  doi: 10.59161/CIPM1993REC3F
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -174,6 +176,7 @@ resolutions:
       et en explorent de nouvelles afin de contrôler la stabilité du prototype international
       du kilogramme et, le moment venu, d'ouvrir la voie à une nouvelle définition
       de l'unité de masse fondée sur des constantes fondamentales ou atomiques.
+  doi: 10.59161/CIPM1993REC4F
 - dates:
   - '1993-09-23'
   subject: CIPM
@@ -212,3 +215,4 @@ resolutions:
     message: _recommande_ que les laboratoires nationaux poursuivent des recherches
       en thermométrie fondamentale et en particulier des mesures de la température
       thermodynamique dans les domaines mentionnés ci-dessus.
+  doi: 10.59161/CIPM1993REC5F

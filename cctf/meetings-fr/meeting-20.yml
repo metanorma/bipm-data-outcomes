@@ -38,18 +38,309 @@ resolutions:
 
       que les fréquences des transitions suivantes soient mises à jour dans la liste des fréquences étalons recommandées :
 
-      * la transition optique non perturbée 6s^2^ ^1^S~0~ - 6s6p ^3^P~0~ de l’atome neutre de ^199^Hg, à la fréquence de stem:[f]~199Hg~ = stem:[1 128 575 290 808 154","8 "Hz"] avec une incertitude-type relative estimée de 6 × 10^−16^ ;
-      * la transition optique non perturbée 6s ^2^S~1/2~ - 4f 13 6s^2^ ^2^stem:["F"]~7/2~ de l'ion de ^stem:[171^(Yb)]+^, à la fréquence de stem:[f]~171Yb+ ~(octupôle) = stem:[642 121 496 772 645","0 "Hz"] avec une incertitude-type relative estimée de 6 × 10^−16^ +
-       (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 6s ^2^S~1/2~ (stem:[F = 0], stem:[m_(F) = 0]) - 5d ^2^D~3/2~ (stem:[F = 2], stem:[m_(F) = 0]) de l'ion de ^stem:[171^(Yb)]+^, à la fréquence de stem:[f]~171Yb+ ~(quadripôle) = stem:[688 358 979 309 308","3 "Hz"] avec une incertitude-type relative estimée de 6 × 10^−16^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 5s ^2^S~1/2~ - 4d ^2^D~5/2~ de l'ion de ^stem:[88^(Sr)]+^, à la fréquence de stem:[f]~88Sr+~ = stem:[444 779 044 095 486","6 "Hz"] avec une incertitude-type relative estimée de 1,6 × 10^−15^ +
-       (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 4s ^2^S~1/2~ - 3d ^2^D~5/2~ de l'ion de ^stem:[40^(Ca)]+^, à la fréquence de stem:[f]~40Ca+~ = stem:[411 042 129 776 398","4 "Hz"] avec une incertitude-type relative estimée de 1,2 × 10^−14^ ;
-      * la transition optique non perturbée 1S - 2S de l'atome neutre de stem:[""_(1) "H"], à la fréquence de stem:[f_(1H) = 1 233 030 706 593 514 "Hz"] avec une incertitude-type relative estimée de 9,0 × 10^−15^. +
-       Remarque : cette fréquence correspond à la moitié de l’écart en énergie entre les états 1S et 2S ;
-      * la transition optique non perturbée 5s^2^ ^1^S~0~ - 5s5p ^3^P~0~ de l'atome neutre de ^87^Sr, à la fréquence de stem:[f_(87Sr) = 429 228 004 229 873","2 "Hz"] avec une incertitude-type relative estimée de 5 × 10^−16^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 6s^2^ ^1^S~0~ - 6s6p ^3^P~0~ de l'atome neutre de ^171^Yb, à la fréquence de stem:[f]~171Yb~ = stem:[518 295 836 590 864","0 "Hz"] avec une incertitude-type relative estimée de 2 × 10^−15^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition hyperfine non perturbée de l’état fondamental de l’atome de ^87^Rb, à la fréquence de stem:[f_(87Rb) = 6 834 682 610","904 310 "Hz"] avec une incertitude-type relative estimée de 7 × 10^−16^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 6s
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 6s6p
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      de l’atome neutre de
+      +
+      ^199^
+      +
+      Hg, à la fréquence de
+      +
+      __f__
+      +
+      ~199Hg~
+      +
+       = stem:[1 128 575 290 808 154","8 "Hz"] avec une incertitude-type relative estimée de 6 × 10
+      +
+      ^−16^
+      +
+      ;
+      * la transition optique non perturbée 6s
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 4f 13 6s
+      +
+      ^2^
+      +
+
+      +
+      ^2^
+      +
+      stem:["F"]
+      +
+      ~7/2~
+      +
+      de l'ion de
+      +
+      ^171^
+      +
+      Yb
+      +
+      ^+^
+      +
+      , à la fréquence de
+      +
+      __f__
+      +
+      ~171Yb+ ~
+      +
+      (octupôle) = stem:[642 121 496 772 645","0 "Hz"] avec une incertitude-type relative estimée de 6 × 10
+      +
+      ^−16^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 6s
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      (
+      +
+      stem:[F]
+      +
+       = 0,
+      +
+      __m__
+      +
+      ~__F__~
+      +
+       = 0) - 5d
+      +
+      ^2^
+      +
+      D
+      +
+      ~3/2~
+      +
+      (
+      +
+      stem:[F]
+      +
+       = 2,
+      +
+      __m__
+      +
+      ~__F__~
+      +
+       = 0) de l'ion de
+      +
+      ^171^
+      +
+      Yb
+      +
+      ^+^
+      +
+      , à la fréquence de
+      +
+      __f__
+      +
+      ~171Yb+ ~
+      +
+      (quadripôle) = stem:[688 358 979 309 308","3 "Hz"] avec une incertitude-type relative estimée de 6 × 10
+      +
+      ^−16^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 5s
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 4d
+      +
+      ^2^
+      +
+      D
+      +
+      ~5/2~
+      +
+      de l'ion de
+      +
+      ^88^
+      +
+      Sr
+      +
+      ^+^
+      +
+      , à la fréquence de
+      +
+      __f__
+      +
+      ~88Sr+~
+      +
+       = stem:[444 779 044 095 486","6 "Hz"] avec une incertitude-type relative estimée de 1,6 × 10
+      +
+      ^−15^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 4s
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 3d
+      +
+      ^2^
+      +
+      D
+      +
+      ~5/2~
+      +
+      de l'ion de
+      +
+      ^40^
+      +
+      Ca
+      +
+      ^+^
+      +
+      , à la fréquence de
+      +
+      __f__
+      +
+      ~40Ca+~
+      +
+       = stem:[411 042 129 776 398","4 "Hz"] avec une incertitude-type relative estimée de 1,2 × 10
+      +
+      ^−14^
+      +
+
+      +
+      ;
+      * la transition optique non perturbée 1S - 2S de l'atome neutre de
+      +
+      ^1^
+      +
+      stem:["H"], à la fréquence de
+      +
+      __f__
+      +
+      ~1H~
+      +
+       = stem:[1 233 030 706 593 514 "Hz"] avec une incertitude-type relative estimée de 9,0 × 10
+      +
+      ^−15^
+      +
+      .
+      +
+      Remarque : cette fréquence correspond à la moitié de l’écart en énergie entre les états 1S et 2S ;
+      * la transition optique non perturbée 5s
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 5s5p
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      de l'atome neutre de
+      +
+      ^87^
+      +
+      Sr, à la fréquence de
+      +
+      __f__
+      +
+      ~87Sr~
+      +
+       = stem:[429 228 004 229 873","2 "Hz"] avec une incertitude-type relative estimée de 5 × 10
+      +
+      ^−16^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 6s
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 6s6p
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      de l'atome neutre de
+      +
+      ^171^
+      +
+      Yb, à la fréquence de
+      +
+      __f__
+      +
+      ~171Yb~
+      +
+       = stem:[518 295 836 590 864","0 "Hz"] avec une incertitude-type relative estimée de 2 × 10
+      +
+      ^−15^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition hyperfine non perturbée de l’état fondamental de l’atome de
+      +
+      ^87^
+      +
+      Rb, à la fréquence de
+      +
+      __f__
+      +
+      ~87Rb~
+      +
+       = stem:[6 834 682 610","904 310 "Hz"] avec une incertitude-type relative estimée de 7 × 10
+      +
+      ^−16^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
   - type: recommends
     date_effective: '2015-09-18'
     message: |-
@@ -57,21 +348,78 @@ resolutions:
 
       que les fréquences des transitions suivantes soient incluses dans la liste des fréquences étalons recommandées :
 
-      * Molécule absorbante de ^127^I~2~, composante a~1~ du spectre d’absorption saturée, transition R(36) 32-0. Les valeurs +
-      stem:[f_(a1) = 564 074 632","42 "MHz"] +
-      _λ_~a1~ = 531 476 582,65 fm +
-       avec une incertitude-type relative estimée de 1 × 10^−10^ s’appliquent à la radiation d’un laser à diode à rétroaction répartie doublé en fréquence, asservi à l’aide d’une cellule d’iode située à l’extérieur du laser.
-       +
-      * Atome absorbant de ^87^Rb, transition 5S~1/2~ - 5P~3/2~ , croisement de niveaux entre les composantes hyperfines d et f de l’absorption saturée à 780 nm (transition D2). Les valeurs +
-      stem:[f]~d/f croisement~ = stem:[384 227 981","9 "MHz"] +
-      _λ_~d/f croisement~ = 780 246 291,6 fm +
-       avec une incertitude-type relative estimée de 5 × 10^−10^ s’appliquent à la radiation d’un laser accordable à diode et à cavité externe, asservi sur la résonance de croisement de niveaux d/f dans une cellule de rubidium située à l’extérieur du laser.
+      * Molécule absorbante de
+      +
+      ^127^
+      +
+      I
+      +
+      ~2~
+      +
+      , composante a
+      +
+      ~1~
+      +
+      du spectre d’absorption saturée, transition R(36) 32-0. Les valeurs
+      +
+      __f__
+      +
+      ~a1~
+      +
+       = stem:[564 074 632","42 "MHz"]
+      +
+      __λ__
+      +
+      ~a1~
+      +
+       = 531 476 582,65 fm
+      +
+      avec une incertitude-type relative estimée de 1 × 10
+      +
+      ^−10^
+      +
+      s’appliquent à la radiation d’un laser à diode à rétroaction répartie doublé en fréquence, asservi à l’aide d’une cellule d’iode située à l’extérieur du laser.
+      * +
+      * Atome absorbant de
+      +
+      ^87^
+      +
+      Rb, transition 5S
+      +
+      ~1/2~
+      +
+      - 5P
+      +
+      ~3/2~
+      +
+      , croisement de niveaux entre les composantes hyperfines d et f de l’absorption saturée à 780 nm (transition D2). Les valeurs
+      +
+      __f__
+      +
+      ~d/f croisement~
+      +
+      = stem:[384 227 981","9 "MHz"]
+      +
+      __λ__
+      +
+      ~d/f croisement~
+      +
+
+      +
+      = 780 246 291,6 fm
+      +
+      avec une incertitude-type relative estimée de 5 × 10
+      +
+      ^−10^
+      +
+      s’appliquent à la radiation d’un laser accordable à diode et à cavité externe, asservi sur la résonance de croisement de niveaux d/f dans une cellule de rubidium située à l’extérieur du laser.
 
       Remarque : La valeur de l’incertitude-type est supposée correspondre à un niveau de confiance de 68 %. Toutefois, étant donné le nombre très limité de résultats disponibles, il se peut que, rétrospectivement, cela ne s’avère pas exact.
   - type: requests
     date_effective: '2015-09-18'
     message: "*et requièrent* l’adoption de ces fréquences étalons recommandées par
       le CIPM."
+  doi: 10.59161/CCTF2015REC1F
 - dates:
   - '2015-09-18'
   subject: CCTF
@@ -88,21 +436,17 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2015-09-18'
-    message: considérant que le BIPM a pour mission d’assurer l’uniformité mondiale
-      des mesures et leur traçabilité au Système international d’unités (SI),
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant qu’à l’heure actuelle deux systèmes GNSS existent et que
-      d’autres sont en cours de développement,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant qu’au moins deux autres systèmes GNSS, BeiDou et Galileo,
-      offrent des services, ou sont sur le point d’en offrir,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant que la Section 5 de la _Circulaire T_ du BIPM indique la
-      relation UTC/TAI, ainsi que les prédictions d’UTC(k) disséminées à l’aide des
-      systèmes GPS et GLONASS,
+    message: |-
+      *considérant*
+
+      * que le BIPM a pour mission d’assurer l’uniformité mondiale des mesures et leur traçabilité au Système international d’unités (SI),
+      * qu’à l’heure actuelle deux systèmes GNSS existent et que d’autres sont en cours de développement,
+      * qu’au moins deux autres systèmes GNSS, BeiDou et Galileo, offrent des services, ou sont sur le point d’en offrir,
+      * que la Section 5 de la
+      +
+      _Circulaire T_
+      +
+      du BIPM indique la relation UTC/TAI, ainsi que les prédictions d’UTC(k) disséminées à l’aide des systèmes GPS et GLONASS,
   actions:
   - type: recommends
     date_effective: '2015-09-18'
@@ -110,11 +454,19 @@ resolutions:
       en temps réel de l’UTC disséminées à l’aide des systèmes GNSS actuels et à venir,
   - type: recommends
     date_effective: '2015-09-18'
-    message: recommande que la Section 5 de la _Circulaire T_ du BIPM soit renommée
-      « Relations of UTC and TAI with predictions of UTC disseminated by GNSS » (Relations
-      entre l’UTC et le TAI avec prédictions de l’UTC disséminées à l’aide de systèmes
-      GNSS) et que des informations similaires sur les nouveaux systèmes GNSS soient
-      intégrées à la _Circulaire T_ à mesure que ces systèmes GNSS deviennent opérationnels.
+    message: |-
+      *recommande*
+
+      * que la Section 5 de la
+      +
+      _Circulaire T_
+      +
+      du BIPM soit renommée « Relations of UTC and TAI with predictions of UTC disseminated by GNSS » (Relations entre l’UTC et le TAI avec prédictions de l’UTC disséminées à l’aide de systèmes GNSS) et que des informations similaires sur les nouveaux systèmes GNSS soient intégrées à la
+      +
+      _Circulaire T_
+      +
+      à mesure que ces systèmes GNSS deviennent opérationnels.
+  doi: 10.59161/CCTF2015REC2F
 - dates:
   - '2015-09-18'
   subject: CCTF
@@ -198,6 +550,7 @@ resolutions:
     date_effective: '2015-09-18'
     message: recommande que ces étalonnages soient réalisés conformément aux directives
       publiées par le BIPM.
+  doi: 10.59161/CCTF2015REC3F
 - dates:
   - '2015-09-18'
   subject: CCTF
@@ -235,8 +588,18 @@ resolutions:
       *notant*
 
       * qu’une extension du format CGGTTS a été définie sous le nom V2E de façon à inclure les résultats de comparaisons de temps obtenus à partir des satellites GPS, GLONASS, BeiDou, Galileo et QZSS,
-      * qu’une description complète du format V2E est disponible dans _Metrologia_ 2015 *52* G1
-      ,
+      * qu’une description complète du format V2E est disponible dans
+      +
+      _Metrologia_
+      +
+      2015
+      +
+      *52*
+      +
+
+      +
+      G1
+      * ,
   actions:
   - type: recommends
     date_effective: '2015-09-18'
@@ -252,6 +615,7 @@ resolutions:
     date_effective: '2015-09-18'
     message: recommande que le logiciel R2CGGTTS soit mis à niveau pour générer la
       version V2E.
+  doi: 10.59161/CCTF2015REC4F
 - dates:
   - '2015-09-18'
   subject: CCTF
@@ -319,6 +683,7 @@ resolutions:
       à 100 ns. Les fabricants devraient prendre en considération toutes les données
       pertinentes relatives aux retards internes des récepteurs et les intégrer aux
       spécifications des récepteurs.
+  doi: 10.59161/CCTF2015REC5F
 - dates:
   - '2015-09-18'
   subject: CCTF
@@ -336,42 +701,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2015-09-18'
-    message: considérant que certains étalons optiques de fréquence ont déjà permis
-      d’obtenir des incertitudes relatives de l’ordre de stem:[10^(-18)] et que l’incertitude
-      et l’instabilité des étalons optiques de fréquence mis au point dans les laboratoires
-      du monde entier vont continuer à être réduites,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant qu’il a été démontré qu’il était possible de comparer des
-      horloges sur de longues distances avec des liaisons par fibre optique obtenant
-      une stabilité et une incertitude compatibles avec les meilleurs étalons optiques
-      de fréquence actuels et à venir,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant qu’il est nécessaire de comparer régulièrement ces étalons,
-      ce qui est essentiel dans le cadre de la préparation d’une redéfinition de la
-      seconde, ainsi que pour d’autres applications telles que l’établissement des
-      échelles de temps,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant que la stabilité des techniques de comparaison de temps et
-      de fréquence couramment utilisées dans le monde pour produire le Temps atomique
-      international (TAI) n’est pas suffisante pour comparer les meilleurs étalons
-      optiques de fréquence,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant que l’intérêt des communautés scientifiques des sciences
-      de la Terre et de la géodésie ne cesse de croître vis-à-vis de la géodésie chronométrique,
-      c’est-à-dire vis-à-vis de nouvelles applications pour les étalons optiques de
-      fréquence afin de déterminer les différences de potentiel gravitationnel et
-      d’améliorer, grâce à ces mesures, les modèles de gravité de la Terre ainsi que
-      les systèmes de référence,
-  - type: considering
-    date_effective: '2015-09-18'
-    message: considérant que l’industrie, en particulier les secteurs des télécommunications
-      et de l’aérospatiale, a de plus en plus besoin que soient améliorées les aptitudes
-      dans le domaine du temps et des fréquences par l’utilisation de meilleures méthodes
-      de comparaison,
+    message: |-
+      *considérant*
+
+      * que certains étalons optiques de fréquence ont déjà permis d’obtenir des incertitudes relatives de l’ordre de 10
+      +
+      ^-18^
+      +
+      et que l’incertitude et l’instabilité des étalons optiques de fréquence mis au point dans les laboratoires du monde entier vont continuer à être réduites,
+      * qu’il a été démontré qu’il était possible de comparer des horloges sur de longues distances avec des liaisons par fibre optique obtenant une stabilité et une incertitude compatibles avec les meilleurs étalons optiques de fréquence actuels et à venir,
+      * qu’il est nécessaire de comparer régulièrement ces étalons, ce qui est essentiel dans le cadre de la préparation d’une redéfinition de la seconde, ainsi que pour d’autres applications telles que l’établissement des échelles de temps,
+      * que la stabilité des techniques de comparaison de temps et de fréquence couramment utilisées dans le monde pour produire le Temps atomique international (TAI) n’est pas suffisante pour comparer les meilleurs étalons optiques de fréquence,
+      * que l’intérêt des communautés scientifiques des sciences de la Terre et de la géodésie ne cesse de croître vis-à-vis de la géodésie chronométrique, c’est-à-dire vis-à-vis de nouvelles applications pour les étalons optiques de fréquence afin de déterminer les différences de potentiel gravitationnel et d’améliorer, grâce à ces mesures, les modèles de gravité de la Terre ainsi que les systèmes de référence,
+      * que l’industrie, en particulier les secteurs des télécommunications et de l’aérospatiale, a de plus en plus besoin que soient améliorées les aptitudes dans le domaine du temps et des fréquences par l’utilisation de meilleures méthodes de comparaison,
   actions:
   - type: recommends
     date_effective: '2015-09-18'
@@ -379,11 +721,15 @@ resolutions:
       *recommande*
 
       * aux laboratoires nationaux de métrologie, fournisseurs de réseaux de fibre optique, agences spatiales, gouvernements, organisations régionales de métrologie, ainsi qu’à l’Union internationale des télécommunications (UIT) et aux autres organismes pertinents :
+      +
+
       ** de soutenir vigoureusement la recherche et le développement sur les techniques de comparaison de temps et de fréquence afin qu’elles présentent une stabilité et une incertitude similaires à celles des étalons de fréquence les plus avancés. Ces techniques peuvent concerner les liaisons par fibre optique, les liaisons micro-ondes par satellite avancées, les liaisons optiques sol-espace et espace-espace, les étalons de fréquence transportables et les horloges spatiales de pointe,
       ** de contribuer à la mise en place d’une infrastructure pérenne de liaisons continentales et intercontinentales sélectionnées qui formeront la colonne vertébrale métrologique dans le domaine du temps et des fréquences pour ces nouvelles technologies,
       ** de prendre les dispositions nécessaires afin que ces nouvelles technologies puissent être appliquées, avec le degré d’exactitude approprié, à d’autres domaines de la science, de l’industrie et de la société,
+
       * au BIPM de participer activement à ces développements, notamment en préparant, dans le cadre de l’établissement des échelles de temps, l’exploitation des données de comparaisons d’horloges obtenues à partir de nouvelles méthodes de comparaison de temps et de fréquence,
       * aux laboratoires contribuant au calcul de l’UTC et effectuant des comparaisons de temps en continu par fibre optique de soumettre régulièrement leurs résultats au Département du temps du BIPM.
+  doi: 10.59161/CCTF2015REC6F
 - dates:
   - '2015-09-18'
   subject: CCTF
@@ -454,6 +800,7 @@ resolutions:
       par satellite afin d’améliorer de façon significative les comparaisons à distance
       de temps et de fréquences, en particulier celles effectuées entre continents,
       et de réduire les coûts en utilisant de nouveaux types de signaux transmis.
+  doi: 10.59161/CCTF2015REC7F
 working_documents:
 - title: CCTF/2015-01
   pdf: https://www.bipm.org/documents/20126/28426689/working-document-ID-7106/238ad22d-49a4-6850-7727-4340ba5d4d67

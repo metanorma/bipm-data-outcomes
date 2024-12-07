@@ -1,0 +1,57 @@
+---
+metadata:
+  title: CCRI Webinar on 'small field dosimetry for MRgRT'
+  identifier: '2023-09-12'
+  date: '2023-09-12'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-webinar/2023-09-12
+  workgroup: ccri-webinar
+resolutions: []
+working_documents:
+- title: 1 - Webinar on small field dosimetry for MRgRT-Introduction
+  pdf: https://www.bipm.org/documents/20126/135285492/1+-+Webinar+on+small+field+dosimetry+for+MRgRT-Introduction/8b88437c-35af-7c64-ab08-0cf28204e3bb
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 2 - MR-Linacs_overview_webinar
+  pdf: https://www.bipm.org/documents/20126/135285470/2+-+MR-Linacs_overview_webinar/a978328a-c9d1-d82c-188a-9f565bdbd676
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 3 - EPOM_in_Magnetic_field_UOL_v3
+  pdf: https://www.bipm.org/documents/20126/135285448/3+-+EPOM_in_Magnetic_field_UOL_v3/d36a88c6-89b3-a45a-9376-90e744278057
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 4 - Fluence_perturbations_YCE
+  pdf: https://www.bipm.org/documents/20126/135285408/4+-+Fluence_perturbations_YCE/799df941-eb8a-3eb9-db6c-6f6f37b82b35
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 5 - Presentation_Kapsch
+  pdf: https://www.bipm.org/documents/20126/135285426/5+-+Presentation_Kapsch/7e15d014-e953-49b3-508a-f67e34f74bd9
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 6 - Ilias Billas MC simulations in experimental facilities EGSnrc
+  pdf: https://www.bipm.org/documents/20126/135285584/6+-+Ilias+Billas+MC+simulations+in+experimental+facilities+EGSnrc/9eaa83ab-a1fd-0563-1a9e-8da296f5f294
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 7 - Monte Carlo simulations of detector type specific output correction factors
+    in MRI linacs -J_de_Pooter-pdf
+  pdf: https://www.bipm.org/documents/20126/135285536/7+-+Monte+Carlo+simulations+of+detector+type+specific+output+correction+factors+in+MRI+linacs+-J_de_Pooter-pdf/ccf280b7-68dd-8ccb-0e04-5d8a507556fa
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 8 - EMPIR_MRgRT_DOS_Webinar_Frick Possibilities and limitations of experimental
+    facilities_FINAL_e
+  pdf: https://www.bipm.org/documents/20126/135285558/8+-+EMPIR_MRgRT_DOS_Webinar_Frick+Possibilities+and+limitations+of+experimental+facilities_FINAL_e/d99fdddc-f746-886e-4b44-a6e9c77a7132
+  description: ''
+  author: ''
+  date: 21/09/2023
+- title: 9 - CCRI-Small-field-webinar-2023-09-12-Claus-Andersen-008
+  pdf: https://www.bipm.org/documents/20126/135285518/9+-+CCRI-Small-field-webinar-2023-09-12-Claus-Andersen-008/117c16b2-a8ea-5793-d212-b8b7b258aa74
+  description: ''
+  author: ''
+  date: 21/09/2023

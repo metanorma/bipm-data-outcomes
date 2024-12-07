@@ -24,21 +24,22 @@ resolutions:
   - type: recommends
     date_effective: '1983-10-21'
     message: "_recommande_\n\nque le mètre soit réalisé par l'une des méthodes suivantes:\n\n[type=a)]\n*
-      au moyen de la longueur stem:[l] du trajet parcouru dans le vide par une onde
-      électromagnétique plane pendant la durée stem:[t] ; cette longueur est obtenue
-      à partir de la mesure de la durée stem:[t], en utilisant la relation stem:[1
-      = c].stem:[t] et la valeur de la vitesse de la lumière dans le vide stem:[c
-      = 299 792 458 \"m\"/\"s\"] ;\n* au moyen de la longueur d'onde dans le vide
-      λ d'une onde électromagnétique plane de fréquence stem:[f] ; cette longueur
-      d'onde est obtenue à partir de la mesure de la fréquence stem:[f], en utilisant
-      la relation λ = stem:[c/f] et la valeur de la vitesse de la lumière dans le
-      vide stem:[c = 299 792 458 \"m\"/\"s\"] ;\n* au moyen de l'une des radiations
-      de la liste ci-dessous, radiations pour lesquelles on peut utiliser la valeur
-      donnée de la longueur d'onde dans le vide ou de la fréquence, avec l'incertitude
-      indiquée, pourvu que l'on observe les conditions spécifiées et le mode opératoire
-      reconnu comme approprié ;\n\net que dans tous les cas les corrections nécessaires
-      soient appliquées pour tenir compte des conditions réelles telles que diffraction,
-      gravitation ou imperfection du vide.\n\n "
+      au moyen de la longueur\n+\nstem:[l]\n+\ndu trajet parcouru dans le vide par
+      une onde électromagnétique plane pendant la durée\n+\nstem:[t]\n+\n; cette longueur
+      est obtenue à partir de la mesure de la durée\n+\n__t__\n+\n, en utilisant la
+      relation 1 =\n+\nstem:[c]\n+\n.\n+\nstem:[t]\n+\net la valeur de la vitesse
+      de la lumière dans le vide\n+\nstem:[c]\n+\n= stem:[299 792 458 \"m\"/\"s\"]
+      ;\n* au moyen de la longueur d'onde dans le vide λ d'une onde électromagnétique
+      plane de fréquence\n+\nstem:[f]\n+\n; cette longueur d'onde est obtenue à partir
+      de la mesure de la fréquence\n+\n__f__\n+\n, en utilisant la relation λ =\n+\nstem:[c]\n+\n/\n+\nstem:[f]\n+\net
+      la valeur de la vitesse de la lumière dans le vide\n+\nstem:[c]\n+\n= stem:[299
+      792 458 \"m\"/\"s\"] ;\n* au moyen de l'une des radiations de la liste ci-dessous,
+      radiations pour lesquelles on peut utiliser la valeur donnée de la longueur
+      d'onde dans le vide ou de la fréquence, avec l'incertitude indiquée, pourvu
+      que l'on observe les conditions spécifiées et le mode opératoire reconnu comme
+      approprié ;\n\net que dans tous les cas les corrections nécessaires soient appliquées
+      pour tenir compte des conditions réelles telles que diffraction, gravitation
+      ou imperfection du vide.\n\n "
   - type: recommends
     date_effective: '1983-10-21'
     message: |-
@@ -46,7 +47,7 @@ resolutions:
 
 
 
-      Dans cette liste, les valeurs de la fréquence stem:[f] et de la longueur d'onde λ d'une même radiation devraient être liées exactement par la relation λ_f_ = stem:[c], avec stem:[c = 299 792 458 "m"/"s"] mais les valeurs de λ sont arrondies.
+      Dans cette liste, les valeurs de la fréquence stem:[f] et de la longueur d'onde λ d'une même radiation devraient être liées exactement par la relation λ_f_ = __c__, avec stem:[c = 299 792 458 "m"/"s"] mais les valeurs de λ sont arrondies.
       *1. - _Radiations de lasers asservis sur des raies d'absorption saturée \*_*
 
       1.1. - Molécule absorbante CH~4~, transition v~3~, P(7), composante stem:["F"_(2)]^(2)^.
@@ -57,7 +58,11 @@ resolutions:
       avec une incertitude globale relative estimée de stem:[ +-  1","3 * 10^(-10)] [qui résulte d'un écart-type estimé de stem:[0","44 * 10^(-10)] en valeur relative] s'appliquent à la radiation émise par un laser à He-Ne asservi à l'aide d'une cellule à méthane, située à l'intérieur ou à l'extérieur du laser, lorsque les conditions suivantes sont respectées dans la cellule :
 
       * pression du méthane ≤ 3 Pa,
-      * puissance surfacique moyenne sur l'axe transportée par les faisceaux, dans un seul sens, à l'intérieur de la cavité \*\* ≤ stem:[104 "W"/"m"^(2)],
+      * puissance surfacique moyenne sur l'axe transportée par les faisceaux, dans un seul sens, à l'intérieur de la cavité \*\* ≤ stem:[104 "W"/"m"]
+      +
+      ^2^
+      +
+      ,
       * rayon de courbure des surfaces d'onde ≥ stem:[1 "m"],
       * différence relative de puissance entre les deux ondes qui se propagent en sens inverse l'une de l'autre ≤ 5 %.
 
@@ -99,13 +104,14 @@ resolutions:
 
       \*\* La puissance transportée par les faisceaux, dans un seul sens, à l'intérieur de la cavité, est obtenue en divisant la puissance de sortie par le facteur de transmission du miroir de sortie.
 
-      \*\*\* Cette incertitude, de même que les valeurs de stem:[f] et de _λ_, est fondée sur la moyenne pondérée de deux déterminations seulement. Cependant, la plus précise de ces deux déterminations a été obtenue exclusivement par multiplication et mélange de fréquences à partir de la radiation précédente (paragraphe 1.1).
+      \*\*\* Cette incertitude, de même que les valeurs de stem:[f] et de __λ__, est fondée sur la moyenne pondérée de deux déterminations seulement. Cependant, la plus précise de ces deux déterminations a été obtenue exclusivement par multiplication et mélange de fréquences à partir de la radiation précédente (paragraphe 1.1).
       *2. - _Radiations de lampes spectrales_*
 
       2.1. - Radiation correspondant à la transition entre les niveaux 2P~10~ et 5d~5~ de l'atome de ^86^Kr.
 
       La valeur +
       _λ_ = 605 780 210 fm +
-      avec une incertitude globale relative estimée de stem:[ +-  4 * 10^(-9)] [qui résulte d'un écart-type estimé de stem:[1","3 * 10^(-9)] en valeur relative] s'applique à la radiation émise par une lampe utilisée dans les conditions recommandées par le CIPM (_Procès-Verbaux CIPM_, 49^e^ session, 1960, pp. 71-72 et _Comptes Rendus 11^e^ CGPM_ , 1960, p. 85).
+      avec une incertitude globale relative estimée de stem:[ +-  4 * 10^(-9)] [qui résulte d'un écart-type estimé de stem:[1","3 * 10^(-9)] en valeur relative] s'applique à la radiation émise par une lampe utilisée dans les conditions recommandées par le CIPM (__Procès-Verbaux CIPM__, 49^e^ session, 1960, pp. 71-72 et _Comptes Rendus 11^e^ CGPM_ , 1960, p. 85).
 
-      2.2. - Les radiations des atomes de ^86^Kr, ^198^Hg et ^114^Cd recommandées par le CIPM en 1963 (_Comité Consultatif pour la Définition du Mètre_, 3^e^ session, 1962, pp. 18-19 et _Procès-Verbaux CIPM_, 52^e^ session, 1963, pp. 26-27) avec les valeurs indiquées pour leur longueur d'onde et pour l'incertitude correspondante.
+      2.2. - Les radiations des atomes de ^86^Kr, ^198^Hg et ^114^Cd recommandées par le CIPM en 1963 (__Comité Consultatif pour la Définition du Mètre__, 3^e^ session, 1962, pp. 18-19 et __Procès-Verbaux CIPM__, 52^e^ session, 1963, pp. 26-27) avec les valeurs indiquées pour leur longueur d'onde et pour l'incertitude correspondante.
+  doi: 10.59161/CIPM1983REC1F

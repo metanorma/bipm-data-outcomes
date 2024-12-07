@@ -4,30 +4,33 @@ metadata:
 categories:
 - title: Documents de référence
   documents:
-  - title: "[CCL] CCL-GD-1"
+  - title: "[CCL] CCL-GD-1 Running of MRA comparisons in length metrology and monitoring
+      their impact on CMCs"
     pdf: https://www.bipm.org/documents/20126/30125568/CCL-GD-1+Running+of+MRA+comparisons+in+length+metrology+and+monitoring+their+impact+on+CMCs/974865cb-9ff5-47b4-d1a0-18d42aae05f1
-  - title: "[CCL] L - Classification of services in Length - DimVIM"
-    pdf: https://www.bipm.org/documents/20126/41414840/Classification+of+services+in+Length/05544318-b5d9-36f8-c1f0-e00f766f6887
-  - title: "[CCL] CCL-GD-2"
+  - title: "[CCL] CCL-GD-2 Comparison scheme applied in dimensional metrology"
     pdf: https://www.bipm.org/documents/20126/30125579/CCL-GD-2+Comparison+scheme+applied+in+dimensional+metrology/19411cfb-b2f5-9911-a97e-2b51ea5ffbd3
-  - title: "[CCL] CCL-GD-3"
+  - title: "[CCL] CCL-GD-3 Guide to preparation of Key Comparison Reports in Dimensional
+      Metrology"
     pdf: https://www.bipm.org/documents/20126/30125590/CCL-GD-3+Guide+to+preparation+of+Key+Comparison+Reports+in+Dimensional+Metrology/494c2a69-b6e0-66ae-e01b-b2a99c77093e
-  - title: "[CCL] CCL-GD-3.1"
+  - title: "[CCL] CCL-GD-3.1 KC Technical Protocol Template"
     pdf: https://www.bipm.org/documents/20126/30125601/CCL-GD-3.1+KC+Technical+Protocol+Template/858e412b-481b-06a9-4a64-d50b869e219c
-  - title: "[CCL] CCL-GD-3.2"
+  - title: "[CCL] CCL-GD-3.2 KC Report Template"
     pdf: https://www.bipm.org/documents/20126/30125612/CCL-GD-3.2+KC+Report+Template/d8af97ad-bfe2-2ec0-b525-641964a20b93
-  - title: "[CCL] CCL-GD-3.2b"
+  - title: "[CCL] CCL-GD-3.2b Bilateral Report Template"
     pdf: https://www.bipm.org/documents/20126/30125623/CCL-GD-3.2b+Bilateral+Report+Template/0df6890d-c4c6-f18a-f373-5fe78becebad
-  - title: "[CCL] CCL-GD-3.3"
+  - title: "[CCL] CCL-GD-3.3 Executive Report Template"
     pdf: https://www.bipm.org/documents/20126/30125634/CCL-GD-3.3+Executive+Report+Template/e74e077d-e3bc-e074-a257-7c0bcd6d5eb1
-  - title: "[CCL] CCL-GD-4"
+  - title: "[CCL] CCL-GD-4 KC Planning"
     pdf: https://www.bipm.org/documents/20126/30125645/CCL-GD-4+KC+Planning/9b08b97c-5bc1-4823-e68a-e8fe3a582397
-  - title: "[CCL] CCL-GD-5"
+  - title: "[CCL] CCL-GD-5 Guide to formatting CMC entries (DimVIM Guide) and to their
+      inter-RMO review"
     pdf: https://www.bipm.org/documents/20126/30125656/CCL-GD-5+Guide+to+formatting+CMC+entries+%28DimVIM+Guide%29+and+to+their+inter-RMO+review/8fc4e759-f402-182a-fcde-a6746a08895d
-  - title: "[CCL] CCL-GD-6"
+  - title: "[CCL] CCL-GD-6 CMCs of category Standards of 1D point-to-point dimensions"
     pdf: https://www.bipm.org/documents/20126/30125667/CCL-GD-6+CMCs+of+category+Standards+of+1D+point-to-point+dimensions/ac8d172e-ed36-bc4a-8cd0-aa2ae4457866
   - title: "[CCL] CCL-GD-8 CMCs on frequency stabilized lasers – Guidelines"
     pdf: https://www.bipm.org/documents/20126/70501796/CCL-GD-8+CMCs+on+frequency+stabilized+lasers+%E2%80%93+Guidelines/7c0f3d6b-b232-8d1c-2542-1cedf9b1fb46
+  - title: "[CCL] L - Classification of services in Length - DimVIM"
+    pdf: https://www.bipm.org/documents/20126/41414840/Classification+of+services+in+Length/05544318-b5d9-36f8-c1f0-e00f766f6887
   - title: "[CCL] Example Excel file for comparison analysis"
     pdf: https://www.bipm.org/documents/20126/30125690/Example+Excel+file+for+comparison+analysis/871c5f01-a3ac-19dd-0a51-effba7c2a69d
   - title: "[CCL] Example Excel file for comparison analysis of linked-loop comparisons"
@@ -85,7 +88,7 @@ categories:
     pdf: https://www.bipm.org/documents/20126/41414762/CCL+Strategy/0f4af537-1729-b44a-e39e-f0023e439435
   - title: "[CCL] CCL Strategy \x96 Summary (2018)"
     pdf: https://www.bipm.org/documents/20126/41414749/CCL+Strategy+Summary/e730b701-fc36-854d-435e-dd6239707d2f
-- title: CartesListe
+- title: ''
   documents:
   - title: "[CCL] Linking report for Key Comparison CCL-K1"
     pdf: https://www.bipm.org/documents/20126/61771128/%5BCCL%5D+Linking+report+for+Key+Comparison+CCL-K1/a218839a-8eb2-1198-21b2-51c6266d63ed

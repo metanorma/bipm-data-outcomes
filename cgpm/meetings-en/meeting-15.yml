@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 15th meeting of the CGPM (1975)
-  identifier: 15
+  identifier: '15'
   date: '1975-06-03'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/15-1975
@@ -42,6 +42,7 @@ resolutions:
     date_effective: '1975-06-03'
     message: "*and asks* the Comité International des Poids et Mesures to coordinate
       these researches."
+  doi: 10.59161/CGPM1975RES1E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -71,6 +72,7 @@ resolutions:
     date_effective: '1975-06-03'
     message: "*recommends* the use of the resulting value for the speed of propagation
       of electromagnetic waves in vacuum stem:[c = 299 792 458] metres per second."
+  doi: 10.59161/CGPM1975RES2E
   notes: The relative uncertainty given here corresponds to three standard deviations
     in the data considered.
 - dates:
@@ -107,6 +109,7 @@ resolutions:
     date_effective: '1975-06-03'
     message: "*and instructs* the Bureau International des Poids et Mesures to organize
       an intercomparison of the national mass standards."
+  doi: 10.59161/CGPM1975RES3E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -140,6 +143,7 @@ resolutions:
     message: "*and asks* the Comité International des Poids et Mesures to maintain
       their relationship with the Bureau International de l'Heure and its Directing
       Board with a view to improving the accuracy and the continuity of TAI."
+  doi: 10.59161/CGPM1975RES4E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -168,6 +172,7 @@ resolutions:
   - type: judges
     date_effective: '1975-06-03'
     message: "*judges* that this usage can be strongly endorsed."
+  doi: 10.59161/CGPM1975RES5E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -197,6 +202,7 @@ resolutions:
     message: "*asks* the Comité International des Poids et Mesures to coordinate this
       work and to organize intercomparisons, not only of the various quantities with
       direct current, but also of the electromagnetic quantities at high frequencies."
+  doi: 10.59161/CGPM1975RES6E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -227,6 +233,7 @@ resolutions:
     message: "*and asks* the Comité International des Poids et Mesures to pursue the
       development of a revised scale that would yield a higher accuracy, that is to
       say having values in still closer agreement with thermodynamic temperatures."
+  doi: 10.59161/CGPM1975RES7E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -251,7 +258,8 @@ resolutions:
     date_effective: '1975-06-03'
     message: |-
       *adopts* the following special name for the SI unit of activity:
-      *_becquerel_*, symbol Bq, equal to one reciprocal second.
+      **__becquerel__**, symbol Bq, equal to one reciprocal second.
+  doi: 10.59161/CGPM1975RES8E
 - dates:
   - '1975-06-03'
   subject: CGPM
@@ -276,9 +284,10 @@ resolutions:
     date_effective: '1975-06-03'
     message: |-
       *adopts* the following special name for the SI unit of ionizing radiation:
-      *_gray_*, symbol Gy, equal to one joule per kilogram.
+      **__gray__**, symbol Gy, equal to one joule per kilogram.
 
       Note: The gray is the SI unit of absorbed dose. In the field of ionizing radiation the gray may also be used with other physical quantities also expressed in joules per kilogram: the Comité Consultatif des Unités is made responsible for studying this matter in collaboration with the competent international organizations.
+  doi: 10.59161/CGPM1975RES9E
   notes: At its 1976 meeting, the CIPM approved the report of the 5th meeting of the
     CCU (1976), specifying that, following the advice of the ICRU, the gray may also
     be used to express specific energy imparted, kerma and absorbed dose index.
@@ -301,7 +310,7 @@ resolutions:
     message: |-
       *decides* to add to the list of SI prefixes to be used for multiples,which was adopted by the 11th CGPM, Resolution 12, paragraph 3, the two following prefixes:
 
-      [width=100%]
+      [cols="8,7,5"]
       |===
       | Multiplying factor | Prefix | Symbol
 
@@ -309,6 +318,7 @@ resolutions:
       | stem:[10^(18)] | exa | E
 
       |===
+  doi: 10.59161/CGPM1975RES10E
   notes: New prefixes were added by the 19th CGPM in 1991 (Resolution 4).
 - dates:
   - '1975-06-03'
@@ -334,6 +344,7 @@ resolutions:
     message: |-
       *decides* that the fixed part of the annual budget of the Bureau International des Poids et Mesures will be increased so that both the fixed part and the complementary part (as defined in Art. 6 (1921) of the Rules appended to the Metre Convention) be equal, for the States that are members of the Convention at the time of the 15th General Conference, to:
 
+      [cols=1]
       |===
       | 5 310 000 gold francs in 1977
 
@@ -342,3 +353,4 @@ resolutions:
       | 7 460 000 gold francs in 1980
 
       |===
+  doi: 10.59161/CGPM1975RES11E

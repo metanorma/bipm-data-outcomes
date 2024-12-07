@@ -37,6 +37,7 @@ resolutions:
     date_effective: '1972-10-18'
     message: '*RECOMMANDE* l''emploi de cette nouvelle table stem:["V"](λ) [voir Annexe
       1 p. 145].'
+  doi: 10.59161/CIPM1972REC1F
 - dates:
   - '1972-10-18'
   subject: CIPM
@@ -73,3 +74,4 @@ resolutions:
     message: "*RECOMMANDE* que les valeurs de stem:[g] données dans le réseau l GSN-71
       de l' U. G. G.I. et ses mises à jour ultérieures soient employées pour les besoins
       métrologiques."
+  doi: 10.59161/CIPM1972REC2F

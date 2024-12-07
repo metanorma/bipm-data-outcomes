@@ -4,7 +4,8 @@ metadata:
 categories:
 - title: Documents de référence
   documents:
-  - title: "[CCTF] cc-publication-ID-518"
+  - title: "[CCTF] CCTF Guidelines for Planning, Organizing, Conducting and Reporting
+      Key, Supplementary and Pilot Comparisons"
     pdf: https://www.bipm.org/documents/20126/30132586/cc-publication-ID-518/9a746860-62a0-9952-1660-3c68f725b006
   - title: "[CCTF] CCTF-WGMRA Guideline 6: Requirements for participation in the computation
       of UTC at the BIPM (2017)"
@@ -15,21 +16,26 @@ categories:
   - title: "[CCTF] CCTF-WGMRA Guideline 9: CCTF criteria for obtaining traceability
       in time and frequency (2017)"
     pdf: https://www.bipm.org/documents/20126/30132552/cc-publication-ID-493/334bd43c-1b60-7716-3930-bf1b54687e2a
-  - title: "[CCTF] cc-publication-ID-496"
+  - title: "[CCTF] Time and Frequency Supplementary Guide for Appendices B and C of
+      the CIPM MRA"
     pdf: https://www.bipm.org/documents/20126/30132563/cc-publication-ID-496/b1dd7425-edf8-a5cf-12f9-af967287c0a1
-  - title: "[CCTF] cc-publication-ID-311"
-    pdf: https://www.bipm.org/documents/20126/30132352/cc-publication-ID-311/4fef80e8-241d-e8ae-59c9-2513aebed7d8
-  - title: "[CCTF] cc-publication-ID-367"
-    pdf: https://www.bipm.org/documents/20126/30132363/cc-publication-ID-367/c553e61a-f6de-73ab-379d-3aa80a85e4ab
-  - title: "[CCTF] CCTF-WGMRA Guideline 1: The Service Category classification system
-      for T&F CMC entries (2013)"
+  - title: "[CCTF] TF - CCTF-WGMRA Guideline 1: The Service Category classification
+      system for T&F CMC entries (2013)"
     pdf: https://www.bipm.org/documents/20126/35550160/TF_services.pdf/a2ce53fc-80f0-b8fe-0271-3385c1be121b
-  - title: "[CCTF] cc-publication-ID-308"
+  - title: "[CCTF] CCTF-WGMRA Guideline 2: The estimation of uncertainties for T&F
+      CMC entries"
     pdf: https://www.bipm.org/documents/20126/30132319/cc-publication-ID-308/db728ea3-d6c3-c978-aa3f-e34341c63991
-  - title: "[CCTF] cc-publication-ID-309"
+  - title: "[CCTF] CCTF-WGMRA Guideline 3: The uncertainty interpolation for T&F CMC
+      entries"
     pdf: https://www.bipm.org/documents/20126/30132330/cc-publication-ID-309/8fccecd4-d3e7-f9a2-1207-d3cd4ab0f79f
-  - title: "[CCTF] cc-publication-ID-310"
+  - title: "[CCTF] CCTF-WGMRA Guideline 4: Uncertainty in frequency"
     pdf: https://www.bipm.org/documents/20126/30132341/cc-publication-ID-310/f15432f2-cfa7-ac71-bd9d-a6f3168affb4
+  - title: "[CCTF] CCTF-WGMRA Guideline 5: The prediction uncertainty of [UTC \x96
+      UTC(k)]"
+    pdf: https://www.bipm.org/documents/20126/30132352/cc-publication-ID-311/4fef80e8-241d-e8ae-59c9-2513aebed7d8
+  - title: "[CCTF] CCTF-WGMRA Guideline 7: Participation in the ongoing key comparison
+      in time, CCTF-K001.UTC"
+    pdf: https://www.bipm.org/documents/20126/30132363/cc-publication-ID-367/c553e61a-f6de-73ab-379d-3aa80a85e4ab
 - title: Rapports de réunion
   documents:
   - title: "[CCTF] 21e session (2017)"
@@ -80,5 +86,3 @@ categories:
     pdf: https://www.bipm.org/documents/20126/35554894/CCTF+Strategy/7cf0f648-2afe-d15c-0909-1f03406bbb8f
   - title: "[CCTF] CCTF Strategy \x96 Summary"
     pdf: https://www.bipm.org/documents/20126/35554903/CCTF+Strategy+Summary/d52360d9-87e7-2d7a-c5ac-44205b01497f
-  - title: "[CCTF] Roadmap towards a redefinition of the SI second (2016)"
-    pdf: https://www.bipm.org/documents/20126/35554967/CCTF-roadmap.jpg/6338cf4c-59d6-d8ee-6cc5-eb390715b900

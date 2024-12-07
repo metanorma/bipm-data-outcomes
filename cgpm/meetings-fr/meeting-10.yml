@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 10e réunion de la CGPM (1954)
-  identifier: 10
+  identifier: '10'
   date: '1954-10-14'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/10-1954
@@ -44,6 +44,7 @@ resolutions:
   - type: decides
     date_effective: '1954-10-14'
     message: "*et décide* de ne pas encore changer la définition du mètre."
+  doi: 10.59161/CGPM1954RES1F
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -68,6 +69,7 @@ resolutions:
     message: attire l'attention des Pays adhérents à la Convention du Mètre sur la
       possibilité qu'ils ont actuellement d'améliorer leurs étalons nationaux en les
       faisant munir d'un nouveau tracé.
+  doi: 10.59161/CGPM1954RES2F
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -87,6 +89,7 @@ resolutions:
     message: décide de définir l'échelle thermodynamique de température au moyen du
       point triple de l'eau comme point fixe fondamental, en lui attribuant la température
       273,16 degrés Kelvin, exactement.
+  doi: 10.59161/CGPM1954RES3F
   notes: La 13^e^ CGPM en 1967/68 (Résolution 4) a explicitement défini le kelvin.
 - dates:
   - '1954-10-14'
@@ -108,11 +111,8 @@ resolutions:
   actions:
   - type: declares
     date_effective: '1954-10-14'
-    message: |-
-      *déclare* qu'elle adopte, pour tous les usages, la définition :
-
-      1 atmosphère normale = 1 013 250 dynes par centimètre carré, +
-       c'est-à-dire : 101 325 newtons par mètre carré.
+    message: "*déclare* qu'elle adopte, pour tous les usages, la définition :"
+  doi: 10.59161/CGPM1954RES4F
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -138,6 +138,7 @@ resolutions:
     date_effective: '1954-10-14'
     message: donne au Comité international des poids et mesures le pouvoir de décider
       sur ce point.
+  doi: 10.59161/CGPM1954RES5F
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -160,7 +161,7 @@ resolutions:
     message: |-
       *décide* d'adopter comme unités de base de ce système à établir, les unités suivantes :
 
-      [width=80%]
+      [cols=2]
       |===
       | longueur | mètre
 
@@ -171,5 +172,6 @@ resolutions:
       | intensité lumineuse | candela
 
       |===
+  doi: 10.59161/CGPM1954RES6F
   notes: Le nom de l'unité de température thermodynamique a été changé en « kelvin
     » en 1976 par la 13^e^ CGPM (Résolution 3).

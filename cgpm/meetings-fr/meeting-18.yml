@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 18e réunion de la CGPM
-  identifier: 18
+  identifier: '18'
   date: '1987-10-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/18-1987
@@ -41,6 +41,7 @@ resolutions:
     message: "*recommande* que les laboratoires concernés se préparent à envoyer au
       Bureau international des poids et mesures leurs prototypes nationaux du kilogramme
       en platine iridié, en vue d'une comparaison générale de ces prototypes."
+  doi: 10.59161/CGPM1987RES1F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -87,6 +88,7 @@ resolutions:
       disponibles pour étudier la composition et le comportement superficiels du platine
       allié à 10 % d'iridium et des autres alliages dont sont constitués les étalons
       de masse.
+  doi: 10.59161/CGPM1987RES2F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -123,6 +125,7 @@ resolutions:
       *approuve* les décisions du Comité international qui ont eu pour effet la prise en charge par le Bureau international des poids et mesures de l'établissement et de la diffusion du Temps atomique international,
 
       et *recommande* aux institutions nationales concernées de poursuivre avec le Bureau international des poids et mesures leur collaboration pour l'établissement et l'amélioration du Temps atomique international.
+  doi: 10.59161/CGPM1987RES3F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -161,6 +164,7 @@ resolutions:
       *recommande*
 
       que les organes nationaux et internationaux responsables apportent leur soutien aux expériences utilisant les liaisons de télécommunication par satellites, notamment à l'aide de signaux pseudo-aléatoires, dans le cadre des programmes internationaux de liaisons horaires faisant partie de l'établissement du Temps atomique international.
+  doi: 10.59161/CGPM1987RES4F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -182,11 +186,12 @@ resolutions:
       * la définition de la seconde telle qu'elle résulte des décisions de la Treizième Conférence générale des poids et mesures sous-entend que l'atome de césium utilisé comme référence est au repos et n'est soumis à aucune perturbation,
       * ceci implique notamment que, dans la présente mise en pratique, les mesures doivent être corrigées en raison de la vitesse des atomes de césium par rapport au référentiel de l'horloge, en raison des interactions magnétique et électrique, de l'échange des spins et des autres perturbations éventuelles,
 
-      et *recommande*, afin de mettre en œuvre les corrections nécessaires,
+      et **recommande**, afin de mettre en œuvre les corrections nécessaires,
 
       * que les études théoriques de tous les effets perturbateurs soient développées,
       * que les expériences permettant de mettre en évidence ces effets, d'en vérifier l'interprétation théorique et d'évaluer l'incertitude des corrections correspondantes soient poursuivies activement.
   actions: []
+  doi: 10.59161/CGPM1987RES5F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -238,6 +243,7 @@ resolutions:
       à laquelle elle pourra être mise en pratique simultanément dans tous les pays
       ; cette valeur devrait être annoncée au moins un an à l'avance et pourrait être
       adoptée au 1^er^ janvier 1990."
+  doi: 10.59161/CGPM1987RES6F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -283,6 +289,7 @@ resolutions:
       pays ; la valeur des écarts entre cette nouvelle échelle et l'EIPT-68 devrait
       être annoncée au moins un an avant l'adoption de la nouvelle échelle qui pourrait
       intervenir au 1^er^ janvier 1990."
+  doi: 10.59161/CGPM1987RES7F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -309,6 +316,7 @@ resolutions:
       les pourcentages de répartition, y compris le pourcentage maximal et le pourcentage
       minimal définis dans l'article 20 du Règlement annexé à la Convention du Mètre
       et modifiés par la Onzième et la Seizième Conférence générale des poids et mesures.
+  doi: 10.59161/CGPM1987RES8F
 - dates:
   - '1987-10-16'
   subject: CGPM
@@ -346,3 +354,4 @@ resolutions:
        18 858 000 francs-or en 1990 +
        19 801 000 francs-or en 1991 +
        20 791 000 francs-or en 1992.
+  doi: 10.59161/CGPM1987RES9F

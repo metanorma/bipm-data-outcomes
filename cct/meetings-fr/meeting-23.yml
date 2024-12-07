@@ -136,12 +136,13 @@ working_documents:
   description: Recommendation T1 (2005) to the CIPM, final version
   author: ''
   date: 07/07/2005
+- title: CCT/2005-Rec-T2
+  pdf: https://www.bipm.org/documents/20126/28438996/working-document-ID-1852/280650d7-75af-d84e-45d9-c98d13b8cb6e
+  description: Recommendation T2 (2005) to the CIPM, final version
+  author: ''
+  date: 27/06/2005
 - title: CCT/2005-Rec-T3
   pdf: https://www.bipm.org/documents/20126/28439095/working-document-ID-1856/9831bd2f-9653-b986-02d5-1eb53db9bd55
   description: Recommendation T3 (2005) to the CIPM, final version
   author: ''
   date: 28/06/2005
-- title: working-document-ID-1852
-  pdf: https://www.bipm.org/documents/20126/28438996/working-document-ID-1852/280650d7-75af-d84e-45d9-c98d13b8cb6e
-  description: ''
-  author: ''

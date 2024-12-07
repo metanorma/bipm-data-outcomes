@@ -35,28 +35,71 @@ resolutions:
 
       that the following transition frequencies shall be included in the list of recommended values of standard frequencies:
 
-      * Absorbing molecule ^127^I~2~, saturated absorption a~1~ component, R(36)32-0 transition. +
-       +
-       The values +
-      stem:[f_(a1) = 564 074 632.42 "MHz"] +
-       +
-      _λ_~stem:[ alpha 1]~ = 531 476 582.65 fm +
-       +
-       with an estimated relative standard uncertainty of 1 × 10^−10^ apply to the radiation of a frequency-doubled diode DFB laser, stabilized with an iodine cell external to the laser.
-       +
-      * Absorbing atom ^87^Rb crossover between the d and f hyperfine components of the saturated absorption at 780 nm (D2 transition) +
-       +
-       The values +
-      stem:[f]~d/f crossover~ = stem:[384 227 981.9 "MHz"] +
-       +
-      _λ_~d/f crossover~ = 780 246 291.6 fm +
-       +
-       with an estimated relative standard uncertainty of 5 × 10^−10^ apply to the radiation of a tunable External Cavity Diode Laser, stabilized using the 3rd derivative technique.
+      * Absorbing molecule
+      +
+      ^127^
+      +
+      I
+      +
+      ~2~
+      +
+      , saturated absorption a
+      +
+      ~1~
+      +
+      component, R(36)32-0 transition.
+      +
+      The values
+      +
+      __f__
+      +
+      ~a1~
+      +
+      = stem:[564 074 632.42 "MHz"]
+      +
+      _λ_
+      +
+      ~stem:[ alpha 1]~
+      +
+      = 531 476 582.65 fm
+      +
+      with an estimated relative standard uncertainty of 1 × 10
+      +
+      ^−10^
+      +
+      apply to the radiation of a frequency-doubled diode DFB laser, stabilized with an iodine cell external to the laser.
+      * +
+      * Absorbing atom
+      +
+      ^87^
+      +
+      Rb crossover between the d and f hyperfine components of the saturated absorption at 780 nm (D2 transition)
+      +
+      The values
+      +
+      __f__
+      +
+      ~d/f crossover~
+      +
+      = stem:[384 227 981.9 "MHz"]
+      +
+      __λ__
+      +
+      ~d/f crossover~
+      +
+      = 780 246 291.6 fm
+      +
+      with an estimated relative standard uncertainty of 5 × 10
+      +
+      ^−10^
+      +
+      apply to the radiation of a tunable External Cavity Diode Laser, stabilized using the 3rd derivative technique.
 
       Note: The value of the standard uncertainty is assumed to correspond to a confidence level of 68 %. However, given the very limited number of available data there is a possibility that in hindsight this might not prove to be exact.
   - type: asks
     date_effective: '2015-09-24'
     message: "*and asks* the CIPM for approval."
+  doi: 10.59161/CCL2015REC1E
 working_documents:
 - title: CCL/2015-01
   pdf: https://www.bipm.org/documents/20126/28428702/working-document-ID-7211/3f92f888-8ac2-f6e7-e776-6d8040894463

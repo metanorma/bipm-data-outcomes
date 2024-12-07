@@ -35,6 +35,7 @@ resolutions:
     message: recommends that laboratories, in consultation with the BIPM, use appropriate
       means to reduce existing offsets between UTC(k) and UTC to a few microseconds
       without making any adjustment in frequency to clocks contributing to TAI.
+  doi: 10.59161/CIPM1989REC1E
 - dates:
   - '1989-09-28'
   subject: CIPM
@@ -68,6 +69,7 @@ resolutions:
     date_effective: '1989-09-28'
     message: recommends the study of the systematic differences in frequency between
       them.
+  doi: 10.59161/CIPM1989REC2E
 - dates:
   - '1989-09-28'
   subject: CIPM
@@ -101,6 +103,7 @@ resolutions:
     date_effective: '1989-09-28'
     message: recommends that methods of relative positioning be employed to link the
       antenna to the IERS stations, in consultation with the BIPM.
+  doi: 10.59161/CIPM1989REC3E
 - dates:
   - '1989-09-28'
   subject: CIPM
@@ -138,6 +141,7 @@ resolutions:
     message: _invites_ member laboratories of Comité Consultatif pour la Définition
       de la Seconde (CCDS), in view of the high cost of such installations, to examine
       the possibility of providing equipment on loan to the BIPM.
+  doi: 10.59161/CIPM1989REC4E
 - dates:
   - '1989-09-28'
   subject: CIPM
@@ -170,4 +174,5 @@ resolutions:
       * that on 1 January 1990 the ITS-90 come into force and
       * that from this same date the IPTS-68 and the EPT-76 be abrogated.
   actions: []
+  doi: 10.59161/CIPM1989REC5E
   notes: The kelvin was redefined by the 26th CGPM in 2018 (Resolution 1).

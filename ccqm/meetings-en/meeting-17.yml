@@ -44,6 +44,7 @@ resolutions:
     date_effective: '2011-04-15'
     message: recommends that the SI brochure should now be extended to provide guidance
       on units for the expression of measurement results based on counting (enumeration).
+  doi: 10.59161/CCQM2011REC1E
 - dates:
   - '2011-04-15'
   subject: CCQM
@@ -118,6 +119,7 @@ resolutions:
       to consider the most effective mechanism to take forward the recommendations
       of the CCQM Inorganic Analysis Working Group in collaboration with other NMIs
       and/or expert institutes.
+  doi: 10.59161/CCQM2011REC2E
 - dates:
   - '2011-04-15'
   subject: CCQM
@@ -165,7 +167,11 @@ resolutions:
     message: |-
       *decides* to
 
-      * prepare a _mise en pratique_ for the possible future redefinition of the mole for circulation by the end of May 2011,
+      * prepare a
+      +
+      _mise en pratique_
+      +
+      for the possible future redefinition of the mole for circulation by the end of May 2011,
   - type: recommends
     date_effective: '2011-04-15'
     message: |-
@@ -173,7 +179,11 @@ resolutions:
 
       * identify the most influential national and international bodies with responsibility for chemical measurements, and particularly the teaching and standardization of chemical measurements,
       * ensure that these bodies are kept informed about the proposal to re-define the mole as published on the website of the BIPM in Draft Resolution stem:["A"],
-      * determine whether these bodies anticipate significant difficulties with implementing such a definition as early as 2015, in the light of the new _mise en pratique_,
+      * determine whether these bodies anticipate significant difficulties with implementing such a definition as early as 2015, in the light of the new
+      +
+      __mise en pratique__
+      +
+      ,
       * report the results of their consultation activities to the 18th Meeting of the CCQM planned for April 2012,
   - type: invites / further invites
     date_effective: '2011-04-15'
@@ -184,6 +194,7 @@ resolutions:
       inform her about the re-drafted _mise en pratique_ for the mole and invite her
       to inform the BIPM about progress with the consultation over this redefinition
       amongst the member bodies of the IUPAC."
+  doi: 10.59161/CCQM2011DECL3E
 working_documents:
 - title: CCQM/2011-18
   pdf: https://www.bipm.org/documents/20126/28439502/working-document-ID-4428/4784a8ab-7679-c8a8-a183-bd61e5b08941

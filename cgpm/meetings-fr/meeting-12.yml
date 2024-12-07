@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 12e réunion de la CGPM
-  identifier: 12
+  identifier: '12'
   date: '1964-10-13'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/12-1964
@@ -37,6 +37,7 @@ resolutions:
     date_effective: '1964-10-13'
     message: "*invite* le Comité international des poids et mesures à continuer sa
       tâche selon les instructions de la Résolution 1 de la Onzième Conférence générale."
+  doi: 10.59161/CGPM1964RES1F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -66,6 +67,7 @@ resolutions:
       ces dépenses d'achèvement une troisième dotation exceptionnelle d'un montant
       de 850 000 francs-or, répartie entre les États contractants selon les mêmes
       règles que la dotation ordinaire annuelle et payable dès que possible."
+  doi: 10.59161/CGPM1964RES2F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -108,6 +110,7 @@ resolutions:
     message: "*charge* le Comité international des poids et mesures de prendre toutes
       les mesures nécessaires à l'expansion ultérieure du Système Métrique et à l'adhésion
       de nouveaux États."
+  doi: 10.59161/CGPM1964RES3F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -151,9 +154,10 @@ resolutions:
       du 1^er^ janvier 1965 par rapport à ce qu'elle était avant le 1^er^ octobre
       1964, de façon que l'ensemble de la partie fixe et de la partie complémentaire
       calculée à cette dernière date soit porté graduellement à 1 750 000 francs-or
-      de la façon suivante :\n\n\n\n|===\n| 1 300 000 francs-or en 1965\n\n| 1 600
-      000 francs-or en 1966\n| 1 750 000 francs-or en 1967\n| 1 750 000 francs-or
+      de la façon suivante :\n\n\n\n[cols=1]\n|===\n| 1 300 000 francs-or en 1965\n\n|
+      1 600 000 francs-or en 1966\n| 1 750 000 francs-or en 1967\n| 1 750 000 francs-or
       en 1968\n\n|===\n\n "
+  doi: 10.59161/CGPM1964RES4F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -193,6 +197,7 @@ resolutions:
     date_effective: '1964-10-13'
     message: "*invite* les Organisations et les Laboratoires experts dans ce domaine
       à poursuivre les études utiles à une nouvelle définition de la seconde."
+  doi: 10.59161/CGPM1964RES5F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -215,10 +220,11 @@ resolutions:
   - type: abrogates
     date_effective: '1964-10-13'
     message: |-
-      *abroge*
-       la définition du litre donnée en 1901 par la Troisième Conférence générale des poids et mesures, *déclare*
-      que le mot « litre » peut être utilisé comme un nom spécial donné au décimètre cube, *recommande*
-       que le nom de litre ne soit pas utilisé pour exprimer les résultats des mesures de volume de haute précision.
+      * abroge
+      * la définition du litre donnée en 1901 par la Troisième Conférence générale des poids et mesures,* déclare
+      * que le mot « litre » peut être utilisé comme un nom spécial donné au décimètre cube,* recommande
+      * que le nom de litre ne soit pas utilisé pour exprimer les résultats des mesures de volume de haute précision.
+  doi: 10.59161/CGPM1964RES6F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -246,6 +252,7 @@ resolutions:
       pour l''activité, avec la valeur stem:[3","7 * 10^(10) "s"^(-1)]. Le symbole
       de cette unité est Ci.'
   actions: []
+  doi: 10.59161/CGPM1964RES7F
   notes: 'Le nom « becquerel » (Bq) a été adopté par la 15^e^ CGPM en 1975 (Résolution
     8) pour l''unité SI d''activité : 1 Ci = stem:[3.7 * 10^(10)] Bq.'
 - dates:
@@ -267,16 +274,18 @@ resolutions:
     message: |-
       *décide* d'ajouter à la liste des préfixes pour la formation des noms des multiples et des sous-multiples des unités, adoptée par la Onzième Conférence générale, Résolution 12, paragraphe 3, les deux nouveaux préfixes suivants :
 
-      [width=100%]
+      [cols="8,7,5"]
       |===
       a| Facteur par lequel +
        l'unité est multipliée
-      | Préfixe | Symbole
+      | Préfixe
+      | Symbole
 
       .>| stem:[10^(-15)] .>| femto .>| f
       .>| stem:[10^(-18)] .>| atto .>| a
 
       |===
+  doi: 10.59161/CGPM1964RES8F
   notes: De nouveaux préfixes furent ajoutés par la 15^e^ CGPM en 1975 (Résolution
     10).
 - dates:
@@ -310,6 +319,7 @@ resolutions:
       à poursuivre leurs études sur le coefficient gyromagnétique du proton, afin
       d'établir la valeur précise de cette constante en vue de son application à l'amélioration
       de la reproductibilité de l'ampère, unité de base du Système international d'unités.
+  doi: 10.59161/CGPM1964RES9F
 - dates:
   - '1964-10-13'
   subject: CGPM
@@ -356,3 +366,4 @@ resolutions:
       . formulation d'une échelle de thermométrie à résistance de platine entre 630°C et 1 063°C destinée à remplacer l'échelle du thermocouple ;
       . vérification de la table des valeurs de la résistance réduite du platine au-dessous de 0°C, y compris une étude du procédé d'étalonnage des thermomètres à résistance de platine ;
       . nouvelles déterminations du point d'ébullition de l'oxygène.
+  doi: 10.59161/CGPM1964RES10F

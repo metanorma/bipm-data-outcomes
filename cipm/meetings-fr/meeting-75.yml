@@ -47,6 +47,7 @@ resolutions:
       de suivre les directives données au paragraphe 4 de la Recommandation INC-l
       (1980) et de donner avec leurs résultats l'incertitude composée résultant des
       composantes de type stem:["A"] et de type B sous la forme d'un écart-type.
+  doi: 10.59161/CIPM1986REC1F
 - dates:
   - '1986-10-16'
   subject: CIPM
@@ -81,3 +82,4 @@ resolutions:
     message: _recommande_ que les Comités Consultatifs et leurs Groupes de travail
       attirent à l'avenir explicitement l'attention sur toute conclusion objective
       que l'on peut tirer de ces comparaisons.
+  doi: 10.59161/CIPM1986REC2F

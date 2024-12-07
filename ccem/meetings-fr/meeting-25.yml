@@ -29,60 +29,55 @@ resolutions:
       communauté de la métrologie,"
   - type: considering
     date_effective: '2007-03-16'
-    message: considérant que définir des unités à partir de constantes fondamentales,
-      en particulier la charge élémentaire, stem:[e], et la constante de Planck, stem:[h],
-      assurent leur stabilité à long terme et leur cohérence,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que certaines combinaisons de la charge élémentaire, stem:[e],
-      et de la constante de Planck, stem:[h], fournissent des grandeurs fondamentales
-      pour les phénomènes quantiques dans les domaines de l’électricité et du magnétisme,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant qu’il existe des effets quantiques macroscopiques qui lient
-      les constantes fondamentales stem:[e] et stem:[h] à des grandeurs macroscopiques
-      observables,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que la représentation du volt, fondée sur l’effet Josephson
-      et la valeur conventionnelle de la constante de Josephson, stem:[K_(J-90)],
-      et la représentation de l’ohm, fondée sur l’effet Hall quantique et la valeur
-      conventionnelle de la constante de von Klitzing, stem:[R_(K-90)], fournissent
-      au monde entier depuis 1990 des références pratiques, accessibles, reproductibles,
-      à faible bruit et extrêmement linéaires,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que les représentations du volt et de l’ohm adoptées en 1990,
-      bien qu’utilisées quotidiennement dans le monde entier, ne sont pas des unités
-      du SI et que les modifications à apporter au SI recommandées ci-dessous permettront
-      des réalisations directes des unités de tension et de résistance dans le SI,
-      par l’utilisation de l’effet Josephson et de l’effet Hall quantique, et assureront
-      ainsi la stabilité à long terme et l’exactitude des unités électriques,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que la théorie, la reproductibilité et l’indépendance des
-      réalisations expérimentales des effets Josephson et von Klitzing sont bien établies,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que les effets Josephson et von Klitzing sont liés directement
-      à des constantes fondamentales et que ces relations sont étayées par d’autres
-      mesures de haute précision, si bien que rien ne peut suggérer que les expressions
-      usuelles décrivant ces effets sont incorrectes,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que la cohérence des mesures électriques a été grandement
-      améliorée depuis l’introduction des représentations du volt et de l’ohm, fondées
-      sur les effets Josephson et von Klitzing,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que l’on continuera à utiliser ces étalons quantiques dans
-      un avenir prévisible,
-  - type: considering
-    date_effective: '2007-03-16'
-    message: considérant que les améliorations des techniques associées à l’effet
-      Josephson et à l’effet Hall quantique, ainsi qu’au transport de charge quantifié,
-      se poursuivent, rendant ces références encore plus exactes, plus faciles à mettre
-      en œuvre et plus polyvalentes,
+    message: |-
+      *considérant*
+
+      * que définir des unités à partir de constantes fondamentales, en particulier la charge élémentaire,
+      +
+      __e__
+      +
+      , et la constante de Planck,
+      +
+      __h__
+      +
+      , assurent leur stabilité à long terme et leur cohérence,
+      * que certaines combinaisons de la charge élémentaire,
+      +
+      __e__
+      +
+      , et de la constante de Planck,
+      +
+      __h__
+      +
+      , fournissent des grandeurs fondamentales pour les phénomènes quantiques dans les domaines de l’électricité et du magnétisme,
+      * qu’il existe des effets quantiques macroscopiques qui lient les constantes fondamentales
+      +
+      stem:[e]
+      +
+      et
+      +
+      stem:[h]
+      +
+      à des grandeurs macroscopiques observables,
+      * que la représentation du volt, fondée sur l’effet Josephson et la valeur conventionnelle de la constante de Josephson,
+      +
+      __K__
+      +
+      ~J-90~
+      +
+      , et la représentation de l’ohm, fondée sur l’effet Hall quantique et la valeur conventionnelle de la constante de von Klitzing,
+      +
+      __R__
+      +
+      ~K-90~
+      +
+      , fournissent au monde entier depuis 1990 des références pratiques, accessibles, reproductibles, à faible bruit et extrêmement linéaires,
+      * que les représentations du volt et de l’ohm adoptées en 1990, bien qu’utilisées quotidiennement dans le monde entier, ne sont pas des unités du SI et que les modifications à apporter au SI recommandées ci-dessous permettront des réalisations directes des unités de tension et de résistance dans le SI, par l’utilisation de l’effet Josephson et de l’effet Hall quantique, et assureront ainsi la stabilité à long terme et l’exactitude des unités électriques,
+      * que la théorie, la reproductibilité et l’indépendance des réalisations expérimentales des effets Josephson et von Klitzing sont bien établies,
+      * que les effets Josephson et von Klitzing sont liés directement à des constantes fondamentales et que ces relations sont étayées par d’autres mesures de haute précision, si bien que rien ne peut suggérer que les expressions usuelles décrivant ces effets sont incorrectes,
+      * que la cohérence des mesures électriques a été grandement améliorée depuis l’introduction des représentations du volt et de l’ohm, fondées sur les effets Josephson et von Klitzing,
+      * que l’on continuera à utiliser ces étalons quantiques dans un avenir prévisible,
+      * que les améliorations des techniques associées à l’effet Josephson et à l’effet Hall quantique, ainsi qu’au transport de charge quantifié, se poursuivent, rendant ces références encore plus exactes, plus faciles à mettre en œuvre et plus polyvalentes,
   - type: recognizing
     date_effective: '2007-03-16'
     message: "*reconnaissant* que l’adoption de valeurs fixées de stem:[e] et de stem:[h]
@@ -91,45 +86,43 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2007-03-16'
-    message: recommande de modifier le SI par l’adoption de valeurs fixées de la charge
-      élémentaire, stem:[e], et de la constante de Planck, stem:[h], et que cette
-      décision soit prise dans un proche avenir, par exemple en 2011, à condition
-      que l’on soit parvenu à un accord convenable entre les résultats d’expériences
-      indépendantes,
-  - type: recommends
-    date_effective: '2007-03-16'
-    message: recommande que les laboratoires nationaux de métrologie soient fortement
-      encouragés à soutenir toutes les activités de recherche visant à mettre en œuvre
-      les modifications recommandées ici et à améliorer notre connaissance de la science
-      concernée, fournissant et maintenant ainsi la meilleure cohérence possible au
-      SI,
-  - type: recommends
-    date_effective: '2007-03-16'
-    message: recommande que les valeurs de la charge élémentaire, stem:[e], et de
-      la constante de Planck, stem:[h], soient fixées comme étant les valeurs les
-      plus récentes publiées par CODATA, avant l’adoption de ces modifications au
-      SI, en utilisant des valeurs arrondies sans incertitude associée,
-  - type: recommends
-    date_effective: '2007-03-16'
-    message: recommande que les définitions des unités électriques et leurs mises
-      en pratique soient révisées pour refléter ce changement, et que le CCEM soit
-      impliqué dans ce processus,
-  - type: recommends
-    date_effective: '2007-03-16'
-    message: recommande si l’on retient le concept d’unités de base, que l’ampère
-      reste une unité de base pour des raisons de continuité historique et pour l’analyse
-      dimensionnelle du SI, bien qu’il n’y ait pas d’ordre hiérarchique préféré parmi
-      les unités électriques pour la traçabilité,
-  - type: recommends
-    date_effective: '2007-03-16'
     message: |-
-      recommande que l’ampère soit défini, par exemple, de la manière suivante : +
-       « L’ampère est l’intensité d’un courant électrique équivalent exactement à un flux de 1/1,602 176 53 × 10^−19^ charges élémentaires par seconde. » (Il s’ensuit que cette définition fixe la charge élémentaire comme étant égale exactement à 1,602 176 53 × 10^−19^ stem:["A" * "s"]),
-  - type: recommends
-    date_effective: '2007-03-16'
-    message: recommande que l’on fasse la publicité et la promotion active de ce changement
-      au SI, afin d’assurer son introduction en douceur auprès de la communauté de
-      la métrologie ; il faudra au moins un an pour y préparer le grand public.
+      *recommande*
+
+      * de modifier le SI par l’adoption de valeurs fixées de la charge élémentaire,
+      +
+      __e__
+      +
+      , et de la constante de Planck,
+      +
+      __h__
+      +
+      , et que cette décision soit prise dans un proche avenir, par exemple en 2011, à condition que l’on soit parvenu à un accord convenable entre les résultats d’expériences indépendantes,
+      * que les laboratoires nationaux de métrologie soient fortement encouragés à soutenir toutes les activités de recherche visant à mettre en œuvre les modifications recommandées ici et à améliorer notre connaissance de la science concernée, fournissant et maintenant ainsi la meilleure cohérence possible au SI,
+      * que les valeurs de la charge élémentaire,
+      +
+      __e__
+      +
+      , et de la constante de Planck,
+      +
+      __h__
+      +
+      , soient fixées comme étant les valeurs les plus récentes publiées par CODATA, avant l’adoption de ces modifications au SI, en utilisant des valeurs arrondies sans incertitude associée,
+      * que les définitions des unités électriques et leurs mises en pratique soient révisées pour refléter ce changement, et que le CCEM soit impliqué dans ce processus,
+      * si l’on retient le concept d’unités de base, que l’ampère reste une unité de base pour des raisons de continuité historique et pour l’analyse dimensionnelle du SI, bien qu’il n’y ait pas d’ordre hiérarchique préféré parmi les unités électriques pour la traçabilité,
+      * que l’ampère soit défini, par exemple, de la manière suivante :
+      +
+      « L’ampère est l’intensité d’un courant électrique équivalent exactement à un flux de 1/1,602 176 53 × 10
+      +
+      ^−19^
+      +
+      charges élémentaires par seconde. » (Il s’ensuit que cette définition fixe la charge élémentaire comme étant égale exactement à 1,602 176 53 × 10
+      +
+      ^−19^
+      +
+      stem:["A" * "s"]),
+      * que l’on fasse la publicité et la promotion active de ce changement au SI, afin d’assurer son introduction en douceur auprès de la communauté de la métrologie ; il faudra au moins un an pour y préparer le grand public.
+  doi: 10.59161/CCEM2007REC1F
 working_documents:
 - title: CCEM/2007-44
   pdf: https://www.bipm.org/documents/20126/28437389/working-document-ID-2551/f4ea7838-4b34-1c15-0ea1-f4b7b426d974

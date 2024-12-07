@@ -48,7 +48,11 @@ resolutions:
     message: |-
       *considérant aussi*
 
-      * que l’interprétation donnée par le CIPM en 1969 pour la classe des unités supplémentaires introduite dans la Résolution 12 de la 11^e^ Conférence générale des poids et mesures en 1960 laisse la liberté de traiter le radian et le stéradian comme unités de base dans le Système international,
+      * que l’interprétation donnée par le CIPM en 1969 pour la classe des unités supplémentaires introduite dans la Résolution 12 de la 11
+      +
+      ^e^
+      +
+      Conférence générale des poids et mesures en 1960 laisse la liberté de traiter le radian et le stéradian comme unités de base dans le Système international,
       * qu’une telle possibilité compromet la cohérence interne du Système international fondé sur sept unités de base seulement,
   actions:
   - type: decides
@@ -57,5 +61,6 @@ resolutions:
       Système international comme une classe d’unités dérivées sans dimension pour
       lesquelles la Conférence générale des poids et mesures laisse la liberté de
       les utiliser ou non dans les expressions des unités dérivées du Système international."
+  doi: 10.59161/CIPM1980REC1F
   notes: "\\* La classe des unités supplémentaires dans le SI a été abrogée en 1995
     par décision de la 20^e^ CGPM (Résolution 8)."

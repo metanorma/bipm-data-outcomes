@@ -37,6 +37,7 @@ resolutions:
 
 
 
-      Thus, for a given radiation, the numerical value of stem:[H] in joules per kilogram may differ from that of stem:[D] in joules per kilogram depending upon the values of stem:[Q] and stem:[N]. In order to avoid any risk of confusion between the absorbed dose stem:[D] and the dose equivalent stem:[H], the special names for the respective units should be used, that is, the name gray should be used instead of joules per kilogram for the unit of absorbed dose stem:[D] and the name sievert instead of joules per kilogram for the unit of dose equivalent stem:[H].
+      Thus, for a given radiation, the numerical value of stem:[H] in joules per kilogram may differ from that of stem:[D] in joules per kilogram depending upon the values of stem:[Q] and stem:[N]. In order to avoid any risk of confusion between the absorbed dose stem:[D] and the dose equivalent __H__, the special names for the respective units should be used, that is, the name gray should be used instead of joules per kilogram for the unit of absorbed dose stem:[D] and the name sievert instead of joules per kilogram for the unit of dose equivalent stem:[H].
+  doi: 10.59161/CIPM1984REC1E
   notes: The CIPM, in 2002, decided to change the explanation of the quantity dose
     equivalent in the SI Brochure (Recommendation 2).

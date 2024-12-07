@@ -2,7 +2,53 @@
 metadata:
   title: 26e réunion du CCU
   identifier: '26'
-  date: '2024-04-10'
+  date: '2024-04-11'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cc/ccu/26-2024
 resolutions: []
+working_documents:
+- title: CCU/2024-01
+  pdf: https://www.bipm.org/documents/20126/157643156/CCU-24-01+Draft+Agenda_26th_CCU/59421920-e691-27ac-d1bb-a3ddaaad628b
+  description: Draft agenda for the meeting of CCU on 9-11 April 2024, V2
+  author: ''
+  date: 12/03/2024
+- title: CCU/2024-04_a
+  pdf: https://www.bipm.org/documents/20126/210108446/CCU-24-04_a+CCT+report+to+CCU-2024/fd6bf819-6eff-dde1-e2dc-aaa3c598c640
+  description: CCT report to the CCU
+  author: C. Gaiser, G. Machin
+  date: 26/02/2024
+- title: CCU/2024-04_b
+  pdf: https://www.bipm.org/documents/20126/217685749/CCU-24-04_b+Report+from+the+first+meeting+of+the+FORUM-MD+to+CCU/afaa0460-faed-1491-b1c6-7d37a56bd9dc
+  description: Report from the first meeting of the Forum-MD
+  author: P. Blattner
+  date: 12/03/2024
+- title: CCU/2024-04_c
+  pdf: https://www.bipm.org/documents/20126/219113065/CCU-24-04_c+CCPR+Report+to+CCU+2024/97b65b96-c3af-6297-87ec-45683c4c2fc5
+  description: CCPR report to the CCU
+  author: J. Viallon
+  date: 15/03/2024
+- title: CCU/2024-04_d
+  pdf: https://www.bipm.org/documents/20126/227620178/CCU-24-04_d+CCQM+ad+hoc+WG+mole+report/814dc8df-bcb5-941d-2067-82b500033704
+  description: CCQM report to the CCU
+  author: R. Brown
+  date: 05/04/2024
+- title: CCU/2024-05_a
+  pdf: https://www.bipm.org/documents/20126/218156972/CCU-24-05_a++IEC+Report+to+the+CCU/5a6b8cfa-f2b7-9326-1a32-d9f6f77c3240
+  description: Report from the IEC
+  author: P. Sebellin
+  date: 13/03/2024
+- title: CCU/2024-05_b
+  pdf: https://www.bipm.org/documents/20126/219101588/CCU-24-05_b+CODATA+TGFC+2024+report+to+the+26th+CCU/eaa1ab9f-1bd7-5f27-a0c4-30e5626b5302
+  description: CODATA TFGC report
+  author: D. Newell
+  date: 15/03/2024
+- title: CCU/2024-05_c
+  pdf: https://www.bipm.org/documents/20126/220517598/CCU-24-05_c+CIE+report+to+CCU+2024/d1d23483-259e-d641-d925-58d572b1b030
+  description: CIE report to the CCU
+  author: D.-H. Lee, J. Veitch
+  date: 02/04/2024
+- title: CCU/2024-05_d
+  pdf: https://www.bipm.org/documents/20126/231446650/CCU-24-05_d+Report+of+the+IAU+to+the+26th+meeting+of+the+CCU/c9a9e44c-6f5e-9846-65be-7d3ba72e8be2
+  description: Report of the IAU to the CU
+  author: N. Capitaine
+  date: 10/04/2024

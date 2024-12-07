@@ -1,0 +1,85 @@
+---
+metadata:
+  title: CCPR-WG-SP
+  identifier: '2023-09-08'
+  date: '2023-09-08'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccpr/wg/ccpr-wg-sp/2023-09-08
+  workgroup: ccpr-wg-sp
+resolutions: []
+working_documents:
+- title: CCPR-WG-SP/2023-01
+  pdf: https://www.bipm.org/documents/20126/211093722/01.2023+CCPR+WG-SP+Agenda+V5/616eb9ea-a631-22e7-c21a-758e714220be
+  description: 2023 CCPR WG-SP Agenda V5
+  author: M. Nadal
+  date: 04/12/2023
+- title: CCPR-WG-SP/2023-02
+  pdf: https://www.bipm.org/documents/20126/211093539/02.SP+TG6+Fibre+Optics+Report_2023/c5f913ab-346a-c027-14db-c24acd3734a5
+  description: SP TG6 Fibre Optics Report-2023
+  author: J. Dubard
+  date: 05/02/2024
+- title: CCPR-WG-SP/2023-03
+  pdf: https://www.bipm.org/documents/20126/211093565/03.SP+TG7+DF+Few+Photon+Metrology+Report_2023/255f94d8-5294-6792-f50e-9e73691553ad
+  description: SP TG7 DF Few Photon Metrology Report_2023
+  author: D.H. Lee
+  date: 28/02/2024
+- title: CCPR-WG-SP/2023-04
+  pdf: https://www.bipm.org/documents/20126/211093587/04.SP+TG9+OTDR+Report_2023/e612fcdc-e13c-c9c1-e9bd-9d64170492cd
+  description: SP TG9 OTDR_2023
+  author: J. Morel
+  date: 27/09/2023
+- title: CCPR-WG-SP/2023-05
+  pdf: https://www.bipm.org/documents/20126/211093605/05.SP+TG10+Report_2023/57eb584c-72c1-ab4d-a0f4-bca6bb1929a4
+  description: SP TG10 Report_2023
+  author: M. Nadal
+  date: 26/02/2024
+- title: CCPR-WG-SP/2023-07
+  pdf: https://www.bipm.org/documents/20126/211093456/07.CCPR+Roadmap+2022-2032/a7abe9ce-ddd0-1eb2-6e6c-1366b54973a8
+  description: CCPR Roadmap 2022-2032
+  author: M. Nadal
+  date: 28/02/2024
+- title: CCPR-WG-SP/2023-08
+  pdf: https://www.bipm.org/documents/20126/211093631/08.SP+TG11+Single+Photon+Radiometry/e328aa6b-02b5-5969-704f-c2df3a4494ad
+  description: SP TG11 Single Photon Radiometry
+  author: S. Kuck
+  date: 27/09/2023
+- title: CCPR-WG-SP/2023-09
+  pdf: https://www.bipm.org/documents/20126/211093654/09.SP+TG12+DF+Use+of+White+LED+Sources+for+Photometry_2023/a2615aa5-72ab-87b7-6a45-674f19b2b4e0
+  description: SP TG12 DF Use of White LED Sources for Photometry_2023
+  author: H. Shitomi
+  date: 05/02/2024
+- title: CCPR-WG-SP/2023-11
+  pdf: https://www.bipm.org/documents/20126/211093676/11SP+TG13+Fibre+Report_2023/7df5d360-82e4-12f3-7894-479c90567108
+  description: SP TG13 Fibre Report
+  author: J. Lehman
+  date: 27/09/2023
+- title: CCPR-WG-SP/2023-12
+  pdf: https://www.bipm.org/documents/20126/211093744/12.CCPR+2023+TG13+%28fiber%29+presentation/aa0fc5c8-ce7a-b105-2d10-db5c78b98c4c
+  description: CCPR 2023 TG13 (fiber) presentation
+  author: J. Lehman
+  date: 05/02/2024
+- title: CCPR-WG-SP/2023-13
+  pdf: https://www.bipm.org/documents/20126/211093521/13.SP+TG+14+DF+Improved+1+W+Laser+Power+Responsivity/a65bbfba-9cff-d15c-646c-f12a84ef6ef3
+  description: SP TG14 DF Improved 1 W Laser Power Responsivity
+  author: J. Lehman
+  date: 05/02/2024
+- title: CCPR-WG-SP/2023-14
+  pdf: https://www.bipm.org/documents/20126/211093768/14CCPR+2023+TG14+%28LIGO%29+presentation/f3bb7ebc-bed3-a045-7d5b-53aa5bd040c2
+  description: CCPR 2023 TG14 (LIGO) presentation
+  author: J. Lehman
+  date: 27/09/2023
+- title: CCPR-WG-SP/2023-17
+  pdf: https://www.bipm.org/documents/20126/211093699/17TG16+Progress+Report+to+WG-SP+2023/7277be32-47dc-59be-f6d2-60ce696523a6
+  description: TG16 Progress Report to WG-SP 2023
+  author: Y. Ohno
+  date: 28/02/2024
+- title: CCPR-WG-SP/2023-18
+  pdf: https://www.bipm.org/documents/20126/211093475/18Minutes+of+Aug+21+TG16+meeting+%282023-9-4%29/08940f4a-f6dd-70b2-9b0c-0042f993cc9e
+  description: Minutes of Aug 21 TG16 meeting (2023-9-4)
+  author: Y. Ohno
+  date: 05/02/2024
+- title: CCPR-WG-SP/2023-19
+  pdf: https://www.bipm.org/documents/20126/211093497/19Report+on+CCU+CCQM+Workshop+2023+Counting+Quantities/46fd2f08-7a1d-81a0-be73-50ee2c0cbc74
+  description: Report on CCU CCQM Workshop 2023 Counting Quantities
+  author: S. Kuck
+  date: 27/09/2023

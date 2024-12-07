@@ -37,11 +37,172 @@ resolutions:
 
       que les fréquences de transition suivantes soient incluses ou mises à jour dans la liste des fréquences étalons recommandées
 
-      * la transition optique non perturbée 5s^2^ ^1^S~0~ - 5s 5p ^3^P~0~ de l’atome neutre de ^87^, à la fréquence de stem:[429 228 004 229 873","7 "Hz"], avec une incertitude-type relative de stem:[1 * 10^(-15)] (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 5s^2^ ^1^S~0~ - 5s 5p ^3^P~0~ de l’atome neutre de ^88^Sr, à la fréquence de stem:[429 228 066 418 012 "Hz"], avec une incertitude-type relative de stem:[1 * 10^(-14)] ;
-      * la transition optique non perturbée 4s ^2^S~1/2~ - 3d ^2^D~5/2~ de l'ion de ^stem:[40^(Ca)]+^, à la fréquence de stem:[411 042 129 776 393 "Hz"], avec une incertitude-type relative de stem:[4 * 10^(-14)] ;
-      * la transition optique non perturbée ^2^S~1/2~ stem:[(F = 0)] - ^2^stem:["F"]~7/2~ (stem:[F = 3], _m~stem:["F"]~_ = 0) de l'ion de ^stem:[171^(Yb)]+^, à la fréquence de stem:[642 121 496 772 657 "Hz"], avec une incertitude-type relative de stem:[6 * 10^(-14)] ;
-      * la transition optique non perturbée 6s^2^ ^1^S~0~ (stem:[F = 1/2]) - 6s 6p ^3^P~0~ (stem:[F = 1/2]) de l’atome neutre de ^171^Yb, à la fréquence de stem:[518 295 836 590 864 "Hz"], avec une incertitude-type relative de stem:[1","6 * 10^(-13)].
+      * la transition optique non perturbée 5s
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 5s 5p
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      de l’atome neutre de
+      +
+      ^87^
+      +
+      , à la fréquence de stem:[429 228 004 229 873","7 "Hz"], avec une incertitude-type relative de 1 × 10
+      +
+      ^-15^
+      +
+      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 5s
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      - 5s 5p
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      de l’atome neutre de
+      +
+      ^88^
+      +
+      Sr, à la fréquence de stem:[429 228 066 418 012 "Hz"], avec une incertitude-type relative de 1 × 10
+      +
+      ^-14^
+      +
+      ;
+      * la transition optique non perturbée 4s
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      - 3d
+      +
+      ^2^
+      +
+      D
+      +
+      ~5/2~
+      +
+      de l'ion de
+      +
+      ^40^
+      +
+      Ca
+      +
+      ^+^
+      +
+      , à la fréquence de stem:[411 042 129 776 393 "Hz"], avec une incertitude-type relative de 4 × 10
+      +
+      ^-14^
+      +
+      ;
+      * la transition optique non perturbée
+      +
+      ^2^
+      +
+      S
+      +
+      ~1/2~
+      +
+      (
+      +
+      stem:[F]
+      +
+      = 0) -
+      +
+      ^2^
+      +
+      stem:["F"]
+      +
+      ~7/2~
+      +
+      (
+      +
+      stem:[F]
+      +
+      = 3,
+      +
+      _m~stem:["F"]~_
+      +
+      = 0) de l'ion de
+      +
+      ^171^
+      +
+      Yb
+      +
+      ^+^
+      +
+      , à la fréquence de stem:[642 121 496 772 657 "Hz"], avec une incertitude-type relative de 6 × 10
+      +
+      ^-14^
+      +
+      ;
+      * la transition optique non perturbée 6s
+      +
+      ^2^
+      +
+
+      +
+      ^1^
+      +
+      S
+      +
+      ~0~
+      +
+      (
+      +
+      stem:[F]
+      +
+      = 1/2) - 6s 6p
+      +
+      ^3^
+      +
+      P
+      +
+      ~0~
+      +
+      (
+      +
+      stem:[F]
+      +
+      = 1/2) de l’atome neutre de
+      +
+      ^171^
+      +
+      Yb, à la fréquence de stem:[518 295 836 590 864 "Hz"], avec une incertitude-type relative de 1,6 × 10
+      +
+      ^-13^
+      +
+      .
+  doi: 10.59161/CCTF2009REC1F
 - dates:
   - '2009-06-05'
   subject: CCTF
@@ -104,6 +265,7 @@ resolutions:
     date_effective: '2009-06-05'
     message: recommande que le BIPM élabore des directives à ce sujet, en concertation
       avec les organisations régionales de métrologie.
+  doi: 10.59161/CCTF2009REC2F
 - dates:
   - '2009-06-05'
   subject: CCTF
@@ -119,43 +281,24 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2009-06-05'
-    message: considérant que l’insertion non prévisible de secondes intercalaires,
-      dont on ne connaît pas à l’avance le nombre, génère des sauts du Temps universel
-      coordonné (UTC), tel qu’il a été défini en 1972, qui affectent de manière défavorable
-      son utilisation ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que cette définition de l’UTC ne peut répondre aux exigences
-      des nombreux systèmes de navigation, actuels et à venir, qui nécessitent une
-      échelle de temps uniforme ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que d’autres échelles de temps, non affectées par l’insertion
-      de secondes intercalaires, sont élaborées et prolifèrent
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que la nécessité de connaître l’angle de rotation de la Terre
-      dans des systèmes de référence célestes, destinés à être utilisés dans le domaine
-      de la navigation maritime céleste, n’est plus d’actualité ou peut facilement
-      être satisfaite par les valeurs de [stem:[UT1 - UTC]] telles que évaluées et
-      publiées par le Service international de la rotation terrestre et des systèmes
-      de référence (IERS) ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que l’UT1 peut entièrement satisfaire aux besoins liés à
-      la détermination de l’angle de rotation terrestre ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant qu’il est nécessaire de disposer d’un délai suffisant pour
-      permettre la mise en place de programmes informatisés pour les systèmes de navigation
-      terrestre ou par satellite, adaptés à tout changement de la définition de l’UTC
-      ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant qu’au cours des dix dernières années, un certain nombre d’organisations
-      techniques nationales et internationales ont exprimé leur inquiétude croissante
-      concernant la définition actuelle de l’UTC et la prolifération simultanée d’autres
-      échelles de temps
+    message: |-
+      *considérant*
+
+      * que l’insertion non prévisible de secondes intercalaires, dont on ne connaît pas à l’avance le nombre, génère des sauts du Temps universel coordonné (UTC), tel qu’il a été défini en 1972, qui affectent de manière défavorable son utilisation ;
+      * que cette définition de l’UTC ne peut répondre aux exigences des nombreux systèmes de navigation, actuels et à venir, qui nécessitent une échelle de temps uniforme ;
+      * que d’autres échelles de temps, non affectées par l’insertion de secondes intercalaires, sont élaborées et prolifèrent
+      * que la nécessité de connaître l’angle de rotation de la Terre dans des systèmes de référence célestes, destinés à être utilisés dans le domaine de la navigation maritime céleste, n’est plus d’actualité ou peut facilement être satisfaite par les valeurs de [
+      +
+      stem:[UT1]
+      +
+      -
+      +
+      stem:[UTC]
+      +
+      ] telles que évaluées et publiées par le Service international de la rotation terrestre et des systèmes de référence (IERS) ;
+      * que l’UT1 peut entièrement satisfaire aux besoins liés à la détermination de l’angle de rotation terrestre ;
+      * qu’il est nécessaire de disposer d’un délai suffisant pour permettre la mise en place de programmes informatisés pour les systèmes de navigation terrestre ou par satellite, adaptés à tout changement de la définition de l’UTC ;
+      * qu’au cours des dix dernières années, un certain nombre d’organisations techniques nationales et internationales ont exprimé leur inquiétude croissante concernant la définition actuelle de l’UTC et la prolifération simultanée d’autres échelles de temps
   actions:
   - type: recommends
     date_effective: '2009-06-05'
@@ -163,6 +306,7 @@ resolutions:
       *recommande*
 
       que les agences nationales et internationales, ainsi que les unions scientifiques concernées par la définition des échelles de temps internationales, réfléchissent de toute urgence aux décisions à prendre concernant la définition à venir de l’UTC, afin de parvenir dès que possible à un accord international à ce sujet.
+  doi: 10.59161/CCTF2009REC3F
 - dates:
   - '2009-06-05'
   subject: CCTF
@@ -213,6 +357,7 @@ resolutions:
       *recommande*
 
       que le directeur du BIPM, après concertation avec les unions scientifiques concernées, discute de façon formelle avec le CIPM des mesures nécessaires à prendre afin de demander à la Conférence générale des poids et mesures, lors de sa 23^e^ réunion, d’adopter l’ITRS, tel que défini par l’Union géodésique et géophysique internationale (UGGI), et réalisé de manière pratique par le Service international de la rotation terrestre et des systèmes de référence (IERS) et le Service international GNSS (IGS), comme système de référence international terrestre unique pour toutes les applications métrologiques.
+  doi: 10.59161/CCTF2009REC4F
 - dates:
   - '2009-06-05'
   subject: CCTF
@@ -229,39 +374,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2009-06-05'
-    message: considérant que le Système international de référence terrestre (ITRS)
-      a été recommandé par l’Union astronomique internationale (UAI) et l’Union géodésique
-      et géophysique internationale (UGGI) pour les applications dans le domaine des
-      sciences de la terre et de l’espace ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que le Repère international de référence terrestre (ITRF)
-      fournit l’accès primaire à l’ITRS, et que les systèmes géodésiques globaux WGS84,
-      PZ-90, GTRF (Galileo Terrestrial Reference Frame), CGS’2000 (China Geodetic
-      System 2000), assortis de densifications régionales, y donnent également accès
-      avec une incertitude estimée de stem:[3 "cm"] à stem:[40 "cm"] ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que l’échelle de temps approuvée par la Conférence générale
-      des poids et mesures, lors de sa 15^e^ réunion en 1975, afin d’assurer la coordination
-      et la dissémination du temps dans le monde est le Temps universel coordonnée
-      (UTC) ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que le BIPM assure la collaboration nécessaire afin de maintenir
-      et de disséminer l’UTC ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que le temps du GPS est asservi à la réalisation en temps
-      réel de l’UTC maintenue par l’Observatoire naval des États-Unis d’Amérique,
-      UTC(USNO) (modulo stem:[1 "s"]), et le temps du GLONASS asservi à la réalisation
-      en temps réel de l’UTC maintenue par le VNIIFTRI, UTC(SU) ; et que le temps
-      de Galileo sera asservi à un ensemble de réalisations européennes de l’UTC,
-      en conservant le même décalage en nombre de secondes que le temps du GPS ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que le BIPM participe au Comité international sur le GNSS
-      (ICG) en tant qu’observateur ;
+    message: |-
+      *considérant*
+
+      * que le Système international de référence terrestre (ITRS) a été recommandé par l’Union astronomique internationale (UAI) et l’Union géodésique et géophysique internationale (UGGI) pour les applications dans le domaine des sciences de la terre et de l’espace ;
+      * que le Repère international de référence terrestre (ITRF) fournit l’accès primaire à l’ITRS, et que les systèmes géodésiques globaux WGS84, PZ-90, GTRF (Galileo Terrestrial Reference Frame), CGS’2000 (China Geodetic System 2000), assortis de densifications régionales, y donnent également accès avec une incertitude estimée de stem:[3 "cm"] à stem:[40 "cm"] ;
+      * que l’échelle de temps approuvée par la Conférence générale des poids et mesures, lors de sa 15
+      +
+      ^e^
+      +
+      réunion en 1975, afin d’assurer la coordination et la dissémination du temps dans le monde est le Temps universel coordonnée (UTC) ;
+      * que le BIPM assure la collaboration nécessaire afin de maintenir et de disséminer l’UTC ;
+      * que le temps du GPS est asservi à la réalisation en temps réel de l’UTC maintenue par l’Observatoire naval des États-Unis d’Amérique, UTC(USNO) (modulo stem:[1 "s"]), et le temps du GLONASS asservi à la réalisation en temps réel de l’UTC maintenue par le VNIIFTRI, UTC(SU) ; et que le temps de Galileo sera asservi à un ensemble de réalisations européennes de l’UTC, en conservant le même décalage en nombre de secondes que le temps du GPS ;
+      * que le BIPM participe au Comité international sur le GNSS (ICG) en tant qu’observateur ;
   - type: having / having regard
     date_effective: '2009-06-05'
     message: sachant que de nouveaux systèmes globaux de navigation par satellite
@@ -291,12 +416,15 @@ resolutions:
       * que les références géodésiques utilisées pour les systèmes globaux de navigation par satellite soient alignées le plus exactement possible sur l’ITRS ;
       * que les échelles de temps internes des systèmes globaux de navigation par satellite soient synchronisées le plus exactement possible sur l’UTC (modulo stem:[1 "s"]) ;
       * que les systèmes globaux de navigation par satellite diffusent, outre leurs propres échelles de temps :
+      +
+
       ** l’écart entre leur échelle de temps et une réalisation en temps réel de l’UTC,
       ** les écarts entre les échelles de temps des divers systèmes globaux ;
   - type: requests
     date_effective: '2009-06-05'
     message: et demande que le BIPM coordonne les actions nécessaires pour ce faire
       au sein du Comité international sur le GNSS (ICG).
+  doi: 10.59161/CCTF2009REC5F
 - dates:
   - '2009-06-05'
   subject: CCTF
@@ -314,44 +442,48 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2009-06-05'
-    message: considérant que la mission du BIPM est d’assurer l’unification mondiale
-      des mesures et leur traçabilité au Système international d’unités (SI) ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant qu’à l’heure actuelle, deux systèmes globaux de navigation
-      par satellite sont en fonctionnement et que d’autres sont en cours de mise au
-      point ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que les systèmes globaux de navigation par satellite actuellement
-      utilisés disséminent des prédictions des échelles de temps locales stem:["UTC"
-      (k)] ; par exemple, le GPS dissémine des prédictions de la réalisation en temps
-      réel de l’UTC maintenue par l’Observatoire naval des États-Unis d’Amérique,
-      UTC(USNO), et le GLONASS celles de la réalisation en temps réel de l’UTC maintenue
-      par le VNIIFTRI, UTC(SU) ;
-  - type: considering
-    date_effective: '2009-06-05'
-    message: considérant que la Section 5 de la _Circulaire T_ du BIPM publie la relation
-      entre l’UTC et le TAI et les échelles de temps de ces systèmes globaux de navigation
-      par satellite ;
+    message: |-
+      *considérant*
+
+      * que la mission du BIPM est d’assurer l’unification mondiale des mesures et leur traçabilité au Système international d’unités (SI) ;
+      * qu’à l’heure actuelle, deux systèmes globaux de navigation par satellite sont en fonctionnement et que d’autres sont en cours de mise au point ;
+      * que les systèmes globaux de navigation par satellite actuellement utilisés disséminent des prédictions des échelles de temps locales UTC(
+      +
+      stem:[k]
+      +
+      ) ; par exemple, le GPS dissémine des prédictions de la réalisation en temps réel de l’UTC maintenue par l’Observatoire naval des États-Unis d’Amérique, UTC(USNO), et le GLONASS celles de la réalisation en temps réel de l’UTC maintenue par le VNIIFTRI, UTC(SU) ;
+      * que la Section 5 de la
+      +
+      _Circulaire T_
+      +
+      du BIPM publie la relation entre l’UTC et le TAI et les échelles de temps de ces systèmes globaux de navigation par satellite ;
   - type: having / having regard
     date_effective: '2009-06-05'
     message: |-
       *ayant pour objectif*
 
-      * de faciliter l’accès, pour tout utilisateur, aux prédictions des échelles de temps locales stem:["UTC" (k)] disséminées par les systèmes globaux de navigation par satellite actuels et à venir ;
+      * de faciliter l’accès, pour tout utilisateur, aux prédictions des échelles de temps locales UTC(
+      +
+      stem:[k]
+      +
+      ) disséminées par les systèmes globaux de navigation par satellite actuels et à venir ;
   actions:
   - type: recommends
     date_effective: '2009-06-05'
-    message: recommande que la Section 5 de la _Circulaire T_ intègre des données
-      sur la relation entre l’UTC et le TAI et les échelles de temps locales prédites
-      UTC(k), disséminées par les systèmes globaux de navigation par satellite ;
-  - type: recommends
-    date_effective: '2009-06-05'
-    message: recommande que la Section 5 de la _Circulaire T_ soit renommée « Relation
-      entre l’UTC et le TAI et les prédictions des échelles de temps locales UTC(k)
-      disséminées par les systèmes globaux de navigation par satellite, ainsi que
-      leurs échelles de temps ».
+    message: |-
+      *recommande*
+
+      * que la Section 5 de la
+      +
+      _Circulaire T_
+      +
+      intègre des données sur la relation entre l’UTC et le TAI et les échelles de temps locales prédites UTC(k), disséminées par les systèmes globaux de navigation par satellite ;
+      * que la Section 5 de la
+      +
+      _Circulaire T_
+      +
+      soit renommée « Relation entre l’UTC et le TAI et les prédictions des échelles de temps locales UTC(k) disséminées par les systèmes globaux de navigation par satellite, ainsi que leurs échelles de temps ».
+  doi: 10.59161/CCTF2009REC6F
 working_documents:
 - title: CCTF/2009-00
   pdf: https://www.bipm.org/documents/20126/28436630/working-document-ID-3333/89ee0b52-319c-13ec-66d7-b6ca27a27958

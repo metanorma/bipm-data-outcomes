@@ -21,17 +21,27 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2001-06-21'
+    message: considering that the present definition of the second, based on the caesium-133
+      atom, remains unchanged,
+  - type: considering
+    date_effective: '2001-06-21'
     message: |-
-      *considering that*
-
-      * the present definition of the second, based on the caesium-133 atom, remains unchanged,
-       +
+      considering that +
       * there are a number of new atoms and ions being studied as potential bases for atomic frequency standards,
-       +
+  - type: considering
+    date_effective: '2001-06-21'
+    message: |-
+      considering that +
       * new optical-frequency measurement concepts may allow the use of optical transitions as practical frequency standards, since they provide for a direct microwave output from such standards,
-       +
+  - type: considering
+    date_effective: '2001-06-21'
+    message: |-
+      considering that +
       * new frequency standards based on other microwave transitions are being studied,
-       +
+  - type: considering
+    date_effective: '2001-06-21'
+    message: |-
+      considering that +
       * one of these new standards could eventually be considered as the basis for a new definition of the second;
   actions:
   - type: instructs
@@ -48,6 +58,7 @@ resolutions:
     message: recommends that the requirements for documentation of uncertainty that
       apply to secondary representations of the second be the same as those for primary
       caesium standards for use in International Atomic Time.
+  doi: 10.59161/CCTF2001REC1E
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -97,6 +108,7 @@ resolutions:
     date_effective: '2001-06-21'
     message: and recommends that the timing laboratories and the BIPM take the necessary
       steps to allow the IGS to achieve this goal.
+  doi: 10.59161/CCTF2001REC2E
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -112,29 +124,56 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2001-06-21'
-    message: considering that the International Bureau of Weights and Measures (BIPM)
-      forms International Atomic Time (TAI) and, together with the International Earth
-      Rotation Service (IERS), maintains Coordinated Universal Time (UTC) through
-      the contributed timing data from institutes throughout the world,
-  - type: considering
-    date_effective: '2001-06-21'
-    message: considering that there is a need for a specific international notation
-      for time scales to avoid all ambiguity as to their traceability to the international
-      time references of the BIPM,
-  - type: considering
-    date_effective: '2001-06-21'
-    message: considering that Recommendation ITU-R stem:["TF"].536-1 (1978, 1998)
-      “Time Scale Notations” has established notation UTC(k) for time scales realized
-      by institute “stem:[k]”;
+    message: |-
+      *considering that*
+
+      * the International Bureau of Weights and Measures (BIPM) forms International Atomic Time (TAI) and, together with the International Earth Rotation Service (IERS), maintains Coordinated Universal Time (UTC) through the contributed timing data from institutes throughout the world,
+      * there is a need for a specific international notation for time scales to avoid all ambiguity as to their traceability to the international time references of the BIPM,
+      * Recommendation ITU-R stem:["TF"].536-1 (1978, 1998) “Time Scale Notations” has established notation UTC(k) for time scales realized by institute “
+      +
+      stem:[k]
+      +
+      ”;
   - type: noting
     date_effective: '2001-06-21'
     message: |-
       *Notes appended to Recommendation CCTF 3 (2001)*
 
       . The institutes participating in the formation of TAI are:
+      +
+
       .. the national metrology institutes and designated laboratories participating in the CIPM Mutual Recognition Arrangement (MRA) and
       .. other institutes and observatories of the Member States of the Metre Convention and Associates of the CGPM officially nominated to keep time scales for scientific, navigational or astronomical purposes.
-      . It is suggested that TAIstem:[(k)] be defined by the relation stem:[TAI(k) = UTC(k)] + _DTAI_, where _DTAI_ is the number of integral seconds specified by the IERS as being the difference between UTC and TAI.
+
+      . It is suggested that TAI(
+      +
+      stem:[k]
+      +
+      ) be defined by the relation
+      +
+      stem:[TAI]
+      +
+      (
+      +
+      stem:[k]
+      +
+      ) =
+      +
+      stem:[UTC]
+      +
+      (
+      +
+      stem:[k]
+      +
+      ) +
+      +
+      __DTAI__
+      +
+      , where
+      +
+      _DTAI_
+      +
+      is the number of integral seconds specified by the IERS as being the difference between UTC and TAI.
   actions:
   - type: affirms / reaffirming
     date_effective: '2001-06-21'
@@ -144,13 +183,14 @@ resolutions:
     date_effective: '2001-06-21'
     message: "*recommends* that henceforth the designation of the institute “stem:[k]”
       refers only to those institutes that participate in the formation of TAI and
-      appear in Section 1, [stem:[UTC - UTC(k)]], of the monthly BIPM _Circular T_;"
+      appear in Section 1, [stem:[UTC - UTC(k)]], of the monthly BIPM __Circular T__;"
   - type: requests
     date_effective: '2001-06-21'
     message: "*requests* the Director of the BIPM to write to the Director of the
       ITU-R to notify ITU-R of the recommendation above, and to seek ITU-R consideration
       for the adoption of nomenclature TAIstem:[(k)] analogous to that of stem:[\"UTC\"
       (k)].\n\n "
+  doi: 10.59161/CCTF2001REC3E
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -193,6 +233,7 @@ resolutions:
     date_effective: '2001-06-21'
     message: recommends that techniques used for the time links of TAI be independently
       calibrated.
+  doi: 10.59161/CCTF2001REC4E
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -252,6 +293,7 @@ resolutions:
     date_effective: '2001-06-21'
     message: recommends that timing laboratories pay particular attention to the conditions
       under which their time receiving equipment operates.
+  doi: 10.59161/CCTF2001REC5E
   notes: |-
     The CGGTTS technical guidelines are available as a working document of the 15th CCTF:
 

@@ -37,6 +37,7 @@ resolutions:
   - type: recommends
     date_effective: '1970-06-19'
     message: "*recommande* l'adoption d'une échelle de Temps Atomique International."
+  doi: 10.59161/CCDS1970REC1F
 - dates:
   - '1970-06-19'
   subject: CCDS
@@ -55,3 +56,4 @@ resolutions:
       établie par le Bureau International de l'Heure sur la base des indications d'horloges
       atomiques fonctionnant dans divers établissements conformément à la définition
       de la seconde, unité de temps du Système International d'Unités.
+  doi: 10.59161/CCDS1970REC2F

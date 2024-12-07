@@ -1,8 +1,100 @@
 ---
 metadata:
-  title: 31st meeting of the CCT and its working groups
+  title: 31st meeting of the CCT
   identifier: '31'
   date: '2024-05-17'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cc/cct/31-2024
 resolutions: []
+working_documents:
+- title: CCT/2024-01
+  pdf: https://www.bipm.org/documents/20126/240684632/Agenda+31st+meeting+CCT/1c6ada37-fc72-d3bf-d922-d8e3eaaa311e
+  description: Agenda of the 31st CCT Meeting
+  author: S. Solve
+  date: 29/04/2024
+- title: CCT/2024-02
+  pdf: https://www.bipm.org/documents/20126/234357937/Activity+report+2024+-+NRC/55155fbb-2aaa-dbfc-a8bd-243ed4cb5a9d
+  description: Activity report 2024 - NRC
+  author: Patrick Rourke (NRC delegate to the CCT)
+  date: 16/04/2024
+- title: CCT/2024-03
+  pdf: https://www.bipm.org/documents/20126/234357955/CCT-TG-Dig+report+to+CCT+-+2024-04-11/938d4ded-caf6-d5c4-39e1-1872efd6faf7
+  description: TG-Dig report 31st CCT
+  author: Patrick Rourke
+  date: 16/04/2024
+- title: CCT/2024-04
+  pdf: https://www.bipm.org/documents/20126/237262613/SI-App2-kelvin-2024-TG-Dig-revision/1444eda0-9ec1-7917-9eb7-41bc0d73e23a
+  description: Mise en pratique for the definition of the kelvin in the SI “2019D”
+    version
+  author: CCT by CCT-TG-Dig
+  date: 22/04/2024
+- title: CCT/2024-05
+  pdf: https://www.bipm.org/documents/20126/237262554/CCT-TG-Dig-archiving-indexing-recommendation/da260795-c68f-eb2b-1e5e-0ee6e173dfb8
+  description: 'Recommendation to the CCT: document archiving, indexing and outreach
+    approach'
+  author: CCT-TG-Dig
+  date: 22/04/2024
+- title: CCT/2024-06
+  pdf: https://www.bipm.org/documents/20126/237262583/FORUM-MD-Report-to-CCT/267f7f58-ba26-24a2-c293-865d7304c1bc
+  description: Report from the CIPM Forum on Metrology and Digitalization
+  author: Patrick Rourke (CCT digitalization representative)
+  date: 22/04/2024
+- title: CCT/2024-07
+  pdf: https://www.bipm.org/documents/20126/242129716/CCT+Workshop+Program-2024/2fa77191-f7df-6654-8c80-aae0ac2d8a50
+  description: CCT Workshop Program
+  author: Andrea Peruzzi
+  date: 02/05/2024
+- title: CCT/2024-08
+  pdf: https://www.bipm.org/documents/20126/245580491/CIPM+STG+CENV+May+2024+report/b54d8eb5-5253-35c9-5821-1c398ddc29be
+  description: CIPM STG CENV May 2024 report
+  author: Dolores del Campo Maldonado
+  date: '09/05/2024'
+- title: CCT/2024-09
+  pdf: https://www.bipm.org/documents/20126/247556123/ToR+Draft+for+traceability+to+thermodynamic+temperature/b292be29-dfee-862a-cae5-9223d9fec9f5
+  description: ToR Draft for traceability to thermodynamic temperature
+  author: G. Machin and C. Gaiser
+  date: 16/05/2024
+- title: CCT/2024-10
+  pdf: https://www.bipm.org/documents/20126/247556726/Highlights_WG_CTh_31st_CCT_Meeting/d7f16f86-71c0-03a1-0e09-41de2d475881
+  description: WG CTh report 31st CCT
+  author: Christof Gaiser
+  date: 16/05/2024
+- title: CCT/2024-11
+  pdf: https://www.bipm.org/documents/20126/247556819/CCT_CT_TG_ET_presentation/07936d08-6251-1f13-1233-58f3971788e3
+  description: TG CTh-ET report 31st CCT
+  author: Zeeshan Ahmed
+  date: 16/05/2024
+- title: CCT/2024-12
+  pdf: https://www.bipm.org/documents/20126/247556846/CCT+WG+NCTherm+update+2024/2058d2e7-e929-3bc7-5176-5c73615bfa33
+  description: WG NCTh report 31st CCT
+  author: Graham Machin
+  date: 16/05/2024
+- title: CCT/2024-13
+  pdf: https://www.bipm.org/documents/20126/247557236/WG-Hu+Highlights+2024+Report+to+CCT/5f35ddd8-9844-b4e9-fb68-7eeac41a2780
+  description: WG Hu report 31st CCT
+  author: Stephanie Bell
+  date: 16/05/2024
+- title: CCT/2024-14
+  pdf: https://www.bipm.org/documents/20126/247556931/BIPM_CCT_TG_ThQ_Sevres_2024_05_16_vf/33e6e1cd-426a-a753-e459-896172963e56
+  description: WG ThQ report 31st CCT
+  author: Jean Rémy Filtz
+  date: 16/05/2024
+- title: CCT/2024-15
+  pdf: https://www.bipm.org/documents/20126/248048800/WG+ENV+and+TG+AirT+Report+to+CCT+2024/0707bfa8-797c-fe43-7063-319a357dfa19
+  description: WG ENV-TG AirT report 31st CCT
+  author: A. Merlone and A. Olsen
+  date: 17/05/2024
+- title: CCT/2024-16
+  pdf: https://www.bipm.org/documents/20126/247557267/Presentation+to+CCT+WG+CMC+May+16+2024/62b9600b-d7a6-b271-a342-5a1911e39259
+  description: WG CMC report  31st CCT
+  author: Jovan Bojkovski
+  date: 16/05/2024
+- title: CCT/2024-17
+  pdf: https://www.bipm.org/documents/20126/248048828/CCT+WG-KC+Presentation+to+CCT+May+2024/64a07ef0-ea90-3406-79bd-d363c468473a
+  description: WG-KC report 31st CCT
+  author: Andrea Peruzzi
+  date: 17/05/2024
+- title: CCT/2024-18
+  pdf: https://www.bipm.org/documents/20126/248048096/GULFMET+CCT-16-17+May+.+2024+v2/911dbda4-f5e5-4910-bdb8-1dc44d63b783
+  description: GULFMET Report to 31st CCT
+  author: Nasser AlDawood

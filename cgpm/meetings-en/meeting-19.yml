@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 19th meeting of the CGPM
-  identifier: 19
+  identifier: '19'
   date: '1991-10-04'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/19-1991
@@ -49,6 +49,7 @@ resolutions:
     message: recommends that the coordinates adopted for antennas used in single-way
       time comparison by satellite techniques correspond to their real position in
       the terrestrial reference system of the International Earth Rotation Service.
+  doi: 10.59161/CGPM1991RES1E
 - dates:
   - '1991-10-04'
   subject: CGPM
@@ -85,19 +86,43 @@ resolutions:
     date_effective: '1991-10-04'
     message: '*noting* the decisions made by the Comité International des Poids et
       Mesures in 1988, during its 77th Meeting concerning these adjustments, in particular
-      the conventional values stem:[K_(J-90)] (equal to stem:[483 597","9 "GHz"/"V"])
-      and stem:[R_(K-90)] (equal to 25 812,807 Ω) attributed to the Josephson constant
-      stem:[K_("J")] and the von Klitzing constant stem:[R_("K")] used in representations
+      the conventional values __K__~J-90~ (equal to stem:[483 597","9 "GHz"/"V"])
+      and __R__~K-90~ (equal to 25 812,807 Ω) attributed to the Josephson constant
+      __K__~stem:["J"]~ and the von Klitzing constant __R__~stem:["K"]~ used in representations
       of the volt and the ohm respectively,'
   actions:
   - type: recommends
     date_effective: '1991-10-04'
-    message: recommends that national laboratories continue their efforts to reduce
-      the uncertainty in the knowledge of the ratios stem:[K_(J-90)/K_("J")] and stem:[R_(K-90)/R_("K")],
-  - type: recommends
-    date_effective: '1991-10-04'
-    message: recommends that research be continued into the basic theory of the Josephson
-      and quantum-Hall effects.
+    message: |-
+      *recommends*
+
+      * that national laboratories continue their efforts to reduce the uncertainty in the knowledge of the ratios
+      +
+      __K__
+      +
+      ~J-90~
+      +
+      /
+      +
+      __K__
+      +
+      ~stem:["J"]~
+      +
+      and
+      +
+      __R__
+      +
+      ~K-90~
+      +
+      /
+      +
+      __R__
+      +
+      ~stem:["K"]~
+      +
+      ,
+      * that research be continued into the basic theory of the Josephson and quantum-Hall effects.
+  doi: 10.59161/CGPM1991RES2E
 - dates:
   - '1991-10-04'
   subject: CGPM
@@ -140,6 +165,7 @@ resolutions:
       the worldwide uniformity and long-term stability in the measurement of temperature
       by the rapid implementation of the ITS-90 and the maintenance of research programmes
       on fundamental thermometry."
+  doi: 10.59161/CGPM1991RES3E
 - dates:
   - '1991-10-04'
   subject: CGPM
@@ -159,7 +185,7 @@ resolutions:
     message: |-
       *decides* to add to the list of SI prefixes to be used for multiples and submultiples of units, adopted by the 11th CGPM, Resolution 12, paragraph 3, the 12th CGPM, Resolution 8, and the 15th CGPM, Resolution 10, the following prefixes:
 
-      [width=100%]
+      [cols="8,7,5"]
       |===
       | Multiplying factor | Prefix | Symbol
 
@@ -169,6 +195,7 @@ resolutions:
       .<| stem:[10^(-24)] .<| yocto .<| y
 
       |===
+  doi: 10.59161/CGPM1991RES4E
   notes: The names zepto and zetta are derived from septo suggesting the number seven
     (the seventh power of stem:[10^(3)]) and the letter "z" is substituted for the
     letter "s" to avoid the duplicate use of the letter "s" as a symbol. The names

@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 19e réunion de la CGPM
-  identifier: 19
+  identifier: '19'
   date: '1991-10-04'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/cg/cgpm/19-1991
@@ -52,6 +52,7 @@ resolutions:
       les comparaisons d'horloges par satellite, à sens unique, correspondent à leur
       position réelle dans le système de référence terrestre du Service international
       de la rotation terrestre.
+  doi: 10.59161/CGPM1991RES1F
 - dates:
   - '1991-10-04'
   subject: CGPM
@@ -90,21 +91,44 @@ resolutions:
     date_effective: '1991-10-04'
     message: '*tenant compte* des décisions prises par le Comité international des
       poids et mesures en 1988, lors de sa 77^e^ session, au sujet de ces ajustements,
-      et en particulier des valeurs stem:[K_(J-90)] (égale à stem:[483 597","9 "GHz"/"V"])
-      et stem:[R_(K-90)] (égale à 25 812,807 Ω attribuées par convention, respectivement,
-      à la constante de Josephson stem:[K_("J")] lorsqu''elle est utilisée pour représenter
-      le volt et à la constante de von Klitzing stem:[R_("K")] lorsqu''elle est utilisée
-      pour représenter l''ohm,'
+      et en particulier des valeurs __K__~J-90~ (égale à stem:[483 597","9 "GHz"/"V"])
+      et __R__~K-90~ (égale à 25 812,807 Ω attribuées par convention, respectivement,
+      à la constante de Josephson __K__~stem:["J"]~ lorsqu''elle est utilisée pour
+      représenter le volt et à la constante de von Klitzing __R__~stem:["K"]~ lorsqu''elle
+      est utilisée pour représenter l''ohm,'
   actions:
   - type: recommends
     date_effective: '1991-10-04'
-    message: recommande que les laboratoires nationaux poursuivent leurs efforts pour
-      réduire l'incertitude sur la connaissance que l'on a des rapports stem:[K_(J-90)/K_("J")]
-      et stem:[R_(K-90)/R_("K")],
-  - type: recommends
-    date_effective: '1991-10-04'
-    message: recommande que soient poursuivies les recherches concernant la théorie
-      fondamentale de l'effet Josephson et de l'effet Hall quantique.
+    message: |-
+      *recommande*
+
+      * que les laboratoires nationaux poursuivent leurs efforts pour réduire l'incertitude sur la connaissance que l'on a des rapports
+      +
+      __K__
+      +
+      ~J-90~
+      +
+      /
+      +
+      __K__
+      +
+      ~stem:["J"]~
+      +
+      et
+      +
+      __R__
+      +
+      ~K-90~
+      +
+      /
+      +
+      __R__
+      +
+      ~stem:["K"]~
+      +
+      _,_
+      * que soient poursuivies les recherches concernant la théorie fondamentale de l'effet Josephson et de l'effet Hall quantique.
+  doi: 10.59161/CGPM1991RES2F
 - dates:
   - '1991-10-04'
   subject: CGPM
@@ -130,18 +154,23 @@ resolutions:
       proche que possible de la température thermodynamique,
   - type: recalling / further recalling
     date_effective: '1991-10-04'
-    message: rappelant que, dans sa Résolution 7, la 18^e^ Conférence générale avait
-      invité le Comité international des poids et mesures et les laboratoires nationaux
-      à préparer et adopter une nouvelle échelle internationale pour remplacer l'Échelle
-      internationale pratique de température de 1968, dont on savait alors qu'elle
-      s'écartait de façon significative de la température thermodynamique,
-  - type: recalling / further recalling
-    date_effective: '1991-10-04'
-    message: rappelant que l'Échelle internationale de température de 1990 (EIT-90)
-      adoptée par le Comité international en 1989, lors de sa 78^e^ session, est dans
-      son ensemble plus précise, plus facile à réaliser et plus étroitement en accord
-      avec la température thermodynamique et par conséquent satisfait aux exigences
-      mentionnées dans la Résolution 7 de la 18^e^ Conférence générale,
+    message: |-
+      *rappelant*
+
+      * que, dans sa Résolution 7, la 18
+      +
+      ^e^
+      +
+      Conférence générale avait invité le Comité international des poids et mesures et les laboratoires nationaux à préparer et adopter une nouvelle échelle internationale pour remplacer l'Échelle internationale pratique de température de 1968, dont on savait alors qu'elle s'écartait de façon significative de la température thermodynamique,
+      * que l'Échelle internationale de température de 1990 (EIT-90) adoptée par le Comité international en 1989, lors de sa 78
+      +
+      ^e^
+      +
+      session, est dans son ensemble plus précise, plus facile à réaliser et plus étroitement en accord avec la température thermodynamique et par conséquent satisfait aux exigences mentionnées dans la Résolution 7 de la 18
+      +
+      ^e^
+      +
+      Conférence générale,
   actions:
   - type: recommends
     date_effective: '1991-10-04'
@@ -149,6 +178,7 @@ resolutions:
       pour améliorer l'uniformité mondiale et la stabilité à long terme des mesures
       de température en mettant rapidement en œuvre l'EIT-90 et de maintenir le niveau
       de leurs programmes de recherche fondamentale en thermométrie."
+  doi: 10.59161/CGPM1991RES3F
 - dates:
   - '1991-10-04'
   subject: CGPM
@@ -168,10 +198,12 @@ resolutions:
     message: |-
       *décide* d'ajouter à la liste des préfixes SI pour la formation des noms des multiples et sous-multiples des unités, adoptée par la 11^e^ CGPM, Résolution 12, paragraphe 3, la 12^e^ CGPM, Résolution 8 et la 15^e^ CGPM, Résolution 10, les préfixes suivants :
 
+      [cols="8,7,5"]
       |===
       a| Facteur par lequel +
        l'unité est multipliée
-      | Préfixe | Symbole
+      | Préfixe
+      | Symbole
 
       .>| stem:[10^(21)] .>| zetta .>| Z
       .>| stem:[10^(-21)] .>| zepto .>| z
@@ -179,6 +211,7 @@ resolutions:
       .>| stem:[10^(-24)] .>| yocto .>| y
 
       |===
+  doi: 10.59161/CGPM1991RES4F
   notes: Les noms zepto et zetta évoquent le chiffre sept (septième puissance de stem:[10^(3)])
     et la lettre « z » remplace la lettre « stem:["s"] » pour éviter le double emploi
     de la lettre « stem:["s"] » comme symbole. Les noms yocto et yotta sont dérivés

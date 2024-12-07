@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 10th meeting of the CGPM (1954)
-  identifier: 10
+  identifier: '10'
   date: '1954-10-14'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/10-1954
@@ -44,6 +44,7 @@ resolutions:
   - type: decides
     date_effective: '1954-10-14'
     message: "*et décide* de ne pas encore changer la définition du mètre."
+  doi: 10.59161/CGPM1954RES1E
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -68,6 +69,7 @@ resolutions:
     message: "*attire l'attention* des Pays adhérents à la Convention du Mètre sur
       la possibilité qu'ils ont actuellement d'améliorer leurs étalons nationaux en
       les faisant munir d'un nouveau tracé."
+  doi: 10.59161/CGPM1954RES2E
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -87,6 +89,7 @@ resolutions:
     message: decides to define the thermodynamic temperature scale by choosing the
       triple point of water as the fundamental fixed point, and assigning to it the
       temperature 273,16 degrees Kelvin, exactly.
+  doi: 10.59161/CGPM1954RES3E
   notes: The 13th CGPM in 1967 explicitly defined the kelvin (Resolution 4).
 - dates:
   - '1954-10-14'
@@ -110,11 +113,8 @@ resolutions:
   actions:
   - type: declares
     date_effective: '1954-10-14'
-    message: |-
-      *declares* that it adopts, for general use, the definition:
-
-      1 standard atmosphere = 1 013 250 dynes per square centimetre, +
-       i.e., 101 325 newtons per square metre.
+    message: "*declares* that it adopts, for general use, the definition:"
+  doi: 10.59161/CGPM1954RES4E
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -140,6 +140,7 @@ resolutions:
     date_effective: '1954-10-14'
     message: "*donne* au Comité international des poids et mesures le pouvoir de décider
       sur ce point."
+  doi: 10.59161/CGPM1954RES5E
 - dates:
   - '1954-10-14'
   subject: CGPM
@@ -162,7 +163,7 @@ resolutions:
     message: |-
       *decides* to adopt as base units of the system the following units:
 
-      [width=80%]
+      [cols=2]
       |===
       | length .<| metre
 
@@ -173,5 +174,6 @@ resolutions:
       | luminous intensity | candela
 
       |===
+  doi: 10.59161/CGPM1954RES6E
   notes: The unit name "degree Kelvin" was changed to "kelvin" in 1967 (13th CGPM,
     Resolution 3).

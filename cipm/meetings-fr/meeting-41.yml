@@ -25,11 +25,17 @@ resolutions:
       ...
 
       [start=4]
-      . Les unités photométriques peuvent être définies comme suit : +
-       +
-      *_Bougie nouvelle_* (unité d’intensité lumineuse). — La grandeur de la bougie nouvelle est telle que la brillance du radiateur intégral à la température de solidification du platine soit de 60 bougies nouvelles par centimètre carré. +
-      *_Lumen nouveau_* (unité de flux lumineux). — Le lumen nouveau est le flux lumineux émis dans l’angle solide unité (stéradian) par une source ponctuelle uniforme ayant une intensité lumineuse de 1 bougie nouvelle.
+      . Les unités photométriques peuvent être définies comme suit :
+      +
+      *_Bougie nouvelle_*
+      +
+      (unité d’intensité lumineuse). — La grandeur de la bougie nouvelle est telle que la brillance du radiateur intégral à la température de solidification du platine soit de 60 bougies nouvelles par centimètre carré.
+      +
+      *_Lumen nouveau_*
+      +
+      (unité de flux lumineux). — Le lumen nouveau est le flux lumineux émis dans l’angle solide unité (stéradian) par une source ponctuelle uniforme ayant une intensité lumineuse de 1 bougie nouvelle.
       . ...
+  doi: 10.59161/CIPM1946RES1F
 - dates:
   - '1946-10-29'
   subject: CIPM
@@ -79,3 +85,4 @@ resolutions:
       flux magnétique qui, traversant un circuit d’une seule spire, y produirait une
       force électromotrice de 1 volt si on l’amenait à zéro en 1 seconde par décroissance
       uniforme."
+  doi: 10.59161/CIPM1946RES2F

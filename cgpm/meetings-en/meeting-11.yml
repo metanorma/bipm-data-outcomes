@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 11th meeting of the CGPM
-  identifier: 11
+  identifier: '11'
   date: '1960-10-20'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/11-1960
@@ -78,6 +78,7 @@ resolutions:
       mesure des radiations ionisantes et des unités correspondantes, compte tenu
       des résultats des laboratoires et des organismes nationaux, internationaux et
       autres."
+  doi: 10.59161/CGPM1960RES1E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -110,6 +111,7 @@ resolutions:
     message: "*souhaite* que les Gouvernements consentent des versements anticipés
       afin que l'extension des laboratoires du Bureau international puisse commencer
       immédiatement sans difficulté."
+  doi: 10.59161/CGPM1960RES2E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -133,6 +135,7 @@ resolutions:
   - type: authorizes
     date_effective: '1960-10-20'
     message: "*autorise* le Bureau international à prendre en charge cet Étalon."
+  doi: 10.59161/CGPM1960RES3E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -161,6 +164,7 @@ resolutions:
     message: "*donne mandat* au Comité international des poids et mesures de prendre
       sur ce point des décisions qui seront soumises à l'approbation de la Douzième
       Conférence générale."
+  doi: 10.59161/CGPM1960RES4E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -202,6 +206,7 @@ resolutions:
       et du Comité international des poids et mesures. Le montant de la partie fixe
       ainsi calculée s'appliquera aux contributions payables dans les années 1962
       et suivantes."
+  doi: 10.59161/CGPM1960RES5E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -226,17 +231,21 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1960-10-20'
-    message: decides The metre is the length equal to 1 650 763,73 wavelengths in
-      vacuum of the radiation corresponding to the transition between the levels 2p~10~
-      and 5d~5~ of the krypton 86 atom.
-  - type: decides
-    date_effective: '1960-10-20'
-    message: decides The definition of the metre in force since 1889, based on the
-      international Prototype of platinum-iridium, is abrogated.
-  - type: decides
-    date_effective: '1960-10-20'
-    message: decides The international Prototype of the metre sanctioned by the 1st
-      CGPM in 1889 shall be kept at the BIPM under the conditions specified in 1889.
+    message: |-
+      *decides*
+
+      . The metre is the length equal to 1 650 763,73 wavelengths in vacuum of the radiation corresponding to the transition between the levels 2p
+      +
+      ~10~
+      +
+      and 5d
+      +
+      ~5~
+      +
+      of the krypton 86 atom.
+      . The definition of the metre in force since 1889, based on the international Prototype of platinum-iridium, is abrogated.
+      . The international Prototype of the metre sanctioned by the 1st CGPM in 1889 shall be kept at the BIPM under the conditions specified in 1889.
+  doi: 10.59161/CGPM1960RES6E
   notes: This definition was abrogated in 1983 by the 17th CGPM (Resolution 1).
 - dates:
   - '1960-10-20'
@@ -265,7 +274,11 @@ resolutions:
     message: |-
       *invite* le Comité international
 
-      . à établir des instructions pour la mise en pratique de la nouvelle définition du mètre (^1^) ;
+      . à établir des instructions pour la mise en pratique de la nouvelle définition du mètre (
+      +
+      ^1^
+      +
+      ) ;
       . à choisir des étalons secondaires de longueur d'onde pour la mesure interférentielle des longueurs et à établir des instructions pour leur emploi ;
       . à poursuivre les études entreprises en vue d'améliorer les étalons de longueur.
 
@@ -278,6 +291,7 @@ resolutions:
       recommande que la radiation du krypton 86 adoptée comme étalon fondamental de longueur soit réalisée au moyen d'une lampe à décharge à cathode chaude contenant du krypton 86 d'une pureté non inférieure à 99 pour cent, en quantité suffisante pour assurer la présence de krypton solide à la température de stem:[64 "°K"], cette lampe étant munie d'un capillaire ayant les caractéristiques suivantes : diamètre intérieur 2 à 4 millimètres, épaisseur des parois 1 millimètre environ.
 
       « On
+  doi: 10.59161/CGPM1960RES7E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -300,6 +314,7 @@ resolutions:
     date_effective: '1960-10-20'
     message: "*charge* le Bureau international des poids et mesures de déterminer
       comme par le passé les Prototypes nationaux."
+  doi: 10.59161/CGPM1960RES8E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -327,6 +342,7 @@ resolutions:
       *ratifies* the following definition:
 
       "The second is the fraction 1/31 556 925.9747 of the tropical year for 1900 January 0 at 12 hours ephemeris time."
+  doi: 10.59161/CGPM1960RES9E
   notes: This definition was abrogated in 1967 by the 13th CGPM (Resolution 1).
 - dates:
   - '1960-10-20'
@@ -362,6 +378,7 @@ resolutions:
       avec les organismes internationaux intéressés et à coordonner les travaux en
       vue de permettre à la Douzième Conférence générale de prendre une résolution
       sur ce point.
+  doi: 10.59161/CGPM1960RES10E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -392,6 +409,7 @@ resolutions:
     message: "*donne pouvoir* au Comité international des poids et mesures de décider
       du changement du système de Potsdam lorsqu'il aura estimé que la valeur de cette
       accélération est connue avec une exactitude suffisante."
+  doi: 10.59161/CGPM1960RES11E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -411,10 +429,13 @@ resolutions:
       *considering*
 
       * Resolution 6 of the 10th CGPM, by which it adopted six base units on which to establish a practical system of measurement for international use:
+      +
 
 
 
-      [width=100%]
+      +
+
+      [cols="9,7,4"]
       |===
       | length | metre | stem:["m"]
 
@@ -425,6 +446,7 @@ resolutions:
       | luminous intensity | candela | stem:["cd"]
 
       |===
+
       * Resolution 3 adopted by the Comité International des Poids et Mesures (CIPM) in 1956,
       * [[para3]]
   actions:
@@ -436,10 +458,13 @@ resolutions:
       . the system founded on the six base units above is called the "Système International d'Unités";
       . the international abbreviation of the name of the system is SI;
       . names of multiples and submultiples of the units are formed by means of the following prefixes:
+      +
 
 
 
-      [width=100%]
+      +
+
+      [cols="13,13,21,13"]
       |===
       2+| Multiplying factor | Prefix | Symbol
 
@@ -448,11 +473,13 @@ resolutions:
       >| 1 000 000 | = stem:[10^(6)] | mega | M
       >| 1 000 | = stem:[10^(3)] | kilo | k
       >| 100 | = stem:[10^(2)] | hecto | stem:["h"]
-      >| 10 | = stem:[10^(1)] | deca 2+| da
+      >| 10 | = stem:[10^(1)] | deca | da
 
       |===
 
-      [width=100%]
+      +
+
+      [cols="13,13,21,13"]
       |===
       2+| Multiplying factor | Prefix | Symbol
 
@@ -464,31 +491,32 @@ resolutions:
       >| 0.000 000 000 001 | = stem:[10^(-12)] | pico | p
 
       |===
+
       . the units listed below are used in the system, without excluding others which might be added later.
   - type: declares
     date_effective: '1960-10-20'
-    message: "*_Supplementary units_*\n\n[width=100%]\n|===\n| Plane angle | radian
+    message: "*_Supplementary units_*\n\n[cols=\"9,7,4\"]\n|===\n| Plane angle | radian
       | stem:[\"rad\"]\n\n| Solid angle | steradian | stem:[\"sr\"]\n\n|===\n\n "
   - type: declares
     date_effective: '1960-10-20'
-    message: "*_Derived units_*\n\nstem:[\"N\" * \"s\"/\"m\"^(2)]\n\n[width=100%]\n|===\n.>|
-      area .>| square metre .>| stem:[\"m\"^(2)] | \n\n.>| volume .>| cubic metre
-      .>| stem:[\"m\"^(3)] .>| \n| frequency | hertz | stem:[\"Hz\"] | stem:[1/\"s\"]\n.>|
-      mass density (density) kilogram per cubic metre .>| kilogram per cubic metre
-      .>| stem:[\"kg\"/\"m\"^(3)] .>| \n| speed, velocity | metre per second | stem:[\"m\"/\"s\"]
-      | \n| angular velocity radian per second | radian per second | stem:[\"rad\"/\"s\"]
-      | \n.>| acceleration .>| metre per second squared .>| stem:[\"m\"/\"s\"^(2)]
-      | \n.>| angular acceleration .>| radian per second squared | stem:[\"rad\"/\"s\"^(2)]
-      | \n.>| force .>| newton .>| stem:[\"N\"] .>| stem:[\"kg\" * \"m\"/\"s\"^(2)]\n.>|
-      pressure (mechanical stress) .>| newton per square metre .>| stem:[\"N\"/\"m\"^(2)]
-      | \n.>| kinematic viscosity .>| square metre per second .>| stem:[\"m\"^(2)/\"s\"]
-      | \n.>| dynamic viscosity .>| newton-second per square metre |   | \n| work,
-      energy, quantity of heat | joule | stem:[\"J\"] | stem:[\"N\" * \"m\"]\n| power
-      | watt | stem:[\"W\"] | stem:[\"J\"/\"s\"]\n| quantity of electricity | coulomb
-      | stem:[\"C\"] | stem:[\"A\" * \"s\"]\n| tension (voltage), difference, electromotive
-      force | volt | stem:[\"V\"] | stem:[\"W\"/\"A\"]\n| electric field strength
-      volt per metre | volt per metre | stem:[\"V\"/\"m\"] | \n| electric resistance
-      | ohm | Ω | stem:[\"V\"/\"A\"]\n| capacitance | farad | stem:[\"F\"] | stem:[\"A\"
+    message: "*_Derived units_*\n\n[cols=\"9,7,3,6\"]\n|===\n.>| area .>| square metre
+      .>| stem:[\"m\"^(2)] | \n\n.>| volume .>| cubic metre .>| stem:[\"m\"^(3)] .>|
+      \n| frequency | hertz | stem:[\"Hz\"] | stem:[1/\"s\"]\n.>| mass density (density)
+      .>| kilogram per cubic metre .>| stem:[\"kg\"/\"m\"^(3)] .>| \n| speed, velocity
+      | metre per second | stem:[\"m\"/\"s\"] | \n| angular velocity | radian per
+      second | stem:[\"rad\"/\"s\"] | \n.>| acceleration .>| metre per second squared
+      .>| stem:[\"m\"/\"s\"^(2)] | \n.>| angular acceleration .>| radian per second
+      squared | stem:[\"rad\"/\"s\"^(2)] | \n.>| force .>| newton .>| stem:[\"N\"]
+      .>| stem:[\"kg\" * \"m\"/\"s\"^(2)]\n.>| pressure (mechanical stress) .>| newton
+      per square metre .>| stem:[\"N\"/\"m\"^(2)] | \n.>| kinematic viscosity .>|
+      square metre per second .>| stem:[\"m\"^(2)/\"s\"] | \n.>| dynamic viscosity
+      .>| newton-second per square metre .>| stem:[\"N\" * \"s\"/\"m\"^(2)] | \n|
+      work, energy, quantity of heat | joule | stem:[\"J\"] | stem:[\"N\" * \"m\"]\n|
+      power | watt | stem:[\"W\"] | stem:[\"J\"/\"s\"]\n| quantity of electricity
+      | coulomb | stem:[\"C\"] | stem:[\"A\" * \"s\"]\n| tension (voltage), difference,
+      electromotive force | volt | stem:[\"V\"] | stem:[\"W\"/\"A\"]\n| electric field
+      strength | volt per metre | stem:[\"V\"/\"m\"] | \n| electric resistance | ohm
+      | Ω | stem:[\"V\"/\"A\"]\n| capacitance | farad | stem:[\"F\"] | stem:[\"A\"
       * \"s\"/\"V\"]\n| magnetic flux | weber | stem:[\"Wb\"] | stem:[\"V\" * \"s\"]\n|
       inductance | henry | stem:[\"H\"] | stem:[\"V\" * \"s\"/\"A\"]\n| magnetic flux
       density | tesla | stem:[\"T\"] | stem:[\"Wb\"/\"m\"^(2)]\n| magnetic field strength
@@ -496,16 +524,21 @@ resolutions:
       stem:[\"A\"] | \n| luminous flux | lumen | stem:[\"lm\"] | stem:[\"cd\" * \"sr\"]\n|
       luminance | candela per square metre | stem:[\"cd\"/\"m\"^(2)] | \n| illuminance
       | lux | stem:[\"lx\"] | stem:[\"lm\"/\"m\"^(2)]\n\n|==="
+  doi: 10.59161/CGPM1960RES12E
   notes: |-
     The CGPM later abrogated certain of its decisions and extended the list of prefixes: +
      +
 
     * The name and symbol for the unit of thermodynamic temperature were modified by the 13th CGPM in 1967 (Resolution 3).
     * stem:["A"] seventh base unit, the mole, was adopted by the 14th CGPM in 1971 (Resolution 3).
-    * Further prefixes were adopted by the 12th CGPM in 1964 (Resolution 8), the 15th CGPM in 1975 (Resolution 10), and the 19th CGPM in 1991 (Resolution 4).
+    * Further prefixes were adopted by the 12th CGPM in 1964 (Resolution 8), the 15th CGPM in 1975 (Resolution 10), the 19th CGPM in 1991 (Resolution 4) and the 27th CGPM in 2022 (Resolution 3).
     * The 20th CGPM in 1995 abrogated the class of supplementary units in the SI (Resolution 8). These are now considered as derived units.
     * The 13th CGPM in 1967 (Resolution 6) specified other units which should be added to this list of derived units. In principle, the list is without limit.
-    * Modern practice is to use the phrase "amount of heat" rather than "quantity of heat", because the word _quantity_ has a different meaning in metrology.
+    * Modern practice is to use the phrase "amount of heat" rather than "quantity of heat", because the word
+    +
+    _quantity_
+    +
+    has a different meaning in metrology.
     * Modern practice is to use the phrase "amount of electricity" rather than "quantity of electrcity" (see above).
 - dates:
   - '1960-10-20'
@@ -522,18 +555,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1960-10-20'
-    message: considering that the cubic decimetre and the litre are unequal and differ
-      by about 28 parts in stem:[10^(6)],
-  - type: considering
-    date_effective: '1960-10-20'
-    message: considering that determinations of physical quantities which involve
-      measurements of volume are being made more and more accurately, thus increasing
-      the risk of confusion between the cubic decimetre and the litre,
+    message: |-
+      *considering*
+
+      * that the cubic decimetre and the litre are unequal and differ by about 28 parts in 10
+      +
+      ^6^
+      +
+      ,
+      * that determinations of physical quantities which involve measurements of volume are being made more and more accurately, thus increasing the risk of confusion between the cubic decimetre and the litre,
   actions:
   - type: requests
     date_effective: '1960-10-20'
     message: "*requests* the Comité International des Poids et Mesures to study the
       problem and submit its conclusions to the 12th CGPM."
+  doi: 10.59161/CGPM1960RES13E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -568,6 +604,7 @@ resolutions:
     date_effective: '1960-10-20'
     message: "*recommande* à tous les Pays membres de la Convention d'exercer leur
       influence dans ce sens, en utilisant leurs liens scientifiques et techniques."
+  doi: 10.59161/CGPM1960RES14E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -599,6 +636,7 @@ resolutions:
     date_effective: '1960-10-20'
     message: "*souhaite* que cet accord soit immédiatement mis en vigueur à titre
       provisoire en attendant son approbation par la Douzième Conférence générale."
+  doi: 10.59161/CGPM1960RES15E
 - dates:
   - '1960-10-20'
   subject: CGPM
@@ -624,3 +662,4 @@ resolutions:
     message: "*donne mandat* au Comité international des poids et mesures de poursuivre
       ses études en vue d'aboutir le plus tôt possible à un projet qui reçoive l'assentiment
       de toutes les Parties Contractantes."
+  doi: 10.59161/CGPM1960RES16E

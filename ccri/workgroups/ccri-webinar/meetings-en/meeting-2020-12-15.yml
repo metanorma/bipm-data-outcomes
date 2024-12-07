@@ -7,3 +7,10 @@ metadata:
   url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-webinar/2020-12-15
   workgroup: ccri-webinar
 resolutions: []
+working_documents:
+- title: CCRI-Webinar/2020-101
+  pdf: https://www.bipm.org/documents/20126/232425282/The+international+reference+system+for+gamma-ray+emitting+radionuclides+%28the+SIR%29/4c2908ac-68f9-0e3b-9544-13f268562b74
+  description: The international reference system for gamma-ray emitting radionuclides
+    (the SIR)
+  author: BIPM
+  date: 12/04/2024

@@ -1,0 +1,55 @@
+---
+metadata:
+  title: 'Webinaire du CCRI: ''X-ray imaging dosimetry challenges'''
+  identifier: '2024-05-28'
+  date: '2024-05-28'
+  source: BIPM - Pavillon de Breteuil
+  url: https://www.bipm.org/fr/committees/cc/ccri/wg/ccri-webinar/2024-05-28
+  workgroup: ccri-webinar
+resolutions: []
+working_documents:
+- title: CCRI-Webinar/2024-300
+  pdf: https://www.bipm.org/documents/20126/244583835/X+ray+Dosimetry+webinar/52ada039-a871-ca9d-287e-42fe5753c634
+  description: X ray dosimetry webinar announcement
+  author: ''
+  date: 07/05/2024
+- title: CCRI-Webinar/2024-301
+  pdf: https://www.bipm.org/documents/20126/253952641/301+-+Introduction+-+Paula+Toroi/1d09e5bc-0a0e-a97c-27dd-6a486f01d191
+  description: Introduction
+  author: Paula Toroi
+  date: 29/05/2024
+- title: CCRI-Webinar/2024-302
+  pdf: https://www.bipm.org/documents/20126/253952659/302+-+XMM+technology+before+and+today+-+Soren+Sturesson/c33139f1-62c2-a95a-af4f-5c08405c9799
+  description: XMM technology before and today
+  author: Soren Sturesson
+  date: 29/05/2024
+- title: CCRI-Webinar/2024-303
+  pdf: https://www.bipm.org/documents/20126/254943001/303+-+International+code+of+practice+IAEA+TRS-457+-+Zakithi+Msimang/ff5cbd63-ca20-5acb-1263-c0fe0f9fbc07
+  description: 303 - International code of practice IAEA TRS-457
+  author: Zakithi Msimang
+  date: 31/05/2024
+- title: CCRI-Webinar/2024-304
+  pdf: https://www.bipm.org/documents/20126/254434616/304+-+Relevant+IEC+standards+-+Wesley+Culberson/c5a53d9c-70d9-2216-63d2-9335a3e67317
+  description: Relevant IEC standards
+  author: Wesley Culberson
+  date: 30/05/2024
+- title: CCRI-Webinar/2024-305
+  pdf: https://www.bipm.org/documents/20126/253952681/305+-+Regulations+on+X-ray+imaging+dosimetry+-+Jenia+Vassileva/1715c677-3930-5857-5b20-e67f789334d2
+  description: Regulations on X-ray imaging dosimetry
+  author: Jenia Vassileva
+  date: 29/05/2024
+- title: CCRI-Webinar/2024-306
+  pdf: https://www.bipm.org/documents/20126/253952703/306+-+Medical+Physics+perspective+-+Olivera+Ciraj+Bjelac/2c3472ce-2eb9-7513-e8b6-292c4073ea4d
+  description: Medical Physics perspective
+  author: Olivera Ciraj Bjelac
+  date: 29/05/2024
+- title: CCRI-Webinar/2024-307
+  pdf: https://www.bipm.org/documents/20126/253952725/307+-+Calibration+laboratory+perspective++-+Helen+Khoury/69dccd68-3786-752d-a973-1e896ca19263
+  description: Calibration laboratory perspective
+  author: Helen Khoury
+  date: 29/05/2024
+- title: CCRI-Webinar/2024-308
+  pdf: https://www.bipm.org/documents/20126/253952750/308+-+Current+efforts+for+improvement+-+Paula+Toroi/c8d3014c-d586-514a-b539-38ea764fac0c
+  description: Current efforts for improvement
+  author: Paula Toroi
+  date: 29/05/2024

@@ -57,6 +57,7 @@ resolutions:
     message: recommande de documenter l’incertitude de ces représentations secondaires
       de la seconde en leur appliquant les mêmes exigences qu’aux étalons primaires
       à césium, pour leur utilisation dans le Temps atomique international.
+  doi: 10.59161/CCTF2001REC1F
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -109,6 +110,7 @@ resolutions:
     date_effective: '2001-06-21'
     message: et recommande que les laboratoires de temps et le BIPM prennent les dispositions
       nécessaires pour aider l'IGS à atteindre cet objectif.
+  doi: 10.59161/CCTF2001REC2F
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -124,29 +126,56 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2001-06-21'
-    message: considérant que le Bureau international des poids et mesures (BIPM) établit
-      le Temps atomique international (TAI) et, avec le Service international de la
-      rotation terrestre (IERS), maintient le Temps universel coordonné (UTC), à partir
-      des données horaires provenant de laboratoires de temps répartis dans le monde,
-  - type: considering
-    date_effective: '2001-06-21'
-    message: considérant qu’une notation spécifique internationale pour les échelles
-      de temps est nécessaire afin d’éviter toute ambiguïté quant à leur traçabilité
-      aux références de temps du BIPM,
-  - type: considering
-    date_effective: '2001-06-21'
-    message: considérant que la Recommandation UIT-R stem:["TF"].536-1 (1978, 1998)
-      « Notations à utiliser pour désigner les échelles de temps » a établi la notation
-      UTC(k) pour les échelles de temps réalisées par l’institution « stem:[k] » ;
+    message: |-
+      *considérant*
+
+      * que le Bureau international des poids et mesures (BIPM) établit le Temps atomique international (TAI) et, avec le Service international de la rotation terrestre (IERS), maintient le Temps universel coordonné (UTC), à partir des données horaires provenant de laboratoires de temps répartis dans le monde,
+      * qu’une notation spécifique internationale pour les échelles de temps est nécessaire afin d’éviter toute ambiguïté quant à leur traçabilité aux références de temps du BIPM,
+      * que la Recommandation UIT-R stem:["TF"].536-1 (1978, 1998) « Notations à utiliser pour désigner les échelles de temps » a établi la notation UTC(k) pour les échelles de temps réalisées par l’institution «
+      +
+      stem:[k]
+      +
+      » ;
   - type: noting
     date_effective: '2001-06-21'
     message: |-
       *Notes annexées à la Recommandation CCTF 3 (2001)*
 
       . Les institutions participant à l’établissement du TAI sont :
+      +
+
       .. les laboratoires nationaux de métrologie et les laboratoires désignés qui participent à l’arrangement de reconnaissance mutuelle (MRA) du CIPM, et
       .. d’autres institutions et observatoires des États membres de la Convention du Mètre ainsi que des associés à la Conférence générale officiellement désignés pour maintenir des échelles de temps pour des applications scientifiques, astronomiques ou de navigation.
-      . Il est suggéré que TAIstem:[(k)] soit défini comme stem:[TAI(k) = UTC(k)] + _DTAI_, où _DTAI_ est le nombre de secondes entières spécifié par l’IERS comme étant la différence entre l’UTC et le TAI.
+
+      . Il est suggéré que TAI(
+      +
+      stem:[k]
+      +
+      ) soit défini comme
+      +
+      stem:[TAI]
+      +
+      (
+      +
+      stem:[k]
+      +
+      ) =
+      +
+      stem:[UTC]
+      +
+      (
+      +
+      stem:[k]
+      +
+      ) +
+      +
+      __DTAI__
+      +
+      , où
+      +
+      _DTAI_
+      +
+      est le nombre de secondes entières spécifié par l’IERS comme étant la différence entre l’UTC et le TAI.
   actions:
   - type: approves
     date_effective: '2001-06-21'
@@ -164,6 +193,7 @@ resolutions:
       l’informer de la présente Recommandation et demander que l’UIT-R prenne en considération
       l’établissement de la notation TAIstem:[(k)] de manière analogue à la notation
       stem:[\"UTC\" (k)].\n\n "
+  doi: 10.59161/CCTF2001REC3F
   notes: |-
     Notes appended to Recommendation 3 of the CCTF (2001)
 
@@ -215,6 +245,7 @@ resolutions:
     date_effective: '2001-06-21'
     message: recommande que les diverses techniques de comparaison d’horloges utilisées
       pour le TAI soient étalonnées de manière indépendante les unes des autres.
+  doi: 10.59161/CCTF2001REC4F
 - dates:
   - '2001-06-21'
   subject: CCTF
@@ -278,6 +309,7 @@ resolutions:
     date_effective: '2001-06-21'
     message: recommande que les laboratoires de temps accordent une attention particulière
       aux conditions dans lesquelles fonctionnent leurs récepteurs de temps.
+  doi: 10.59161/CCTF2001REC5F
   notes: |-
     The CGGTTS technical guidelines are available as a working document of the 15th CCTF:
 

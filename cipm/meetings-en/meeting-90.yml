@@ -72,6 +72,7 @@ resolutions:
       the number one as the SI dimensionless derived unit for expressing the values
       of logarithmic quantities such as logarithmic decrement, field level, or power
       level defined using natural logarithms."
+  doi: 10.59161/CIPM2001REC1E
 - dates:
   - '2001-10-12'
   subject: CIPM
@@ -96,3 +97,4 @@ resolutions:
       We suggest that the name "coherent SI units" should be used when it is desired to restrict the meaning to only the base units and the coherent derived units.
 
       * * *
+  doi: 10.59161/CIPM2001DECLE

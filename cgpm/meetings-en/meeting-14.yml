@@ -1,7 +1,7 @@
 ---
 metadata:
   title: 14th meeting of the CGPM
-  identifier: 14
+  identifier: '14'
   date: '1971-10-07'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cg/cgpm/14-1971
@@ -68,6 +68,7 @@ resolutions:
       and existing facilities are used in the best possible way to realize the International
       Atomic Time scale and to satisfy the requirements of users of International
       Atomic Time.
+  doi: 10.59161/CGPM1971RES1E
   notes: The definition of TAI was given by the CCDS in 1970 (now the CCTF).
 - dates:
   - '1971-10-07'
@@ -107,6 +108,7 @@ resolutions:
     message: "*autorise* le Comité international des poids et mesures à conclure avec
       le Bureau international de l'heure les arrangements nécessaires pour la réalisation
       de l'échelle de Temps atomique international à définir par le Comité international."
+  doi: 10.59161/CGPM1971RES2E
 - dates:
   - '1971-10-07'
   subject: CGPM
@@ -140,6 +142,7 @@ resolutions:
   - type: decides
     date_effective: '1971-10-07'
     message: decides The mole is a base unit of the Système International d'Unités.
+  doi: 10.59161/CGPM1971RES3E
   notes: |-
     At its 1980 meeting, the CIPM approved the report of the 7th meeting of the CCU (1980) specifying that, in this definition, it is understood that unbound atoms of carbon 12, at rest and in their ground state, are referred to. +
      +
@@ -178,6 +181,7 @@ resolutions:
     message: "*donne son approbation* au programme d'activité du Bureau international
       des poids et mesures proposé par le Comité international des poids et mesures
       pour les quatre années 1973-1976."
+  doi: 10.59161/CGPM1971RES4E
 - dates:
   - '1971-10-07'
   subject: CGPM
@@ -214,8 +218,8 @@ resolutions:
       façon que l'ensemble de la partie fixe et de la partie complémentaire [définies
       à l'Art. 6 (1921) du Règlement annexé à la Convention du Mètre] soit, pour les
       États parties à la Convention à l'époque de la Treizième Conférence générale
-      :\n\n\n\n|===\n| 3 340 000 francs-or en 1973\n\n| 3 740 000 francs-or en 1974\n|
-      4 180 000 francs-or en 1975\n| 4 670 000 francs-or en 1976\n\n|===\n\n "
+      :\n\n\n\n[cols=1]\n|===\n| 3 340 000 francs-or en 1973\n\n| 3 740 000 francs-or
+      en 1974\n| 4 180 000 francs-or en 1975\n| 4 670 000 francs-or en 1976\n\n|===\n\n "
   - type: authorizes
     date_effective: '1971-10-07'
     message: "*autorise* que, sous réserve de la condition ci-après, un pourcentage
@@ -230,12 +234,13 @@ resolutions:
       nationale à se mettre d'accord avec le Comité international des poids et mesures
       pour qu'ils soient employés à la satisfaction des besoins du Bureau international
       des poids et mesures en tenant compte des lois du pays."
+  doi: 10.59161/CGPM1971RES5E
 - dates:
   - '1971-10-07'
   subject: CGPM
   type: declaration
   title: Pascal and siemens
-  identifier: 0
+  identifier: 1971
   url: https://www.bipm.org/en/committees/cg/cgpm/14-1971/resolution-
   reference: https://www.bipm.org/documents/20126/17314988/CGPM14.pdf/335f1f31-e905-f5c2-d979-7c023c545db1
   reference_name: Proceedings of the 14th CGPM (1971), 1972
@@ -247,3 +252,4 @@ resolutions:
     message: The 14th Conférence Générale des Poids et Mesures adopted the special
       names “pascal” (symbol Pa), for the SI unit newton per square metre, and “siemens”
       (symbol S), for the SI unit of electric conductance [reciprocal ohm].
+  doi: 10.59161/CGPM1971DECLE

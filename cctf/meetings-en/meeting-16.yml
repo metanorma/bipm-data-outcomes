@@ -43,8 +43,9 @@ resolutions:
     date_effective: '2004-04-02'
     message: '*recommends that* the unperturbed ground-state hyperfine quantum transition
       of ^87^Rb may be used as a secondary representation of the second with a frequency
-      of stem:[f_(Rb) = 6 834 682 610.904 324 "Hz"] and an estimated relative standard
+      of __f__~Rb~ = stem:[6 834 682 610.904 324 "Hz"] and an estimated relative standard
       uncertainty (1 _σ_) of 3 × 10^−15^,'
+  doi: 10.59161/CCTF2004REC1E
 - dates:
   - '2004-04-02'
   subject: CCTF
@@ -111,6 +112,7 @@ resolutions:
     message: recommends that the Working Group on the Expression of Uncertainties
       in Primary Frequency Standards (PFS) reviews the use of all reported evaluations
       of PFS.
+  doi: 10.59161/CCTF2004REC2E
 - dates:
   - '2004-04-02'
   subject: CCTF
@@ -156,6 +158,7 @@ resolutions:
     date_effective: '2004-04-02'
     message: recommends that this procedure be designed, in collaboration with the
       Working Group on TAI, to minimize the impact on TAI stability.
+  doi: 10.59161/CCTF2004REC3E
 working_documents:
 - title: CCTF/2004-00
   pdf: https://www.bipm.org/documents/20126/28438089/working-document-ID-1196/092a0c76-b0ce-c16f-f247-9263ad8c8059
