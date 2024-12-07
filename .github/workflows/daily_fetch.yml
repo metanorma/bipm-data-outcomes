@@ -1,27 +1,27 @@
-# Daily fetch bipm website
+# Daily fetch from website
 
-name: Daily Scrapper
+name: daily-fetch
 
-on: 
+on:
     schedule:
      # Runs at UTC 1 am every day
-     # Run at every 10 mintues for test
-     - cron: '0 0 * * *'  
+     # Run at every 10 minutes for test
+     - cron: '0 0 * * *'
 
     workflow_dispatch:
 
 jobs:
-  scrap:
+  fetch:
 
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1'
+        ruby-version: '3.3'
         bundler-cache: true
 
     - name: Clean up
@@ -31,26 +31,27 @@ jobs:
         echo 'cleaned up the old data'
         ls -A
 
-    - name: Scrap bipm data
+    - name: Fetch BIPM data
       run: |
         gem install bipm-data-importer
         gem install webmock
         bipm-fetch --fork
         bipm-fetch-cgpm
-    
+
     - name: Move generated outcomes to outcomes
       run: |
         mv ./data/* ./
         ls -A
-    
+
     - name: Push new data
-      env: 
+      env:
         CI_COMMIT_MESSAGE: Daily Update
         CI_COMMIT_AUTHOR: Daily Update
+        CI_COMMIT_EMAIL: metanorma@ribose.com
       run: |
         test -d cipm
         git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-        git config --global user.email "bot@users.noreply.github.com"
+        git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
         git add . || :
         git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || :
         git push || :
