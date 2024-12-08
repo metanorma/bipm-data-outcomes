@@ -76,7 +76,7 @@ resolutions:
 - dates:
   - '2001-10-12'
   subject: CIPM
-  type: declaration
+  type: statement
   title: '"SI units" and "units of the SI"'
   identifier: 2001
   url: https://www.bipm.org/en/committees/ci/cipm/90-2001/resolution-

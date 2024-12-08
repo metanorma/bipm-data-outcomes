@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '1964-10-13'
   subject: CIPM
-  type: declaration
+  type: statement
   title: Atomic and molecular frequency standards
   identifier: 1964
   url: https://www.bipm.org/en/committees/ci/cipm/53-1964/resolution-

@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '1889-09-28'
   subject: CGPM
-  type: declaration
+  type: statement
   title: Sanction des prototypes internationaux du mètre et du kilogramme
   identifier: 1889
   url: https://www.bipm.org/fr/committees/cg/cgpm/1-1889/resolution-1

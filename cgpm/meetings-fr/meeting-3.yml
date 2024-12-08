@@ -10,7 +10,7 @@ resolutions:
 - dates:
   - '1901-10-22'
   subject: CGPM
-  type: declaration
+  type: statement
   title: Déclaration concernant la définition du litre
   identifier: 1
   url: https://www.bipm.org/fr/committees/cg/cgpm/3-1901/resolution-1
@@ -35,7 +35,7 @@ resolutions:
 - dates:
   - '1901-10-22'
   subject: CGPM
-  type: declaration
+  type: statement
   title: Déclaration relative à l'unité de masse et à la définition du poids ; valeur
     conventionnelle de <i>g</i><sub>n</sub>
   identifier: 2
