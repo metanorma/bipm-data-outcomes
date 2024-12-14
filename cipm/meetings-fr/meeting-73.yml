@@ -34,7 +34,7 @@ resolutions:
 
       stem:[H = Q * N] · stem:[D].
 
-      Ainsi, pour une radiation donnée, la valeur numérique de stem:[H] en joules par kilogramme peut être différente de la valeur numérique de stem:[D] en joules par kilogramme, puisqu’elle est fonction de la valeur de stem:[Q] et de stem:[N]. Afin d’éviter tout risque de confusion entre la dose absorbée stem:[D] et l’équivalent de dose __H__, il faut employer les noms spéciaux pour les unités correspondantes, c’est-à-dire qu’il faut utiliser le nom gray au lieu de joule par kilogramme pour l’unité de dose absorbée stem:[D] et le nom sievert au lieu de joule par kilogramme pour l’unité d’équivalent de dose stem:[H].
+      Ainsi, pour une radiation donnée, la valeur numérique de stem:[H] en joules par kilogramme peut être différente de la valeur numérique de stem:[D] en joules par kilogramme, puisqu’elle est fonction de la valeur de stem:[Q] et de stem:[N]. Afin d’éviter tout risque de confusion entre la dose absorbée stem:[D] et l’équivalent de dose stem:[H], il faut employer les noms spéciaux pour les unités correspondantes, c’est-à-dire qu’il faut utiliser le nom gray au lieu de joule par kilogramme pour l’unité de dose absorbée stem:[D] et le nom sievert au lieu de joule par kilogramme pour l’unité d’équivalent de dose stem:[H].
   doi: 10.59161/CIPM1984REC1F
   notes: "\\* Le CIPM a décidé en 2002 de modifier les explications sur la grandeur
     « équivalent de dose » dans la Brochure sur le SI (Recommandation 2 (CI-2002))."

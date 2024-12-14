@@ -103,35 +103,36 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1996-09-26'
-    message: |-
-      _considérant_
-
-      * que de multiples activités de recherche sont en cours à des températures thermodynamiques inférieures à stem:[1 "K"],
-      * que ces recherches ont besoin d'une échelle de température admise par convention qui représenterait avec une bonne approximation les températures thermodynamiques,
-      * que l'EIT-90, avec la pression de vapeur de
-      +
-      ^3^
-      +
-      He, semble s'écarter de la température thermodynamique entre stem:[1 "K"] et sa limite inférieure de stem:[0","65 "K"], notant que plusieurs échelles de température propres à divers laboratoires ont été étudiées au-dessous de stem:[0","65 "K"] et que ces échelles ne concordent pas,
+    message: considérant que de multiples activités de recherche sont en cours à des
+      températures thermodynamiques inférieures à stem:[1 "K"],
+  - type: considering
+    date_effective: '1996-09-26'
+    message: considérant que ces recherches ont besoin d'une échelle de température
+      admise par convention qui représenterait avec une bonne approximation les températures
+      thermodynamiques,
+  - type: considering
+    date_effective: '1996-09-26'
+    message: considérant que l'EIT-90, avec la pression de vapeur de stem:[""_(3)
+      "He"], semble s'écarter de la température thermodynamique entre stem:[1 "K"]
+      et sa limite inférieure de stem:[0","65 "K"], notant que plusieurs échelles
+      de température propres à divers laboratoires ont été étudiées au-dessous de
+      stem:[0","65 "K"] et que ces échelles ne concordent pas,
   actions:
   - type: recommends
     date_effective: '1996-09-26'
-    message: |-
-      _recommande_
-
-      * que les écarts entre les valeurs de la température données dans l'EIT-90 par la pression de vapeur de
-      +
-      ^3^
-      +
-      He et la valeur correspondante de la température thermodynamique, au-dessous de stem:[1 "K"], soient étudiées plus avant,
-      * que des recherches soient entreprises pour expliquer les discordances entre les échelles existantes utilisant la pression de fusion de
-      +
-      ^3^
-      +
-      He,
-      * que les laboratoires nationaux se concertent pour mettre au point une relation entre la pression de fusion de
-      +
-      ^3^
-      +
-      He et la température qui puisse servir de base à une extension de l'EIT-90 vers les basses températures jusque vers stem:[1 "mK"].
+    message: recommande que les écarts entre les valeurs de la température données
+      dans l'EIT-90 par la pression de vapeur de stem:[""_(3) "He"] et la valeur correspondante
+      de la température thermodynamique, au-dessous de stem:[1 "K"], soient étudiées
+      plus avant,
+  - type: recommends
+    date_effective: '1996-09-26'
+    message: recommande que des recherches soient entreprises pour expliquer les discordances
+      entre les échelles existantes utilisant la pression de fusion de stem:[""_(3)
+      "He"],
+  - type: recommends
+    date_effective: '1996-09-26'
+    message: recommande que les laboratoires nationaux se concertent pour mettre au
+      point une relation entre la pression de fusion de stem:[""_(3) "He"] et la température
+      qui puisse servir de base à une extension de l'EIT-90 vers les basses températures
+      jusque vers stem:[1 "mK"].
   doi: 10.59161/CIPM1996REC3F

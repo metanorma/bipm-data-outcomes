@@ -27,13 +27,9 @@ resolutions:
       [start=4]
       . The photometric units may be defined as follows:
       +
-      *_New candle_*
+      *_New candle_* (unit of luminous intensity). — The value of the new candle is such that the brightness of the full radiator at the temperature of solidification of platinum is 60 new candles per square centimetre.
       +
-      (unit of luminous intensity). — The value of the new candle is such that the brightness of the full radiator at the temperature of solidification of platinum is 60 new candles per square centimetre.
-      +
-      *_New lumen_*
-      +
-      (unit of luminous flux). — The new lumen is the luminous flux emitted in unit solid angle (steradian) by a uniform point source having a luminous intensity of 1 new candle.
+      *_New lumen_* (unit of luminous flux). — The new lumen is the luminous flux emitted in unit solid angle (steradian) by a uniform point source having a luminous intensity of 1 new candle.
       . ...
   doi: 10.59161/CIPM1946RES1E
 - dates:

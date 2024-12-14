@@ -5,4 +5,96 @@ metadata:
   date: '2023-09-13'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/47-2023
-resolutions: []
+resolutions:
+- dates:
+  - '2023-09-13'
+  subject: JCRB
+  type: action
+  title: Action JCRB/47-1 (2023)
+  identifier: 47-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/47-2023
+  categories:
+  - KCDB
+  - CMC review
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB Executive Secretary and the KCDB Office will review and improve the guidance
+    materials relating to the use of the column “CMC comments” for example by providing
+    “pop-ups” on the KCDB platform.
+- dates:
+  - '2023-09-13'
+  subject: JCRB
+  type: action
+  title: Action JCRB/47-2 (2023)
+  identifier: 47-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/47-2023
+  categories:
+  - KCDB
+  - CMC review
+  considerations:
+  - type: noting
+    date_effective: '2023-09-13'
+    message: |-
+      The JCRB noted that there are sometimes multiple iterations of comments between reviewers and writer during the JCRB review. The JCRB encourages:
+
+      * the RMOs to ensure that the intra-RMO review is always carried out thoroughly so that points of detail are resolved before the JCRB review,
+      * the CC WGs on the CIPM MRA and RMO stem:["TC"]/WGs to consider providing a mechanism to exchange comments during the JCRB review in a way that is transparent, and
+      * the sharing of best practice between CC WGs on the CIPM MRA for efficient JCRB review.
+  actions: []
+- dates:
+  - '2023-09-13'
+  subject: JCRB
+  type: action
+  title: Action JCRB/47-3 (2023)
+  identifier: 47-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/47-2023
+  categories:
+  - CMC review
+  - CMCs
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2023-09-13'
+    message: The JCRB recalled that each RMO can approve each CMC before it is published
+      and has the opportunity to indicate whether it will review a CMC or not. The
+      CMC review process is tied to the deadline of the latest review date indicated
+      by an RMO. The JCRB requests the RMOs to respond promptly even if they do not
+      plan to review, and to remind Reviewers that agreeing to carry out a review
+      of a CMC but not completing the review causes delays to the CMC review process.
+  actions: []
+- dates:
+  - '2023-09-13'
+  subject: JCRB
+  type: action
+  title: Action JCRB/47-4 (2023)
+  identifier: 47-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/47-2023
+  categories:
+  - NMIs
+  - RMO
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2023-09-13'
+    message: The JCRB requests the RMOs to encourage all member NMIs and DIs to register
+      with the Research Organization Registry (ROR) (ror.org) to facilitate the BIPM
+      in using the RORs as digital references for them.
+- dates:
+  - '2023-09-13'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/47-1 (2023)
+  identifier: 47-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/47-2023
+  categories:
+  - JCRB
+  - Meetings
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2023-09-13'
+    message: The JCRB recalled its previous decision (*JCRB/32-2 of 2014*) that a
+      second JCRB meeting should only be held in any year when it is considered necessary.
+      The 48th meeting will be held in week 38 (beginning 16th September) of 2024
+      at the BIPM.
+  actions: []

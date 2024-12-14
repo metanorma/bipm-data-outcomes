@@ -36,171 +36,11 @@ resolutions:
 
       that the following transition frequencies shall be included or updated in the list of recommended standard frequencies:
 
-      * the unperturbed optical transition 5s
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 5s 5p
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      of the
-      +
-      ^87^
-      +
-      Sr neutral atom with a frequency of stem:[429 228 004 229 873.7 "Hz"] and a relative standard uncertainty of 1 × 10
-      +
-      ^-15^
-      +
-      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 5s
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 5s 5p
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      of the
-      +
-      ^88^
-      +
-      Sr neutral atom with a frequency of stem:[429 228 066 418 012 "Hz"] and a relative standard uncertainty of 1 × 10
-      +
-      ^-14^
-      +
-      ;
-      * the unperturbed optical transition 4s
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 3d
-      +
-      ^2^
-      +
-      D
-      +
-      ~5/2~
-      +
-      of the
-      +
-      ^40^
-      +
-      Ca
-      +
-      ^+^
-      +
-      ion with a frequency of stem:[411 042 129 776 393 "Hz"] and a relative standard uncertainty of 4 × 10
-      +
-      ^-14^
-      +
-      ;
-      * the unperturbed optical transition
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      (
-      +
-      stem:[F]
-      +
-      = 0) -
-      +
-      ^2^
-      +
-      stem:["F"]
-      +
-      ~7/2~
-      +
-      (
-      +
-      stem:[F]
-      +
-      = 3,
-      +
-      _m~stem:["F"]~_
-      +
-      = 0) of the
-      +
-      ^171^
-      +
-      Yb
-      +
-      ^+^
-      +
-      ion with a frequency of stem:[642 121 496 772 657 "Hz"] and a relative standard uncertainty of 6 × 10
-      +
-      ^-14^
-      +
-      ;
-      * the unperturbed optical transition 6s
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      (
-      +
-      stem:[F]
-      +
-      = 1/2) - 6s 6p
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      (
-      +
-      stem:[F]
-      +
-      = 1/2) of the
-      +
-      ^171^
-      +
-      Yb neutral atom with a frequency of stem:[518 295 836 590 864 "Hz"] and a relative standard uncertainty of 1.6 × 10
-      +
-      ^-13^
-      +
-      .
+      * the unperturbed optical transition 5s^2^ ^1^S~0~ - 5s 5p ^3^P~0~ of the ^87^Sr neutral atom with a frequency of stem:[429 228 004 229 873.7 "Hz"] and a relative standard uncertainty of stem:[1 * 10^(-15)] (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 5s^2^ ^1^S~0~ - 5s 5p ^3^P~0~ of the ^88^Sr neutral atom with a frequency of stem:[429 228 066 418 012 "Hz"] and a relative standard uncertainty of stem:[1 * 10^(-14)];
+      * the unperturbed optical transition 4s ^2^S~1/2~ - 3d ^2^D~5/2~ of the ^stem:[40^(Ca)]+^ ion with a frequency of stem:[411 042 129 776 393 "Hz"] and a relative standard uncertainty of stem:[4 * 10^(-14)];
+      * the unperturbed optical transition ^2^S~1/2~ stem:[(F = 0)] - ^2^stem:["F"]~7/2~ (stem:[F = 3], _m~stem:["F"]~_ = 0) of the ^stem:[171^(Yb)]+^ ion with a frequency of stem:[642 121 496 772 657 "Hz"] and a relative standard uncertainty of stem:[6 * 10^(-14)];
+      * the unperturbed optical transition 6s^2^ ^1^S~0~ (stem:[F = 1/2]) - 6s 6p ^3^P~0~ (stem:[F = 1/2]) of the ^171^Yb neutral atom with a frequency of stem:[518 295 836 590 864 "Hz"] and a relative standard uncertainty of stem:[1.6 * 10^(-13)].
   doi: 10.59161/CCTF2009REC1E
 - dates:
   - '2009-06-05'
@@ -275,22 +115,37 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2009-06-05'
+    message: considering that the use of Coordinated Universal Time (UTC) as defined
+      in 1972 is negatively affected by steps caused by the unpredictable insertion
+      of an unpredictable number of leap seconds;
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that this definition of UTC can not meet the requirements
+      of many existing and future navigation systems needing uniform time;
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that alternative time scales, not affected by leap seconds,
+      are being developed and have started to proliferate;
+  - type: considering
+    date_effective: '2009-06-05'
     message: |-
-      *considering that*
-
-      * the use of Coordinated Universal Time (UTC) as defined in 1972 is negatively affected by steps caused by the unpredictable insertion of an unpredictable number of leap seconds;
-      * this definition of UTC can not meet the requirements of many existing and future navigation systems needing uniform time;
-      * alternative time scales, not affected by leap seconds, are being developed and have started to proliferate;
-      * the need to represent the Earth’s rotation angle in celestial reference systems for use in maritime celestial navigation is either no longer required or can easily be met through values of
+      considering that the need to represent the Earth’s rotation angle in celestial reference systems for use in maritime celestial navigation is either no longer required or can easily be met through values of
       +
-      [
-      +
-      _UT1 - UTC_
-      +
-      ] as published by the International Earth Rotation and Reference Systems Service (IERS);
-      * UT1 can fully satisfy needs related to the determination of the Earth rotation angle;
-      * sufficient lead time must be allowed for developers of satellite- and land-based navigation system software to accommodate any change in the definition of UTC;
-      * over the last ten years a number of national and international technical organizations have expressed increasing concern about the present definition of UTC and the concomitant proliferation of alternate time scales;
+      [_UT1 - UTC_] as published by the International Earth Rotation and Reference Systems Service (IERS);
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that UT1 can fully satisfy needs related to the determination
+      of the Earth rotation angle;
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that sufficient lead time must be allowed for developers
+      of satellite- and land-based navigation system software to accommodate any change
+      in the definition of UTC;
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that over the last ten years a number of national and international
+      technical organizations have expressed increasing concern about the present
+      definition of UTC and the concomitant proliferation of alternate time scales;
   actions:
   - type: recommends
     date_effective: '2009-06-05'
@@ -446,55 +301,39 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2009-06-05'
-    message: |-
-      *considering that*
-
-      * the task of the BIPM is to ensure world-wide uniformity of measurements and their traceability to the International System of Units (SI);
-      * two Global Navigation Satellite Systems (GNSS) already exist and others are under development;
-      * existing operational GNSS disseminate predictions of local timescales UTC(
-      +
-      stem:[k]
-      +
-      ), e.stem:["g"]. GPS disseminates predictions of UTC(USNO) and GLONASS disseminates predictions of UTC(SU);
-      * Section 5 of BIPM
-      +
-      _Circular T_
-      +
-      publishes the relationship between UTC, TAI and the GNSS System Times (ST);
+    message: considering that the task of the BIPM is to ensure world-wide uniformity
+      of measurements and their traceability to the International System of Units
+      (SI);
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that two Global Navigation Satellite Systems (GNSS) already
+      exist and others are under development;
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that existing operational GNSS disseminate predictions of
+      local timescales stem:["UTC" (k)], e.stem:["g"]. GPS disseminates predictions
+      of UTC(USNO) and GLONASS disseminates predictions of UTC(SU);
+  - type: considering
+    date_effective: '2009-06-05'
+    message: considering that Section 5 of BIPM _Circular T_ publishes the relationship
+      between UTC, TAI and the GNSS System Times (ST);
   actions:
   - type: recommends
     date_effective: '2009-06-05'
     message: |-
       *aiming to*
 
-      * facilitate access for all users to predictions of UTC(
-      +
-      stem:[k]
-      +
-      ) as disseminated by existing and future GNSS;
+      * facilitate access for all users to predictions of stem:["UTC" (k)] as disseminated by existing and future GNSS;
   - type: recommends
     date_effective: '2009-06-05'
-    message: |-
-      *recommends that*
-
-      * Section 5 of
-      +
-      _Circular T_
-      +
-      include information on the relationship of UTC and TAI with the predicted UTC(
-      +
-      stem:[k]
-      +
-      ) disseminated by the GNSS;
-      * Section 5 of
-      +
-      _Circular T_
-      +
-      be renamed “Relations of UTC and TAI with predictions of UTC(
-      +
-      stem:[k]
-      +
-      ) disseminated by the GNSS and their System Times”.
+    message: recommends that Section 5 of _Circular T_ include information on the
+      relationship of UTC and TAI with the predicted stem:["UTC" (k)] disseminated
+      by the GNSS;
+  - type: recommends
+    date_effective: '2009-06-05'
+    message: recommends that Section 5 of _Circular T_ be renamed “Relations of UTC
+      and TAI with predictions of stem:["UTC" (k)] disseminated by the GNSS and their
+      System Times”.
   doi: 10.59161/CCTF2009REC6E
 working_documents:
 - title: CCTF/2009-00

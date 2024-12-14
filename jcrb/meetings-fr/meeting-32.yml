@@ -6,7 +6,340 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
 pdf: https://www.bipm.org/documents/20126/30859683/JCRB32.pdf/129f4a73-8b51-5d41-27ef-859b2fec7b12
-resolutions: []
+resolutions:
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-1 (2014)
+  identifier: 32-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Comparaisons
+  considerations: []
+  actions: []
+  x-unparsed:
+  - BIPM to amend the "Key and supplementary comparison registration and progress"
+    form, so that the status "Protocol complete" reads "Protocol complete/approved".
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-2 (2014)
+  identifier: 32-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - BIPM to collate the comments related to problems with, or desired changes to,
+    the CIPM MRA review from the CCs strategy documents and CCQM questionnaire, which
+    will be later complemented by the feedback from Action 32/6 in order to provide
+    useful and collated input to the JCRB and the NMI Directors Workshop on the CIPM
+    MRA review.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-3 (2014)
+  identifier: 32-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - BIPM to consider launching two (or one combined) questionnaire(s) related to the
+    KCDB using the "pop-in" software addressing:-"Why users are accessing the KCDB?"
+    and -"How easy (or not) it was to find the information?"
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-4 (2014)
+  identifier: 32-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - NMIs
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - BIPM to provide a list at each JCRB meeting of Associates of the CGPM who have
+    been encouraged to become a Member State of the BIPM (in accordance with Resolution
+    4 of the 24th meeting of the CGPM).
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-5 (2014)
+  identifier: 32-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - |-
+    CIPM MRA: Each RMO to prepare bullet points identifying, from their perspective, the benefits and the successes of the CIPM MRA. The intention is to eventually combine these into a single presentation to be made at the CGPM as an introduction to the Draft Resolution to be presented at the 25th meeting of the CGPM on the CIPM MRA. It is envisaged that the common points will be compiled and supplemented by RMO specific perspectives (one slide per RMO). BIPM will add introductory statistics, and the presentation will conclude with progress already made towards a sustainable CIPM MRA and as an introduction to the Draft Resolution.
+
+    RMOs to coordinate and send the common and RMO specific bullet points to the BIPM (JCRB Executive Secretary) by the end of May, 2014 so that the presentation can be discussed at the June meeting of the CIPM bureau.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-6 (2014)
+  identifier: 32-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Each RMO to individually contribute to the CIPM MRA review by highlighting the
+    successes and challenges for them and their stakeholders, and suggest practical
+    ideas for improvements in the operation of the activities falling within the responsibility
+    of the JCRB. To facilitate collation of the information the RMOs will attempt
+    to follow a common format. To enable development of the format each RMO should
+    send its ideas for line items to A. Steele by beginning of June 2014. A. Steele
+    will propose a draft common format to the RMOs for comments by the end of June
+    2014. The final completed discussion document to be submitted by each RMO to the
+    BIPM by the end of 2014 for discussion at the 2015 JCRB meeting.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-7 (2014)
+  identifier: 32-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: EURAMET to update their paper "Role of DIs within the CIPM MRA" taking
+      due account comments received internally and from other RMOs for use internally
+      within the EURAMET. BIPM to check that the revised EURAMET paper is consistent
+      with CIPM MRA rules and practices.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-8 (2014)
+  identifier: 32-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: EURAMET to collaborate with the BIPM to produce a generalized version
+      of the paper "Role of DIs within the CIPM MRA" for wider use by the other RMOs
+      and for possible adoption by the JCRB.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-9 (2014)
+  identifier: 32-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Developing countries
+  considerations:
+  - type: noting
+    date_effective: '2014-03-27'
+    message: Noting that the RMOs indicated that they either already have a dedicated
+      webpage (EURAMET) for training or are in the process of creating such page (AFRIMETS,
+      APMP, COOMET, SIM), the BIPM will propose to the DCMAS Network to include the
+      appropriate links on their website. Furthermore BIPM will enquire whether it
+      is possible for them to make "training" more visible on the website. RMOs to
+      provide the JCRB Executive Secretary with appropriate links as soon as they
+      become available.
+  actions: []
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-10 (2014)
+  identifier: 32-10
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: The JCRB Chairman to inform the CIPM that the CIPM MRA documents requiring
+      revisions related to minor editorial and format changes and updating of internal
+      cross references approved by the JCRB will be brought to the CIPM for information.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-11 (2014)
+  identifier: 32-11
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: welcomes
+    date_effective: '2014-03-27'
+    message: BIPM to write to GULFMET thanking them for the 2013 progress report and
+      welcoming the progress made. The letter should also include useful advice on
+      key elements/activities that would increase the confidence of the metrology
+      community as GULFMET strives to be as an RMO within the meaning of the CIPM
+      MRA.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-12 (2014)
+  identifier: 32-12
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Guidance documents
+  - International organizations
+  - QMS
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: JCRB Executive Secretary to update the document CIPM MRA-G-03 for consideration
+      at the next JCRB meeting by adding an additional option whereby the IGO may
+      elect to work through one or more regions (on behalf of all other regions) for
+      review of the QS and intra-regional review of the IGO's CMC declarations.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-13 (2014)
+  identifier: 32-13
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Designated institutes
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: The JCRB Chairman to inform the CIPM of the changes to the form "Nomination
+      of a Designated Institute" whereby in future the starting date of participation
+      in the CIPM MRA will be considered as the date on which the BIPM receives the
+      designation form.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-14 (2014)
+  identifier: 32-14
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2014-03-27'
+    message: The JCRB agrees on the proposed additional text to the guidance document
+      CIPM MRA-D-02 (which a further suggested text amendment) in response to the
+      request of the CIPM bureau regarding the use of the CIPM MRA logo on certificates/reports
+      that include a statement of conformity. The text clarifies that the CIPM MRA
+      logo attests only to the measurement component of such certificates/reports.
+      The JCRB Chairman to inform the CIPM on the clarification.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: action
+  title: Action JCRB/32-15 (2014)
+  identifier: 32-15
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - AFRIMETS has volunteered to identify an NMI within its region to work with BIPM
+    and BIML in developing the World Metrology Day poster for 2015.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/32-1 (2014)
+  identifier: 32-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - RMO
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2014-03-27'
+    message: Each RMO to provide an official representative to the NMI Directors Workshop
+      on CIPM MRA review.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/32-1 (2014)
+  identifier: 32-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - There will not be a meeting of the JCRB in late 2014 (because of the logistics
+    and workload related to the 25th CGPM).
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/32-2 (2014)
+  identifier: 32-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Two JCRB meetings will be scheduled each year. A decision will be made on a "case
+    by case" basis as to whether the second meeting is necessary. Rotation of the
+    meetings between BIPM and regions will be decided accordingly.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/32-3 (2014)
+  identifier: 32-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 33rd meeting of the JCRB will take place on March 18 and 19, 2015 at the BIPM.
+- dates:
+  - '2014-03-27'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/32-4 (2014)
+  identifier: 32-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/32-2014
+  categories:
+  - JCRB
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 34th meeting of the JCRB is scheduled for September, 2015 at the KazInMetr,
+    Kazakhstan.
 working_documents:
 - title: JCRB/32-06.0
   pdf: https://www.bipm.org/documents/20126/32642879/working-document-cc-jc-private-ID-6397/b83a865d-7de2-b761-a855-93bf300c9f21

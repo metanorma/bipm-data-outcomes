@@ -22,19 +22,40 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: |-
-      *considérant que*
-
-      * les effets des activités industrielles et commerciales ainsi que ceux de nombreuses autres activités humaines sur la géosphère et la biosphère et leurs conséquences sur la santé et le bien-être humains font l'objet d'importantes études dans le monde entier,
-      * les Gouvernements sont de plus en plus amenés à prendre des décisions réglementant ces activités, avec des répercussions économiques et politiques majeures,
-      * les choix politiques des Gouvernements sont influencés par les résultats d'études qui dépendent de manière critique de l'exactitude et de la cohérence de mesures pouvant nécessiter d'importants investissements économiques,
-      * de nombreuses preuves scientifiques importantes sur lesquelles s'appuient ces décisions sont issues de mesures de petites variations à long terme de certains paramètres clés, mesures qui s'étendent parfois sur plusieurs décennies,
-      * certaines mesures critiques ont été traditionnellement exprimées en utilisant des unités
-      +
-      __ad hoc__
-      +
-      , fondées sur des instruments et des méthodes spécifiques, et non pas les unités du SI, lesquelles sont bien définies et adoptées au niveau international,
-      * depuis de nombreuses années l'expérience montre que les mesures qui ne sont pas reliées directement au SI ne sont ni fiables à long terme, ni comparables aux mesures semblables faites ailleurs ni adaptées à la mise en évidence de relations avec les mesures faites dans d'autres domaines scientifiques,
+    message: considérant que les effets des activités industrielles et commerciales
+      ainsi que ceux de nombreuses autres activités humaines sur la géosphère et la
+      biosphère et leurs conséquences sur la santé et le bien-être humains font l'objet
+      d'importantes études dans le monde entier,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que les Gouvernements sont de plus en plus amenés à prendre
+      des décisions réglementant ces activités, avec des répercussions économiques
+      et politiques majeures,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que les choix politiques des Gouvernements sont influencés
+      par les résultats d'études qui dépendent de manière critique de l'exactitude
+      et de la cohérence de mesures pouvant nécessiter d'importants investissements
+      économiques,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que de nombreuses preuves scientifiques importantes sur lesquelles
+      s'appuient ces décisions sont issues de mesures de petites variations à long
+      terme de certains paramètres clés, mesures qui s'étendent parfois sur plusieurs
+      décennies,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que certaines mesures critiques ont été traditionnellement
+      exprimées en utilisant des unités __ad hoc__, fondées sur des instruments et
+      des méthodes spécifiques, et non pas les unités du SI, lesquelles sont bien
+      définies et adoptées au niveau international,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que depuis de nombreuses années l'expérience montre que les
+      mesures qui ne sont pas reliées directement au SI ne sont ni fiables à long
+      terme, ni comparables aux mesures semblables faites ailleurs ni adaptées à la
+      mise en évidence de relations avec les mesures faites dans d'autres domaines
+      scientifiques,
   actions:
   - type: recommends
     date_effective: '1995-10-13'
@@ -170,17 +191,16 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1995-10-13'
-    message: |-
-      *rappelant*
-
-      * que la 17
-      +
-      ^e^
-      +
-      Conférence générale des poids et mesures, en 1983, a adopté une nouvelle définition du mètre,
-      * que la même année, la Conférence générale a invité le Comité international des poids et mesures,
-
-      * que, en conséquence, le Comité international a publié en 1983 une recommandation pour la mise en pratique de la définition du mètre,
+    message: rappelant que la 17^e^ Conférence générale des poids et mesures, en 1983,
+      a adopté une nouvelle définition du mètre,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant que la même année, la Conférence générale a invité le Comité
+      international des poids et mesures,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: rappelant que, en conséquence, le Comité international a publié en 1983
+      une recommandation pour la mise en pratique de la définition du mètre,
   - type: considering
     date_effective: '1995-10-13'
     message: considérant que les sciences et les techniques continuent à exiger une
@@ -357,16 +377,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: |-
-      *considérant*
-
-      * que la 11
-      +
-      ^e^
-      +
-      Conférence générale, en 1960, dans sa Résolution 12 établissant le Système international d'unités, SI, a distingué trois classes d'unités, celle des unités de base, celle des unités dérivées et celle des unités supplémentaires, cette dernière comprenant seulement le radian et le stéradian,
-      * que le statut des unités supplémentaires par rapport aux unités de base et aux unités dérivées, a donné lieu à des discussions,
-      * que le Comité international des poids et mesures (CIPM), en 1980, constatant que le statut ambigu des unités supplémentaires compromet la cohérence interne du SI, a interprété dans sa Recommandation 1 (CI-1980) les unités supplémentaires, dans le SI, comme des unités dérivées sans dimension,
+    message: considérant que la 11^e^ Conférence générale, en 1960, dans sa Résolution
+      12 établissant le Système international d'unités, SI, a distingué trois classes
+      d'unités, celle des unités de base, celle des unités dérivées et celle des unités
+      supplémentaires, cette dernière comprenant seulement le radian et le stéradian,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que le statut des unités supplémentaires par rapport aux
+      unités de base et aux unités dérivées, a donné lieu à des discussions,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considérant que le Comité international des poids et mesures (CIPM),
+      en 1980, constatant que le statut ambigu des unités supplémentaires compromet
+      la cohérence interne du SI, a interprété dans sa Recommandation 1 (CI-1980)
+      les unités supplémentaires, dans le SI, comme des unités dérivées sans dimension,
   actions:
   - type: approves
     date_effective: '1995-10-13'

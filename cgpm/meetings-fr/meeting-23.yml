@@ -74,23 +74,18 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2007-11-16'
-    message: |-
-      *considérant*
-
-      * la Résolution 5 de la 22
-      +
-      ^e^
-      +
-      Conférence générale, qui a pris acte du rapport sur les besoins à long terme dans le domaine de la métrologie et qui a invité le Comité international à suivre de près les demandes croissantes faites aux laboratoires nationaux de métrologie et au BIPM en ce qui concerne l'évolution des besoins,
-      * la demande exprimée par la 22
-      +
-      ^e^
-      +
-      Conférence générale au Comité international de présenter un rapport à la 23
-      +
-      ^e^
-      +
-      Conférence générale traitant du bien-fondé de la réponse du BIPM à ces besoins et des implications éventuelles d'ordre financier, ainsi que sur le programme de travail du BIPM pour répondre à ces besoins internationaux, et d'actualiser le rapport de 2003,
+    message: considérant la Résolution 5 de la 22^e^ Conférence générale, qui a pris
+      acte du rapport sur les besoins à long terme dans le domaine de la métrologie
+      et qui a invité le Comité international à suivre de près les demandes croissantes
+      faites aux laboratoires nationaux de métrologie et au BIPM en ce qui concerne
+      l'évolution des besoins,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant la demande exprimée par la 22^e^ Conférence générale au Comité
+      international de présenter un rapport à la 23^e^ Conférence générale traitant
+      du bien-fondé de la réponse du BIPM à ces besoins et des implications éventuelles
+      d'ordre financier, ainsi que sur le programme de travail du BIPM pour répondre
+      à ces besoins internationaux, et d'actualiser le rapport de 2003,
   - type: noting
     date_effective: '2007-11-16'
     message: note le besoin croissant de disposer de meilleurs étalons de mesure,
@@ -117,34 +112,54 @@ resolutions:
   actions:
   - type: welcomes
     date_effective: '2007-11-16'
-    message: |-
-      *accueille favorablement*
-
-      * la mise à jour du « Rapport du Comité international sur l'évolution des besoins dans le domaine de la métrologie pour le commerce, l'industrie et la société et le rôle du Bureau international des poids et mesures » présenté à la 23
-      +
-      ^e^
-      +
-      Conférence générale,
-      * les initiatives prises par le Comité international pour traiter des questions concernant la traçabilité en métrologie des matériaux,
-      * les propositions de répondre à certains de ces nouveaux besoins dans le programme de travail du BIPM,
+    message: accueille favorablement la mise à jour du « Rapport du Comité international
+      sur l'évolution des besoins dans le domaine de la métrologie pour le commerce,
+      l'industrie et la société et le rôle du Bureau international des poids et mesures
+      » présenté à la 23^e^ Conférence générale,
+  - type: welcomes
+    date_effective: '2007-11-16'
+    message: accueille favorablement les initiatives prises par le Comité international
+      pour traiter des questions concernant la traçabilité en métrologie des matériaux,
+  - type: welcomes
+    date_effective: '2007-11-16'
+    message: accueille favorablement les propositions de répondre à certains de ces
+      nouveaux besoins dans le programme de travail du BIPM,
   - type: thanks / expresses-appreciation
     date_effective: '2007-11-16'
     message: "*remercie* les nombreuses organisations et personnes qui ont contribué
       au rapport du Comité international,"
   - type: invites / further invites
     date_effective: '2007-11-16'
-    message: |-
-      *invite*
-
-      * le Comité international, les États Membres et les laboratoires nationaux de métrologie à soutenir les initiatives prises pour intensifier l'impact des concepts tels que la traçabilité au Système international d'unités (SI) et l'incertitude des mesures dans le plus grand nombre possible de domaines d'activités économiques et sociales,
-      * le Comité international à identifier les plus hautes priorités afin d'améliorer les mesures dans des domaines tels que la nanotechnologie, les sciences biologiques, la médecine, l'alimentation et l'environnement, et à préparer des propositions d'activités à mettre en œuvre par le BIPM au niveau international,
-      * les laboratoires nationaux de métrologie à suivre l'évolution des besoins et à prendre acte des activités de liaison et des autres actions du BIPM aux niveaux intergouvernemental et international pour étendre les collaborations nécessaires afin de les poursuivre au niveau national,
-      * le Comité international à présenter un rapport à la prochaine Conférence générale sur l'adéquation de la réponse du BIPM à ces besoins, à examiner leurs implications pour la coordination ou les travaux de laboratoire du BIPM et à présenter, si nécessaire, des propositions à la 24
-      +
-      ^e^
-      +
-      Conférence générale concernant le programme de travail du BIPM pour les années 2013 à 2016,
-      * le Comité international à continuer à présenter un rapport sur l'évolution des besoins dans le domaine de la métrologie aux prochaines Conférences générales.
+    message: invite le Comité international, les États Membres et les laboratoires
+      nationaux de métrologie à soutenir les initiatives prises pour intensifier l'impact
+      des concepts tels que la traçabilité au Système international d'unités (SI)
+      et l'incertitude des mesures dans le plus grand nombre possible de domaines
+      d'activités économiques et sociales,
+  - type: invites / further invites
+    date_effective: '2007-11-16'
+    message: invite le Comité international à identifier les plus hautes priorités
+      afin d'améliorer les mesures dans des domaines tels que la nanotechnologie,
+      les sciences biologiques, la médecine, l'alimentation et l'environnement, et
+      à préparer des propositions d'activités à mettre en œuvre par le BIPM au niveau
+      international,
+  - type: invites / further invites
+    date_effective: '2007-11-16'
+    message: invite les laboratoires nationaux de métrologie à suivre l'évolution
+      des besoins et à prendre acte des activités de liaison et des autres actions
+      du BIPM aux niveaux intergouvernemental et international pour étendre les collaborations
+      nécessaires afin de les poursuivre au niveau national,
+  - type: invites / further invites
+    date_effective: '2007-11-16'
+    message: invite le Comité international à présenter un rapport à la prochaine
+      Conférence générale sur l'adéquation de la réponse du BIPM à ces besoins, à
+      examiner leurs implications pour la coordination ou les travaux de laboratoire
+      du BIPM et à présenter, si nécessaire, des propositions à la 24^e^ Conférence
+      générale concernant le programme de travail du BIPM pour les années 2013 à 2016,
+  - type: invites / further invites
+    date_effective: '2007-11-16'
+    message: invite le Comité international à continuer à présenter un rapport sur
+      l'évolution des besoins dans le domaine de la métrologie aux prochaines Conférences
+      générales.
   doi: 10.59161/CGPM2007RES2F
 - dates:
   - '2007-11-16'
@@ -301,11 +316,7 @@ resolutions:
     message: |-
       *prend acte et accueille favorablement*
 
-      * les initiatives prises par le Comité international afin de répondre à la Résolution 6 de la 22
-      +
-      ^e^
-      +
-       Conférence générale sur l'importance de l'Arrangement de reconnaissance mutuelle du CIPM,
+      * les initiatives prises par le Comité international afin de répondre à la Résolution 6 de la 22^e^ Conférence générale sur l'importance de l'Arrangement de reconnaissance mutuelle du CIPM,
       * la signature par le Bureau international des poids et mesures (BIPM) d'un communiqué commun afin de promouvoir l'utilisation de l'Arrangement de reconnaissance mutuelle du CIPM, de l'Arrangement d'acceptation mutuelle de l'OIML et de l'Arrangement de l'ILAC, élaboré par ces trois organisations et transmis aux organisations intergouvernementales, aux organismes internationaux et aux organismes dont les travaux sont influencés par ces Arrangements ont des conséquences sur leurs travaux,
       * les réponses positives reçues d'un certain nombre d'organismes auxquels le communiqué commun a été envoyé,
 
@@ -331,18 +342,23 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2007-11-16'
-    message: |-
-      *considérant*
-
-      * la Résolution 3 de la 21
-      +
-      ^e^
-      +
-      Conférence générale,
-      * que le statut d'État associé peut constituer une première étape avant d'adhérer à la Convention du Mètre,
-      * les avantages techniques et économiques dont bénéficient les Associés,
-      * le niveau de souscription financière des Associés relatif à ces activités et ces avantages,
-      * le coût croissant pour les États Membres de la participation des Associés à l'Arrangement du CIPM et à certaines activités des Comités consultatifs,
+    message: considérant la Résolution 3 de la 21^e^ Conférence générale,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant que le statut d'État associé peut constituer une première
+      étape avant d'adhérer à la Convention du Mètre,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant les avantages techniques et économiques dont bénéficient
+      les Associés,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant le niveau de souscription financière des Associés relatif
+      à ces activités et ces avantages,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant le coût croissant pour les États Membres de la participation
+      des Associés à l'Arrangement du CIPM et à certaines activités des Comités consultatifs,
   actions:
   - type: invites / further invites
     date_effective: '2007-11-16'
@@ -382,21 +398,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2007-11-16'
-    message: |-
-      *considérant*
-
-      * la Résolution 3 de la 21
-      +
-      ^e^
-      +
-      Conférence générale,
-      * les discussions à la 22
-      +
-      ^e^
-      +
-      Conférence générale concernant l'admission de coopérations économiques régionales officielles comme Associé à la Conférence générale, en qualité d'entités économiques,
-      * que le statut d'Associé a été accordé à une telle entité économique,
-      * le souhait que soient établis des critères permettant l'examen des demandes de ce type,
+    message: considérant la Résolution 3 de la 21^e^ Conférence générale,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant les discussions à la 22^e^ Conférence générale concernant
+      l'admission de coopérations économiques régionales officielles comme Associé
+      à la Conférence générale, en qualité d'entités économiques,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant que le statut d'Associé a été accordé à une telle entité
+      économique,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant le souhait que soient établis des critères permettant l'examen
+      des demandes de ce type,
   actions:
   - type: decides
     date_effective: '2007-11-16'
@@ -427,19 +442,38 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2007-11-16'
-    message: |-
-      *considérant*
-
-      * qu'en 1999, à sa 21
-      +
-      ^e^
-      +
-      session, la Conférence générale a créé une catégorie d'Associé à la Conférence générale pour les États qui n'avaient pas adhéré à la Convention du Mètre et pour certaines Entités économiques, afin de faciliter la participation à l'Arrangement de reconnaissance mutuelle du CIPM (le MRA du CIPM) des pays qui pourraient, dans un premier temps, avoir des difficultés pour allouer les fonds suffisants pour adhérer à la Convention du Mètre,
-      * le nombre croissant de pays en voie de développement ou en transition devenus Associés à la Conférence générale,
-      * qu'il est dans l'intérêt de tous les États et Entités économiques d'établir des relations, par le biais de leur laboratoire national de métrologie, lequel joue un rôle de coordination, avec le système de mesure mondial organisé et coordonné sous les auspices de la Convention du Mètre,
-      * qu'il subsiste cependant un grand nombre d'États qui ont des difficultés à accomplir les formalités et à payer la souscription demandée pour devenir Associé,
-      * qu'il est dans l'intérêt de tous les États et Entités économiques de réduire ou de supprimer les obstacles techniques au commerce en devenant signataires de l'Arrangement du CIPM,
-      * que les États Membres souhaitent créer un moyen simple, global et économique d'établir ces relations et d'encourager ces États à devenir État Membre ou Associé à la Conférence générale,
+    message: considérant qu'en 1999, à sa 21^e^ session, la Conférence générale a
+      créé une catégorie d'Associé à la Conférence générale pour les États qui n'avaient
+      pas adhéré à la Convention du Mètre et pour certaines Entités économiques, afin
+      de faciliter la participation à l'Arrangement de reconnaissance mutuelle du
+      CIPM (le MRA du CIPM) des pays qui pourraient, dans un premier temps, avoir
+      des difficultés pour allouer les fonds suffisants pour adhérer à la Convention
+      du Mètre,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant le nombre croissant de pays en voie de développement ou en
+      transition devenus Associés à la Conférence générale,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant qu'il est dans l'intérêt de tous les États et Entités économiques
+      d'établir des relations, par le biais de leur laboratoire national de métrologie,
+      lequel joue un rôle de coordination, avec le système de mesure mondial organisé
+      et coordonné sous les auspices de la Convention du Mètre,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant qu'il subsiste cependant un grand nombre d'États qui ont
+      des difficultés à accomplir les formalités et à payer la souscription demandée
+      pour devenir Associé,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant qu'il est dans l'intérêt de tous les États et Entités économiques
+      de réduire ou de supprimer les obstacles techniques au commerce en devenant
+      signataires de l'Arrangement du CIPM,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant que les États Membres souhaitent créer un moyen simple, global
+      et économique d'établir ces relations et d'encourager ces États à devenir État
+      Membre ou Associé à la Conférence générale,
   - type: recalling / further recalling
     date_effective: '2007-11-16'
     message: "*rappelant* la Résolution 4 de la 22^e^ Conférence générale sur la valeur
@@ -743,44 +777,45 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2007-11-16'
-    message: |-
-      *considérant*
-
-      * que les laboratoires nationaux de métrologie et le Bureau international des poids et mesures (BIPM) ont consacré des efforts considérables depuis de nombreuses années en vue de promouvoir et d'améliorer le Système international d'unités (SI), en repoussant les limites de la métrologie, afin de définir les unités de base du SI en fonction de constantes de la nature - les constantes physiques fondamentales,
-      * que parmi les sept unités de base du SI, seul le kilogramme est encore défini à partir d'un objet matériel (artefact), à savoir le prototype international du kilogramme (2
-      +
-      ^e^
-      +
-      CGPM, 1889 et 3
-      +
-      ^e^
-      +
-      CGPM, 1901), et que les définitions de l'ampère, de la mole et de la candela dépendent du kilogramme,
-      * la 21
-      +
-      ^e^
-      +
-      Conférence générale a adopté en 1999 la Résolution 7, laquelle recommandait que « les laboratoires nationaux poursuivent leurs efforts pour affiner les expériences qui relient l'unité de masse à des constantes fondamentales ou atomiques et qui pourraient, dans l'avenir, servir de base à une nouvelle définition du kilogramme »,
-      * de nombreux progrès ont été réalisés ces dernières années pour relier la masse du prototype international à la constante de Planck,
-      +
-      __h__
-      +
-      , ou à la constante d'Avogadro,
-      +
-      __N__
-      +
-      ~stem:["A"]~
-      +
-      ,
-      * les initiatives prises pour déterminer la valeur d'un certain nombre de constantes fondamentales, y compris celle de la constante de Boltzmann
-      +
-      __k__
-      +
-      ~B~
-      +
-      ,
-      * que des implications significatives et des avantages potentiels découlent de nouvelles définitions du kilogramme, de l'ampère, du kelvin et de la mole, suite aux progrès récents accomplis,
-      * la Recommandation 1 (CI-2005) du Comité international adoptée lors de sa session d'octobre 2005 et diverses recommandations des Comités consultatifs sur la redéfinition d'une ou plusieurs unités de base du SI,
+    message: considérant que les laboratoires nationaux de métrologie et le Bureau
+      international des poids et mesures (BIPM) ont consacré des efforts considérables
+      depuis de nombreuses années en vue de promouvoir et d'améliorer le Système international
+      d'unités (SI), en repoussant les limites de la métrologie, afin de définir les
+      unités de base du SI en fonction de constantes de la nature - les constantes
+      physiques fondamentales,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant que parmi les sept unités de base du SI, seul le kilogramme
+      est encore défini à partir d'un objet matériel (artefact), à savoir le prototype
+      international du kilogramme (2^e^ CGPM, 1889 et 3^e^ CGPM, 1901), et que les
+      définitions de l'ampère, de la mole et de la candela dépendent du kilogramme,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant la 21^e^ Conférence générale a adopté en 1999 la Résolution
+      7, laquelle recommandait que « les laboratoires nationaux poursuivent leurs
+      efforts pour affiner les expériences qui relient l'unité de masse à des constantes
+      fondamentales ou atomiques et qui pourraient, dans l'avenir, servir de base
+      à une nouvelle définition du kilogramme »,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant de nombreux progrès ont été réalisés ces dernières années
+      pour relier la masse du prototype international à la constante de Planck, stem:[h],
+      ou à la constante d'Avogadro, stem:[N_("A")],
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant les initiatives prises pour déterminer la valeur d'un certain
+      nombre de constantes fondamentales, y compris celle de la constante de Boltzmann
+      stem:[k_(B)],
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant que des implications significatives et des avantages potentiels
+      découlent de nouvelles définitions du kilogramme, de l'ampère, du kelvin et
+      de la mole, suite aux progrès récents accomplis,
+  - type: considering
+    date_effective: '2007-11-16'
+    message: considérant la Recommandation 1 (CI-2005) du Comité international adoptée
+      lors de sa session d'octobre 2005 et diverses recommandations des Comités consultatifs
+      sur la redéfinition d'une ou plusieurs unités de base du SI,
   - type: noting
     date_effective: '2007-11-16'
     message: notant que les changements dans les définitions des unités du SI doivent
@@ -808,11 +843,7 @@ resolutions:
     message: |-
       *recommande* que les laboratoires nationaux de métrologie et le BIPM
 
-      * poursuivent les expériences appropriées afin que le Comité international puisse juger s'il est possible ou non de redéfinir le kilogramme, l'ampère, le kelvin et la mole en utilisant des valeurs fixées pour certaines constantes fondamentales lors de la 24
-      +
-      ^e^
-      +
-      Conférence générale en 2011,
+      * poursuivent les expériences appropriées afin que le Comité international puisse juger s'il est possible ou non de redéfinir le kilogramme, l'ampère, le kelvin et la mole en utilisant des valeurs fixées pour certaines constantes fondamentales lors de la 24^e^ Conférence générale en 2011,
       * réfléchissent, en collaboration avec le Comité international, ses Comités consultatifs et les groupes de travail concernés, aux moyens pratiques de réaliser les nouvelles définitions fondées sur des valeurs fixées de constantes fondamentales, préparent une mise en pratique de chacune d'elles, et examinent quel est le moyen le plus approprié pour expliquer les nouvelles définitions aux utilisateurs,
       * suscitent des campagnes de sensibilisation pour alerter les communautés d'utilisateurs sur l'éventualité de nouvelles définitions afin que leurs implications techniques et juridiques, ainsi que leurs réalisations pratiques, soient discutées et examinées avec soin,
 

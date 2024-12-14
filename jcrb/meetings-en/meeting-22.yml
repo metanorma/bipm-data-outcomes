@@ -6,7 +6,173 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
 pdf: https://www.bipm.org/documents/20126/30859728/JCRB22.pdf/39404b49-7e02-9c80-c709-c51f59951bc7
-resolutions: []
+resolutions:
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: action
+  title: Action JCRB/22-1 (2009)
+  identifier: 22-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2009-03-18'
+    message: The RMOs will send feedbacks to the KCDB office about the new FAQ facility.
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: action
+  title: Action JCRB/22-2 (2009)
+  identifier: 22-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - Guidance documents
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2009-03-18'
+    message: 'The Executive Secretary will produce a new draft version of CIPM MRA-D-05
+      and circulate it to the RMOs. RMOs will send any comments to the Executive Secretary
+      before the end of July. Responsible: Executive Secretary.'
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: action
+  title: Action JCRB/22-3 (2009)
+  identifier: 22-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - Guidance documents
+  - CMCs
+  - Traceability
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2009-03-18'
+    message: 'To modify CIPM MRA-D-04 (including the policies on traceability and
+      re-review period) and circulate it among the RMOs (Executive Secretary). The
+      RMOs will send comments before the end of July. Responsible: Executive Secretary.'
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: action
+  title: Action JCRB/22-4 (2009)
+  identifier: 22-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - ILAC
+  - Accreditation
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2009-03-18'
+    message: RMOs will send comments on the ILAC document for accreditation of NMIs.
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: action
+  title: Action JCRB/22-5 (2009)
+  identifier: 22-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - Meetings
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2009-03-18'
+    message: COOMET will inform the other RMOs and the BIPM about other related activities
+      in the same week of the JCRB meeting.
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/22-1 (2009)
+  identifier: 22-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - Guidance documents
+  - RMO
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2009-03-18'
+    message: The JCRB recommends that the CIPM approves document CIPM MRA-P-01, "Procedure
+      for approval of new RMOs".
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/22-2 (2009)
+  identifier: 22-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - Guidance documents
+  - Traceability
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2009-03-18'
+    message: The JCRB recommends that the CIPM adopts the following policy for traceability
+      in context of the CIPM MRA.
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/22-1 (2009)
+  identifier: 22-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2009-03-18'
+    message: The Executive Secretary will send an advance copy of the JCRB news section
+      of the KCDB newsletter to the RMO delegates.
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/22-2 (2009)
+  identifier: 22-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - CMCs
+  - QMS
+  considerations:
+  - type: noting
+    date_effective: '2009-03-18'
+    message: 'The JCRB noting that: - its statement about a five year review period
+      for CMCs may have been misinterpreted, - that RMOs review of quality systems
+      occurs every five years, and - that recently it was introduced a system of annual
+      reports from NMIs in which NMIs report any changes which may affect CMCs, resolves
+      that: the periodical review of published CMCs is performed by the RMOs and recommends
+      that RMOs review the templates used for these annual reports to ensure that
+      NMIs address this issue. The JCRB further notes that in some areas, CCs may
+      wish to make a specific decision on the review period and review procedure which
+      applies to their community.'
+  actions: []
+- dates:
+  - '2009-03-18'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/22-3 (2009)
+  identifier: 22-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/22-2009
+  categories:
+  - ILAC
+  - Accreditation
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2009-03-18'
+    message: The JCRB recommends that the BIPM participates in the preparation of
+      the ILAC guide for accreditation of NMIs.
 working_documents:
 - title: JCRB/22-05
   pdf: https://www.bipm.org/documents/20126/32647151/working-document-cc-jc-private-ID-3327/517d753d-8a30-ca02-0f91-04d3b6ff9cce

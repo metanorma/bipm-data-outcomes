@@ -6,7 +6,172 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
 pdf: https://www.bipm.org/documents/20126/41049960/JCRB27.pdf/9d168727-338b-b3ea-f71d-4bceec2f53e2
-resolutions: []
+resolutions:
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/27-1 (2011)
+  identifier: 27-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO representatives will remind the chairs of the technical committees/working
+    groups of the importance of observing the established instructions for modifying
+    existing CMCs as stated in document CIPM MRA-D-04.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/27-2 (2011)
+  identifier: 27-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Designated institutes
+  - CMCs
+  - KCDB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The CMCs of RMTC of Latvia will be permanently deleted from the KCDB due to the
+    fact that it is no longer the designated institute for Latvia in the field of
+    ionizing radiation.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/27-3 (2011)
+  identifier: 27-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Designated institutes
+  considerations: []
+  actions: []
+  x-unparsed:
+  - International Liaison Officer and the Executive Secretary of the JCRB will work
+    to obtain information on the fields of designation of all DIs listed in Appendix
+    A and report on the progress of such work at the next JCRB.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/27-4 (2011)
+  identifier: 27-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2011-09-15'
+    message: will prepare a draft document on expectations from DIs for active engagement
+      in the CIPM MRA (declaration of CMCs, participation in RMO activities) using
+      the input provided by EURAMET at the meeting, in time for the next JCRB meeting.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: action
+  title: Action JCRB/27-5 (2011)
+  identifier: 27-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Developing countries
+  considerations: []
+  actions: []
+  x-unparsed:
+  - international liaison officer will explore the possibility of adopting PTB Guide
+    6 as a BIPM document.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/27-1 (2011)
+  identifier: 27-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - ILAC
+  - Accreditation
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2011-09-15'
+    message: The JCRB recommends to the CIPM to approve the BIPM ILAC Joint Communication
+      on the Accreditation of NMI Services.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/27-2 (2011)
+  identifier: 27-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2011-09-15'
+    message: The JCRB recommends that the CIPM adopt the draft guidelines on the authorship
+      of comparison reports subject to the inclusion of SIM comments.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: recommendation
+  title: Recommandation JCRB/27-3 (2011)
+  identifier: 27-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2011-09-15'
+    message: The JCRB recommends to the CIPM to approve changes to CIPM MRA-D-05.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/27-1 (2011)
+  identifier: 27-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - CMCs
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: resolves
+    date_effective: '2011-09-15'
+    message: The JCRB resolves that the CMCs of those institutes removed from Appendix
+      stem:["A"] will automatically be deleted from the KCDB.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/27-2 (2011)
+  identifier: 27-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 28th meeting of the JCRB will take place at the BIPM, beginning at 13:00 on
+    April 3 and continuing full day on April 4, 2012.
+- dates:
+  - '2011-09-15'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/27-3 (2011)
+  identifier: 27-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/27-2011
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 29th meeting of the JCRB will take place at NIST on September 25 and 26, 2012.
 working_documents:
 - title: JCRB/27-06
   pdf: https://www.bipm.org/documents/20126/32648125/working-document-cc-jc-private-ID-4709/f767eb52-9e2e-e400-8278-9206885c5f5d

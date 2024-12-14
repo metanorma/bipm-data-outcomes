@@ -27,13 +27,9 @@ resolutions:
       [start=4]
       . Les unités photométriques peuvent être définies comme suit :
       +
-      *_Bougie nouvelle_*
+      *_Bougie nouvelle_* (unité d’intensité lumineuse). — La grandeur de la bougie nouvelle est telle que la brillance du radiateur intégral à la température de solidification du platine soit de 60 bougies nouvelles par centimètre carré.
       +
-      (unité d’intensité lumineuse). — La grandeur de la bougie nouvelle est telle que la brillance du radiateur intégral à la température de solidification du platine soit de 60 bougies nouvelles par centimètre carré.
-      +
-      *_Lumen nouveau_*
-      +
-      (unité de flux lumineux). — Le lumen nouveau est le flux lumineux émis dans l’angle solide unité (stéradian) par une source ponctuelle uniforme ayant une intensité lumineuse de 1 bougie nouvelle.
+      *_Lumen nouveau_* (unité de flux lumineux). — Le lumen nouveau est le flux lumineux émis dans l’angle solide unité (stéradian) par une source ponctuelle uniforme ayant une intensité lumineuse de 1 bougie nouvelle.
       . ...
   doi: 10.59161/CIPM1946RES1F
 - dates:

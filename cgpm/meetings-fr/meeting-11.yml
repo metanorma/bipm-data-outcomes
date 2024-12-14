@@ -231,20 +231,19 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1960-10-20'
-    message: |-
-      *décide*
-
-      . Le mètre est la longueur égale à 1 650 763,73 longueurs d'onde dans le vide de la radiation correspondant à la transition entre les niveaux 2p
-      +
-      ~10~
-      +
-      et 5d
-      +
-      ~5~
-      +
-      de l'atome de krypton 86.
-      . La définition du mètre en vigueur depuis 1889, fondée sur le Prototype international en platine iridié, est abrogée.
-      . Le Prototype international du mètre sanctionné par la Première Conférence générale des poids et mesures en 1889 sera conservé au Bureau international des poids et mesures dans le mêmes conditions que celles qui ont été fixées en 1889.
+    message: décide Le mètre est la longueur égale à 1 650 763,73 longueurs d'onde
+      dans le vide de la radiation correspondant à la transition entre les niveaux
+      2p~10~ et 5d~5~ de l'atome de krypton 86.
+  - type: decides
+    date_effective: '1960-10-20'
+    message: décide La définition du mètre en vigueur depuis 1889, fondée sur le Prototype
+      international en platine iridié, est abrogée.
+  - type: decides
+    date_effective: '1960-10-20'
+    message: décide Le Prototype international du mètre sanctionné par la Première
+      Conférence générale des poids et mesures en 1889 sera conservé au Bureau international
+      des poids et mesures dans le mêmes conditions que celles qui ont été fixées
+      en 1889.
   doi: 10.59161/CGPM1960RES6F
   notes: Définition abrogée en 1983 par la 17^e^ CGPM (Résolution 1).
 - dates:
@@ -274,11 +273,7 @@ resolutions:
     message: |-
       *invite* le Comité international
 
-      . à établir des instructions pour la mise en pratique de la nouvelle définition du mètre (
-      +
-      ^1^
-      +
-      ) ;
+      . à établir des instructions pour la mise en pratique de la nouvelle définition du mètre (^1^) ;
       . à choisir des étalons secondaires de longueur d'onde pour la mesure interférentielle des longueurs et à établir des instructions pour leur emploi ;
       . à poursuivre les études entreprises en vue d'améliorer les étalons de longueur.
 
@@ -435,10 +430,7 @@ resolutions:
       * la Résolution 6 de la Dixième Conférence générale des poids et mesures par laquelle elle a adopté les six unités devant servir de base à l'établissement d'un système pratique de mesure pour les relations internationales :
       +
 
-
-
       +
-
       [cols="9,7,4"]
       |===
       | longueur | mètre | stem:["m"]
@@ -450,7 +442,6 @@ resolutions:
       | intensité lumineuse .<| candela | stem:["cd"]
 
       |===
-
       * la Résolution 3 adoptée par le Comité international des poids et mesures en 1956,
       * les recommandations adoptées par le Comité international des poids et mesures en 1958 concernant l'abréviation du nom de ce système et les préfixes pour la formation des multiples et sous-multiples des unités,
   actions:
@@ -464,10 +455,7 @@ resolutions:
       . les noms des multiples et sous-multiples des unités sont formés au moyen des préfixes suivants :
       +
 
-
-
       +
-
       [cols="13,13,21,13"]
       |===
       2+| Facteur par lequel l'unité est multipliée | Préfixe | Symbole
@@ -480,9 +468,7 @@ resolutions:
       >| 10 | = stem:[10^(1)] | deca | da
 
       |===
-
       +
-
       [cols="13,13,21,13"]
       |===
       2+| Facteur par lequel l'unité est multipliée | Préfixe | Symbole
@@ -495,7 +481,6 @@ resolutions:
       >| 0.000 000 000 001 | = stem:[10^(-12)] | pico | p
 
       |===
-
       . sont employées dans ce Système les unités ci-dessous, sans préjudice d'autres unités qu'on pourrait ajouter à l'avenir
   - type: declares
     date_effective: '1960-10-20'
@@ -533,39 +518,11 @@ resolutions:
     La Conférence générale a ultérieurement abrogé certaines de ces décisions et complété la liste des préfixes SI : +
      +
 
-    * Le nom et symbole de l'unité de température thermodynamique ont été modifiés par la 13
-    +
-    ^e^
-    +
-    CGPM en 1967 (Résolution 3).
-    * Une septième unité de base, la mole, fut adoptée par la 14
-    +
-    ^e^
-    +
-    CGPM en 1971 (Résolution 3).
-    * D'autres préfixes furent adoptés par la 12
-    +
-    ^e^
-    +
-    CGPM en 1964 (Résolution 8), par la 15
-    +
-    ^e^
-    +
-    CGPM en 1975 (Résolution 10), et par la 19
-    +
-    ^e^
-    +
-    CGPM en 1991 (Résolution 4).
-    * La 20
-    +
-    ^e^
-    +
-    CGPM a abrogé en 1995 la classe des unités supplémentaires dans le SI (Résolution 8). Ces unités sont maintenant considérées comme des unités dérivées.
-    * La 13
-    +
-    ^e^
-    +
-    CGPM en 1967 (Résolution 6) a ajouté d'autres unités à cette liste d'unités dérivées, qui, en principe, n'est pas limitative.
+    * Le nom et symbole de l'unité de température thermodynamique ont été modifiés par la 13^e^ CGPM en 1967 (Résolution 3).
+    * Une septième unité de base, la mole, fut adoptée par la 14^e^ CGPM en 1971 (Résolution 3).
+    * D'autres préfixes furent adoptés par la 12^e^ CGPM en 1964 (Résolution 8), par la 15^e^ CGPM en 1975 (Résolution 10), et par la 19^e^ CGPM en 1991 (Résolution 4).
+    * La 20^e^ CGPM a abrogé en 1995 la classe des unités supplémentaires dans le SI (Résolution 8). Ces unités sont maintenant considérées comme des unités dérivées.
+    * La 13^e^ CGPM en 1967 (Résolution 6) a ajouté d'autres unités à cette liste d'unités dérivées, qui, en principe, n'est pas limitative.
 - dates:
   - '1960-10-20'
   subject: CGPM

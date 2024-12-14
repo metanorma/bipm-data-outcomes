@@ -6,7 +6,776 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
 pdf: https://www.bipm.org/documents/20126/41050095/JCRB8.pdf/40c77d27-9d08-0c41-fe3e-31722f8d762d
-resolutions: []
+resolutions:
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-1 (2009)
+  identifier: 8-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to forward the short and long English version and the long
+      French version of the Calibration Certificate Statement referring to the MRA
+      to the Committee to be used by NMIs as appropriate.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-2 (2009)
+  identifier: 8-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman to send a copy of the _Metrologia_ Editorial on the Technical
+      Supplement to all Chairmen of CC Working Groups.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-3 (2009)
+  identifier: 8-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CIPM MRA
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to distribute the revised BIPM leaflet to all RMOs.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-4 (2009)
+  identifier: 8-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to check on status of COOMET's AUV submission and to arrange
+      for its inclusion on the database.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-5 (2009)
+  identifier: 8-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: APMP to amend its' Status of CMCs document and re-send it to the JCRB
+      Secretary.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-6 (2009)
+  identifier: 8-6
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Designated institutes
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Director of NMIJ to send a formal letter to the JCRB Chairman to inform him
+    that HECTEF is nominated by Japan as a designated institute.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-7 (2009)
+  identifier: 8-7
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: COOMET to forward Appendix 3 of its' RMO report to the Secretary.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-8 (2009)
+  identifier: 8-8
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Meetings
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman to ask Executive Secretaries of CCs to invite RMO Representatives
+      to the JCRB to nominate which CC member is authorised to represent the RMO at
+      CC meetings.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-9 (2009)
+  identifier: 8-9
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: EUROMET to amend its' Status of CMCs document and re-send it to the Secretary.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-10 (2009)
+  identifier: 8-10
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Schwitz to ensure that EUROMET Guidance Document No. 3 explicitly
+      states that EUROMET-initiated comparisons are to be notified to the Executive
+      Secretary of the relevant CC.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-11 (2009)
+  identifier: 8-11
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - KCDB
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to draw up a flowchart/document indicating the steps needed
+      to register an RMO Key or Supplementary Comparison and to forward this to Committee
+      Members.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-12 (2009)
+  identifier: 8-12
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Sacconi to write a discussion paper giving his preferred terminology
+      in the MRA for "designated institutes" in cases where the nominating body is
+      not the relevant government. This proposal is to be tabled at the Directors'
+      Meeting in April.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-13 (2009)
+  identifier: 8-13
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - ALL RMOs to send updated Lists of Contacts to Secretary when changes have been
+    made.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-14 (2009)
+  identifier: 8-14
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: APMP to send SADCMET its intra-regional review report on SADCMET.L, which
+      SADCMET is to then forward, with the CMC, to the JCRB Secretary to be sent on
+      to EUROMET for review.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-15 (2009)
+  identifier: 8-15
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: All RMOs, except SIM, to consider reviewing SADCMET.PR and to send their
+      responses to the JCRB Secretary.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-16 (2009)
+  identifier: 8-16
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman to post approval of SADCMET.RI.part2 on the website.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-17 (2009)
+  identifier: 8-17
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to pursue the status of the SADCMET.RI.part1 CMCs in one month
+      (i.e., by the first week of April 2002).
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-18 (2009)
+  identifier: 8-18
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  - RMO
+  considerations:
+  - type: noting
+    date_effective: '2002-03-06'
+    message: Secretary to note that SIM CMC communications are to be sent to Dr Castelazo
+      and copied to Dr Semerjian and Ing Mussio.
+  actions: []
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-19 (2009)
+  identifier: 8-19
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Castelazo to report back to the JCRB Secretary within 2 weeks (i.e.,
+      by 22 March 2002) on whether SIM will review COOMET.T.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-20 (2009)
+  identifier: 8-20
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2002-03-06'
+    message: |-
+      It was agreed that:
+
+      1. If, for example, three RMOs agree to review a CMC and two do not then these two have abandoned their prerogative to review the CMC at any later stage.
+
+      2. RMOs are to provide the following:
+
+      * acknowledgement of the receipt of the CMC, plus
+      * the date by which they will review the CMC, plus
+      * the reviewer's name. This will, in most cases, be a stem:["TC"] Chairman. The name of the reviewer is to be provided so that reviews can be followed up.
+
+      3. An automated reminder will be sent to all RMOs if no acknowledgement of a CMC is received within 3 weeks.
+
+      4. The Secretary will send out a reminder after 3 weeks of the review deadline given by an RMO. This will be sent to both the individual responsible and the RMO contact.
+
+      5. stem:["A"] log book will be set up to sit behind each CMC to provide an "at a glance" synopsis of the status of the CMC. This will be accessible to RMO reviewers to allow them to provide information on the status of the review.
+
+      6. If an RMO review deadline has to change, it is the reviewer's responsibility to notify the JCRB Chairman.
+
+      7. Every 3 months, the Executive Secretary will send out a summary document of the status of all CMCs.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-21 (2009)
+  identifier: 8-21
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: RMOs to inform the Executive Secretary of any additional information
+      they require in the 3-monthly Status of CMCs summary.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-22 (2009)
+  identifier: 8-22
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO CMC submissions should include the report on the intra-regional review. Interregional
+    review reports should then include a checklist indicating which of the items in
+    the list of criteria provided in (what is now) Document JCRB-8/13(1b), Criteria
+    for acceptance of data for Appendix C, have been addressed, with associated comments.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-23 (2009)
+  identifier: 8-23
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to delete obsolete CMCs (e.stem:["g"]., EUROMET.AUV.part1)
+      and discuss appropriate actions with RMOs when duplications occur.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-24 (2009)
+  identifier: 8-24
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  - International organizations
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: "(Dr Allisy-Roberts) to coordinate the preparation of a report, in consultation
+      with COOMET and NMIJ, on the Quality Systems status of IAEA to be provided to
+      the JCRB Chairman to accompany the IAEA CMC submission. The final report will
+      be circulated to the JCRB Committee."
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-25 (2009)
+  identifier: 8-25
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: The Executive Secretary to provide a Status of CMCs document a few weeks
+      before each JCRB meeting.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-26 (2009)
+  identifier: 8-26
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Uncertainty
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Kaarls to provide the JCRB with a report on the outcome of the discussions
+      on uncertainty in chemistry CMCs.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-27 (2009)
+  identifier: 8-27
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  - ILAC
+  considerations:
+  - type: noting
+    date_effective: '2002-03-06'
+    message: 'JCRB to note and accept rather than making a formal statement. NOTE:
+      Mr Mike Peet, Chairman of ILAC, was invited to join the JCRB Meeting for discussions
+      under Agenda Items 9,11, and 16.2.'
+  actions: []
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-28 (2009)
+  identifier: 8-28
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman and Secretary to write a definitive document stating what a
+      CMC is, based on Documents JCRB-8/9 and /9(3). This should have a footnote that
+      care must be taken that the very best instruments are not the ones to which
+      reference is being made (i.e, taking account of the concerns raised by SIM).
+      This document will be circulated to the Committee for agreement. When agreed,
+      the JCRB Chairman will send the document to the ILAC Chairman and it will then
+      be posted on the website.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-29 (2009)
+  identifier: 8-29
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMCs
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to post Document JCRB-8/10 on the website as a JCRB Document.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-30 (2009)
+  identifier: 8-30
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Hetherington to discuss Document JCRB-8/11 further with Dr Semerjian
+      of NIST. Dr Hetherington to then revise the paper taking these comments into
+      consideration as well as the discussions today and re-send the document to the
+      Secretary.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-31 (2009)
+  identifier: 8-31
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  - ILAC
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Sacconi to request that the INITIATION Project Leader provides a summary
+      report (rather than a full report) to the JCRB.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-32 (2009)
+  identifier: 8-32
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  - ILAC
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to request that the ad hoc Working Group on Inter-regional
+      Harmonisation of Quality System Reviews considers the ILAC request for information
+      on how NMIs have addressed Clause 7.3 to be made available on the MRA Website,
+      and provides comments for discussion at the 9th JCRB Meeting.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-33 (2009)
+  identifier: 8-33
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Commercial laboratories
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: BIPM Director to raise the issue of cases where designated institutes
+      are commercial companies at the April Directors Meeting, with the suggestion
+      that Directors try to ensure that activities identified in the MRA are separated
+      from the institutes' commercial activities.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-34 (2009)
+  identifier: 8-34
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Commercial laboratories
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: BIPM Director to draft a position paper on guidelines regarding designated
+      institutes that are commercial companies, to be raised with the CIPM. Drs Schwitz
+      and Kaarls to assist.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-35 (2009)
+  identifier: 8-35
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - KCDB
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Document JCRB-8/13(1) to be tabled by the JCRB Chairman for discussion at the
+    April Directors Meeting.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-36 (2009)
+  identifier: 8-36
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: BIPM Director to formalise the role of CC WGs on KCs in reviewing relevant
+      CMCs each time a new key comparison is completed.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-37 (2009)
+  identifier: 8-37
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - CMC review
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman and Secretary to draft a document on the criteria that would
+      lead to a review of CMCs already in Appendix C.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-38 (2009)
+  identifier: 8-38
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Based on paragraph H of Document JCRB-8/13(1), the ad hoc Working Group on NMIs
+    Quality Systems is to draw up criteria to be used in the monitoring of the operation
+    of quality systems under Paragraph 7.3(b). The draft criteria are to be circulated
+    to the JCRB by the ad hoc Working Group before the next JCRB meeting, i.e., before
+    October 2002.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-39 (2009)
+  identifier: 8-39
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to regularly draft a one-page summary of activities and to
+      distribute this to the JCRB as well as post it on the website to be used for
+      publicity purposes by individual RMOs and NMIs.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-40 (2009)
+  identifier: 8-40
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to add SIM publication, INFOSIM, to list of publications.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-41 (2009)
+  identifier: 8-41
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - KCDB
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to send out MRA/KCDB posters to RMO Representatives and arrange
+      for these to be available electronically.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-42 (2009)
+  identifier: 8-42
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - QMS
+  - ILAC
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman to ask Directors at the Directors meeting in April whether they
+      are willing to put forward a list of assessors that can be provided to ILAC.
+      The Chairman to also draft a short list of criteria to be met by assessors.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-43 (2009)
+  identifier: 8-43
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Developing countries
+  - Designated institutes
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Dr Castelazo to inquire about OAS participation (Dr Oscar Harasic) in
+      the meeting with UNIDO on 24 April 2002 at the BIPM and Dr Seta to inquire about
+      APMP DEC/APEC SCSC involvement. The responses are to be forwarded to the Chairman.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-44 (2009)
+  identifier: 8-44
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Chairman to discuss the joint meeting with UNIDO on 24 April 2002 at
+      the April Directors Meeting.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-45 (2009)
+  identifier: 8-45
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: Secretary to arrange for a new website to be established to be open to
+      RMOs and their Committees. Secretary to forward password to JCRB Committee Members.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-46 (2009)
+  identifier: 8-46
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - JCRB
+  - Guidance documents
+  considerations: []
+  actions: []
+  x-unparsed:
+  - At the end of JCRB meetings, the Committee is to identify papers to be put onto
+    the open RMO website.
+- dates:
+  - '2002-03-06'
+  subject: JCRB
+  type: action
+  title: Action JCRB/8-47 (2009)
+  identifier: 8-47
+  url: https://www.bipm.org/en/committees/jc/jcrb/8-2002
+  categories:
+  - JCRB
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-03-06'
+    message: |-
+      Secretary to put up the following documents from the 8th JCRB Meeting on the open RMOwebsite: +
+      8/4; +
+      8/5(1)-(5) - _APMP (Dr Seta), EUROMET (Dr Schwitz) and SIM (Dr Castelazo) to amend their reports then forward to Secretary to be posted on web._ +
+      8/7(3) +
+      8/9 - _Convenor of Working Group (Dr Schwitz) to combine this with JCRB-8/9(3) then forward to Secretary to be posted on web._ +
+      8/10 +
+      8/11 - _Convenor of Working Group (Dr Hetherington) to amend then forward to Secretary to be posted on web._ +
+      8/11(2)
 working_documents:
 - title: JCRB/8-04
   pdf: https://www.bipm.org/documents/20126/33502570/working-document-cc-jc-private-ID-437/e2d2adb6-7fb3-608d-c999-f7a158c520ef

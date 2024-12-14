@@ -43,7 +43,7 @@ resolutions:
     date_effective: '2004-04-02'
     message: '*recommends that* the unperturbed ground-state hyperfine quantum transition
       of ^87^Rb may be used as a secondary representation of the second with a frequency
-      of __f__~Rb~ = stem:[6 834 682 610.904 324 "Hz"] and an estimated relative standard
+      of stem:[f_(Rb) = 6 834 682 610.904 324 "Hz"] and an estimated relative standard
       uncertainty (1 _σ_) of 3 × 10^−15^,'
   doi: 10.59161/CCTF2004REC1E
 - dates:

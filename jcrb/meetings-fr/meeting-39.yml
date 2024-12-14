@@ -6,7 +6,190 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
 pdf: https://www.bipm.org/documents/20126/30859764/JCRB39.pdf/b408989f-9160-ffc1-2b1e-a7db7541a6d8
-resolutions: []
+resolutions:
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-1 (2018)
+  identifier: 39-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - Meetings
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: Each RMO will send the name of a person responsible for capacity building
+      activities in their region to stem:["C"] Kuanbayev at BIPM together with a short
+      description of the RMO's vision for capacity building activities both at the
+      regional and the JCRB levels (by 30th April 2018). BIPM will circulate a summary
+      of the responses to the JCRB.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-2 (2018)
+  identifier: 39-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: Each RMO will complete two sheets (doc 39/05.2) summarising progress
+      with addressing the recommendations from the review of the implementation of
+      the CIPM MRA. They will be sent to the JCRB Executive Secretary by 30th April
+      2018.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-3 (2018)
+  identifier: 39-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - QMS
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: Each RMO to provide the JCRB Executive Secretary with information on
+      the date and place of upcoming TCQ Meetings. The JCRB Executive Secretary to
+      collate this information and share with RMO TCQ Chairs.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/39-4 (2018)
+  identifier: 39-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2018-03-16'
+    message: to circulate a questionnaire to each participant in the 39th JCRB to
+      obtain feedback on the logistics and organization of the meeting.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/39-1 (2018)
+  identifier: 39-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - RMO
+  - CIPM MRA
+  - Meetings
+  - Developing countries
+  considerations: []
+  actions:
+  - type: welcomes
+    date_effective: '2018-03-16'
+    message: The JCRB welcomes the efforts made by BIPM in realising the Capacity
+      Building and Knowledge Transfer (CBKT) programme and encourages its further
+      implementation. Furthermore, the JCRB supports the proposal to include those
+      CBKT activities that directly support the effective and efficient operation
+      of the CIPM MRA as core activities within the next BIPM work programme, and
+      encourages the BIPM and the RMOs to develop a framework approach for the delivery
+      of capacity building activities.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/39-2 (2018)
+  identifier: 39-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - QMS
+  considerations: []
+  actions:
+  - type: thanks / expresses-appreciation
+    date_effective: '2018-03-16'
+    message: The JCRB thanks EURAMET for the work of the EURAMET TC-Q in receiving
+      presentations of the BIPM Quality Management System (QMS) from 2014 to 2018
+      and welcomes the offer of SIM to allow BIPM to present its QMS to the SIM QSTF
+      from 2019 to 2023.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/39-3 (2018)
+  identifier: 39-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - QMS
+  - CMCs
+  - NMIs
+  - Designated institutes
+  considerations:
+  - type: noting
+    date_effective: '2018-03-16'
+    message: The JCRB, noting the publication of ISO/IEC 17025:2017 and ISO 17034:2016,
+      and their importance to the CIPM MRA, decides that the RMOs shall ensure that
+      all NMIs and DIs declaring CMCs within the CIPM MRA shall have demonstrated
+      the conformance of their quality management systems to the above standards (in
+      so much as they are applicable to the CMCs of the NMI or DI), no later than
+      three years after the publication date of the standards.
+  actions: []
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/39-4 (2018)
+  identifier: 39-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - QMS
+  - CIPM MRA
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2018-03-16'
+    message: The JCRB recommends that the CIPM MRA Guidance documents be updated to
+      reflect the transition period agreed by the JCRB for the adoption of ISO/IEC
+      17025 and ISO 17034.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/39-5 (2018)
+  identifier: 39-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The 40th meeting of the JCRB will take place on March 13 and 14, 2019 at Sevres,
+    France. The meeting will start in the morning of March 13, 2019 and will last
+    two days with the end of last day at 16.00. The JCRB Executive Secretary will
+    collaborate with the RMO TCQ Chairs to collocate an informal meeting amongst them.
+- dates:
+  - '2018-03-16'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/39-6 (2018)
+  identifier: 39-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/39-2018
+  categories:
+  - Meetings
+  considerations:
+  - type: noting
+    date_effective: '2018-03-16'
+    message: The date and location of the 41st meeting of the JCRB will be decided
+      at the 40th meeting, noting that the Emirates Authority for Standardization
+      and Metrology (ESMA) has offered to host it in Dubai (UEA) in week 37 of 2019.
+  actions: []
 working_documents:
 - title: JCRB/39-12.1
   pdf: https://www.bipm.org/documents/20126/32644223/working-document-cc-jc-private-ID-10876/14c88894-c888-9b32-255d-45ae26a5301a

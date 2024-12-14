@@ -215,15 +215,16 @@ resolutions:
     message: |-
       *considering* Resolution 13 adopted by the 11th CGPM in 1960 and the Recommendation adopted by the Comité International des Poids et Mesures in 1961,
 
-      .
+      . {empty}
   actions:
   - type: abrogates
     date_effective: '1964-10-13'
-    message: "*abrogates* the definition of the litre given in 1901 by the 3rd CGPM,"
+    message: "*abrogates* the definition of the litre given in 1901 by the 3rd CGPM,
+      {empty}"
   - type: declares
     date_effective: '1964-10-13'
     message: '*declares* that the word "litre" may be employed as a special name for
-      the cubic decimetre,'
+      the cubic decimetre, {empty}'
   - type: recommends
     date_effective: '1964-10-13'
     message: "*recommends* that the name litre should not be employed to give the

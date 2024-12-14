@@ -23,22 +23,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1956-10-06'
+    message: considering that the 9th General Assembly of the International Astronomical
+      Union (Dublin, 1955) declared itself in favour of linking the second to the
+      tropical year,
+  - type: considering
+    date_effective: '1956-10-06'
     message: |-
-      *considering*
-
-      . that the 9th General Assembly of the International Astronomical Union (Dublin, 1955) declared itself in favour of linking the second to the tropical year,
-      . that, according to the decisions of the 8th General Assembly of the International Astronomical Union (Rome, 1952), the second of ephemeris time (ET) is the fraction
+      considering that, according to the decisions of the 8th General Assembly of the International Astronomical Union (Rome, 1952), the second of ephemeris time (ET) is the fraction
       +
-        (12 960 276 813 / 408 986 496) × 10
-      +
-      ^−9^
-      +
-      of the tropical year for 1900 January 0 at stem:[12 "h"] ET,
+        (12 960 276 813 / 408 986 496) × 10^−9^ of the tropical year for 1900 January 0 at stem:[12 "h"] ET,
   actions:
   - type: decides
     date_effective: '1956-10-06'
-    message: "*decides*\n\n* “The second is the fraction 1/31 556 925.9747 of the
-      tropical year for 1900 January 0 at 12 hours ephemeris time.”\n+\n\n "
+    message: "decides “The second is the fraction 1/31 556 925.9747 of the tropical
+      year for 1900 January 0 at 12 hours ephemeris time.”\n+\n "
   doi: 10.59161/CIPM1956RES1E
   notes: This definition was abrogated in 1967 by the 13th CGPM (Resolution 1).
 - dates:
@@ -98,15 +96,15 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '1956-10-06'
-    message: |-
-      *recommends*
-
-      . that the name “Système International d’Unités” be given to the system founded on the base units adopted by the 10th CGPM, viz.:
+    message: |
+      recommends that the name “Système International d’Unités” be given to the system founded on the base units adopted by the 10th CGPM, viz.:
       +
       [This is followed by the list of the six base units with their symbols, reproduced in Resolution 12 of the 11th CGPM (1960)].
       +
-
-      . that the units listed in the table below be used, without excluding others which might be added later:
+  - type: recommends
+    date_effective: '1956-10-06'
+    message: |-
+      recommends that the units listed in the table below be used, without excluding others which might be added later:
       +
       [This is followed by the table of units reproduced in paragraph 4 of Resolution 12 of the 11th CGPM (1960)].
   doi: 10.59161/CIPM1956RES3E

@@ -22,19 +22,35 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1995-10-13'
-    message: |-
-      *considering that*
-
-      * the effects on the geosphere and biosphere of industrial and commercial activities and of many other human pursuits, and the consequences for human health and well-being, are the subject of major studies world-wide,
-      * governments are increasingly faced with decisions of great economic and political significance concerning the regulation of these activities,
-      * the policies of governments are influenced by studies depending critically on accurate and mutually compatible measurements often requiring very large economic investments,
-      * much of the important scientific evidence required for decisions by governments comes from measurements of small changes in certain key parameters, measurements sometimes extending over several decades,
-      * certain critical measurements have traditionally been made in
-      +
-      _ad hoc_
-      +
-      units based upon special instrumentation or procedures, and not in the well-characterized and internationally agreed SI units,
-      * experience over many years has shown that measurements not directly linked to the SI cannot be relied upon in the long term, cannot be compared with similar measurements made elsewhere and do not adequately bring out possible relationships with measurements made in other scientific disciplines,
+    message: considering that the effects on the geosphere and biosphere of industrial
+      and commercial activities and of many other human pursuits, and the consequences
+      for human health and well-being, are the subject of major studies world-wide,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considering that governments are increasingly faced with decisions of
+      great economic and political significance concerning the regulation of these
+      activities,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considering that the policies of governments are influenced by studies
+      depending critically on accurate and mutually compatible measurements often
+      requiring very large economic investments,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considering that much of the important scientific evidence required for
+      decisions by governments comes from measurements of small changes in certain
+      key parameters, measurements sometimes extending over several decades,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considering that certain critical measurements have traditionally been
+      made in _ad hoc_ units based upon special instrumentation or procedures, and
+      not in the well-characterized and internationally agreed SI units,
+  - type: considering
+    date_effective: '1995-10-13'
+    message: considering that experience over many years has shown that measurements
+      not directly linked to the SI cannot be relied upon in the long term, cannot
+      be compared with similar measurements made elsewhere and do not adequately bring
+      out possible relationships with measurements made in other scientific disciplines,
   actions:
   - type: recommends
     date_effective: '1995-10-13'
@@ -166,17 +182,17 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1995-10-13'
-    message: |-
-      *recalling*
-
-      * that in 1983 the 17th Conférence Générale des Poids et Mesures adopted a new definition of the metre,
-      * that in the same year the Conférence Générale invited the Comité International des Poids et Mesures
-
-      * that in response to this invitation the Comité International made recommendations in 1983 concerning the practical realization of the metre (the
-      +
-      _mise en pratique_
-      +
-      ),
+    message: recalling that in 1983 the 17th Conférence Générale des Poids et Mesures
+      adopted a new definition of the metre,
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: recalling that in the same year the Conférence Générale invited the Comité
+      International des Poids et Mesures
+  - type: recalling / further recalling
+    date_effective: '1995-10-13'
+    message: recalling that in response to this invitation the Comité International
+      made recommendations in 1983 concerning the practical realization of the metre
+      (the _mise en pratique_),
   - type: considering
     date_effective: '1995-10-13'
     message: considering that science and technology continue to demand improved accuracy

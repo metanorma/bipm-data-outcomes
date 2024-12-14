@@ -5,4 +5,205 @@ metadata:
   date: '2024-06-21'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
-resolutions: []
+resolutions:
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-11 (2024)
+  identifier: 113-11
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - CIPM / Meetings
+  considerations:
+  - type: accepts
+    date_effective: '2024-06-21'
+    message: accepted the minutes of Session I of the 113th meeting of the CIPM as
+      a true record.
+  actions: []
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-12 (2024)
+  identifier: 113-12
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - CCs and WGs
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-06-21'
+    message: appointed G.P. Ripper as the President of the Consultative Committee
+      for Acoustics, Ultrasound and Vibration (CCAUV).
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-13 (2024)
+  identifier: 113-13
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - CCs and WGs
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-06-21'
+    message: appointed R.J.C. Brown (NPL, UK) as President of the Consultative Committee
+      for Units (CCU).
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-14 (2024)
+  identifier: 113-14
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-06-21'
+    message: |-
+      decided to establish two committees to assist with the recruitment of the next Director for the BIPM:
+
+      * a Search Committee, comprising all CIPM members and the Director, tasked with identifying possible candidates;
+      * a Selection Committee, comprising the President, the Secretary, the Vice Presidents, G. Macdonald, stem:["V"]. Coleman, D. del Campo Maldonado, and the Head of HR at the BIPM tasked to review all applications, to interview the leading candidates and to recommend a preferred final candidate, or candidates, to the CIPM for a final decision.
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-15 (2024)
+  identifier: 113-15
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: confirms
+    date_effective: '2024-06-21'
+    message: |-
+      confirmed its approval of the audited financial statements of the BIPM and of the BIPM Pension and Provident Fund, which were reviewed by the CIPM Sub-Committee on Finance in June 2024.
+
+      The CIPM granted the BIPM Director quietus for the 2023 exercise.
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-16 (2024)
+  identifier: 113-16
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - BIPM / Internal rules
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-06-21'
+    message: approved the proposed amendment to Article 16 (Reserve Fund and the use
+      of unreserved cash and cash equivalent) of the BIPM Financial Regulations.
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-17 (2024)
+  identifier: 113-17
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - BIPM / Internal rules
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-06-21'
+    message: approved the proposed amendment of Staff Rule 14.5.1 (Paid annual leave)
+      of the Staff Rule.
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-18 (2024)
+  identifier: 113-18
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - BIPM / Internal rules
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-06-21'
+    message: approved the attendance of a staff representative of the BIPM Commission
+      for Conditions of Employment (CCE), with the status of an observer, at those
+      parts of CIPM sessions that examine proposals on conditions of employment.
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-19 (2024)
+  identifier: 113-19
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - CCs and WGs
+  considerations:
+  - type: accepts
+    date_effective: '2024-06-21'
+    message: |-
+      accepted the following changes to the membership of the Consultative Committees:
+
+      * CCPR
+      +
+      ** NSC-IM (Ukraine) as a member
+
+      * CCQM
+      +
+      ** IPQ (Portugal) as a member
+  actions: []
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-20 (2024)
+  identifier: 113-20
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - CCs and WGs
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-06-21'
+    message: appointed S. Ulbricht (PTB) and R. Brown (NPL) to represent the BIPM
+      in JCGM-WG2 (VIM).
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-21 (2024)
+  identifier: 113-21
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - SI
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-06-21'
+    message: approved a new version of the 9th edition of the SI Brochure (v3.01)
+      incorporating the changes suggested by the CCU Task Group and Focus Group considering
+      angles, dimensionless quantities, counting and number quantities, and the associated
+      revision of the Concise Summary.
+- dates:
+  - '2024-06-21'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-22 (2024)
+  identifier: 113-22
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_2-2024
+  categories:
+  - SI
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-06-21'
+    message: decided, based on the criteria it has previously adopted, that it would
+      be appropriate for the Republic of Uzbekistan to accede to the Metre Convention.
+      The BIPM Director will convey the Decision, recalling Resolution 4 ‘On the status
+      of Associate State of the General Conference’ adopted by the CGPM at its 24th
+      meeting (2011), and the implications regarding the increase in subscription
+      should the Republic of Uzbekistan choose to remain as an Associate of the CGPM.

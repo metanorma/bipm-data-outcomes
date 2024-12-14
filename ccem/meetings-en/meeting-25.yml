@@ -26,51 +26,58 @@ resolutions:
       users and others in the metrology community,"
   - type: considering
     date_effective: '2007-03-16'
-    message: |-
-      *considering*
-
-      * that defining units in terms of the fundamental constants, specifically the elementary charge,
-      +
-      __e__
-      +
-      , and the Planck constant,
-      +
-      __h__
-      +
-      , ensures their long-term stability and consistency,
-      * that combinations of the elementary charge
-      +
-      stem:[e]
-      +
-      and the Planck constant stem:["h"] are fundamental quantities in quantum phenomena in electricity and magnetism,
-      * that macroscopic quantum effects exist which link the fundamental constants
-      +
-      stem:[e]
-      +
-      and
-      +
-      stem:[h]
-      +
-      to macroscopic observables,
-      * that the representation of the volt using the Josephson effect and the conventional value of the Josephson constant,
-      +
-      __K__
-      +
-      ~J-90~
-      +
-      , and the representation of the ohm using the quantum Hall effect and the conventional value of the von Klitzing constant,
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      , have provided practical, accessible, reproducible, low noise and highly linear references world-wide since 1990,
-      * that the 1990 representations of the volt and the ohm, while in daily use world-wide, are not SI units and that by implementing the changes in the SI recommended below, the use of the Josephson effect and quantum Hall effect would allow direct SI realizations of voltage and resistance and thus provide long term stability and accuracy to the electrical units within the SI,
-      * that the theory, reproducibility, and independence of experimental realizations of the Josephson and quantum Hall effects are well established,
-      * that the Josephson and quantum Hall effects are directly related to fundamental constants as evidenced by coherence with other high precision measurements and that this coherence is such that there is no evidence to suggest that the usual expressions describing these effects are incorrect,
-      * that consistency among electrical measurements has been greatly improved since the introduction of the representations of the volt and the ohm by the Josephson effect and the quantum Hall effect,
-      * that the use of these quantum-based standards will continue for the foreseeable future,
-      * that improvements in the technology associated with the Josephson and quantum Hall effects, as well as quantized charge transport, are continuing, making these references even more accurate, easier to operate and more versatile,
+    message: considering that defining units in terms of the fundamental constants,
+      specifically the elementary charge, stem:[e], and the Planck constant, stem:[h],
+      ensures their long-term stability and consistency,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that combinations of the elementary charge stem:[e] and the
+      Planck constant stem:["h"] are fundamental quantities in quantum phenomena in
+      electricity and magnetism,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that macroscopic quantum effects exist which link the fundamental
+      constants stem:[e] and stem:[h] to macroscopic observables,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that the representation of the volt using the Josephson effect
+      and the conventional value of the Josephson constant, stem:[K_(J-90)], and the
+      representation of the ohm using the quantum Hall effect and the conventional
+      value of the von Klitzing constant, stem:[R_(K-90)], have provided practical,
+      accessible, reproducible, low noise and highly linear references world-wide
+      since 1990,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that the 1990 representations of the volt and the ohm, while
+      in daily use world-wide, are not SI units and that by implementing the changes
+      in the SI recommended below, the use of the Josephson effect and quantum Hall
+      effect would allow direct SI realizations of voltage and resistance and thus
+      provide long term stability and accuracy to the electrical units within the
+      SI,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that the theory, reproducibility, and independence of experimental
+      realizations of the Josephson and quantum Hall effects are well established,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that the Josephson and quantum Hall effects are directly
+      related to fundamental constants as evidenced by coherence with other high precision
+      measurements and that this coherence is such that there is no evidence to suggest
+      that the usual expressions describing these effects are incorrect,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that consistency among electrical measurements has been greatly
+      improved since the introduction of the representations of the volt and the ohm
+      by the Josephson effect and the quantum Hall effect,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that the use of these quantum-based standards will continue
+      for the foreseeable future,
+  - type: considering
+    date_effective: '2007-03-16'
+    message: considering that improvements in the technology associated with the Josephson
+      and quantum Hall effects, as well as quantized charge transport, are continuing,
+      making these references even more accurate, easier to operate and more versatile,
   - type: recognizing
     date_effective: '2007-03-16'
     message: "*recognizing* that adoption of fixed values of stem:[e] and stem:[h]
@@ -79,44 +86,45 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2007-03-16'
-    message: |-
-      *recommends*
-
-      * that the SI be changed by adopting fixed values of the elementary charge
-      +
-      stem:[e]
-      +
-      and Planck constant
-      +
-      __h__
-      +
-      , and that this decision be taken in the near future, for example in 2011, provided that adequate agreement is achieved among independent experiments,
-      * that the National Metrology Institutes be strongly encouraged to support relevant research in order to implement the changes recommended here and to improve our knowledge of the relevant science thereby providing and maintaining the most consistent SI possible,
-      * that the values of the elementary charge
-      +
-      stem:[e]
-      +
-      and the Planck constant
-      +
-      __h__
-      +
-      , be fixed at the values most recently published by CODATA preceding the adoption of these changes to the SI, but rounded and given without associated uncertainties,
-      * that the definitions of the electrical units and their
-      +
-      _mises en pratique_
-      +
-      be revised to reflect this change, and that the CCEM be involved in this process,
-      * that if the concept of base units is retained then the ampere be kept as a base unit for the purposes of historical continuity and SI dimensional analysis although there is no preferential order of traceability within the electrical units,
-      * that the ampere be defined, for example, as follows: “The ampere is the electrical current equivalent to the flow of exactly 1/(1.602 176 53 × 10
-      +
-      ^−19^
-      +
-      ) elementary charges per second.” (It follows that this definition fixes the elementary charge as exactly 1.602 176 53 × 10
-      +
-      ^−19^
-      +
-      stem:["A" * "s"]),
-      * that this change in the SI be actively publicized and promoted to ensure its smooth introduction into the measurement community and that one year is the minimum time needed to prepare the general public for such a change in the SI.
+    message: recommends that the SI be changed by adopting fixed values of the elementary
+      charge stem:[e] and Planck constant stem:[h], and that this decision be taken
+      in the near future, for example in 2011, provided that adequate agreement is
+      achieved among independent experiments,
+  - type: recommends
+    date_effective: '2007-03-16'
+    message: recommends that the National Metrology Institutes be strongly encouraged
+      to support relevant research in order to implement the changes recommended here
+      and to improve our knowledge of the relevant science thereby providing and maintaining
+      the most consistent SI possible,
+  - type: recommends
+    date_effective: '2007-03-16'
+    message: recommends that the values of the elementary charge stem:[e] and the
+      Planck constant stem:[h], be fixed at the values most recently published by
+      CODATA preceding the adoption of these changes to the SI, but rounded and given
+      without associated uncertainties,
+  - type: recommends
+    date_effective: '2007-03-16'
+    message: recommends that the definitions of the electrical units and their _mises
+      en pratique_ be revised to reflect this change, and that the CCEM be involved
+      in this process,
+  - type: recommends
+    date_effective: '2007-03-16'
+    message: recommends that if the concept of base units is retained then the ampere
+      be kept as a base unit for the purposes of historical continuity and SI dimensional
+      analysis although there is no preferential order of traceability within the
+      electrical units,
+  - type: recommends
+    date_effective: '2007-03-16'
+    message: 'recommends that the ampere be defined, for example, as follows: “The
+      ampere is the electrical current equivalent to the flow of exactly 1/(1.602
+      176 53 × 10^−19^) elementary charges per second.” (It follows that this definition
+      fixes the elementary charge as exactly 1.602 176 53 × 10^−19^ stem:["A" * "s"]),'
+  - type: recommends
+    date_effective: '2007-03-16'
+    message: recommends that this change in the SI be actively publicized and promoted
+      to ensure its smooth introduction into the measurement community and that one
+      year is the minimum time needed to prepare the general public for such a change
+      in the SI.
   doi: 10.59161/CCEM2007REC1E
 working_documents:
 - title: CCEM/2007-44

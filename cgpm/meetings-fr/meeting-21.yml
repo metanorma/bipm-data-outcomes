@@ -22,20 +22,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *Considérant*
-
-      * la Résolution 11 de la 20
-      +
-      ^e^
-      +
-      Conférence générale, qui a demandé au Comité international d'étudier les besoins à long terme relatifs à la métrologie et d'en rendre compte,
-      * l'étude qui a été achevée en 1997 à la suite de larges consultations internationales,
-      * le rapport qui en a résulté, intitulé
-      +
-      __Besoins nationaux et internationaux dans le domaine de la métrologie : les collaborations internationales et le rôle du BIPM__
-      +
-      , remis par le Comité international en 1998 aux Gouvernements des États membres,
+    message: Considérant la Résolution 11 de la 20^e^ Conférence générale, qui a demandé
+      au Comité international d'étudier les besoins à long terme relatifs à la métrologie
+      et d'en rendre compte,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: Considérant l'étude qui a été achevée en 1997 à la suite de larges consultations
+      internationales,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: 'Considérant le rapport qui en a résulté, intitulé __Besoins nationaux
+      et internationaux dans le domaine de la métrologie : les collaborations internationales
+      et le rôle du BIPM__, remis par le Comité international en 1998 aux Gouvernements
+      des États membres,'
   - type: noting
     date_effective: '1999-10-15'
     message: "*prend note* de la discussion dans le rapport du Comité international
@@ -74,19 +73,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considérant*
-
-      * la Résolution 2 de la 20
-      +
-      ^e^
-      +
-
-      +
-      Conférence générale concernant la traçabilité des mesures au niveau mondial,
-      * le besoin rapidement croissant de démontrer l'équivalence au niveau international des mesures et des résultats des essais liés au commerce,
-      * le nombre croissant d'arrangements et d'accords de reconnaissance mutuelle entre les services d'étalonnage et d'essais négociés entre divers États,
-      * que les services d'étalonnage et d'essais de chaque État dépendent d'un laboratoire national tant pour les étalons de mesure que pour leur traçabilité au SI,
+    message: considérant la Résolution 2 de la 20^e^ Conférence générale concernant
+      la traçabilité des mesures au niveau mondial,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant le besoin rapidement croissant de démontrer l'équivalence
+      au niveau international des mesures et des résultats des essais liés au commerce,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant le nombre croissant d'arrangements et d'accords de reconnaissance
+      mutuelle entre les services d'étalonnage et d'essais négociés entre divers États,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que les services d'étalonnage et d'essais de chaque État
+      dépendent d'un laboratoire national tant pour les étalons de mesure que pour
+      leur traçabilité au SI,
   - type: recognizing
     date_effective: '1999-10-15'
     message: "*reconnaît* que la reconnaissance mutuelle des étalons nationaux de
@@ -194,20 +195,44 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considérant* que
-
-      * les effets sur la géosphère et la biosphère des activités industrielles et commerciales et de nombreuses autres activités humaines ainsi que des phénomènes naturels, et leurs conséquences sur la santé et le bien-être humains, font l'objet d'importantes études dans le monde entier,
-      * les Gouvernements sont de plus en plus amenés à prendre des décisions réglementant ces activités, avec des répercussions économiques et politiques majeures,
-      * les choix politiques des Gouvernements sont influencés par les résultats d'études qui dépendent de manière critique de l'exactitude et de la cohérence de mesures pouvant nécessiter d'importants investissements économiques,
-      * de nombreuses preuves scientifiques importantes sur lesquelles s'appuient ces décisions sont issues de mesures de petites variations de certains paramètres clés, mesures qui s'étendent parfois sur plusieurs décennies,
-      * certaines mesures critiques ont été traditionnellement exprimées en utilisant des unités
-      +
-      __ad hoc__
-      +
-      , fondées sur des instruments et des méthodes spécifiques, et non pas les unités du SI, lesquelles sont bien définies et adoptées au niveau international,
-      * depuis de nombreuses années l'expérience montre que les mesures qui ne sont pas reliées directement au SI ne sont ni fiables à long terme, ni comparables aux mesures semblables faites ailleurs et ainsi ne permettent pas de mettre en évidence leurs éventuelles relations avec les mesures faites dans d'autres domaines scientifiques,
-      * les demandes accrues pour une fiabilité des mesures effectuées à des fins médicales et thérapeutiques exigent des réglementations plus rigoureuses dans ces domaines,
+    message: considérant que les effets sur la géosphère et la biosphère des activités
+      industrielles et commerciales et de nombreuses autres activités humaines ainsi
+      que des phénomènes naturels, et leurs conséquences sur la santé et le bien-être
+      humains, font l'objet d'importantes études dans le monde entier,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que les Gouvernements sont de plus en plus amenés à prendre
+      des décisions réglementant ces activités, avec des répercussions économiques
+      et politiques majeures,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que les choix politiques des Gouvernements sont influencés
+      par les résultats d'études qui dépendent de manière critique de l'exactitude
+      et de la cohérence de mesures pouvant nécessiter d'importants investissements
+      économiques,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que de nombreuses preuves scientifiques importantes sur lesquelles
+      s'appuient ces décisions sont issues de mesures de petites variations de certains
+      paramètres clés, mesures qui s'étendent parfois sur plusieurs décennies,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que certaines mesures critiques ont été traditionnellement
+      exprimées en utilisant des unités __ad hoc__, fondées sur des instruments et
+      des méthodes spécifiques, et non pas les unités du SI, lesquelles sont bien
+      définies et adoptées au niveau international,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que depuis de nombreuses années l'expérience montre que les
+      mesures qui ne sont pas reliées directement au SI ne sont ni fiables à long
+      terme, ni comparables aux mesures semblables faites ailleurs et ainsi ne permettent
+      pas de mettre en évidence leurs éventuelles relations avec les mesures faites
+      dans d'autres domaines scientifiques,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que les demandes accrues pour une fiabilité des mesures effectuées
+      à des fins médicales et thérapeutiques exigent des réglementations plus rigoureuses
+      dans ces domaines,
   actions:
   - type: recommends
     date_effective: '1999-10-15'
@@ -234,19 +259,17 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '1999-10-15'
-    message: |-
-      *rappelant* que
-
-      * en 1983 la 17
-      +
-      ^e^
-      +
-
-      +
-      Conférence générale a adopté une nouvelle définition du mètre,
-      * à la même date la Conférence générale a invité le Comité international
-
-      * en réponse à cette invitation le Comité international a adopté des recommandations en 1983 et aussi en 1992 concernant la mise en pratique du mètre,
+    message: rappelant que en 1983 la 17^e^ Conférence générale a adopté une nouvelle
+      définition du mètre,
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: rappelant que à la même date la Conférence générale a invité le Comité
+      international
+  - type: recalling / further recalling
+    date_effective: '1999-10-15'
+    message: rappelant que en réponse à cette invitation le Comité international a
+      adopté des recommandations en 1983 et aussi en 1992 concernant la mise en pratique
+      du mètre,
   - type: considering
     date_effective: '1999-10-15'
     message: considérant que la science et les techniques continuent à exiger une
@@ -433,17 +456,23 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considérant* que
-
-      * de multiples activités de recherche sont en cours à des températures inférieures à stem:[0","65 "K"],
-      * ces recherches ont besoin d'une échelle de température reconnue qui représente avec une bonne approximation les températures thermodynamiques,
-      * les mesures directes de la température thermodynamique entre stem:[0","65 "K"] et quelques millikelvins sont souvent longues et difficiles, alors que, pour des températures beaucoup plus basses, les mesures directes sont de nouveau possibles,
-      * un travail considérable a déjà été accompli pour mettre au point une échelle de température entre stem:[0","65 "K"] et stem:[1 "mK"] utilisant la pression de fusion de
-      +
-      ^3^
-      +
-      He,
+    message: considérant que de multiples activités de recherche sont en cours à des
+      températures inférieures à stem:[0","65 "K"],
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que ces recherches ont besoin d'une échelle de température
+      reconnue qui représente avec une bonne approximation les températures thermodynamiques,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que les mesures directes de la température thermodynamique
+      entre stem:[0","65 "K"] et quelques millikelvins sont souvent longues et difficiles,
+      alors que, pour des températures beaucoup plus basses, les mesures directes
+      sont de nouveau possibles,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que un travail considérable a déjà été accompli pour mettre
+      au point une échelle de température entre stem:[0","65 "K"] et stem:[1 "mK"]
+      utilisant la pression de fusion de stem:[""_(3) "He"],
   actions:
   - type: invites / further invites
     date_effective: '1999-10-15'
@@ -554,31 +583,34 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considérant*
-
-      * l'importance pour la santé humaine et la sécurité de faciliter l'emploi des unités du SI dans les domaines de la médecine et de la biochimie,
-      * qu'une unité en dehors du SI appelée « unité » représentée par le symbole U, qui est égale à 1 µmol · min
-      +
-      ^-1^
-      +
-      , et qui n'est pas cohérente avec le SI, a été largement répandue en médecine et en biochimie depuis 1964 pour exprimer l'activité catalytique,
-      * que l'absence d'un nom spécial pour désigner l'unité dérivée et cohérente du SI qu'est la mole par seconde a conduit à ce que des résultats de mesures cliniques soient donnés en différentes unités locales,
-      * que l'emploi des unités SI en médecine et en chimie clinique est vivement recommandé par les unions internationales de ces domaines,
-      * que la Fédération internationale de chimie clinique et médecine de laboratoire a demandé au Comité consultatif des unités de recommander le nom spécial katal, symbole kat, pour l'unité SI mole par seconde,
-      * que tandis que la prolifération de noms spéciaux représente un danger pour le SI, il existe des exceptions pour certains sujets liés à la santé humaine et à la sécurité (15
-      +
-      ^e^
-      +
-
-      +
-      Conférence générale, 1975, Résolutions 8 et 9, 16
-      +
-      ^e^
-      +
-
-      +
-      Conférence générale, 1979, Résolution 5),
+    message: considérant l'importance pour la santé humaine et la sécurité de faciliter
+      l'emploi des unités du SI dans les domaines de la médecine et de la biochimie,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant qu'une unité en dehors du SI appelée « unité » représentée
+      par le symbole U, qui est égale à 1 µmol · min^-1^, et qui n'est pas cohérente
+      avec le SI, a été largement répandue en médecine et en biochimie depuis 1964
+      pour exprimer l'activité catalytique,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que l'absence d'un nom spécial pour désigner l'unité dérivée
+      et cohérente du SI qu'est la mole par seconde a conduit à ce que des résultats
+      de mesures cliniques soient donnés en différentes unités locales,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que l'emploi des unités SI en médecine et en chimie clinique
+      est vivement recommandé par les unions internationales de ces domaines,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que la Fédération internationale de chimie clinique et médecine
+      de laboratoire a demandé au Comité consultatif des unités de recommander le
+      nom spécial katal, symbole kat, pour l'unité SI mole par seconde,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant que tandis que la prolifération de noms spéciaux représente
+      un danger pour le SI, il existe des exceptions pour certains sujets liés à la
+      santé humaine et à la sécurité (15^e^ Conférence générale, 1975, Résolutions
+      8 et 9, 16^e^ Conférence générale, 1979, Résolution 5),
   - type: noting
     date_effective: '1999-10-15'
     message: "*notant* que le nom katal, symbole kat, est utilisé pour l'unité SI
@@ -606,41 +638,38 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considérant*
-
-      * l'importance des travaux effectués par le Bureau international des poids et mesures (BIPM) et les services que celui-ci rend aux États membres de la Convention du Mètre,
-      * les efforts considérables réalisés par le BIPM pour améliorer sa productivité et son engagement à poursuivre cet effort,
-      * les conclusions du rapport
-      +
-      __Besoins nationaux et internationaux dans le domaine de la métrologie : les collaborations internationales et le rôle du BIPM__
-      +
-      ,
-      * la décision du Comité international, fondée sur ce rapport, d'élargir les responsabilités du BIPM,
-      * la recommandation citée dans ce rapport qu'au vu de la situation économique difficile qui prévaut à l'heure actuelle dans de nombreux États membres de la Convention du Mètre, la dotation annuelle du BIPM demeure constante en valeur réelle pendant la période quadriennale 2001-2004, au niveau décidé par la 20
-      +
-      ^e^
-      +
-      Conférence générale pour l'an 2000,
+    message: considérant l'importance des travaux effectués par le Bureau international
+      des poids et mesures (BIPM) et les services que celui-ci rend aux États membres
+      de la Convention du Mètre,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant les efforts considérables réalisés par le BIPM pour améliorer
+      sa productivité et son engagement à poursuivre cet effort,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: 'considérant les conclusions du rapport __Besoins nationaux et internationaux
+      dans le domaine de la métrologie : les collaborations internationales et le
+      rôle du BIPM__,'
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant la décision du Comité international, fondée sur ce rapport,
+      d'élargir les responsabilités du BIPM,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considérant la recommandation citée dans ce rapport qu'au vu de la situation
+      économique difficile qui prévaut à l'heure actuelle dans de nombreux États membres
+      de la Convention du Mètre, la dotation annuelle du BIPM demeure constante en
+      valeur réelle pendant la période quadriennale 2001-2004, au niveau décidé par
+      la 20^e^Conférence générale pour l'an 2000,
   - type: noting
     date_effective: '1999-10-15'
-    message: |-
-      *notant* que
-
-      * depuis le 1
-      +
-      ^er^
-      +
-
-      +
-      janvier 1999, une nouvelle monnaie, l'euro, est utilisée dans la plupart des États de l'Union européenne et que la valeur de leur monnaie en euro est définitivement fixée,
-      * le 1
-      +
-      ^er^
-      +
-
-      +
-      janvier 2002, la plupart des monnaies européennes, y compris le franc français, et par suite le franc-or, auront disparu,
+    message: notant que depuis le 1^er^ janvier 1999, une nouvelle monnaie, l'euro,
+      est utilisée dans la plupart des États de l'Union européenne et que la valeur
+      de leur monnaie en euro est définitivement fixée,
+  - type: noting
+    date_effective: '1999-10-15'
+    message: notant que le 1^er^ janvier 2002, la plupart des monnaies européennes,
+      y compris le franc français, et par suite le franc-or, auront disparu,
   actions:
   - type: decides
     date_effective: '1999-10-15'
@@ -648,11 +677,7 @@ resolutions:
       *décide* que
 
       * dorénavant, l'euro sera la monnaie utilisée pour le vote de la dotation annuelle du BIPM,
-      * la partie fixe de la dotation annuelle du Bureau international des poids et mesures sera augmentée de telle façon que l'ensemble de la partie fixe et de la partie complémentaire (définie à l'article 6, 1921) du Règlement annexé à la Convention du Mètre (1875) soit, pour les États parties à la Convention à l'époque de la 21
-      +
-      ^e^
-      +
-      Conférence de
+      * la partie fixe de la dotation annuelle du Bureau international des poids et mesures sera augmentée de telle façon que l'ensemble de la partie fixe et de la partie complémentaire (définie à l'article 6, 1921) du Règlement annexé à la Convention du Mètre (1875) soit, pour les États parties à la Convention à l'époque de la 21^e^ Conférence de
 
       8 697 000 euros en 2001 (31 440 039 francs-or) +
       8 828 000 euros en 2002 (31 913 610 francs-or) +

@@ -6,7 +6,485 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
 pdf: https://www.bipm.org/documents/20126/34908602/JCRB11.pdf/4d25bfe8-fb34-205a-ef40-70d54ceb453c
-resolutions: []
+resolutions:
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-1 (2003)
+  identifier: 11-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - Comparisons
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Comments on the three flowcharts are to be forwarded to the incoming JCRB Exec
+    Secretary as soon as possible. He will then post them with the "Open-access documents"
+    on the JCRB webpage.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-2 (2003)
+  identifier: 11-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - JCRB
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB Exec Secretary is to notify the Committee when changes are made to the
+    JCRB pages.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-3 (2003)
+  identifier: 11-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'At the forthcoming CIPM meeting, the JCRB Chairman is to raise the question of
+    how to develop a coordinated approach to raising awareness of metrology and the
+    CIPM MRA among government and regulatory authority representatives. NOTE: This
+    Action resulted in modifications being made to Resolution 6 of the 22nd CGPM.'
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-4 (2003)
+  identifier: 11-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Exec Secretary is to ensure that documents relating to awareness-
+      raising of metrology and the CIPM MRA are distributed to the RMO representatives
+      to the JCRB when available.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-5 (2003)
+  identifier: 11-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - International organizations
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The letter to ISO CASCO and the response will be sent by the Director of the BIPM
+    to NMI Directors.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-6 (2003)
+  identifier: 11-6
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Exec Secretary is to inform the BIPM Web Manager to update the
+      links on the BIPM website to COOMET.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-7 (2003)
+  identifier: 11-7
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: 'The JCRB Chairman and JCRB Executive Secretary are to draft a statement
+      for consideration by the Committee on what procedure to follow when an NMI provides
+      a unique capability that, therefore, cannot be the subject of comparisons with
+      other NMIs. NOTE: The Statement proposed is as follows: Occasionally, NMIs offer
+      unique calibration or measurement capabilities, whose confidence can not be
+      underpinned by interlaboratory comparisons. The JCRB recommends that, in those
+      cases, experts from other NMIs are asked to review the CMC claim, based on the
+      "Criteria for acceptance of data for Appendix stem:["C"]" (Document JCRB-8/13(1b)).'
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-8 (2003)
+  identifier: 11-8
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO representatives to the JCRB are to send any objections to final approval of
+    the Cycle III Chemistry CMCs to the JCRB Exec Secretary before Friday 10 October.
+    In the absence of any such notifications, these CMCs will be approved on Friday
+    10 October 2003.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-9 (2003)
+  identifier: 11-9
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMC review
+  - CMCs
+  - Service categories
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: EUROMET is to revise its CMCs EUROMET.M.2.2003 using the Classification
+      scheme proposed by the JCRB Chairman, and to re-submit these to the JCRB Exec
+      Secretary. It is also to clarify the cases where two Service Categories are
+      provided for one CMC, and where a CMC refers to preceding CMCs.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-10 (2003)
+  identifier: 11-10
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - KCDB
+  - Service categories
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The KCDB Office is to provide cross-references in the KCDB section in
+      which Flow services are published to relevant "flow" CMCs in Density and Viscosity
+      that have been published together with the other Density/Viscosity services
+      within the Mass services section.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-11 (2003)
+  identifier: 11-11
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - KCDB
+  - Service categories
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Chairman is to request that the CCM coordinates meetings of
+      the Working Groups in Liquid Density and Fluid Flow to enable cross communication.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-12 (2003)
+  identifier: 11-12
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: 'The JCRB Chairman is to write to the Chairman of CCT Working Group 8
+      on CMCs (Dr Martin de Groot) requesting that a report be submitted 3 weeks before
+      the 12th JCRB Meeting providing details of the progress being made to resolve
+      the outstanding issues re: thermometry CMCs and providing a date by which these
+      CMCs will be submitted for inter-regional review.'
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-13 (2003)
+  identifier: 11-13
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Exec Secretary is to post the final version of the Terms of
+      Reference for CC Working Groups (Document JCRB-11/6(2)) on the JCRB webpage.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-14 (2003)
+  identifier: 11-14
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - Guidance documents
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Executive Secretary is to post Document JCRB-8/20, the "JCRB
+      CMC Review Process" in the open-access section of the JCRB webpage.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-15 (2003)
+  identifier: 11-15
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - Guidance documents
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The incoming JCRB Executive Secretary is to write a procedural document
+      on the CMC review process for the benefit of incoming RMO Technical Committee
+      Chairmen and Convenors.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-16 (2003)
+  identifier: 11-16
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMC review
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB Executive Secretary is to copy e-mails signalling the posting of new
+    batches of CMCs to TC Chairs, at the same time as they are sent to the RMO representatives
+    to the JCRB.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-17 (2003)
+  identifier: 11-17
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: JCRB Chairman is to write to the Chairman of the CCRI WG on CMCs, responding
+      to the various requests to the JCRB.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-18 (2003)
+  identifier: 11-18
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - Comparisons
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: 'JCRB Exec Secretary is to post Document JCRB-11/7(a) on the "Open-Access"
+      section of the JCRB webpage. Note: The JCRB endorsed Document JCRB-11/7(a),
+      "Proposed JCRB Recommendation re: Monitoring the Impact of Key and Supplementary
+      Comparison Results on CMC Claims".'
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-19 (2003)
+  identifier: 11-19
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Executive Secretary is to prepare a template for each RMO to
+      report on the status of coverage of stem:[all] of their published CMCs by a
+      Quality System, and to forward this template to the Committee by 10 November
+      2003.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-20 (2003)
+  identifier: 11-20
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The RMO representatives to the JCRB are to complete these templates and
+      forward their full reports to the JCRB Executive Secretary by 5 April 2004,
+      to be tabled at the 12th JCRB Meeting.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-21 (2003)
+  identifier: 11-21
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - QMS
+  - Guidance documents
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB Executive Secretary(ies) is to revise Document JCRB-9/12 according to
+    the discussion here.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-22 (2003)
+  identifier: 11-22
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - Comparisons
+  considerations:
+  - type: noting
+    date_effective: '2003-10-07'
+    message: The JCRB noted that, as highlighted by the CCRI Working Group on CMCs,
+      provisional evidence that has been used to support CMCs should be considered
+      adequate until such time as the appropriate key and supplementary comparisons
+      have been completed.
+  actions: []
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-23 (2003)
+  identifier: 11-23
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'The JCRB Executive Secretary(ies) is to further clarify this point in Document
+    JCRB-9/12. NOTE: The new version of Document JCRB-9/12 has been posted as Document
+    JCRB-11/7.'
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-24 (2003)
+  identifier: 11-24
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Exec Secretary is to modify Document JCRB-11/8(3a) according
+      to the discussion here.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-25 (2003)
+  identifier: 11-25
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - ILAC
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The RMO Representatives to the JCRB are to survey the number of special calibrations
+    that are undertaken by member NMIs, based on the calibration certificates issued.
+    The results of these surveys are to be presented at the 12th JCRB meeting.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-26 (2003)
+  identifier: 11-26
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - CMCs
+  - ILAC
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: Prof Wallard will ask ILAC if it could conduct a similar survey within
+      the accreditation community.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-27 (2003)
+  identifier: 11-27
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'Mr Lam Kong Hong (APMP) is to chair a Working Group to develop appropriate recommended
+    criteria for the selection of peer reviewers for NMIs. The Working Group members
+    are: Prof Bily (COOMET), Prof Kühne (EUROMET), Dr Hengstberger (SADCMET) and Ing
+    Quím Mussio (SIM). A draft set of criteria is to be tabled at the 12th JCRB Meeting.'
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-28 (2003)
+  identifier: 11-28
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - Comparisons
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2003-10-07'
+    message: The JCRB Executive Secretary(ies) is to amend Document JCRB-11/8(5),
+      "Supplementary Comparisons - definition", according to the discussion here.
+      T.10 of the Technical Supplement is also to be amended to remove the reference
+      to CCs and the BIPM.
+- dates:
+  - '2003-10-07'
+  subject: JCRB
+  type: action
+  title: Action JCRB/11-29 (2003)
+  identifier: 11-29
+  url: https://www.bipm.org/en/committees/jc/jcrb/11-2003
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'JCRB members are to forward suggestions for discussion topics for the 12th meeting
+    to the JCRB Executive Secretary at least two weeks in advance of the meeting.
+    Note: A "Quality Forum"-type Workshop is proposed to be held with the 12th JCRB
+    Meeting, at which "Quality" Chairs from each region, and the BIPM, are to be invited
+    to present progress in their region.'
 working_documents:
 - title: JCRB/11-04
   pdf: https://www.bipm.org/documents/20126/32764957/working-document-cc-jc-private-ID-1131/aad941fa-84f9-adfb-ec09-5a210981bc95

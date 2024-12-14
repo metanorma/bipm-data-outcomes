@@ -5,4 +5,158 @@ metadata:
   date: '2024-10-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
-resolutions: []
+resolutions:
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-23 (2024)
+  identifier: 113-23
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - CIPM / Meetings
+  considerations:
+  - type: accepts
+    date_effective: '2024-10-16'
+    message: accepted the minutes of Session II of the 113th meeting of the CIPM as
+      a true record.
+  actions: []
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-24 (2024)
+  identifier: 113-24
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-10-16'
+    message: decided that the budget for 2025 should follow the expenditure agreed
+      by the CGPM at its 27th meeting (2022) with updated values for the staff cost
+      and electricity cost as presented to the CIPM Sub-Committee on Finance and the
+      CIPM by the BIPM Director.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-25 (2024)
+  identifier: 113-25
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-10-16'
+    message: decided that the value of the point applicable to salaries be revised
+      on 1 January 2025, in accordance with Regulation 10.2 of the Regulations applicable
+      to BIPM staff members, by 2.5 %, which will allow the BIPM to meet its financial
+      obligations and essential operating requirements, while safeguarding the interests
+      of staff given the particularly high inflation rate in France.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-26 (2024)
+  identifier: 113-26
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-10-16'
+    message: decided that the value of the point applicable to pensions be revised
+      on 1 January 2025, in accordance with Rule 17.4 of the Rules of the Pension
+      and Provident Fund, by 2.5 %, which will allow the BIPM to meet its financial
+      obligations and long-term financial sustainability of the Pension Fund, while
+      safeguarding the interests of pensioners given the particularly high inflation
+      rate in France.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-27 (2024)
+  identifier: 113-27
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finance
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2024-10-16'
+    message: Recalling Decisions CIPM/106-07 (2017), CIPM/109-12 (2020), CIPM/110-18
+      (2021), CIPM/111-15 (2022), CIPM/112-31 (2023) and following the review of the
+      BIPM reserves and the consequent recommendation from the CIPM Sub Committee
+      on Finance meeting held on 12 June 2024, the CIPM decided to authorize a fourth
+      exceptional transfer of 3 million euros of unreserved cash to the Pension Fund,
+      effective by the end of 2024.
+  actions: []
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-28 (2024)
+  identifier: 113-28
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - Internal rules
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2024-10-16'
+    message: Recalling Decisions CIPM/110-08 (2021), CIPM/110-25 (2021), CIPM/112-32
+      (2023) and CIPM/113-18 (2024) the CIPM approved edition 1.3 of the CIPM Rules
+      of Procedure, with an amendment to Rule 27, in order to allow a staff representative
+      of the BIPM Commission on Conditions of Employment to attend, with status of
+      observer, those parts of CIPM sessions that examine proposals on conditions
+      of employment. The CIPM requested the BIPM headquarters staff to publish the
+      amended CIPM Rules of Procedure and to update the Compendium accordingly.
+  actions: []
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-29 (2024)
+  identifier: 113-29
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / General
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2024-10-16'
+    message: |-
+      endorsed _Metrologia_ as its journal of choice for reporting advances in pure and applied metrology at the highest level, including the best research work undertaken by NMIs and under the auspices of the CIPM’s Consultative Committees and Forums.
+
+      The CIPM asked the Consultative Committees and Forums each to nominate one or more ambassadors to __Metrologia__, to strengthen the link between these bodies and _Metrologia_ and identify topics of interest for Focus Issues.
+
+      In the interest of the whole metrology community, the CIPM asked the BIPM to pursue an Open Access publishing model for the journal, even if this results in a loss of revenue to the BIPM.
+
+      The CIPM recommended the creation of a separate entity for the publication of comparison reports and asked the BIPM to identify and implement an appropriate mechanism for this.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-30 (2024)
+  identifier: 113-30
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_3-2024
+  categories:
+  - CCs and WGs
+  considerations:
+  - type: accepts
+    date_effective: '2024-10-16'
+    message: |-
+      accepted the following changes to the membership and observership of the Consultative Committees:
+
+      CCL:
+
+      * INTI (Argentina) as a member
+      * RISE (Sweden) as a member
+      * SCL (Hong-Kong, China) as an observer
+
+      CCT:
+
+      * INM (Colombia) as an observer
+  actions: []

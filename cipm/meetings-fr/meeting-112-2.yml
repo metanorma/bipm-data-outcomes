@@ -5,4 +5,123 @@ metadata:
   date: '2023-06-21'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
-resolutions: []
+resolutions:
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-19 (2023)
+  identifier: 112-19
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - CIPM / Réunions
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-06-21'
+    message: approuve les procès-verbaux de la première partie de la 112^e^ session
+      du CIPM.
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-20 (2023)
+  identifier: 112-20
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - Internal rules
+  - BIPM / Règlement_interne
+  considerations:
+  - type: accepts
+    date_effective: '2023-06-21'
+    message: accepte les amendements proposés au Titre X des SRI (Article 21.2.1 du
+      Règlement, Instruction I-21.4.1 et Article 21.5 du Statut).
+  actions: []
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-21 (2023)
+  identifier: 112-21
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - Finance
+  - BIPM / Finances
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-06-21'
+    message: |-
+      approuve les états financiers audités du BIPM et de la Caisse de retraite et de prévoyance du BIPM de 2022, examinés par le Sous-comité du CIPM sur les finances en mai 2023.
+
+      Le CIPM donne quitus de sa gestion au directeur, au titre de l’exercice 2022.
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-22 (2023)
+  identifier: 112-22
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - CCs et WGs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-06-21'
+    message: |-
+      approuve les changements suivants concernant la composition des Comités consultatifs :
+
+      CCM
+
+      ― NIS (Égypte) : membre
+
+      ― UME (Türkiye) : membre
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-23 (2023)
+  identifier: 112-23
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - JCGM
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-06-21'
+    message: 'approuve la version finale du document JCGM GUM-1:202X (Guide pour l’expression
+      de l’incertitude de mesure - Partie 1 : Introduction).'
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-24 (2023)
+  identifier: 112-24
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - Relations internationales
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-06-21'
+    message: approuve le renouvellement du protocole d’accord entre le BIPM et l’ILAC,
+      la période de renouvellement passant de 3 à 5 ans.
+- dates:
+  - '2023-06-21'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/112-25 (2023)
+  identifier: 112-25
+  url: https://www.bipm.org/fr/committees/ci/cipm/112-_2-2023
+  categories:
+  - SCs and WGs
+  - Transformation numérique
+  - CIPM / Sous-comités et Groupes_de_travail
+  considerations: []
+  actions:
+  - type: adopts
+    date_effective: '2023-06-21'
+    message: adopte le nom « Forum sur la métrologie et la transformation numérique
+      » pour le forum horizontal sur les questions numériques. Il approuve la mission
+      et la structure du forum, ainsi que le programme de travail mis à jour du siège
+      du BIPM concernant les activités de transformation numérique pour 2023 et 2024.

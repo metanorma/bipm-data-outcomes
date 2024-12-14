@@ -24,17 +24,15 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1956-10-06'
+    message: considérant que la Neuvième Assemblée générale de l’Union astronomique
+      internationale (Dublin, 1955) a émis un avis favorable au rattachement de la
+      seconde à l’année tropique,
+  - type: considering
+    date_effective: '1956-10-06'
     message: |-
-      *considérant*
-
-      . que la Neuvième Assemblée générale de l’Union astronomique internationale (Dublin, 1955) a émis un avis favorable au rattachement de la seconde à l’année tropique,
-      . que, selon les décisions de la Huitième Assemblée générale de l’Union astronomique internationale (Rome, 1952), la seconde de temps des éphémérides (T.E.) est la fraction
+      considérant que, selon les décisions de la Huitième Assemblée générale de l’Union astronomique internationale (Rome, 1952), la seconde de temps des éphémérides (T.E.) est la fraction
       +
-        (12 960 276 813 / 408 986 496) 408 986 496) × 10
-      +
-      ^−9^
-      +
-      de l’année tropique pour 1900 janvier 0 à stem:[12 "h"] T.E.,
+        (12 960 276 813 / 408 986 496) 408 986 496) × 10^−9^ de l’année tropique pour 1900 janvier 0 à stem:[12 "h"] T.E.,
   actions:
   - type: decides
     date_effective: '1956-10-06'
@@ -100,23 +98,15 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '1956-10-06'
+    message: |
+      recommande que soit désigné comme « Système international d’unités » le système fondé sur les unités de base adoptées par la Dixième Conférence générale, qui sont :
+      +
+      [Suit la liste des six unités de base avec leur symbole, reproduite dans la Résolution 12 de la 11^e^ CGPM (1960)].
+      +
+  - type: recommends
+    date_effective: '1956-10-06'
     message: |-
-      *recommande*
-
-      . que soit désigné comme « Système international d’unités » le système fondé sur les unités de base adoptées par la Dixième Conférence générale, qui sont :
+      recommande que soient employées les unités de ce système énumérées au tableau suivant, sans préjudice d’autres unités qu’on pourrait ajouter à l’avenir :
       +
-      [Suit la liste des six unités de base avec leur symbole, reproduite dans la Résolution 12 de la 11
-      +
-      ^e^
-      +
-      CGPM (1960)].
-      +
-
-      . que soient employées les unités de ce système énumérées au tableau suivant, sans préjudice d’autres unités qu’on pourrait ajouter à l’avenir :
-      +
-      [Suit le tableau des unités reproduit dans le paragraphe 4 de la Résolution 12 de la 11
-      +
-      ^e^
-      +
-      CGPM (1960)].
+      [Suit le tableau des unités reproduit dans le paragraphe 4 de la Résolution 12 de la 11^e^ CGPM (1960)].
   doi: 10.59161/CIPM1956RES3F

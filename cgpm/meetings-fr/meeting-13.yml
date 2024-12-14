@@ -47,12 +47,14 @@ resolutions:
   - type: decides
     date_effective: '1967-10-16'
     message: |-
-      *décide*
-
-      . L'unité de temps du Système international d'unités est la seconde définie dans les termes suivants :
+      décide L'unité de temps du Système international d'unités est la seconde définie dans les termes suivants :
       +
       « La seconde est la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133 ».
-      . La Résolution 1 adoptée par le Comité international des poids et mesures à sa session de 1956 et la Résolution 9 de la Onzième Conférence générale des poids et mesures sont abrogées.
+  - type: decides
+    date_effective: '1967-10-16'
+    message: décide La Résolution 1 adoptée par le Comité international des poids
+      et mesures à sa session de 1956 et la Résolution 9 de la Onzième Conférence
+      générale des poids et mesures sont abrogées.
   doi: 10.59161/CGPM1967RES1F
   notes: |-
     Lors de sa session de 1997, le Comité international a confirmé que cette définition se réfère à un atome de césium au repos, à une température de stem:[0 "K"]. +
@@ -97,15 +99,16 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: |-
-      *considérant*
-
-      * les noms « degré Kelvin » et « degré », les symboles « stem:["°K"] » et « deg » et leurs règles d'emploi contenus dans la Résolution 7 de la Neuvième Conférence générale (1948), dans la Résolution 12 de la Onzième Conférence générale (1960) et la décision prise par le Comité international des poids et mesures en 1962 (PV,
-      +
-      30
-      +
-      , 27),
-      * que l'unité de température thermodynamique et l'unité d'intervalle de température sont une même unité qui devrait être désignée par un nom unique et par un symbole unique,
+    message: considérant les noms « degré Kelvin » et « degré », les symboles « stem:["°K"]
+      » et « deg » et leurs règles d'emploi contenus dans la Résolution 7 de la Neuvième
+      Conférence générale (1948), dans la Résolution 12 de la Onzième Conférence générale
+      (1960) et la décision prise par le Comité international des poids et mesures
+      en 1962 (PV, 30, 27),
+  - type: considering
+    date_effective: '1967-10-16'
+    message: considérant que l'unité de température thermodynamique et l'unité d'intervalle
+      de température sont une même unité qui devrait être désignée par un nom unique
+      et par un symbole unique,
   actions:
   - type: decides
     date_effective: '1967-10-16'
@@ -128,9 +131,9 @@ resolutions:
       temporairement.
   doi: 10.59161/CGPM1967RES3F
   notes: "À sa session de 1980, le Comité international a approuvé le rapport de la
-    7\n+\n^e^\n+\nsession du CCU demandant que l'emploi des symboles « stem:[\"°K\"]
-    » et « deg » ne soit plus admis.\n Voir la\n+\n<recommandation du cipm relative
-    la composition isotopique de l entrant dans d kelvin.>\n   \n\n\t\t\t\n\t\t</recommandation>"
+    7^e^ session du CCU demandant que l'emploi des symboles « stem:[\"°K\"] » et «
+    deg » ne soit plus admis.\n Voir la <recommandation du cipm relative la composition
+    isotopique de l entrant dans d kelvin.>\n   \n\n\t\t\t\n\t\t</recommandation>"
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -175,17 +178,15 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: |-
-      *considérant*
-
-      * la définition de l'unité d'intensité lumineuse ratifiée par la Neuvième Conférence générale (1948) et contenue dans la « Résolution concernant le changement des unités photométriques » adoptée par le Comité international des poids et mesures en 1946 (PV,
-      +
-
-      +
-      **20**
-      +
-      , 119) en vertu des pouvoirs conférés par la Huitième Conférence générale (1933),
-      * que cette définition fixe bien la grandeur de l'unité d'intensité lumineuse mais prête à des critiques d'ordre rédactionnel,
+    message: considérant la définition de l'unité d'intensité lumineuse ratifiée par
+      la Neuvième Conférence générale (1948) et contenue dans la « Résolution concernant
+      le changement des unités photométriques » adoptée par le Comité international
+      des poids et mesures en 1946 (PV, **20**, 119) en vertu des pouvoirs conférés
+      par la Huitième Conférence générale (1933),
+  - type: considering
+    date_effective: '1967-10-16'
+    message: considérant que cette définition fixe bien la grandeur de l'unité d'intensité
+      lumineuse mais prête à des critiques d'ordre rédactionnel,
   actions:
   - type: decides
     date_effective: '1967-10-16'

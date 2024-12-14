@@ -5,4 +5,169 @@ metadata:
   date: '2024-03-20'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
-resolutions: []
+resolutions:
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-1 (2024)
+  identifier: 113-1
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - CIPM / Meetings
+  considerations:
+  - type: accepts
+    date_effective: '2024-03-20'
+    message: accepted the minutes of Session III of the 112th meeting of the CIPM
+      as a true record.
+  actions: []
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-2 (2024)
+  identifier: 113-2
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - BIPM / Internal rules
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-03-20'
+    message: approved the proposed amendments of Staff Rules 10.2.1 (Affordability
+      clause) and Staff Rule 11.8.3 (Education Allowance).
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-3 (2024)
+  identifier: 113-3
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - CCs and WGs
+  considerations:
+  - type: accepts
+    date_effective: '2024-03-20'
+    message: accepted NIS (Egypt) as an observer of the Consultative Committee for
+      Acoustics, Ultrasound and Vibration (CCAUV).
+  actions: []
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-4 (2024)
+  identifier: 113-4
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - BIPM / Internal rules
+  - BIPM / Finance
+  considerations: []
+  actions: []
+  x-unparsed:
+  - "The CIPM:\n\n\twelcomed the report from the Pension Fund Advisory Board (PFAB),
+    dated 8 December 2023, presenting the PFAB recommendations on the long-term sustainability
+    of the BIPM Pension Fund. Following the recommendations of the PFAB;\n\tendorsed
+    the conclusions and recommendations formulated in the 2023 Actuarial Study and
+    considered such a document as a valid expert actuarial analysis;\n\trequested
+    the BIPM Director to conduct an Asset Liability Management (“ALM”) Study to develop
+    an active investment strategy for the Pension Fund assets based on better financial
+    returns; and\n\tdecided that the next actuarial study should be conducted in 2028
+    to monitor the evolution of the assets and the liabilities of the pension scheme
+    as well as to ensure its long-term financial stability."
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-5 (2024)
+  identifier: 113-5
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - SCs and WGs
+  - Digital transformation
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-03-20'
+    message: appointed C. Denz as the Chair of the Forum on Metrology and Digitalization,
+      confirmed G. Macdonald as the Vice-chair and appointed H. Laiz as a second Vice-chair.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-6 (2024)
+  identifier: 113-6
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - JCGM
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-03-20'
+    message: appointed H.A. Frøystein as the BIPM representative to the Joint Committee
+      for Guides in Metrology (JCGM).
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-7 (2024)
+  identifier: 113-7
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - General
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-03-20'
+    message: appointed stem:["V"].G. Achanta as the BIPM representative to CODATA.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-8 (2024)
+  identifier: 113-8
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: appoints
+    date_effective: '2024-03-20'
+    message: |-
+      appointed the following CIPM members to serve on the CIPM Sub Committees:
+
+      * CIPM Sub-Committee on Finance (FSC): J. Qu.
+      * CIPM Sub-Committee on Strategy - Universal adherence to the Metre Convention: H.A. Frøystein, J. Qu.
+      * CIPM Sub-Committee on Strategy - Vision: stem:["V"].G. Achanta (Coordinator), stem:["V"]. Coleman, C. Denz, J.-T. Janssen, G. Macdonald, M. Milton (Director of the BIPM), H. Laiz, J. Olthoff, M.L. Rastello, G. Rietveld.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-9 (2024)
+  identifier: 113-9
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - CCs and WGs
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-03-20'
+    message: decided to invite expressions of interest for the Presidency of the Consultative
+      Committee for Units (CCU) with the aim to elect a new President by June 2024,
+      and confirmed that R. Brown (NPL) will oversee the implementation of the actions
+      from the April 2024 meeting.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/113-10 (2024)
+  identifier: 113-10
+  url: https://www.bipm.org/en/committees/ci/cipm/113-_1-2024
+  categories:
+  - CGPM
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-03-20'
+    message: decided that the 28th meeting of the CGPM will be convened during the
+      week beginning 12 October 2026 and that it will be organized over three days.

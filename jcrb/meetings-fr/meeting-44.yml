@@ -6,7 +6,57 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/44-2021
 pdf: https://www.bipm.org/documents/20126/60679358/KCDB_Report_to_JCRB_Sep21.pdf/a3eeaf50-8bd4-f5a7-9b69-85cbcf177aee
-resolutions: []
+resolutions:
+- dates:
+  - '2021-09-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/44-1 (2021)
+  identifier: 44-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/44-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2021-09-16'
+    message: The JCRB requests the Executive Secretary to include the possibility
+      of up to two additional observers from each RMO when issuing the convocation
+      for future online JCRB meetings.
+- dates:
+  - '2021-09-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/44-2 (2021)
+  identifier: 44-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/44-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2021-09-16'
+    message: The JCRB requests the Executive Secretary to include an agenda item for
+      the 45th meeting of the JCRB regarding the validity of RMO-approved quality
+      management systems, to coincide with the end of the extension period granted
+      at the 43rd meeting.
+- dates:
+  - '2021-09-16'
+  subject: JCRB
+  type: action
+  title: Action JCRB/44-3 (2021)
+  identifier: 44-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/44-2021
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2021-09-16'
+    message: The JCRB requests the Executive Secretary to upload proposed draft changes
+      to CIPM MRA-G-13 onto the JCRB site, and requests that the RMOs review these
+      minor changes, with a view to approving the revised text at the 45th meeting
+      of the JCRB.
 working_documents:
 - title: JCRB/44-08
   pdf: https://www.bipm.org/documents/20126/60679358/KCDB_Report_to_JCRB_Sep21.pdf/a3eeaf50-8bd4-f5a7-9b69-85cbcf177aee

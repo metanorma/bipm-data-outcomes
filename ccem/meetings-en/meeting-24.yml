@@ -48,15 +48,12 @@ resolutions:
       a future redefinition of the kilogram,"
   - type: noting
     date_effective: '2005-03-18'
-    message: |-
-      *noting*
-
-      * the existing discrepancy of about 1 part in 10
-      +
-      ^6^
-      +
-      between the results from watt balance and x-ray crystal density measurements,
-      * the fact that this discrepancy is significant at the practical level and is unlikely to be resolved by 2007,
+    message: noting the existing discrepancy of about 1 part in stem:[10^(6)] between
+      the results from watt balance and x-ray crystal density measurements,
+  - type: noting
+    date_effective: '2005-03-18'
+    message: noting the fact that this discrepancy is significant at the practical
+      level and is unlikely to be resolved by 2007,
   actions:
   - type: recommends
     date_effective: '2005-03-18'

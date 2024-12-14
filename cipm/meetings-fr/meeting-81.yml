@@ -117,18 +117,12 @@ resolutions:
     message: |-
       *rappelant*
 
-      * que la 17
-      +
-      ^e^
-      +
-      Conférence générale des poids et mesures (CGPM), en 1983, a adopté une nouvelle définition du mètre,
+      * que la 17^e^ Conférence générale des poids et mesures (CGPM), en 1983, a adopté une nouvelle définition du mètre,
       * que la même CGPM a invité le Comité international des poids et mesures (CIPM)
       +
-
       ** à établir des instructions pour la mise en pratique de cette définition,
       ** à choisir des radiations qui puissent être recommandées comme étalons de longueur d'onde pour les mesures de longueur par interférométrie et à donner les instructions nécessaires pour leur utilisation,
       ** à poursuivre les études nécessaires pour améliorer ces étalons et à étendre ou réviser ces instructions en temps utile, si besoin est,
-
       * que le CIPM, en conséquence, a publié en 1983 une liste des radiations recommandées pour la mise en pratique de la définition du mètre,
   - type: considering
     date_effective: '1992-10-01'
@@ -160,7 +154,7 @@ resolutions:
 
       Cette liste remplace celle qui avait été publiée dans __BIPM Proc.-Verb. Com. Int. Poids et Mesures__, 1983,**51**, 25-28 et dans __Metrologia__, 1984, **19**, 165-166.
 
-      Dans cette liste, les valeurs de la fréquence stem:[f] et de la longueur d'onde _λ_ (d'une même radiation) devraient être liées exactement par la relation _λ_ stem:[f] = __c__, avec stem:[c = 299 792 458 "m"/"s"], mais les valeurs de _λ_ sont arrondies rounded.
+      Dans cette liste, les valeurs de la fréquence stem:[f] et de la longueur d'onde _λ_ (d'une même radiation) devraient être liées exactement par la relation _λ_ stem:[f = c], avec stem:[c = 299 792 458 "m"/"s"], mais les valeurs de _λ_ sont arrondies rounded.
 
       Les résultats de mesures qui ont été utilisés pour la compilation de cette liste, et leur analyse, sont donnés dans l'annexe : Données utilisées pour établir la liste des radiations recommandées, 1992, et Bibliographie commentée*.
 
@@ -173,7 +167,7 @@ resolutions:
 
       1.1.1. Les valeurs +
       stem:[f = 88 376 181 600","18 "kHz"] +
-      _λ_ = 3 392 231 397,327 fm +
+      _λ_ = stem:[3 392 231 397","327 "fm"] +
       avec une incertitude-type relative estimée de stem:[3 * 10^(-12)], s'appliquent à la radiation émise par un laser à He-Ne asservi à l'aide de la composante centrale du triplet de structure hyperfine résolu [transition (7-6)], en utilisant la moyenne de la structure due à l'effet de recul, pour des molécules réellement stationnaires, dont les valeurs sont corrigées pour tenir compte du déplacement Doppler du second ordre.
 
       1.1.2. Les valeurs +
@@ -182,19 +176,7 @@ resolutions:
       avec une incertitude-type relative estimée de stem:[2","3 * 10^(-11)], s'appliquent à la radiation émise par un laser à He-Ne asservi sur le centre de la structure hyperfine non résolue d'une cuve à méthane à la température ambiante, située à l'intérieur ou à l'extérieur du laser, lorsque les conditions suivantes sont respectées :
 
       * pression du méthane ≤ 3 Pa,
-      * puissance surfacique moyenne sur l'axe transportée par le faisceau dans un seul sens, à l'intérieur de la cavité
-      +
-      ^+^
-      +
-      ≤ 10
-      +
-      ^4^
-      +
-      stem:["W" * "m"]
-      +
-      ^-2^
-      +
-      ,
+      * puissance surfacique moyenne sur l'axe transportée par le faisceau dans un seul sens, à l'intérieur de la cavité^+^ ≤ stem:[10^(4) "W" * "m"^(-2)],
       * rayon de courbure des surfaces d'onde ≥ stem:[1 "m"],
       * différence (relative) de puissance entre les deux ondes qui se propagent en sens inverse l'une de l'autre ≤ 5 %,
       * récepteur placé à la sortie du côté du tube laser.
@@ -205,31 +187,27 @@ resolutions:
 
       Les valeurs +
       stem:[f = 455 986 240","5 "MHz"] +
-      _λ_ = 657 459 439,3 fm +
+      _λ_ = stem:[657 459 439","3 "fm"] +
       avec une incertitude-type relative estimée de stem:[4","5 * 10^(-10)], s'appliquent à la radiation émise par un laser asservi à l'aide d'un jet atomique thermique.
 
       1.3. Molécule absorbante ^127^I~2~, transition 8-5, P(10), composante a~9~ (or stem:["g"]).
 
       Les valeurs +
       stem:[f = 468 218 332","4 "MHz"] +
-      _λ_ = 640 283 468,7 fm +
+      _λ_ = stem:[640 283 468","7 "fm"] +
       avec une incertitude-type relative estimée de stem:[4","5 * 10^(-10)], s'appliquent à la radiation émise par un laser asservi à l'aide d'une cuve à iode, située à l'intérieur du laser, ayant un point froid à la température de stem:[(16  +-  1) "°C"], avec une amplitude de modulation de fréquence, de crête à creux, de stem:[(6  +-  1) "MHz"].
 
       1.4. Molécule absorbante ^127^I~2~, transition 11-5, R(127), composante a~l3~ (or i).
 
       Les valeurs +
       stem:[f= 473 612 214 705 "kHz"] +
-      _λ_ = 632 991 398,22 fm +
+      _λ_ = stem:[632 991 398","22 "fm"] +
       avec une incertitude-type relative estimée de stem:[2","5 * 10^(-11)], s'appliquent à la radiation émise par un laser à He-Ne asservi à l'aide d'une cuve à iode, située à l'intérieur du laser, lorsque les conditions suivantes sont respectées :
 
       * température des parois de la cuve : stem:[(25  +-  5) "°C"]
       * point froid à la température de : stem:[(15  +-  0","2) "°C"]
       * modulation de fréquence, de crête à creux : stem:[(6  +-  0","3) "MHz"]
-      * puissance transportée par le faisceau dans un seul sens, à l'intérieur de la cavité
-      +
-      ^+^
-      +
-      : stem:[(10  +-  5)] mWpour une valeur absolue du coefficient de décalage en fonction de la puissance ≤ 1,4 kHzlmW.
+      * puissance transportée par le faisceau dans un seul sens, à l'intérieur de la cavité ^+^: stem:[(10  +-  5)] mWpour une valeur absolue du coefficient de décalage en fonction de la puissance ≤ 1,4 kHzlmW.
 
       Ces conditions ne suffisent pas par elles-mêmes à garantir l'obtention de l'incertitude-type indiquée. Il faut en outre que les parties optique et électronique du système d'asservissement fonctionnent avec les performances appropriées. La cuve à iode peut aussi être utilisée dans des conditions moins rigoureuses, ce qui conduit à l'incertitude plus grande donnée dans l'annexe M2 du rapport du CCDM (1992).
 
@@ -237,28 +215,28 @@ resolutions:
 
       Les valeurs +
       stem:[f = 489 880 354","9 "MHz"] +
-      _λ_ = 611 970 770,0 fm +
+      _λ_ = stem:[611 970 770","0 "fm"] +
       avec une incertitude-type relative estimée de stem:[3 * 10^(-10)], s'appliquent à la radiation émise par un laser à He-Ne asservi à l'aide d'une cuve à iode, située à l'intérieur ou à l'extérieur du laser, ayant un point froid à la température de (- stem:[5  +-  2]) °C.
 
       1.6. Molécule absorbante ^127^I~2~, transition 17-1, P(62), composante a~l~.
 
       Les valeurs +
       stem:[f = 520 206 808","4 "MHz"] +
-      _λ_ = 576 294 760,4 fm +
+      _λ_ = stem:[576 294 760","4 "fm"] +
       avec une incertitude-type relative estimée de stem:[4 * 10^(-10)], s'appliquent à la radiation émise par un laser à colorant (ou par un laser à He-Ne associé à un doubleur de fréquence) asservi à l'aide d'une cuve à iode, située à l'intérieur ou à l'extérieur du laser, ayant un point froid à la température de stem:[(6  +-  2)] °C.
 
       1.7. Molécule absorbante ^127^I~2~, transition 26-0, R(12), composante a~9~
 
       Les valeurs +
       stem:[f = 551579482","96 "MHz"] +
-      _λ_ = 543516333,1 fm +
+      _λ_ = stem:[543516333","1 "fm"] +
       avec une incertitude-type relative estimée de stem:[2","5 * 10^(-10)], s'appliquent à la radiation émise par un laser à He-Ne asservi à l'aide d'une cuve à iode, située à l'extérieur du laser, ayant un point froid à la température de stem:[(0  +-  2)] °c.
 
       1.8. Molécule absorbante ^127^I~2~, transition 43-0, P(13), composante a~3~ (or stem:["s"]).
 
       Les valeurs +
       stem:[f = 582 490 603","37 "MHz"] +
-      _λ_ = 514 673 466,4 fm +
+      _λ_ = stem:[514 673 466","4 "fm"] +
       avec une incertitude-type relative estimée de stem:[2","5 * 10^(-10)], s'appliquent à la radiation émise par un laser à Ar^+^ asservi à l'aide d'une cuve à iode, située à l'extérieur du laser, ayant un point froid à la température de (- stem:[5  +-  2]) °C.
 
       Note^+^ La puissance transportée par le faisceau, dans un seul sens, à l'intérieur de la cavité, est obtenue en divisant la puissance de sortie par le facteur de transmission du miroir de sortie.
@@ -267,7 +245,7 @@ resolutions:
       2.1. Radiation correspondant à la transition entre les niveaux 2p~lO~ et 5d~5~ de l'atome de ^86^Kr.
 
       Les valeurs +
-      _λ_ = 605 780 210,3 fm +
+      _λ_ = stem:[605 780 210","3 "fm"] +
       avec une incertitude globale relative estimée de stem:[ +-  4 * 10^(-9)] [égale à trois fois l'écart-type estimé à stem:[1","3 * 10^(-9)]en valeur relative], s'applique à la radiation émise par une lampe utilisée dans les conditions recommandées par le CIPM (__BlPM Proc.-Verb. Corn. Int. Poids et Mesures__, 1960, **28**, 71-72 et __BlPM Comptes Rendus lle Conf. Gén. Poids et Mesures__, 1960, 85)].
 
       2.2. Les radiations des atomes de ^86^Kr, ^198^Hg et ^114^Cd recommendées par le CIPM en 1963 (__BIPM Corn. Cons. Déf. Mètre__, 1962, **3**, 18-19 et __BIPM Proc. Verb. Com. Int. Poids et Mesures__, 1963, **52**, 26-27), avec les valeurs indiquées pour leur longueur d'onde et pour l'incertitude correspondante.

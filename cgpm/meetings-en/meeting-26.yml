@@ -87,69 +87,13 @@ resolutions:
     message: |-
       *decides* that, effective from 20 May 2019, the International System of Units, the SI, is the system of units in which:
 
-      * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      is stem:[9 192 631 770 "Hz"],
-      * the speed of light in vacuum
-      +
-      stem:[c]
-      +
-      is stem:[299 792 458 "m"/"s"],
-      * the Planck constant
-      +
-      stem:[h]
-      +
-      is 6.626 070 15 × 10
-      +
-      ^-34^
-      +
-      stem:["J" * "s"],
-      * the elementary charge
-      +
-      stem:[e]
-      +
-      is 1.602 176 634 × 10
-      +
-      ^-19^
-      +
-      stem:["C"],
-      * the Boltzmann constant
-      +
-      stem:[k]
-      +
-      is 1.380 649 × 10
-      +
-      ^-23^
-      +
-      stem:["J"/"K"],
-      * the Avogadro constant
-      +
-      __N__
-      +
-      ~stem:["A"]~
-      +
-      is 6.022 140 76 × 10
-      +
-      ^23^
-      +
-      stem:["mol"]
-      +
-      ^-1^
-      +
-      ,
-      * the luminous efficacy of monochromatic radiation of frequency 540 × 10
-      +
-      ^12^
-      +
-      stem:["Hz"],
-      +
-      __K__
-      +
-      ~stem:["cd"]~
-      +
-      , is stem:[683 "lm"/"W"],
+      * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom stem:[ sf Delta  nu ]~Cs~ is stem:[9 192 631 770 "Hz"],
+      * the speed of light in vacuum stem:[c] is stem:[299 792 458 "m"/"s"],
+      * the Planck constant stem:[h] is stem:[6.626 070 15 * 10^(-34) "J" * "s"],
+      * the elementary charge stem:[e] is stem:[1.602 176 634 * 10^(-19) "C"],
+      * the Boltzmann constant stem:[k] is stem:[1.380 649 * 10^(-23) "J"/"K"],
+      * the Avogadro constant stem:[N_("A")] is stem:[6.022 140 76 * 10^(23) "mol"^(-1)],
+      * the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:[K_("cd")], is stem:[683 "lm"/"W"],
 
       where the hertz, joule, coulomb, lumen, and watt, with unit symbols stem:["Hz"], stem:["J"], stem:["C"], stem:["lm"], and stem:["W"], respectively, are related to the units second, metre, kilogram, ampere, kelvin, mole, and candela, with unit symbols stem:["s"], stem:["m"], stem:["kg"], stem:["A"], stem:["K"], stem:["mol"], and stem:["cd"], respectively, according to stem:["Hz" = "s"^(-1)], stem:["J" = "kg" * "m"^(2) * "s"^(-2)], stem:["C" = "A" * "s"], stem:["lm" = "cd" * "m"^(2) * "m"^(-2) = "cd" * "sr"], and stem:["W" = "kg" * "m"^(2) * "s"^(-3)]
   - type: invites / further invites
@@ -172,262 +116,32 @@ resolutions:
       * the definition of the kelvin in force since 1967/68 (13th meeting of the CGPM, Resolution 4) is abrogated,
       * the definition of the mole in force since 1971 (14th meeting of the CGPM, Resolution 3) is abrogated,
       * the definition of the candela in force since 1979 (16th meeting of the CGPM, Resolution 3) is abrogated,
-      * the decision to adopt the conventional values of the Josephson constant
-      +
-      __K__
-      +
-      ~J-90~
-      +
-      and of the von Klitzing constant
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      taken by the CIPM (1988, Recommendations 1 and 2) at the request of the CGPM (18th meeting of the CGPM, 1987, Resolution 6) for the establishment of representations of the volt and the ohm using the Josephson and quantum Hall effects, respectively, is abrogated.
+      * the decision to adopt the conventional values of the Josephson constant stem:[K_(J-90)] and of the von Klitzing constant stem:[R_(K-90)] taken by the CIPM (1988, Recommendations 1 and 2) at the request of the CGPM (18th meeting of the CGPM, 1987, Resolution 6) for the establishment of representations of the volt and the ohm using the Josephson and quantum Hall effects, respectively, is abrogated.
   - identifier: 2
     message: |-
       *Appendix 2. Status of constants previously used in the former definitions*
 
       It follows from the new definition of the SI described above, and from the recommended values of the 2017 special adjustment of the Committee on Data for Science and Technology (CODATA) on which the values of the defining constants are based, that effective from 20 May 2019:
 
-      * the mass of the international prototype of the kilogram
-      +
-      stem:[m]
-      +
-      stem:[("K")] is equal to stem:[1 "kg"] within a relative standard uncertainty equal to that of the recommended value of
-      +
-      stem:[h]
-      +
-      at the time this Resolution was adopted, namely 1.0 × 10
-      +
-      ^-8^
-      +
-      and that in the future its value will be determined experimentally,
-      * the vacuum magnetic permeability
-      +
-      __μ__
-      +
-      ~0~
-      +
-      is equal to stem:[4 pi ] × 10
-      +
-      ^-7^
-      +
-      stem:["H" * "m"]
-      +
-      ^-1^
-      +
-      within a relative standard uncertainty equal to that of the recommended value of the fine-structure constant
-      +
-      _stem:[ alpha ]_
-      +
-      at the time this Resolution was adopted, namely 2.3 × 10
-      +
-      ^-10^
-      +
-      and that in the future its value will be determined experimentally,
-      * the thermodynamic temperature of the triple point of water stem:["T"]
-      +
-      ~TPW~
-      +
-      is equal to stem:[273.16 "K"] within a relative standard uncertainty closely equal to that of the recommended value of
-      +
-      stem:[k]
-      +
-      at the time this Resolution was adopted, namely 3.7 × 10
-      +
-      ^-7^
-      +
-      , and that in the future its value will be determined experimentally,
-      * the molar mass of carbon 12,
-      +
-      stem:[M]
-      +
-      (
-      +
-      ^12^
-      +
-      stem:["C"]), is equal to stem:[0.012 "kg" * "mol"]
-      +
-      ^-1^
-      +
-      within a relative standard uncertainty equal to that of the recommended value of
-      +
-      __N__
-      +
-      ~stem:["A"]~
-      +
-
-      +
-      stem:[h]
-      +
-      at the time this Resolution was adopted, namely 4.5 × 10
-      +
-      ^-10^
-      +
-      , and that in the future its value will be determined experimentally.
+      * the mass of the international prototype of the kilogram stem:[m("K")] is equal to stem:[1 "kg"] within a relative standard uncertainty equal to that of the recommended value of stem:[h] at the time this Resolution was adopted, namely stem:[1.0 * 10^(-8)] and that in the future its value will be determined experimentally,
+      * the vacuum magnetic permeability __μ__~0~ is equal to stem:[4 pi  * 10^(-7) "H" * "m"^(-1)] within a relative standard uncertainty equal to that of the recommended value of the fine-structure constant _stem:[ alpha ]_ at the time this Resolution was adopted, namely stem:[2.3 * 10^(-10)] and that in the future its value will be determined experimentally,
+      * the thermodynamic temperature of the triple point of water stem:["T"_(TPW)] is equal to stem:[273.16 "K"] within a relative standard uncertainty closely equal to that of the recommended value of stem:[k] at the time this Resolution was adopted, namely stem:[3.7 * 10^(-7)], and that in the future its value will be determined experimentally,
+      * the molar mass of carbon 12, stem:[M(""_(12) "C")], is equal to stem:[0.012 "kg" * "mol"^(-1)] within a relative standard uncertainty equal to that of the recommended value of stem:[N_("A") h] at the time this Resolution was adopted, namely stem:[4.5 * 10^(-10)], and that in the future its value will be determined experimentally.
   - identifier: 3
     message: |-
       *Appendix 3. The base units of the SI*
 
       Starting from the new definition of the SI described above in terms of fixed numerical values of the defining constants, definitions of each of the seven base units are deduced by taking, as appropriate, one or more of these defining constants to give the following set of definitions, effective from 20 May 2019:
 
-      * The second, symbol stem:["s"], is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      , the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"], which is equal to stem:["s"]
-      +
-      ^-1^
-      +
-      .
-      * The metre, symbol stem:["m"], is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum
-      +
-      stem:[c]
-      +
-      to be 299 792 458 when expressed in the unit stem:["m"/"s"], where the second is defined in terms of stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      .
-      * The kilogram, symbol stem:["kg"], is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant
-      +
-      stem:[h]
-      +
-      to be 6.626 070 15 × 10
-      +
-      ^-34^
-      +
-      when expressed in the unit stem:["J" * "s"], which is equal to stem:["kg" * "m"]
-      +
-      ^2^
-      +
-      stem:["s"]
-      +
-      ^-1^
-      +
-      , where the metre and the second are defined in terms of
-      +
-      stem:[c]
-      +
-      and stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      .
-      * The ampere, symbol stem:["A"], is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge
-      +
-      stem:[e]
-      +
-      to be 1.602 176 634 × 10
-      +
-      ^-19^
-      +
-      when expressed in the unit stem:["C"], which is equal to stem:["A" * "s"], where the second is defined in terms of stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      .
-      * The kelvin, symbol stem:["K"], is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant
-      +
-      stem:[k]
-      +
-      to be 1.380 649 × 10
-      +
-      ^-23^
-      +
-      when expressed in the unit stem:["J" * "K"]
-      +
-      ^-1^
-      +
-      , which is equal to stem:["kg" * "m"]
-      +
-      ^2^
-      +
-      stem:["s"]
-      +
-      ^-2^
-      +
-      stem:["K"]
-      +
-      ^-1^
-      +
-      , where the kilogram, metre and second are defined in terms of
-      +
-      __h__
-      +
-      ,
-      +
-      stem:[c]
-      +
-      and stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      .
-      * The mole, symbol stem:["mol"], is the SI unit of amount of substance. One mole contains exactly 6.022 140 76 × 10
-      +
-      ^23^
-      +
-      elementary entities. This number is the fixed numerical value of the Avogadro constant,
-      +
-      __N__
-      +
-      ~stem:["A"]~
-      +
-      , when expressed in the unit stem:["mol"]
-      +
-      ^-1^
-      +
-      and is called the Avogadro number.
-      +
-      The amount of substance, symbol
-      +
-      __n__
-      +
-      , of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.
-      * The candela, symbol stem:["cd"], is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency 540 × 10
-      +
-      ^12^
-      +
-      stem:["Hz"], stem:["K"]
-      +
-      ~stem:["cd"]~
-      +
-      , to be 683 when expressed in the unit stem:["lm" * "W"]
-      +
-      ^-1^
-      +
-      , which is equal to stem:["cd" * "sr" * "W"]
-      +
-      ^-1^
-      +
-      , or stem:["cd" * "sr" * "kg"]
-      +
-      ^-1^
-      +
-      stem:["m"]
-      +
-      ^-2^
-      +
-      stem:["s"]
-      +
-      ^3^
-      +
-      , where the kilogram, metre and second are defined in terms of
-      +
-      __h__
-      +
-      ,
-      +
-      stem:[c]
-      +
-      and stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      .
+      * The second, symbol stem:["s"], is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency stem:[ sf Delta  nu ]~Cs~, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"], which is equal to stem:["s"^(-1)].
+      * The metre, symbol stem:["m"], is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum stem:[c] to be 299 792 458 when expressed in the unit stem:["m"/"s"], where the second is defined in terms of stem:[ sf Delta  nu ]~Cs~.
+      * The kilogram, symbol stem:["kg"], is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant stem:[h] to be stem:[6.626 070 15 * 10^(-34)] when expressed in the unit stem:["J" * "s"], which is equal to stem:["kg" * "m"^(2) * "s"^(-1)], where the metre and the second are defined in terms of stem:[c] and stem:[ sf Delta  nu ]~Cs~.
+      * The ampere, symbol stem:["A"], is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge stem:[e] to be stem:[1.602 176 634 * 10^(-19)] when expressed in the unit stem:["C"], which is equal to stem:["A" * "s"], where the second is defined in terms of stem:[ sf Delta  nu ]~Cs~.
+      * The kelvin, symbol stem:["K"], is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant stem:[k] to be stem:[1.380 649 * 10^(-23)] when expressed in the unit stem:["J" * "K"^(-1)], which is equal to stem:["kg" * "m"^(2) * "s"^(-2) * "K"^(-1)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu ]~Cs~.
+      * The mole, symbol stem:["mol"], is the SI unit of amount of substance. One mole contains exactly stem:[6.022 140 76 * 10^(23)] elementary entities. This number is the fixed numerical value of the Avogadro constant, stem:[N_("A")], when expressed in the unit stem:["mol"^(-1)] and is called the Avogadro number.
+      +
+      The amount of substance, symbol stem:[n], of a system is a measure of the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles.
+      * The candela, symbol stem:["cd"], is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency stem:[540 * 10^(12) "Hz"], stem:["K"_("cd")], to be 683 when expressed in the unit stem:["lm" * "W"^(-1)], which is equal to stem:["cd" * "sr" * "W"^(-1)], or stem:["cd" * "sr" * "kg"^(-1) * "m"^(-2) * "s"^(3)], where the kilogram, metre and second are defined in terms of stem:[h], stem:[c] and stem:[ sf Delta  nu ]~Cs~.
 - dates:
   - '2018-11-16'
   subject: CGPM
@@ -485,103 +199,70 @@ resolutions:
       and for deciding and announcing leap second insertions,
   - type: noting
     date_effective: '2018-11-16'
-    message: |-
-      *noting* that
-
-      * Resolution A4 (1991) of the IAU defined, in Recommendations I and II, the Geocentric Reference System as a system of space-time coordinates for the Earth within the framework of general relativity, and, in Recommendation III, named the time coordinate of that reference system "Geocentric Coordinate Time" (TCG),
-      * Resolution A4 (1991) of the IAU further defined, in Recommendation IV, Terrestrial Time stem:[("TT")] as another time coordinate in the Geocentric Reference System, differing from TCG by a constant rate; the unit of measurement of stem:["TT"] being chosen to agree with the SI second on the geoid,
-      * Resolution B1.9 (2000) of the IAU redefined stem:["TT"] to be a time scale differing from TCG by a constant rate:
-      +
-      __d__
-      +
-      stem:["TT"]/
-      +
-      __d__
-      +
-      TCG = 1 -
-      +
-      __L__
-      +
-      ~G~
-      +
-      , where
-      +
-      __L__
-      +
-      ~G~
-      +
-      = 6.969 290 134 × 10
-      +
-      ^-10^
-      +
-      is a defining constant (the numerical value of
-      +
-      __L__
-      +
-      ~G~
-      +
-      was chosen to conform to the value
-      +
-      __W__
-      +
-      ~0~
-      +
-      = stem:[62 636 856.0 "m"]
-      +
-      ^2^
-      +
-      stem:["s"]
-      +
-      ^-2^
-      +
-      for the gravity potential on the geoid as recommended by Special Commission 3 of the IAG in 1999),
-      * the redefinition of stem:["TT"] in 2000 introduced an ambiguity between stem:["TT"] and TAI as the CCDS had stated in 1980 that TAI was to have "
-      +
-      __the SI second as realized on the rotating geoid as the scale unit__
-      +
-      " while the definition of stem:["TT"] does not refer to the geoid,
+    message: noting that Resolution A4 (1991) of the IAU defined, in Recommendations
+      I and II, the Geocentric Reference System as a system of space-time coordinates
+      for the Earth within the framework of general relativity, and, in Recommendation
+      III, named the time coordinate of that reference system "Geocentric Coordinate
+      Time" (TCG),
+  - type: noting
+    date_effective: '2018-11-16'
+    message: noting that Resolution A4 (1991) of the IAU further defined, in Recommendation
+      IV, Terrestrial Time stem:[("TT")] as another time coordinate in the Geocentric
+      Reference System, differing from TCG by a constant rate; the unit of measurement
+      of stem:["TT"] being chosen to agree with the SI second on the geoid,
+  - type: noting
+    date_effective: '2018-11-16'
+    message: 'noting that Resolution B1.9 (2000) of the IAU redefined stem:["TT"]
+      to be a time scale differing from TCG by a constant rate: stem:[(d "TT")/(d
+      "TCG") = 1 - L_(G)], where stem:[L_(G) = 6.969 290 134 * 10^(-10)] is a defining
+      constant (the numerical value of stem:[L_(G)] was chosen to conform to the value
+      stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] for the gravity potential on the
+      geoid as recommended by Special Commission 3 of the IAG in 1999),'
+  - type: noting
+    date_effective: '2018-11-16'
+    message: noting that the redefinition of stem:["TT"] in 2000 introduced an ambiguity
+      between stem:["TT"] and TAI as the CCDS had stated in 1980 that TAI was to have
+      "__the SI second as realized on the rotating geoid as the scale unit__" while
+      the definition of stem:["TT"] does not refer to the geoid,
   actions:
   - type: states
     date_effective: '2018-11-16'
-    message: |-
-      *states* that
-
-      * TAI is a continuous time scale produced by the BIPM based on the best realizations of the SI second, and is a realization of stem:["TT"] as defined by IAU Resolution B1.9 (2000),
-      * in the transformation from the proper time of a clock to TAI, the relativistic rate shift is computed with respect to the conventionally adopted equipotential
-      +
-      __W__
-      +
-      ~0~
-      +
-      = stem:[62 636 856.0 "m"]
-      +
-      ^2^
-      +
-      stem:["s"]
-      +
-      ^-2^
-      +
-      of the Earth's gravity potential, which conforms to the constant
-      +
-      __L__
-      +
-      ~G~
-      +
-      defining the rate of stem:["TT"],
-      * as stated in the IAU Resolution A4 (1991), stem:["TT"] - TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre, in order to ensure continuity of stem:["TT"] with Ephemeris Time,
-      * UTC produced by the BIPM, based on TAI, is the only recommended time scale for international reference and the basis of civil time in most countries,
-      * UTC differs from TAI only by an integral number of seconds as published by the BIPM,
-      * users can derive the rotation angle of the Earth by applying to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS,
-      * UTC provides a means to measure time intervals and to disseminate the standard of frequency during intervals in which leap seconds do not occur,
-      * traceability to UTC is obtained through local real-time realizations "UTC(
-      +
-      stem:[k]
-      +
-      )" maintained by laboratories contributing data to the calculation of UTC, identified by "
-      +
-      __k__
-      +
-      ",
+    message: states that TAI is a continuous time scale produced by the BIPM based
+      on the best realizations of the SI second, and is a realization of stem:["TT"]
+      as defined by IAU Resolution B1.9 (2000),
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that in the transformation from the proper time of a clock to
+      TAI, the relativistic rate shift is computed with respect to the conventionally
+      adopted equipotential stem:[W_(0) = 62 636 856.0 "m"^(2)"s"^(-2)] of the Earth's
+      gravity potential, which conforms to the constant stem:[L_(G)] defining the
+      rate of stem:["TT"],
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that as stated in the IAU Resolution A4 (1991), stem:["TT"] -
+      TAI = stem:[32.184 "s"] exactly at 1 January 1977, 0h TAI at the geocentre,
+      in order to ensure continuity of stem:["TT"] with Ephemeris Time,
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that UTC produced by the BIPM, based on TAI, is the only recommended
+      time scale for international reference and the basis of civil time in most countries,
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that UTC differs from TAI only by an integral number of seconds
+      as published by the BIPM,
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that users can derive the rotation angle of the Earth by applying
+      to UTC the observed or predicted values of UT1 - UTC, as provided by the IERS,
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that UTC provides a means to measure time intervals and to disseminate
+      the standard of frequency during intervals in which leap seconds do not occur,
+  - type: states
+    date_effective: '2018-11-16'
+    message: states that traceability to UTC is obtained through local real-time realizations
+      "stem:["UTC" (k)]" maintained by laboratories contributing data to the calculation
+      of UTC, identified by "stem:[k]",
   - type: confirms
     date_effective: '2018-11-16'
     message: |-
@@ -610,21 +291,18 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2018-11-16'
-    message: |-
-      *considering*
-
-      * the world-wide use of the metric system - now the International System of Units (SI),
-      * Resolution 3 adopted by the CGPM at its 21st meeting (1999)
-      +
-      , which
+    message: considering the world-wide use of the metric system - now the International
+      System of Units (SI),
+  - type: considering
+    date_effective: '2018-11-16'
+    message: considering Resolution 3 adopted by the CGPM at its 21st meeting (1999),
+      which
   - type: considering
     date_effective: '2018-11-16'
     message: |-
       considers that all States, not only those that are Parties to the Metre Convention, engage in measurements which are related to trade and need to be traceable to the SI,
 
-       Resolution 4 adopted by the CGPM at its 22nd meeting (2003)
-      +
-      , which considers the desirability of extending the number of Member States or Associates so as to increase the impact and benefit of participation in the Mutual Recognition Arrangement (CIPM MRA) drawn up by the International Committee for Weights and Measures (CIPM),
+       Resolution 4 adopted by the CGPM at its 22nd meeting (2003), which considers the desirability of extending the number of Member States or Associates so as to increase the impact and benefit of participation in the Mutual Recognition Arrangement (CIPM MRA) drawn up by the International Committee for Weights and Measures (CIPM),
        that best practice in communication, transparency and governance has been implemented following adoption of Resolution 10 by the CGPM at its 24th meeting (2011), on the role, mission, objectives, long-term strategy and governance of the International Bureau of Weights and Measures (BIPM),
        Resolution 4 adopted by the CGPM at its 25th meeting (2014) on the Dotation of the BIPM for the years 2016 - 2019, which urges Member States, as well as international organizations, private organizations and foundations to maintain the provision of additional voluntary support of all kinds to support specific BIPM mission-related activities, particularly those that facilitate participation in the activities of the BIPM by those States with emerging metrology systems,
   - type: noting
@@ -770,24 +448,16 @@ resolutions:
   - type: recalling / further recalling
     date_effective: '2018-11-16'
     message: |-
-      *recalling* that
-
-      * Article 6 paragraphs 6 to 8 (1921) of the Regulations annexed to the Metre Convention reads as follows:
+      recalling that Article 6 paragraphs 6 to 8 (1921) of the Regulations annexed to the Metre Convention reads as follows:
       +
-
-      **"
-      +
-
-      +
-      __6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui ci vient à acquitter ses contributions arriérées. +
+      **" __6. Si un État est demeuré trois années sans effectuer le versement de sa contribution, celle-ci est répartie entre les autres États, au prorata de leurs propres contributions. Les sommes supplémentaires, versées ainsi par les États pour parfaire le montant de la dotation du Bureau, sont considérées comme une avance faite à l'État retardataire, et leur sont remboursées si celui ci vient à acquitter ses contributions arriérées. +
        7. Les avantages et prérogatives conférés par l'adhésion à la Convention du Mètre sont suspendus à l'égard des États déficitaires de trois années. +
-       8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l’article 20 du présent Règlement.__
-      +
-      "
-      +
-      ^(1)^
-
-      * Resolution 8 adopted by the CGPM at its 23rd meeting (2007) on financial arrears of Member States sets a procedure concerning States who fail to fulfil their financial obligations,
+       8. Après trois nouvelles années, l'État déficitaire est exclu de la Convention, et le calcul des contributions est rétabli conformément aux dispositions de l’article 20 du présent Règlement.__"^(1)^
+  - type: recalling / further recalling
+    date_effective: '2018-11-16'
+    message: recalling that Resolution 8 adopted by the CGPM at its 23rd meeting (2007)
+      on financial arrears of Member States sets a procedure concerning States who
+      fail to fulfil their financial obligations,
   - type: observing
     date_effective: '2018-11-16'
     message: observing that paragraphs 6 and 7 of Article 6 of the Annexed Regulations

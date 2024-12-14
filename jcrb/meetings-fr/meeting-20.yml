@@ -6,7 +6,172 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
 pdf: https://www.bipm.org/documents/20126/41050011/JCRB20.pdf/22b448e7-0540-ae29-43db-1bedb27051c9
-resolutions: []
+resolutions:
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-1 (2008)
+  identifier: 20-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - QMS
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - "(Modification of Action 19/3) The RMO reports to the JCRB will include only a
+    summary of the status of the Quality Systems in their RMO. (This will require
+    a modification of JCRB 18/03.7.) (Executive Secretary)"
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-2 (2008)
+  identifier: 20-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - CMCs
+  - RMO
+  - CMC review
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMOs are to nominate members for the new CCTF WG on CMCs. (RMOs)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-3 (2008)
+  identifier: 20-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - Traceability
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-05-02'
+    message: Modify Recommendation 19/4 item 3, removing the word "major". Disseminate
+      Recommendations 19.1, 19.2, 19.3; they should be included in the CIPM MRA guidance
+      document being prepared by the BIPM.
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-4 (2008)
+  identifier: 20-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-05-02'
+    message: Modify Recommendation 19/1 per the request of the CCRI WG RMO. (Executive
+      Secretary)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-5 (2008)
+  identifier: 20-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - QMS
+  - Accreditation
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-05-02'
+    message: Bring the discussion on section 7 (as recorded in the Minutes) to the
+      attention of the JTG-RAP. (BIPM)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-6 (2008)
+  identifier: 20-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - Guidance documents
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The document on "How to Welcome New RMOs" will be modified and distributed to
+    the RMOs for comments within 60 days of the meeting. (BIPM)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-7 (2008)
+  identifier: 20-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - QMS
+  - Guidance documents
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Consolidate CIPM MRA documents by category and reformat and number the documents
+    according to the BIPM internal QS procedures. (Executive Secretary)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-8 (2008)
+  identifier: 20-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - Cuban greyed-out CMCs shall be reinstated into the KCDB.(KCDB Office)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: action
+  title: Action JCRB/20-9 (2008)
+  identifier: 20-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2008-05-02'
+    message: Provide an Agenda item during the 21st meeting to discuss the results
+      of the Forum on Metrology Programmes for States in Development. (Executive Secretary)
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/20-1 (2008)
+  identifier: 20-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - 'Next JCRB meeting: BIPM, Sèvres, France on 24-25 September 2008.'
+- dates:
+  - '2008-05-02'
+  subject: JCRB
+  type: resolution
+  title: Résolution JCRB/20-2 (2008)
+  identifier: 20-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/20-2008
+  categories:
+  - Meetings
+  considerations: []
+  actions: []
+  x-unparsed:
+  - First 2009 meeting will be hosted by COOMET, who suggested that the meeting be
+    held in March 2009.
 working_documents:
 - title: JCRB/20-12
   pdf: https://www.bipm.org/documents/20126/32647811/working-document-cc-jc-private-ID-3033/27d00da0-8d1e-873d-ac90-59c273f32bc3

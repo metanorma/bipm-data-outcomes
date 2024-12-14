@@ -37,373 +37,37 @@ resolutions:
 
       (this radiation is already endorsed by the CIPM as a secondary representation of the second);
 
-      * the unperturbed optical transition 6s
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 6s6p
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      of the
-      +
-      ^199^
-      +
-      Hg neutral atom with a frequency of
-      +
-      __f__
-      +
-      ~199Hg~
-      +
-       = stem:[1 128 575 290 808 154.8 "Hz"] and an estimated relative standard uncertainty of 6 × 10
-      +
-      ^−16^
-      +
-      ;
-      * the unperturbed optical transition 6s
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 4f 13 6s
-      +
-      ^2^
-      +
-
-      +
-      ^2^
-      +
-      stem:["F"]
-      +
-      ~7/2~
-      +
-      of the
-      +
-      ^171^
-      +
-      Yb
-      +
-      ^+^
-      +
-      ion with a frequency of
-      +
-      __f__
-      +
-      ~171Yb+ (octupole)~
-      +
-       = stem:[642 121 496 772 645.0 "Hz"] and an estimated relative standard uncertainty of 6 × 10
-      +
-      ^−16^
-      +
-      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 6s
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      (
-      +
-      stem:[F]
-      +
-       = 0,
-      +
-      __m__
-      +
-      ~__F__~
-      +
-       = 0) - 5d
-      +
-      ^2^
-      +
-      D
-      +
-      ~3/2~
-      +
-      (
-      +
-      stem:[F]
-      +
-       = 2,
-      +
-      __m__
-      +
-      ~__F__~
-      +
-       = 0) of the
-      +
-      ^171^
-      +
-      Yb
-      +
-      ^+^
-      +
-      ion with a frequency of
-      +
-      __f__
-      +
-      ~171Yb+ (quadrupole)~
-      +
-       = stem:[688 358 979 309 308.3 "Hz"] and an estimated relative standard uncertainty of 6 × 10
-      +
-      ^−16^
-      +
-      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 5s
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 4d
-      +
-      ^2^
-      +
-      D
-      +
-      ~5/2~
-      +
-      of the
-      +
-      ^88^
-      +
-      Sr
-      +
-      ^+^
-      +
-      ion with a frequency of
-      +
-      __f__
-      +
-      ~88Sr+~
-      +
-       = stem:[444 779 044 095 486.6 "Hz"] and an estimated relative standard uncertainty of 1.6 × 10
-      +
-      ^−15^
-      +
-      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 4s
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 3d
-      +
-      ^2^
-      +
-      D
-      +
-      ~5/2~
-      +
-      of the
-      +
-      ^40^
-      +
-      Ca
-      +
-      ^+^
-      +
-      ion with a frequency of
-      +
-      __f__
-      +
-      ~40Ca+~
-      +
-       = stem:[411 042 129 776 398.4 "Hz"] and an estimated relative standard uncertainty of 1.2 × 10
-      +
-      ^−14^
-      +
-      ;
-      * the unperturbed optical transition 1S - 2S of the
-      +
-      ^1^
-      +
-      stem:["H"] neutral atom with a frequency of
-      +
-      __f__
-      +
-      ~1H~
-      +
-       = stem:[1 233 030 706 593 514 "Hz"] and an estimated relative standard uncertainty of 9.0 × 10
-      +
-      ^−15^
-      +
-      .
+      * the unperturbed optical transition 6s^2^ ^1^S~0~ - 6s6p ^3^P~0~ of the ^199^Hg neutral atom with a frequency of stem:[f]~199Hg~ = stem:[1 128 575 290 808 154.8 "Hz"] and an estimated relative standard uncertainty of 6 × 10^−16^;
+      * the unperturbed optical transition 6s ^2^S~1/2~ - 4f 13 6s^2^ ^2^stem:["F"]~7/2~ of the ^stem:[171^(Yb)]+^ ion with a frequency of stem:[f]~171Yb+ (octupole)~ = stem:[642 121 496 772 645.0 "Hz"] and an estimated relative standard uncertainty of 6 × 10^−16^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 6s ^2^S~1/2~ (stem:[F = 0], stem:[m_(F) = 0]) - 5d ^2^D~3/2~ (stem:[F = 2], stem:[m_(F) = 0]) of the ^stem:[171^(Yb)]+^ ion with a frequency of stem:[f]~171Yb+ (quadrupole)~ = stem:[688 358 979 309 308.3 "Hz"] and an estimated relative standard uncertainty of 6 × 10^−16^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 5s ^2^S~1/2~ - 4d ^2^D~5/2~ of the ^stem:[88^(Sr)]+^ ion with a frequency of stem:[f]~88Sr+~ = stem:[444 779 044 095 486.6 "Hz"] and an estimated relative standard uncertainty of 1.6 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 4s ^2^S~1/2~ - 3d ^2^D~5/2~ of the ^stem:[40^(Ca)]+^ ion with a frequency of stem:[f]~40Ca+~ = stem:[411 042 129 776 398.4 "Hz"] and an estimated relative standard uncertainty of 1.2 × 10^−14^;
+      * the unperturbed optical transition 1S - 2S of the stem:[""_(1) "H"] neutral atom with a frequency of stem:[f_(1H) = 1 233 030 706 593 514 "Hz"] and an estimated relative standard uncertainty of 9.0 × 10^−15^.
       +
       Note: This frequency corresponds to half of the energy difference between the 1S and 2S states;
-      * the unperturbed optical transition 5s
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 5s5p
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      of the
-      +
-      ^87^
-      +
-      Sr neutral atom with a frequency of
-      +
-      __f__
-      +
-      ~87Sr~
-      +
-       = stem:[429 228 004 229 873.2 "Hz"] and an estimated relative standard uncertainty of 5 × 10
-      +
-      ^−16^
-      +
-      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed optical transition 6s
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 6s6p
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      of the
-      +
-      ^171^
-      +
-      Yb neutral atom with a frequency of
-      +
-      __f__
-      +
-      ~171Yb~
-      +
-       = stem:[518 295 836 590 864.0 "Hz"] and an estimated relative standard uncertainty of 2 × 10
-      +
-      ^−15^
-      +
-      (this radiation is already endorsed by the CIPM as a secondary representation of the second);
-      * the unperturbed ground-state hyperfine transition of
-      +
-      ^87^
-      +
-      Rb with a frequency of
-      +
-      __f__
-      +
-      ~87Rb~
-      +
-       = stem:[6 834 682 610.904 310 "Hz"] and an estimated relative standard uncertainty of 7 × 10
-      +
-      ^−16^
+      * the unperturbed optical transition 5s^2^ ^1^S~0~ - 5s5p ^3^P~0~ of the ^87^Sr neutral atom with a frequency of stem:[f_(87Sr) = 429 228 004 229 873.2 "Hz"] and an estimated relative standard uncertainty of 5 × 10^−16^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed optical transition 6s^2^ ^1^S~0~ - 6s6p ^3^P~0~ of the ^171^Yb neutral atom with a frequency of stem:[f]~171Yb~ = stem:[518 295 836 590 864.0 "Hz"] and an estimated relative standard uncertainty of 2 × 10^−15^ (this radiation is already endorsed by the CIPM as a secondary representation of the second);
+      * the unperturbed ground-state hyperfine transition of ^87^Rb with a frequency of stem:[f_(87Rb) = 6 834 682 610.904 310 "Hz"] and an estimated relative standard uncertainty of 7 × 10^−16^
       +
       (this radiation is already endorsed by the CIPM as a secondary representation of the second).
 
       and *also recommend* that the following transition frequencies shall be included in the list of recommended values of standard frequencies:
 
-      * absorbing molecule
+      * absorbing molecule ^127^I~2~, saturated absorption a~1~ component, R(36) 32-0 transition; The values
       +
-      ^127^
+      stem:[f_(a1) = 564 074 632.42 "MHz"]
       +
-      I
+      __λ__~a1~ = stem:[531 476 582.65 "fm"]
       +
-      ~2~
-      +
-      , saturated absorption a
-      +
-      ~1~
-      +
-      component, R(36) 32-0 transition; The values
-      +
-      __f__
-      +
-      ~a1~
-      +
-       = stem:[564 074 632.42 "MHz"]
-      +
-      __λ__
-      +
-      ~a1~
-      +
-       = 531 476 582.65 fm
-      +
-      with an estimated relative standard uncertainty of 1 × 10
-      +
-      ^−10^
-      +
-      apply to the radiation of a frequency-doubled diode DFB laser, stabilized with an iodine cell external to the laser;
+      with an estimated relative standard uncertainty of 1 × 10^−10^ apply to the radiation of a frequency-doubled diode DFB laser, stabilized with an iodine cell external to the laser;
       * +
-      * absorbing atom
+      * absorbing atom ^87^Rb 5S~1/2~ - 5P~3/2~ crossover between the d and f hyperfine components of the saturated absorption at 780 nm (D2 transition); The values
       +
-      ^87^
+      stem:[f]~d/f crossover~ = stem:[384 227 981.9 "MHz"]
       +
-      Rb 5S
+      __λ__~d/f crossover~ = stem:[780 246 291.6 "fm"]
       +
-      ~1/2~
-      +
-      - 5P
-      +
-      ~3/2~
-      +
-      crossover between the d and f hyperfine components of the saturated absorption at 780 nm (D2 transition); The values
-      +
-      __f__
-      +
-      ~d/f crossover~
-      +
-       = stem:[384 227 981.9 "MHz"]
-      +
-      __λ__
-      +
-      ~d/f crossover~
-      +
-       = 780 246 291.6 fm
-      +
-      with an estimated relative standard uncertainty of 5 × 10
-      +
-      ^−10^
-      +
-      apply to the radiation of a tunable External Cavity Diode Laser, stabilized to the d/f crossover in a rubidium cell external to the laser;
+      with an estimated relative standard uncertainty of 5 × 10^−10^ apply to the radiation of a tunable External Cavity Diode Laser, stabilized to the d/f crossover in a rubidium cell external to the laser;
 
       Note: The value of the standard uncertainty is assumed to correspond to a confidence level of 68 %. However, given the limited availability of data there is a possibility that in hindsight this might not prove to be exact.
   - type: asks
@@ -425,21 +89,21 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2015-09-18'
-    message: |-
-      *considering that*
-
-      * the task of the BIPM is to ensure world-wide uniformity of measurements and their traceability to the International System of Units (SI),
-      * two GNSS already exist and others are under development,
-      * at least two additional GNSS - BeiDou and Galileo - currently offer or are close to offering services,
-      * Section 5 of BIPM
-      +
-      _Circular T_
-      +
-      publishes the relationship between UTC/TAI and the predictions of UTC(
-      +
-      stem:[k]
-      +
-      ) disseminated by GPS and GLONASS;
+    message: considering that the task of the BIPM is to ensure world-wide uniformity
+      of measurements and their traceability to the International System of Units
+      (SI),
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering that two GNSS already exist and others are under development,
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering that at least two additional GNSS - BeiDou and Galileo -
+      currently offer or are close to offering services,
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering that Section 5 of BIPM _Circular T_ publishes the relationship
+      between UTC/TAI and the predictions of stem:["UTC" (k)] disseminated by GPS
+      and GLONASS;
   actions:
   - type: recommends
     date_effective: '2015-09-18'
@@ -561,19 +225,13 @@ resolutions:
       Navigation Satellite Systems (GNSS) observations from the different constellations;
   - type: noting
     date_effective: '2015-09-18'
-    message: |-
-      *noting that*
-
-      * an extension of the CGGTTS format has been defined under the name V2E so as to include the time transfer results from the GPS, GLONASS, BeiDou, Galileo and QZSS satellites,
-      * the complete description of the V2E standard has been made publicly available in
-      +
-      _Metrologia_
-      +
-      2015
-      +
-      *52*
-      +
-      G1;
+    message: noting that an extension of the CGGTTS format has been defined under
+      the name V2E so as to include the time transfer results from the GPS, GLONASS,
+      BeiDou, Galileo and QZSS satellites,
+  - type: noting
+    date_effective: '2015-09-18'
+    message: noting that the complete description of the V2E standard has been made
+      publicly available in _Metrologia_ 2015 *52* G1;
   actions:
   - type: recommends
     date_effective: '2015-09-18'
@@ -664,18 +322,34 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2015-09-18'
-    message: |-
-      *considering*
-
-      * that some optical frequency standards have already demonstrated fractional uncertainties in the low 10
-      +
-      ^-18^
-      +
-      and that the reduction in the uncertainty and instability of optical frequency standards developed in institutes around the world will continue,
-      * that long-distance comparison with optical fibre links has been demonstrated with a stability and uncertainty that is compatible with the best present and future optical frequency standards,
-      * the need for regular comparisons between these standards as an essential part of the preparation for a redefinition of the second and for other applications such as contributions to time scales, that the stabilities of time and frequency transfer techniques currently and routinely used for comparisons around the world, i.e. for the production of International Atomic Time (TAI), are insufficient for comparisons between the best optical frequency standards,
-      * the growing interest of the Earth science and geodesy scientific communities for chronometric geodesy, i.e. new applications of optical frequency standards for determining gravitational potential differences and improving Earth gravity models and reference systems with these measurements,
-      * the growing needs of industry for improving time and frequency capabilities using better transfer methods, in particular in the telecommunication and aerospace sectors,
+    message: considering that some optical frequency standards have already demonstrated
+      fractional uncertainties in the low stem:[10^(-18)] and that the reduction in
+      the uncertainty and instability of optical frequency standards developed in
+      institutes around the world will continue,
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering that long-distance comparison with optical fibre links has
+      been demonstrated with a stability and uncertainty that is compatible with the
+      best present and future optical frequency standards,
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering the need for regular comparisons between these standards
+      as an essential part of the preparation for a redefinition of the second and
+      for other applications such as contributions to time scales, that the stabilities
+      of time and frequency transfer techniques currently and routinely used for comparisons
+      around the world, i.e. for the production of International Atomic Time (TAI),
+      are insufficient for comparisons between the best optical frequency standards,
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering the growing interest of the Earth science and geodesy scientific
+      communities for chronometric geodesy, i.e. new applications of optical frequency
+      standards for determining gravitational potential differences and improving
+      Earth gravity models and reference systems with these measurements,
+  - type: considering
+    date_effective: '2015-09-18'
+    message: considering the growing needs of industry for improving time and frequency
+      capabilities using better transfer methods, in particular in the telecommunication
+      and aerospace sectors,
   actions:
   - type: recommends
     date_effective: '2015-09-18'
@@ -684,11 +358,9 @@ resolutions:
 
       * National metrology institutes (NMIs), optical fibre network providers, space agencies, national governments, regional metrology organizations (RMOs), International Telecommunication Union (ITU) and other relevant bodies:
       +
-
       ** vigorously support research and development of time and frequency transfer techniques matching the stability and uncertainty of the most advanced frequency standards. These techniques may include optical fibre links, advanced satellite microwave links, optical ground-to-space and space-to-space links and transportable frequency standards, and advanced space clocks,
       ** help secure sustainable infrastructure of selected continental and intercontinental links forming a global time and frequency metrology backbone for these novel technologies,
       ** make provisions for these novel technologies to be transferred with the relevant accuracy to other fields of science, industry and society,
-
       * the BIPM participates actively in these developments, notably by making preparations for exploiting, in time scale realization, clock comparison data issued from new time and frequency transfer methods,
       * those laboratories contributing to UTC and performing continuous time comparisons via fibre links regularly submit their results to the BIPM Time Department.
   doi: 10.59161/CCTF2015REC6E

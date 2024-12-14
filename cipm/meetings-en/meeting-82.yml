@@ -22,21 +22,22 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1993-09-23'
-    message: |-
-      _considering_
-
-      * that the accuracy of an increasing number of primary frequency standards is now approaching the level of one part in 10
-      +
-      ^14^
-      +
-      ,
-      * that new configurations of primary frequency standards have been proposed that appear to have a high potential for accuracy,
-      * that at a level of accuracy of one part in 10
-      +
-      ^14^
-      +
-      or higher certain corrections must be made that were previously considered insignificant or not sufficiently weIl known,
-      * that an essential step in establishing confidence in the accuracy of primary standards is the international comparison of independent standards of different designs,
+    message: considering that the accuracy of an increasing number of primary frequency
+      standards is now approaching the level of one part in stem:[10^(14)],
+  - type: considering
+    date_effective: '1993-09-23'
+    message: considering that new configurations of primary frequency standards have
+      been proposed that appear to have a high potential for accuracy,
+  - type: considering
+    date_effective: '1993-09-23'
+    message: considering that at a level of accuracy of one part in stem:[10^(14)]
+      or higher certain corrections must be made that were previously considered insignificant
+      or not sufficiently weIl known,
+  - type: considering
+    date_effective: '1993-09-23'
+    message: considering that an essential step in establishing confidence in the
+      accuracy of primary standards is the international comparison of independent
+      standards of different designs,
   actions:
   - type: recommends
     date_effective: '1993-09-23'

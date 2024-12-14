@@ -5,4 +5,94 @@ metadata:
   date: '2024-09-25'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcrb/48-2024
-resolutions: []
+resolutions:
+- dates:
+  - '2024-09-25'
+  subject: JCRB
+  type: action
+  title: Action JCRB/48-1 (2024)
+  identifier: 48-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/48-2024
+  categories:
+  - KCDB
+  - CMCs
+  considerations: []
+  actions:
+  - type: thanks / expresses-appreciation
+    date_effective: '2024-09-25'
+    message: The JCRB supported the request from EURAMET to provide open-access to
+      information about the confirmation of CMCs including the technical evidence
+      used and the dates of confirmation. The JCRB requested EURAMET to develop a
+      detailed proposal including an outline timetable for implementation for consideration
+      at the 49th JCRB.
+- dates:
+  - '2024-09-25'
+  subject: JCRB
+  type: action
+  title: Action JCRB/48-2 (2024)
+  identifier: 48-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/48-2024
+  categories:
+  - Comparisons
+  considerations:
+  - type: noting
+    date_effective: '2024-09-25'
+    message: The JCRB Executive Secretary was requested to send a list of comparisons
+      older than 5 years to the CCs and RMOs that are overseeing them. The JCRB requests
+      the CCs and RMOs to review the status of each of their comparisons in this category
+      and to report to the 49th meeting of the JCRB on the cause of the delays and
+      the actions they will take to address the delays.
+  actions: []
+- dates:
+  - '2024-09-25'
+  subject: JCRB
+  type: action
+  title: Action JCRB/48-3 (2024)
+  identifier: 48-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/48-2024
+  categories:
+  - Guidance documents
+  - CMCs
+  - Designated institutes
+  considerations:
+  - type: noting
+    date_effective: '2024-09-25'
+    message: |-
+      The JCRB noted two forms developed by the JCRB Executive Secretary. The JCRB requests RMOs:
+
+      * to encourage CMC Writers to make use of the CMC checklist before submitting CMC claims for Intra-Regional review.
+      * to use the revised form for the nomination of Designated Institutes.
+  actions: []
+- dates:
+  - '2024-09-25'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/48-1 (2024)
+  identifier: 48-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/48-2024
+  categories:
+  - CMC review
+  - CIPM MRA
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-09-25'
+    message: The JCRB approved the inclusion of a note at the end of section 5.2 of
+      document CIPM MRA-G-13 addressing the automatic 3-week extension when RMO stem:["TC"]/WG
+      Chairs do not declare interest on the KCDB web platform and/or relinquish their
+      right to review a CMC.
+- dates:
+  - '2024-09-25'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/48-2 (2024)
+  identifier: 48-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/48-2024
+  categories:
+  - JCRB
+  considerations: []
+  actions:
+  - type: welcomes
+    date_effective: '2024-09-25'
+    message: The JCRB welcomed the invitation from the COOMET region to hold the 49th
+      meeting in week 39 (beginning 22nd September ) of 2025 in Tashkent, Uzbekistan.

@@ -41,7 +41,7 @@ resolutions:
   - type: recommends
     date_effective: '2004-04-02'
     message: |-
-      *recommande* que la transition quantique hyperfine non perturbée de l’état fondamental du ^87^Rb pourrait servir de représentation secondaire de la seconde, à la fréquence de __f__~Rb~ = stem:[6 834 682 610","904 324 "Hz"], avec une incertitude-type relative estimée (1 _σ_) de 3 × 10^−15^,
+      *recommande* que la transition quantique hyperfine non perturbée de l’état fondamental du ^87^Rb pourrait servir de représentation secondaire de la seconde, à la fréquence de stem:[f_(Rb) = 6 834 682 610","904 324 "Hz"], avec une incertitude-type relative estimée (1 _σ_) de 3 × 10^−15^,
 
       et *reconnaît* que plusieurs étalons de fréquence optique ont été examinés par ce groupe de travail. Bien qu’aucun d’entre eux ne soit recommandé pour le moment, le groupe
   doi: 10.59161/CCTF2005REC1F

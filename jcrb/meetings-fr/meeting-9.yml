@@ -6,4 +6,396 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
 pdf: https://www.bipm.org/documents/20126/41050075/JCRB9.pdf/b0cafdb0-8142-050d-3876-1ca2b3da1ec1
-resolutions: []
+resolutions:
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-1 (2002)
+  identifier: 9-1
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: In order to ensure appropriate BIPM representation, RMO Representatives
+      are to send a yearly calendar of RMO activities to the JCRB Exec Secretary,
+      highlighting meetings at which attendance by senior BIPM staff is requested.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-2 (2002)
+  identifier: 9-2
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Service categories
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: RMO-JCRB Representatives are to request that RMO stem:["TC"]/WG Chairs
+      contact the KCDB Coordinator when changes are necessary to service categories
+      so that this can be done in a coordinated way across all RMOs.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-3 (2002)
+  identifier: 9-3
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Meetings
+  - RMO
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2002-10-04'
+    message: The JCRB recommends that RMO stem:["TC"]/WG Chairs meet regularly at
+      least once per year, including scheduling a meeting in association with CC meetings.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-4 (2002)
+  identifier: 9-4
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2002-10-04'
+    message: The JCRB recommends the formation of separate Working Groups on CMCs
+      within each CC2 with the main objective of facilitating the review of CMCs.
+      All RMOs are to be represented within these Working Groups, even if they are
+      not members of the CC - the Chairs of the relevant RMO Technical Committees/Working
+      Groups are to have automatic membership on these Working Groups.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-5 (2002)
+  identifier: 9-5
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - RMO
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: APMP is to provide an updated RMO report to the Executive Secretary.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-6 (2002)
+  identifier: 9-6
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - RMO
+  - JCRB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: SIM is to provide an updated RMO report to the Executive Secretary.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-7 (2002)
+  identifier: 9-7
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - JCRB
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: RMO-JCRB Representatives to ensure that RMO stem:["TC"]/WG Chairs are
+      informed about the stem:["TC"]/WG section of the JCRB website and to provide
+      feedback on improvements to this and to the new features provided to facilitate
+      the CMC review process.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-8 (2002)
+  identifier: 9-8
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - QMS
+  considerations: []
+  actions: []
+  x-unparsed:
+  - JCRB members to provide views to Dr Hetherington on how information regarding
+    NMIs' approaches to Clause 7.3 should be made available on the BIPM website.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-9 (2002)
+  identifier: 9-9
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: Exec Secretary to provide more reminders regarding CMC review deadlines
+      as appropriate.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-10 (2002)
+  identifier: 9-10
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: urges
+    date_effective: '2002-10-04'
+    message: The JCRB strongly urges the EUROMET and APMP representatives to the JCRB
+      to work together to resolve the issues relating to Thailand's E&M CMCs.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-11 (2002)
+  identifier: 9-11
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: RMOs must provide a one or two page summary of the intra-regional review
+      report, providing an evaluation of how well the 9 criteria in Document JCRB-8/13(1b)
+      have been addressed with each submission of CMCs for inter-regional review.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-12 (2002)
+  identifier: 9-12
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - QMS
+  - International organizations
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: The Chairman will write to IAEA encouraging it, once it has established
+      its Quality System, to consider having it evaluated through one of the RMO QS
+      processes. The letter will inform the Agency that EUROMET is willing for it
+      to participate in its QS Forum process. In the meantime the JCRB approves the
+      requested deadline by which the Agency will have established its Quality System.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-13 (2002)
+  identifier: 9-13
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - CMCs
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: JCRB Committee members are to review the Draft Terms of Reference for
+      the Working Groups on CMCs (Document JCRB-9/8[4-rev]) and provide final comments
+      to the Exec Secretary by 25 November 2002.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-14 (2002)
+  identifier: 9-14
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Comparaisons
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: RMO-JCRB Representatives are to send the template for registration of
+      CIPM and RMO key, supplementary and bilateral comparisons to their RMO stem:["TC"]/WG
+      Chairs for information.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-15 (2002)
+  identifier: 9-15
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Comparaisons
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: RMO-JCRB Representatives are to refer RMO stem:["TC"]/WG experts to the
+      discussion under Agenda Item 9.2 in the Report of the 9th JCRB Meeting regarding
+      the responsibility for taking action when key comparisons results impact upon
+      published CMC claims.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-16 (2002)
+  identifier: 9-16
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Comparaisons
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: The JCRB Exec Secretary is to create a new document which collates references
+      to all other procedural documents regarding key, supplementary and bilateral
+      comparisons and other relevant information to facilitate access to existing
+      guidelines by RMO stem:["TC"]/WG experts.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-17 (2002)
+  identifier: 9-17
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Comparaisons
+  - RMO
+  considerations: []
+  actions: []
+  x-unparsed:
+  - RMO representatives to the JCRB are to encourage RMO TC/WG experts to refer to
+    the existing guidelines on comparison procedures, etc.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-18 (2002)
+  identifier: 9-18
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - ILAC
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Joint BIPM/ILAC Working Group (see Action 22) is to address the issue of consistency
+    between the CIPM and ILAC MRAs regarding the provision of details of NMI assessors.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-19 (2002)
+  identifier: 9-19
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - QMS
+  - Guidance documents
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Document JCRB-9/10(1_rev) is to be taken back by the JCRB-RMO representatives
+    for discussion within the RMOs. Comments are to be brought to the next JCRB meeting
+    so that the document can be finalised as a JCRB document at that time.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-20 (2002)
+  identifier: 9-20
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Comparaisons
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The Consultative Committees are to be asked to formally consider providing information
+    about the coverage of key comparison results, e.g., in relation to which CMCs
+    are supported by the results, etc.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-21 (2002)
+  identifier: 9-21
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Developing countries
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: JCRB-RMO Representatives to review the draft Terms of Reference of the
+      JCDCMAS and provide comments to the JCRB Exec Secretary.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-22 (2002)
+  identifier: 9-22
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - ILAC
+  - CIPM MRA
+  considerations: []
+  actions: []
+  x-unparsed:
+  - A Joint BIPM-ILAC Working Group will be established to resolve the issues raised
+    concerning coherence between the CIPM and ILAC MRAs. Prof Wallard is to to take
+    the lead in this, and each RMO is requested to nominate one representative to
+    provide the metrology representation. Prof Wallard is to determine a suitable
+    venue for the initial meeting at which the issues will be identified. The outcomes
+    are to be brought back to the next JCRB meeting.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-23 (2002)
+  identifier: 9-23
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - Uncertainty
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: The Director of BIPM is to re-consider the composition of the informal
+      advisory group on uncertainty analysis with a view to formalising and broadening
+      the membership.
+- dates:
+  - '2002-10-04'
+  subject: JCRB
+  type: action
+  title: Action JCRB/9-24 (2002)
+  identifier: 9-24
+  url: https://www.bipm.org/fr/committees/jc/jcrb/9-2002
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2002-10-04'
+    message: Dr Semerjian is to re-submit SIM's CMCs to the relevant external RMO
+      in the special case where only one external NMI from this RMO is in a position
+      to review them. He is to inform the external RMO of the JCRB guidelines that,
+      in this special case, only one review is undertaken of these CMCs.

@@ -5,4 +5,169 @@ metadata:
   date: '2024-03-20'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
-resolutions: []
+resolutions:
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-1 (2024)
+  identifier: 113-1
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - CIPM / Réunions
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-03-20'
+    message: approuve les procès-verbaux de la troisième partie de la 112^e^ session
+      du CIPM.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-2 (2024)
+  identifier: 113-2
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - BIPM / Règlement_interne
+  considerations:
+  - type: accepts
+    date_effective: '2024-03-20'
+    message: accepte la proposition d’amendement de l’article 10.2.1 (Clause de faisabilité
+      budgétaire) ainsi que celle de l’article 11.8.3 (Allocation d’éducation) du
+      Règlement du personnel.
+  actions: []
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-3 (2024)
+  identifier: 113-3
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - CCs et WGs
+  considerations:
+  - type: accepts
+    date_effective: '2024-03-20'
+    message: accepte le NIS (Égypte) comme observateur au sein du Comité consultatif
+      de l’acoustique, des ultrasons et des vibrations (CCAUV).
+  actions: []
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-4 (2024)
+  identifier: 113-4
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - BIPM / Règlement_interne
+  - BIPM / Finances
+  considerations: []
+  actions:
+  - type: welcomes
+    date_effective: '2024-03-20'
+    message: |-
+      accueille favorablement le rapport de la Commission consultative sur la Caisse de retraite (CCCR) du 8 décembre 2023, présentant les recommandations de la CCCR concernant la soutenabilité à long terme de la Caisse de retraite du BIPM.
+
+      À la suite des recommandations de la CCCR, le CIPM :
+
+      * approuve les conclusions et recommandations formulées dans l’étude actuarielle de 2023 et considère cette dernière comme une analyse d’experts valide ;
+      * demande au BIPM de conduire une étude globale de la gestion des actifs et des passifs de la Caisse de retraite afin que le CIPM puisse élaborer une stratégie d’investissement active fondée sur de meilleurs rendements financiers ;
+      * décide de conduire la prochaine étude actuarielle en 2028 afin de contrôler l’évolution des actifs et passifs de la Caisse de retraite et s’assurer de sa stabilité financière à long terme.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-5 (2024)
+  identifier: 113-5
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - SCs and WGs
+  - Transformation numérique
+  - CIPM / Sous-comités et Groupes_de_travail
+  considerations: []
+  actions:
+  - type: elects
+    date_effective: '2024-03-20'
+    message: nomme C. Denz présidente du Forum sur la métrologie et la transformation
+      numérique, confirme G. Macdonald -présidente, et nomme H. Laiz second vice-président.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-6 (2024)
+  identifier: 113-6
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - JCGM
+  considerations: []
+  actions:
+  - type: elects
+    date_effective: '2024-03-20'
+    message: nomme H.A. Frøystein pour représenter le BIPM au Comité commun pour les
+      guides en métrologie (JCGM).
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-7 (2024)
+  identifier: 113-7
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - General
+  considerations: []
+  actions:
+  - type: elects
+    date_effective: '2024-03-20'
+    message: nomme stem:["V"].G. Achanta pour représenter le BIPM à CODATA.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-8 (2024)
+  identifier: 113-8
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - CIPM / Sous-comités et Groupes_de_travail
+  considerations: []
+  actions:
+  - type: elects
+    date_effective: '2024-03-20'
+    message: |-
+      nomme les membres du CIPM suivants pour servir les Sous-comités du CIPM suivants :
+
+      * Sous-comité du CIPM sur les finances : J. Qu.
+      * Sous-comité du CIPM sur la stratégie - Adhésion universelle à la Convention du Mètre : H.A. Frøystein, J. Qu.
+      * Sous-comité du CIPM sur la stratégie - Vision : stem:["V"].G. Achanta (coordinateur), stem:["V"]. Coleman, C. Denz, J.-T. Janssen, G. Macdonald, M. Milton (directeur du BIPM), H. Laiz, J. Olthoff, M.L. Rastello, G. Rietveld.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-9 (2024)
+  identifier: 113-9
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - CCs et WGs
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-03-20'
+    message: décide de lancer un appel à manifestation d’intérêt concernant la présidence
+      du Comité consultatif des unités (CCU), l’objectif étant de nommer un nouveau
+      président pour juin 2024, et confirme que R. Brown (NPL) supervisera la mise
+      en œuvre des actions découlant de la réunion d’avril 2024.
+- dates:
+  - '2024-03-20'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-10 (2024)
+  identifier: 113-10
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_1-2024
+  categories:
+  - CGPM
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-03-20'
+    message: décide que la 28^e^ réunion de la CGPM se tiendra au cours de la semaine
+      commençant le 12 octobre 2026 et qu’elle sera organisée sur trois jours.

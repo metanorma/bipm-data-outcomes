@@ -126,16 +126,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2001-06-21'
-    message: |-
-      *considérant*
-
-      * que le Bureau international des poids et mesures (BIPM) établit le Temps atomique international (TAI) et, avec le Service international de la rotation terrestre (IERS), maintient le Temps universel coordonné (UTC), à partir des données horaires provenant de laboratoires de temps répartis dans le monde,
-      * qu’une notation spécifique internationale pour les échelles de temps est nécessaire afin d’éviter toute ambiguïté quant à leur traçabilité aux références de temps du BIPM,
-      * que la Recommandation UIT-R stem:["TF"].536-1 (1978, 1998) « Notations à utiliser pour désigner les échelles de temps » a établi la notation UTC(k) pour les échelles de temps réalisées par l’institution «
-      +
-      stem:[k]
-      +
-      » ;
+    message: considérant que le Bureau international des poids et mesures (BIPM) établit
+      le Temps atomique international (TAI) et, avec le Service international de la
+      rotation terrestre (IERS), maintient le Temps universel coordonné (UTC), à partir
+      des données horaires provenant de laboratoires de temps répartis dans le monde,
+  - type: considering
+    date_effective: '2001-06-21'
+    message: considérant qu’une notation spécifique internationale pour les échelles
+      de temps est nécessaire afin d’éviter toute ambiguïté quant à leur traçabilité
+      aux références de temps du BIPM,
+  - type: considering
+    date_effective: '2001-06-21'
+    message: considérant que la Recommandation UIT-R stem:["TF"].536-1 (1978, 1998)
+      « Notations à utiliser pour désigner les échelles de temps » a établi la notation
+      UTC(k) pour les échelles de temps réalisées par l’institution « stem:[k] » ;
   - type: noting
     date_effective: '2001-06-21'
     message: |-
@@ -143,39 +147,9 @@ resolutions:
 
       . Les institutions participant à l’établissement du TAI sont :
       +
-
       .. les laboratoires nationaux de métrologie et les laboratoires désignés qui participent à l’arrangement de reconnaissance mutuelle (MRA) du CIPM, et
       .. d’autres institutions et observatoires des États membres de la Convention du Mètre ainsi que des associés à la Conférence générale officiellement désignés pour maintenir des échelles de temps pour des applications scientifiques, astronomiques ou de navigation.
-
-      . Il est suggéré que TAI(
-      +
-      stem:[k]
-      +
-      ) soit défini comme
-      +
-      stem:[TAI]
-      +
-      (
-      +
-      stem:[k]
-      +
-      ) =
-      +
-      stem:[UTC]
-      +
-      (
-      +
-      stem:[k]
-      +
-      ) +
-      +
-      __DTAI__
-      +
-      , où
-      +
-      _DTAI_
-      +
-      est le nombre de secondes entières spécifié par l’IERS comme étant la différence entre l’UTC et le TAI.
+      . Il est suggéré que TAIstem:[(k)] soit défini comme stem:[TAI(k) = UTC(k)] + __DTAI__, où _DTAI_ est le nombre de secondes entières spécifié par l’IERS comme étant la différence entre l’UTC et le TAI.
   actions:
   - type: approves
     date_effective: '2001-06-21'

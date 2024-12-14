@@ -27,51 +27,13 @@ resolutions:
 
       considérant
 
-      * qu’une étude approfondie des résultats des déterminations les plus récentes conduit à une valeur de stem:[483 597","9 "GHz"/"V"] pour la constante de Josephson,
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      , c’est-à-dire pour le quotient de la fréquence par la tension correspondant au palier de rang
-      +
-      _n =_
-      +
-
-      +
-      1 dans l’effet Josephson,
-      * que l’effet Josephson, avec cette valeur de
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      , peut être utilisé pour établir un étalon de référence de force électromotrice dont l’incertitude (écart-type), par rapport au volt, est estimée à 4 × 10
-      +
-      ^-7^
-      +
-      en valeur relative et dont la reproductibilité est nettement meilleure,
+      * qu’une étude approfondie des résultats des déterminations les plus récentes conduit à une valeur de stem:[483 597","9 "GHz"/"V"] pour la constante de Josephson, stem:[K_("J")], c’est-à-dire pour le quotient de la fréquence par la tension correspondant au palier de rang _n =_ 1 dans l’effet Josephson,
+      * que l’effet Josephson, avec cette valeur de stem:[K_("J")], peut être utilisé pour établir un étalon de référence de force électromotrice dont l’incertitude (écart-type), par rapport au volt, est estimée à stem:[4 * 10^(-7)] en valeur relative et dont la reproductibilité est nettement meilleure,
 
       recommande
 
-      * que l’on adopte, par convention, pour la constante de Josephson,
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      , la valeur
-      +
-      __K__
-      +
-      ~J__‑__90~
-      +
-      = stem:[483 597","9 "GHz"/"V"] exactement,
-      * que cette nouvelle valeur soit utilisée à partir du 1
-      +
-      ^er^
-      +
-      janvier 1990, et non auparavant,
+      * que l’on adopte, par convention, pour la constante de Josephson, stem:[K_("J")], la valeur stem:[K]~J__‑__90~ = stem:[483 597","9 "GHz"/"V"] exactement,
+      * que cette nouvelle valeur soit utilisée à partir du 1^er^ janvier 1990, et non auparavant,
       +
       pour remplacer les valeurs actuellement en usage,
       * que cette nouvelle valeur soit utilisée à partir de cette même date par tous les laboratoires qui fondent sur l’effet Josephson leurs mesures de force électromotrice,
@@ -83,7 +45,7 @@ resolutions:
   actions: []
   doi: 10.59161/CIPM1988REC1F
   notes: La CGPM à sa 26^e^ réunion en 2018 (Résolution 1) a abrogé l’adoption d’une
-    valeur conventionnelle de __K__~stem:["J"]~.
+    valeur conventionnelle de stem:[K_("J")].
 - dates:
   - '1988-10-06'
   subject: CIPM
@@ -102,33 +64,25 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1988-10-06'
-    message: |-
-      *considérant*
-
-      * que la plupart des étalons actuels de référence de résistance électrique présentent au cours du temps des variations significatives,
-      * qu’un étalon de référence de résistance électrique fondé sur l’effet Hall quantique serait stable et reproductible,
-      * qu’une étude approfondie des résultats des déterminations les plus récentes conduit à une valeur de 25 812,807 Ω pour la constante de von Klitzing,
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      , c’est-à-dire pour le quotient de la tension de Hall par le courant correspondant au plateau de rang
-      +
-      stem:[i]
-      +
-      = 1 dans l’effet Hall quantique,
-      * que l’effet Hall quantique, avec cette valeur de
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      , peut être utilisé pour établir un étalon de référence de résistance dont l’incertitude (écart-type), par rapport à l’ohm, est estimée 2 × 10
-      +
-      ^-7^
-      +
-      en valeur relative et dont la reproductibilité est nettement meilleure,
+    message: considérant que la plupart des étalons actuels de référence de résistance
+      électrique présentent au cours du temps des variations significatives,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considérant qu’un étalon de référence de résistance électrique fondé
+      sur l’effet Hall quantique serait stable et reproductible,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considérant qu’une étude approfondie des résultats des déterminations
+      les plus récentes conduit à une valeur de 25 812,807 Ω pour la constante de
+      von Klitzing, stem:[R_("K")], c’est-à-dire pour le quotient de la tension de
+      Hall par le courant correspondant au plateau de rang stem:[i = 1] dans l’effet
+      Hall quantique,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considérant que l’effet Hall quantique, avec cette valeur de stem:[R_("K")],
+      peut être utilisé pour établir un étalon de référence de résistance dont l’incertitude
+      (écart-type), par rapport à l’ohm, est estimée stem:[2 * 10^(-7)] en valeur
+      relative et dont la reproductibilité est nettement meilleure,
   - type: considering
     date_effective: '1988-10-06'
     message: "*et estime* qu’aucun changement de cette valeur recommandée de la constante
@@ -136,36 +90,30 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '1988-10-06'
-    message: |-
-      *recommande*
-
-      * que l’on adopte par convention, pour la constante de von Klitzing,
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      , la valeur
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      = 25 812,807 Ω exactement,
-      * que cette valeur soit utilisée à partir du 1er janvier 1990, et non auparavant, par tous les laboratoires qui fondent sur l’effet Hall quantique leurs mesures de résistance électrique,
-      * qu’à partir de cette même date tous les autres laboratoires ajustent la valeur de leurs étalons de référence pour la mettre en accord avec
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      ,
-      * que, pour établir un étalon de référence de résistance électrique fondé sur l’effet Hall quantique, les laboratoires suivent les conseils pour la mise en œuvre de la résistance de Hall quantifiée élaborés par le Comité consultatif d’électricité et publiés par les soins du Bureau international des poids et mesures, dans leur édition la plus récente,
+    message: recommande que l’on adopte par convention, pour la constante de von Klitzing,
+      stem:[R_("K")], la valeur stem:[R_(K-90) = 25 812","807] Ω exactement,
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommande que cette valeur soit utilisée à partir du 1er janvier 1990,
+      et non auparavant, par tous les laboratoires qui fondent sur l’effet Hall quantique
+      leurs mesures de résistance électrique,
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommande qu’à partir de cette même date tous les autres laboratoires
+      ajustent la valeur de leurs étalons de référence pour la mettre en accord avec
+      stem:[R_(K-90)],
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommande que, pour établir un étalon de référence de résistance électrique
+      fondé sur l’effet Hall quantique, les laboratoires suivent les conseils pour
+      la mise en œuvre de la résistance de Hall quantifiée élaborés par le Comité
+      consultatif d’électricité et publiés par les soins du Bureau international des
+      poids et mesures, dans leur édition la plus récente,
   doi: 10.59161/CIPM1988REC2F
   notes: |-
     Lors de sa 89^e^ session en 2000, le CIPM a approuvé la déclaration de la 22^e^ session du CCEM concernant la valeur de la constante de von Klitzing.
 
-    La CGPM à sa 26^e^ réunion en 2018 (Résolution 1) a abrogé l’adoption d’une valeur conventionnelle de __K__~stem:["J"]~.
+    La CGPM à sa 26^e^ réunion en 2018 (Résolution 1) a abrogé l’adoption d’une valeur conventionnelle de stem:[K_("J")].
 - dates:
   - '1988-10-06'
   subject: CIPM

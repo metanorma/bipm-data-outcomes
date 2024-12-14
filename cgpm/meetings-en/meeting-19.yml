@@ -86,42 +86,19 @@ resolutions:
     date_effective: '1991-10-04'
     message: '*noting* the decisions made by the Comité International des Poids et
       Mesures in 1988, during its 77th Meeting concerning these adjustments, in particular
-      the conventional values __K__~J-90~ (equal to stem:[483 597","9 "GHz"/"V"])
-      and __R__~K-90~ (equal to 25 812,807 Ω) attributed to the Josephson constant
-      __K__~stem:["J"]~ and the von Klitzing constant __R__~stem:["K"]~ used in representations
+      the conventional values stem:[K_(J-90)] (equal to stem:[483 597","9 "GHz"/"V"])
+      and stem:[R_(K-90)] (equal to 25 812,807 Ω) attributed to the Josephson constant
+      stem:[K_("J")] and the von Klitzing constant stem:[R_("K")] used in representations
       of the volt and the ohm respectively,'
   actions:
   - type: recommends
     date_effective: '1991-10-04'
-    message: |-
-      *recommends*
-
-      * that national laboratories continue their efforts to reduce the uncertainty in the knowledge of the ratios
-      +
-      __K__
-      +
-      ~J-90~
-      +
-      /
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      and
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      /
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      ,
-      * that research be continued into the basic theory of the Josephson and quantum-Hall effects.
+    message: recommends that national laboratories continue their efforts to reduce
+      the uncertainty in the knowledge of the ratios stem:[K_(J-90)/K_("J")] and stem:[R_(K-90)/R_("K")],
+  - type: recommends
+    date_effective: '1991-10-04'
+    message: recommends that research be continued into the basic theory of the Josephson
+      and quantum-Hall effects.
   doi: 10.59161/CGPM1991RES2E
 - dates:
   - '1991-10-04'

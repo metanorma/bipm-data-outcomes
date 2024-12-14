@@ -21,17 +21,26 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2005-03-18'
-    message: |-
-      *considérant*
-
-      * la proposition récente d’établir, au moment de la 23
-      +
-      ^e^
-      +
-      Conférence générale en 2007, une nouvelle définition du kilogramme fondée sur une valeur fixée, soit pour la constante de Planck, soit pour la constante d’Avogadro,
-      * que la réalisation de la définition du kilogramme exprimée en ces termes impliquerait obligatoirement la disponibilité permanente d’expériences permettant de mesurer une masse en fonction de constantes fondamentales,
-      * les avantages qu’une telle définition apporterait à la communauté scientifique, liés à la réduction significative des incertitudes attachées aux valeurs, en unités SI, de nombreuses constantes fondamentales,
-      * qu’une nouvelle définition du kilogramme, fondée sur une valeur fixée pour la constante de Planck, combinée à une nouvelle définition de l’ampère fondée sur une valeur fixée de la charge électrique élémentaire, aurait d’autres avantages pour la communauté scientifique, en particulier pour la métrologie électrique,
+    message: considérant la proposition récente d’établir, au moment de la 23^e^ Conférence
+      générale en 2007, une nouvelle définition du kilogramme fondée sur une valeur
+      fixée, soit pour la constante de Planck, soit pour la constante d’Avogadro,
+  - type: considering
+    date_effective: '2005-03-18'
+    message: considérant que la réalisation de la définition du kilogramme exprimée
+      en ces termes impliquerait obligatoirement la disponibilité permanente d’expériences
+      permettant de mesurer une masse en fonction de constantes fondamentales,
+  - type: considering
+    date_effective: '2005-03-18'
+    message: considérant les avantages qu’une telle définition apporterait à la communauté
+      scientifique, liés à la réduction significative des incertitudes attachées aux
+      valeurs, en unités SI, de nombreuses constantes fondamentales,
+  - type: considering
+    date_effective: '2005-03-18'
+    message: considérant qu’une nouvelle définition du kilogramme, fondée sur une
+      valeur fixée pour la constante de Planck, combinée à une nouvelle définition
+      de l’ampère fondée sur une valeur fixée de la charge électrique élémentaire,
+      aurait d’autres avantages pour la communauté scientifique, en particulier pour
+      la métrologie électrique,
   - type: recalling / further recalling
     date_effective: '2005-03-18'
     message: "*rappelant* la Résolution 7 de la 21^e^ Conférence générale (1999) qui
@@ -50,20 +59,18 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2005-03-18'
-    message: |-
-      *recommande* que
-
-      * toute décision en vue d’une nouvelle définition du kilogramme soit reportée jusqu’à la 24
-      +
-      ^e^
-      +
-      Conférence générale en 2011,
-      * les laboratoires poursuivent leurs efforts pour fournir des données en vue de l’ajustement des valeurs des constantes fondamentales par CODATA en 2010, afin d’étayer une éventuelle nouvelle définition du kilogramme au moment de la 24
-      +
-      ^e^
-      +
-      Conférence générale,
-      * à cette occasion, on envisage de fixer simultanément la valeur de la constante de Planck et celle de la charge électrique élémentaire.
+    message: recommande que toute décision en vue d’une nouvelle définition du kilogramme
+      soit reportée jusqu’à la 24^e^ Conférence générale en 2011,
+  - type: recommends
+    date_effective: '2005-03-18'
+    message: recommande que les laboratoires poursuivent leurs efforts pour fournir
+      des données en vue de l’ajustement des valeurs des constantes fondamentales
+      par CODATA en 2010, afin d’étayer une éventuelle nouvelle définition du kilogramme
+      au moment de la 24^e^ Conférence générale,
+  - type: recommends
+    date_effective: '2005-03-18'
+    message: recommande que à cette occasion, on envisage de fixer simultanément la
+      valeur de la constante de Planck et celle de la charge électrique élémentaire.
   doi: 10.59161/CCEM2005REC1F
 working_documents:
 - title: CCEM/2005-27

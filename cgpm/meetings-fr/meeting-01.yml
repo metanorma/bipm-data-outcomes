@@ -65,25 +65,13 @@ resolutions:
       [type=A]
       . En ce qui concerne les prototypes internationaux :
       +
-
       .. Le Prototype du mètre choisi par le Comité international. Ce prototype représentera désormais, à la température de la glace fondante, l'unité métrique de longueur.
       .. Le Prototype du kilogramme adopté par le Comité international. Ce prototype sera considéré désormais comme unité de masse.
       .. L'échelle thermométrique centigrade à hydrogène par rapport à laquelle les équations des Mètres prototypes ont été établies.
-
       . En ce qui concerne les prototypes nationaux :
       +
-
-      .. Les mètres en platine iridié, dont les équations, par rapport au prototype international, sont renfermées dans la limite de 0,01 millimètre, avec une erreur probable ne dépassant pas
-      +
-      stem:[ +- ]
-      +
-      0,0002 millimètre.
-      .. Les kilogrammes en platine iridié, dont les équations sont renfermées dans la limite de 1 milligramme, avec une erreur probable ne dépassant pas
-      +
-      stem:[ +- ]
-      +
-      0,005 milligramme.
-
+      .. Les mètres en platine iridié, dont les équations, par rapport au prototype international, sont renfermées dans la limite de 0,01 millimètre, avec une erreur probable ne dépassant pas stem:[ +-  0","0002] millimètre.
+      .. Les kilogrammes en platine iridié, dont les équations sont renfermées dans la limite de 1 milligramme, avec une erreur probable ne dépassant pas stem:[ +-  0","005] milligramme.
       . En ce qui concerne les équations des prototypes nationaux :
       +
       Les équations des prototypes nationaux, telles qu'elles ont été déterminées au Bureau international, sous la direction du Comité international, et inscrites dans le Rapport de ce Comité et sur les certificats accompagnant ces prototypes.

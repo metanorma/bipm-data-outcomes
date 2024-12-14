@@ -231,20 +231,17 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1960-10-20'
-    message: |-
-      *decides*
-
-      . The metre is the length equal to 1 650 763,73 wavelengths in vacuum of the radiation corresponding to the transition between the levels 2p
-      +
-      ~10~
-      +
-      and 5d
-      +
-      ~5~
-      +
-      of the krypton 86 atom.
-      . The definition of the metre in force since 1889, based on the international Prototype of platinum-iridium, is abrogated.
-      . The international Prototype of the metre sanctioned by the 1st CGPM in 1889 shall be kept at the BIPM under the conditions specified in 1889.
+    message: decides The metre is the length equal to 1 650 763,73 wavelengths in
+      vacuum of the radiation corresponding to the transition between the levels 2p~10~
+      and 5d~5~ of the krypton 86 atom.
+  - type: decides
+    date_effective: '1960-10-20'
+    message: decides The definition of the metre in force since 1889, based on the
+      international Prototype of platinum-iridium, is abrogated.
+  - type: decides
+    date_effective: '1960-10-20'
+    message: decides The international Prototype of the metre sanctioned by the 1st
+      CGPM in 1889 shall be kept at the BIPM under the conditions specified in 1889.
   doi: 10.59161/CGPM1960RES6E
   notes: This definition was abrogated in 1983 by the 17th CGPM (Resolution 1).
 - dates:
@@ -274,11 +271,7 @@ resolutions:
     message: |-
       *invite* le Comité international
 
-      . à établir des instructions pour la mise en pratique de la nouvelle définition du mètre (
-      +
-      ^1^
-      +
-      ) ;
+      . à établir des instructions pour la mise en pratique de la nouvelle définition du mètre (^1^) ;
       . à choisir des étalons secondaires de longueur d'onde pour la mesure interférentielle des longueurs et à établir des instructions pour leur emploi ;
       . à poursuivre les études entreprises en vue d'améliorer les étalons de longueur.
 
@@ -431,10 +424,7 @@ resolutions:
       * Resolution 6 of the 10th CGPM, by which it adopted six base units on which to establish a practical system of measurement for international use:
       +
 
-
-
       +
-
       [cols="9,7,4"]
       |===
       | length | metre | stem:["m"]
@@ -446,7 +436,6 @@ resolutions:
       | luminous intensity | candela | stem:["cd"]
 
       |===
-
       * Resolution 3 adopted by the Comité International des Poids et Mesures (CIPM) in 1956,
       * [[para3]]
   actions:
@@ -460,10 +449,7 @@ resolutions:
       . names of multiples and submultiples of the units are formed by means of the following prefixes:
       +
 
-
-
       +
-
       [cols="13,13,21,13"]
       |===
       2+| Multiplying factor | Prefix | Symbol
@@ -476,9 +462,7 @@ resolutions:
       >| 10 | = stem:[10^(1)] | deca | da
 
       |===
-
       +
-
       [cols="13,13,21,13"]
       |===
       2+| Multiplying factor | Prefix | Symbol
@@ -491,7 +475,6 @@ resolutions:
       >| 0.000 000 000 001 | = stem:[10^(-12)] | pico | p
 
       |===
-
       . the units listed below are used in the system, without excluding others which might be added later.
   - type: declares
     date_effective: '1960-10-20'
@@ -534,11 +517,7 @@ resolutions:
     * Further prefixes were adopted by the 12th CGPM in 1964 (Resolution 8), the 15th CGPM in 1975 (Resolution 10), the 19th CGPM in 1991 (Resolution 4) and the 27th CGPM in 2022 (Resolution 3).
     * The 20th CGPM in 1995 abrogated the class of supplementary units in the SI (Resolution 8). These are now considered as derived units.
     * The 13th CGPM in 1967 (Resolution 6) specified other units which should be added to this list of derived units. In principle, the list is without limit.
-    * Modern practice is to use the phrase "amount of heat" rather than "quantity of heat", because the word
-    +
-    _quantity_
-    +
-    has a different meaning in metrology.
+    * Modern practice is to use the phrase "amount of heat" rather than "quantity of heat", because the word _quantity_ has a different meaning in metrology.
     * Modern practice is to use the phrase "amount of electricity" rather than "quantity of electrcity" (see above).
 - dates:
   - '1960-10-20'
@@ -555,15 +534,13 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1960-10-20'
-    message: |-
-      *considering*
-
-      * that the cubic decimetre and the litre are unequal and differ by about 28 parts in 10
-      +
-      ^6^
-      +
-      ,
-      * that determinations of physical quantities which involve measurements of volume are being made more and more accurately, thus increasing the risk of confusion between the cubic decimetre and the litre,
+    message: considering that the cubic decimetre and the litre are unequal and differ
+      by about 28 parts in stem:[10^(6)],
+  - type: considering
+    date_effective: '1960-10-20'
+    message: considering that determinations of physical quantities which involve
+      measurements of volume are being made more and more accurately, thus increasing
+      the risk of confusion between the cubic decimetre and the litre,
   actions:
   - type: requests
     date_effective: '1960-10-20'

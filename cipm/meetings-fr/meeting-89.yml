@@ -22,19 +22,17 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2000-10-20'
-    message: |-
-      *considérant*
-
-      * la Résolution 9 de la 21
-      +
-      ^e^
-      +
-      Conférence générale des poids et mesures laquelle invite le Comité international des poids et mesures à étudier une équation exprimant la variation de pression de fusion de
-      +
-      ^3^
-      +
-      He en fonction de la température thermodynamique qui puisse servir de base à une extension de l'Échelle internationale de température de 1990 (EIT-90) au-dessous de sa limite inférieure actuelle de stem:[0","65 "K"],
-      * que l’on est maintenant parvenu à un accord sur une échelle provisoire pour les basses températures (EPBT) situées entre stem:[0","9 "mK"] et stem:[1 "K"], l’EPBT-2000,
+    message: considérant la Résolution 9 de la 21^e^ Conférence générale des poids
+      et mesures laquelle invite le Comité international des poids et mesures à étudier
+      une équation exprimant la variation de pression de fusion de stem:[""_(3) "He"]
+      en fonction de la température thermodynamique qui puisse servir de base à une
+      extension de l'Échelle internationale de température de 1990 (EIT-90) au-dessous
+      de sa limite inférieure actuelle de stem:[0","65 "K"],
+  - type: considering
+    date_effective: '2000-10-20'
+    message: considérant que l’on est maintenant parvenu à un accord sur une échelle
+      provisoire pour les basses températures (EPBT) situées entre stem:[0","9 "mK"]
+      et stem:[1 "K"], l’EPBT-2000,
   actions:
   - type: recommends
     date_effective: '2000-10-20'

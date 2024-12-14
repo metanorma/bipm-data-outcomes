@@ -381,42 +381,45 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2003-10-17'
-    message: |-
-      *recalling* that
-
-      * the 21st General Conference in 1999 welcomed the adoption in 1997 by the International Committee of a revised
-      +
-      _mise en pratique_
-      +
-
-      +
-      of the definition of the metre, and
-      * the Conference also recommended that national laboratories pursue experimental and theoretical research on optical wavelength and frequency standards, including the development of new techniques for the comparison of different standards over a wide range of wavelength and frequency to improve yet further the experimental basis of the International System of Units (SI),
+    message: recalling that the 21st General Conference in 1999 welcomed the adoption
+      in 1997 by the International Committee of a revised _mise en pratique_ of the
+      definition of the metre, and
+  - type: recalling / further recalling
+    date_effective: '2003-10-17'
+    message: recalling that the Conference also recommended that national laboratories
+      pursue experimental and theoretical research on optical wavelength and frequency
+      standards, including the development of new techniques for the comparison of
+      different standards over a wide range of wavelength and frequency to improve
+      yet further the experimental basis of the International System of Units (SI),
   - type: considering
     date_effective: '2003-10-17'
-    message: |-
-      *considering* that
-
-      * new techniques based on trapped ions and atoms have opened up the possibility of highly accurate and stable optical clocks and frequency standards,
-      * these systems appear to have the potential for providing the basis for a future, improved, definition of the second,
-      * the introduction of femtosecond comb technology has considerably facilitated the absolute frequency measurement of optical radiation sources, including those sources used to realize the metre,
-      * the International Committee in 2002 updated the recommended values of a number of radiations published in the 1997
-      +
-      _mise en pratique_
-      +
-      and added values for several new radiations,
+    message: considering that new techniques based on trapped ions and atoms have
+      opened up the possibility of highly accurate and stable optical clocks and frequency
+      standards,
+  - type: considering
+    date_effective: '2003-10-17'
+    message: considering that these systems appear to have the potential for providing
+      the basis for a future, improved, definition of the second,
+  - type: considering
+    date_effective: '2003-10-17'
+    message: considering that the introduction of femtosecond comb technology has
+      considerably facilitated the absolute frequency measurement of optical radiation
+      sources, including those sources used to realize the metre,
+  - type: considering
+    date_effective: '2003-10-17'
+    message: considering that the International Committee in 2002 updated the recommended
+      values of a number of radiations published in the 1997 _mise en pratique_ and
+      added values for several new radiations,
   actions:
   - type: welcomes
     date_effective: '2003-10-17'
-    message: |-
-      *welcomes*
-
-      * the adoption of these new values and their subsequent
-      +
-      http://stacks.iop.org/met/40/103[publication in _Metrologia_]
-      +
-      in 2003, and
-      * the close collaboration and discussions between the length and time and frequency communities aimed at the eventual linking of optical and microwave frequency standards,
+    message: welcomes the adoption of these new values and their subsequent http://stacks.iop.org/met/40/103[publication
+      in _Metrologia_] in 2003, and
+  - type: welcomes
+    date_effective: '2003-10-17'
+    message: welcomes the close collaboration and discussions between the length and
+      time and frequency communities aimed at the eventual linking of optical and
+      microwave frequency standards,
   - type: recommends
     date_effective: '2003-10-17'
     message: "*recommends* that national laboratories continue to develop reliable

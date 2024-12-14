@@ -117,11 +117,9 @@ resolutions:
       * that in 1983 the 17th Conférence Générale des Poids et Mesures (CGPM) adopted a new definition of the metre;
       * that in the same year the CGPM invited the Comité International des Poids et Mesures (CIPM)
       +
-
       ** to draw up instructions for the practical realization of the metre;
       ** to choose radiations which can be recommended as standards of wave1ength for the interferometric measurement of length and draw up instructions for their use;
       ** to pursue studies undertaken to improve these standards and in due course to extend or revise these instructions;
-
       * that in response to this invitation CIPM made a number of Recommendations in 1983 concerning the practical realization of the metre (the 'mise en pratique');
   - type: considering
     date_effective: '1992-10-01'
@@ -152,7 +150,7 @@ resolutions:
 
       This list replaces the one published in __BIPM Proc.-Verb. Corn. Int. Poids et Mesures__, 1983,**51**, 25-28 and __Metrologia__, 1984, **19**, 165-166.
 
-      In this list, the values of the frequency stem:[f] and of the wavelength _λ_ should be related exactly by the relation _λ_ stem:[f] = __c__, with stem:[c = 299 792 458 "m"/"s"] but the values of _λ_ are rounded.
+      In this list, the values of the frequency stem:[f] and of the wavelength _λ_ should be related exactly by the relation _λ_ stem:[f = c], with stem:[c = 299 792 458 "m"/"s"] but the values of _λ_ are rounded.
 
       The data and analysis used for the compilation of this list are set out in the associated Appendix: Source Data for the List of Recommended Radiations, 1992 and its Annotated Bibliography*.
 
@@ -165,7 +163,7 @@ resolutions:
 
       1.1.1. The values +
       stem:[f = 88 376 181 600","18 "kHz"] +
-      _λ_ = 3 392 231 397,327 fm +
+      _λ_ = stem:[3 392 231 397","327 "fm"] +
       with an estimated relative standard uncertainty of stem:[3 * 10^(-12)] apply to the radiation of a He-Ne laser stabilized to the central component [(7-6) transition] of the resolved hyperfine-structure triplet, the mean of recoil splitting, for effectively stationary molecules, i.e. the values are corrected for second order Doppler shift.
 
       1.1.2. The values +
@@ -174,17 +172,7 @@ resolutions:
       with an estimated relative standard uncertainty of stem:[2","3 * 10^(-11)] apply to the radiation of a He-Ne laser stabilized to the centre of the unresolved hyperfine structure of a room temperature methane cell, within or external to the laser, subject to the following conditions:
 
       * methane pressure ≤ 3 Pa
-      * mean one-way axial intracavity surface power density
-      +
-      ^+^
-      +
-      ≤ 10
-      +
-      ^4^
-      +
-      stem:["W" * "m"]
-      +
-      ^-2^
+      * mean one-way axial intracavity surface power density^+^ ≤ stem:[10^(4) "W" * "m"^(-2)]
       * radius of wavefront curvature  ≥ stem:[1 "m"]
       * inequality of power between counter-propagating waves ≤ 5 %
       * detector placed at the output facing the laser tube.
@@ -195,21 +183,21 @@ resolutions:
 
       The values +
       stem:[f = 455 986 240","5 "MHz"] +
-      _λ_ = 657 459 439,3 fm +
+      _λ_ = stem:[657 459 439","3 "fm"] +
       with an estimated relative standard uncertainty of stem:[4","5 * 10^(-10)] apply to the radiation of a laser stabilized with a thermal atomic beam.
 
       1.3. Absorbing molecule ^127^I~2~, transition 8-5, P(10), component a~9~ (or stem:["g"]).
 
       The values +
       stem:[f = 468 218 332","4 "MHz"] +
-      _λ_ = 640 283 468,7 fm +
+      _λ_ = stem:[640 283 468","7 "fm"] +
       with an estimated relative standard uncertainty of stem:[4","5 * 10^(-10)] apply to the radiation of a He-Ne laser stabilized with an internal iodine cell having a cold finger temperature of stem:[(16  +-  1) "°C"] and a frequency modulation width, peak to peak, of stem:[(6  +-  1) "MHz"].
 
       1.4. Absorbing molecule ^127^I~2~, transition 11-5, R(127), component a~l3~ (or i).
 
       The values +
       stem:[f= 473 612 214 705 "kHz"] +
-      _λ_ = 632 991 398,22 fm +
+      _λ_ = stem:[632 991 398","22 "fm"] +
       with an estimated relative standard uncertainty of stem:[2","5 * 10^(-11)] apply to the radiation of a He-Ne laser with an internal iodine ceIl, subject to the conditions:
 
       * cell-wall temperature: stem:[(25  +-  5) "°C"]
@@ -223,28 +211,28 @@ resolutions:
 
       The values +
       stem:[f = 489 880 354","9 "MHz"] +
-      _λ_ = 611 970 770,0 fm +
+      _λ_ = stem:[611 970 770","0 "fm"] +
       with an estimated relative standard uncertainty of stem:[3 * 10^(-10)] apply to the radiation of a He-Ne laser stabilized with an iodine ceIl, within or external to the laser, having a cold finger temperature of (- stem:[5  +-  2]) °C.
 
       1.6. Absorbing molecule ^127^I~2~, transition 17-1, P(62), component a~1~.
 
       The values +
       stem:[f = 520 206 808","4 "MHz"] +
-      _λ_ = 576 294 760,4 fm +
+      _λ_ = stem:[576 294 760","4 "fm"] +
       with an estimated relative standard uncertainty of stem:[4 * 10^(-10)] apply to the radiation of a dye laser (or frequency-doubled He-Ne laser) stabilized with an iodine ceIl, within or external to the laser, having a cold-finger temperature of stem:[(6  +-  2)] °C.
 
       1.7. Absorbing molecule ^127^I~2~, transition 26-0, R(12), component a~9~
 
       The values +
       stem:[f = 551579482","96 "MHz"] +
-      _λ_ = 543516333,1 fm +
+      _λ_ = stem:[543516333","1 "fm"] +
       with an estimated relative standard uncertainty of stem:[2","5 * 10^(-10)] apply to the radiation of a frequency stabilized He-Ne laser with an external iodine cell having a cold-finger temperature of stem:[(0  +-  2)] °c.
 
       1.8. Absorbing molecule ^127^I~2~, transition 43-0, P(13), component a~3~ (or stem:["s"]).
 
       The values +
       stem:[f = 582 490 603","37 "MHz"] +
-      _λ_ = 514 673 466,4 fm +
+      _λ_ = stem:[514 673 466","4 "fm"] +
       with an estimated relative standard uncertainty of stem:[2","5 * 10^(-10)] apply to the radiation of an Ar^+^ laser stabilized with an iodine cell external to the laser, having a cold-finger temperature of (- stem:[5  +-  2]) °C.
 
       Note +
@@ -254,7 +242,7 @@ resolutions:
       2.1. Radiation corresponding to the transition between the levels 2p~lO~ and 5d~5~ of the atom of ^86^Kr.
 
       The value +
-      _λ_ = 605 780 210,3 fm +
+      _λ_ = stem:[605 780 210","3 "fm"] +
       with an estimated overall relative uncertainty of stem:[ +-  4 * 10^(-9)] [equivalent to three times the relative standard uncertainty of stem:[1","3 * 10^(-9)]] applies to the radiation emitted by a lamp operated under the conditions recommended by the CIPM (__BlPM Proc.-Verb. Corn. Int. Poids et Mesures__, 1960, **28**, 71-72 and __BlPM Comptes Rendus lle Conf. Gén. Poids et Mesures__, 1960, 85)].
 
       2.2. Radiations of atoms ^86^Kr, ^198^Hg and ^114^Cd recommended by the CIPM in 1963 (__BIPM Corn. Cons. Déf. Mètre__, 1962, **3**, 18-19 and __BIPM Proc. Verb. Com. Int. Poids et Mesures__, 1963, **52**, 26-27), with the indicated values for the wavelengths and the corresponding uncertainties.

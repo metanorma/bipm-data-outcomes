@@ -5,4 +5,308 @@ metadata:
   date: '2023-10-18'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
-resolutions: []
+resolutions:
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-26 (2023)
+  identifier: 112-26
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - CIPM / Meetings
+  considerations:
+  - type: accepts
+    date_effective: '2023-10-18'
+    message: accepted the minutes of Session II of the 112th meeting of the CIPM as
+      a true record.
+  actions: []
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-27 (2023)
+  identifier: 112-27
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - Finance
+  - BIPM / Finance
+  considerations:
+  - type: noting
+    date_effective: '2023-10-18'
+    message: noted that the Notification of the Contributive Parts due by Governments
+      of the High Contracting Parties for the maintenance of the International Bureau
+      of Weights and Measures and of Subscriptions due by Associate States and Economies
+      of the CGPM is published on or before 1st December of the year preceding its
+      application. The CIPM decided that the Notification should be published at that
+      time based on the best available information, taking into account the provisional
+      data for the UN Scale available for the following period, and the payment status
+      of Member States.
+  actions: []
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-28 (2023)
+  identifier: 112-28
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2023-10-18'
+    message: decided that the value of the point applicable to salaries be revised
+      on 1 January 2024, in accordance with Regulation 10.2 of the Regulations applicable
+      to BIPM staff members, by 5.3 %, which will allow the BIPM to meet its financial
+      obligations and essential operating requirements, while safeguarding the interests
+      of staff given the particularly high inflation rate in France.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-29 (2023)
+  identifier: 112-29
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2023-10-18'
+    message: decided that the value of the point applicable to pensions be revised
+      on 1 January 2024, in accordance with Rule 17.4 of the Rules of the Pension
+      and Provident Fund, by 5.3 %, which will allow the BIPM to meet its financial
+      obligations and long-term financial sustainability of the Pension Fund, while
+      safeguarding the interests of pensioners given the particularly high inflation
+      rate in France.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-30 (2023)
+  identifier: 112-30
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - BIPM / Finance
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2023-10-18'
+    message: decided that the budget for 2024 should follow the expenditure agreed
+      by the CGPM at its 27th meeting (2022) with updated values for the staff cost
+      and electricity cost as presented to the CIPM Sub-Committee on Finance and the
+      CIPM by the BIPM Director.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-31 (2023)
+  identifier: 112-31
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - BIPM / Finance
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2023-10-18'
+    message: Recalling Decisions CIPM/106-07 (2017), CIPM/109-12 (2020), CIPM/110-18
+      (2021) and CIPM/111-15 (2022) and following the recommendations from the CIPM
+      Sub‐Committee on Finance meeting held on 6 October 2023, the CIPM decided to
+      authorize a third exceptional transfer of 3 million euros of unreserved cash
+      to the Pension Fund, effective by the end of 2023.
+  actions: []
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-32 (2023)
+  identifier: 112-32
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - Internal rules
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-10-18'
+    message: approved edition 1.2 of the CIPM Rules of Procedure, with additional
+      amendments to improve gender neutrality. The CIPM requested the BIPM headquarters
+      staff to publish the amended CIPM Rules of Procedure and to update the Compendium
+      accordingly.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-33 (2023)
+  identifier: 112-33
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - CIPM / SCs and WGs
+  - CIPM / Membership
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-10-18'
+    message: agreed that A. Steele will continue to represent the BIPM at CODATA.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-34 (2023)
+  identifier: 112-34
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - CCs and WGs
+  considerations: []
+  actions:
+  - type: thanks / expresses-appreciation
+    date_effective: '2023-10-18'
+    message: expressed its appreciation for the work carried out by P. Richard, the
+      outgoing President of the Consultative Committee for Mass and Related Quantities
+      (CCM), and appointed G. Macdonald as CCM President.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-35 (2023)
+  identifier: 112-35
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - CCs and WGs
+  considerations: []
+  actions:
+  - type: thanks / expresses-appreciation
+    date_effective: '2023-10-18'
+    message: expressed its appreciation for the work carried out by Y. Duan the outgoing
+      President of the Consultative Committee for Thermometry (CCT), and appointed
+      D. del Campo Maldonado as CCT President.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-36 (2023)
+  identifier: 112-36
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - CCs and WGs
+  considerations:
+  - type: noting
+    date_effective: '2023-10-18'
+    message: |-
+      noted that the President of the Consultative Committee for Units (CCU) will step down at Session I of the 113th meeting of the CIPM in March 2024. The CIPM expressed its appreciation for the work carried out by J. Ullrich as CCU President.
+
+      The CIPM decided to defer the election of the CCU President to its meeting in March 2024.
+
+      R. Brown (NPL) will be invited to chair the next CCU meeting in April 2024.
+  actions: []
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-37 (2023)
+  identifier: 112-37
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - BIPM / General
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-10-18'
+    message: acknowledged the excellent work done at the BIPM headquarters during
+      the period 2020-2022 and the successful organization of the 27th meeting of
+      the CGPM (2022) as a team and under the leadership of M. Milton as Director,
+      and approved his bonus for this period.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-38 (2023)
+  identifier: 112-38
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - SCs and WGs
+  - Digital transformation
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2023-10-18'
+    message: |-
+      approved CENAM (Mexico), INTI (Argentina), METAS (Switzerland), MSL (New Zealand), NIM (China), NIST (United States), NMIA (Australia), NPL (United Kingdom), NRC (Canada), PTB (Germany), VNIIMS (Russia) as Members of the Forum on Metrology and Digitalization.
+
+      The CIPM noted the expression of interest from other institutions and invited them to participate as Observers to the Forum.
+
+      The CIPM requested the BIPM Director to invite organizations from the international scientific and quality infrastructure, in particular Signatories of the __Joint Statement of Intent on the digital transformation in the international scientific and quality infrastructure__, to participate as Liaisons to the Forum on Metrology and Digitalization.
+
+      The CIPM invited J. Ullrich to Chair the first meeting of the Forum on Metrology and Digitalization and appointed G. Macdonald as Vice-Chair.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-39 (2023)
+  identifier: 112-39
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - Internal rules
+  - SCs and WGs
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: asks
+    date_effective: '2023-10-18'
+    message: asked the Chairs of the horizontal forums, the BIPM Director and others
+      as required, to draft rules and criteria for participation in the forums and
+      to update CIPM-D-01.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-40 (2023)
+  identifier: 112-40
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - SCs and WGs
+  - Digital transformation
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: elects
+    date_effective: '2023-10-18'
+    message: |-
+      nominated Bob Hanisch (NIST) and Louise Wright (NPL) to represent the BIPM on the programme committee of the International Conference on “FAIR data in the scientific and quality infrastructure” by the Signatories of the _Joint Statement of Intent on the digital transformation in the international scientific and quality infrastructure_ (JSI).
+
+      The CIPM welcomed the establishment of the Joint Statement Signatory Round Table to foster collaboration and exchanges between the Signatories of the JSI. Its scope extends beyond metrology and covers cross domain topics of relevance for the JSI Signatories.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-41 (2023)
+  identifier: 112-41
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - SCs and WGs
+  - Digital transformation
+  - CIPM / SCs and WGs
+  considerations: []
+  actions:
+  - type: thanks / expresses-appreciation
+    date_effective: '2023-10-18'
+    message: thanked the members of the CIPM Task Group on the SI Digital Framework
+      (TG-DIG) and those of the related Expert Group for their valuable contributions
+      and declared the Task Group closed.
+- dates:
+  - '2023-10-18'
+  subject: CIPM
+  type: decision
+  title: Decision CIPM/112-42 (2023)
+  identifier: 112-42
+  url: https://www.bipm.org/en/committees/ci/cipm/112-_3-2023
+  categories:
+  - Membership
+  - CIPM / Membership
+  considerations: []
+  actions: []
+  x-unparsed:
+  - expressed its condolences following the death of P. Neyezhmakov and acknowledged
+    the planned retirement of Y. Duan and J. Ullrich and thanked them for their service
+    to the CIPM. It decided to invite nominations from all Member States for the three
+    vacancies.

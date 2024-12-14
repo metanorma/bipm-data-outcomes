@@ -5,4 +5,162 @@ metadata:
   date: '2024-10-16'
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
-resolutions: []
+resolutions:
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-23 (2024)
+  identifier: 113-23
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - CIPM / Réunions
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-10-16'
+    message: approuve les procès-verbaux de la deuxième partie de la 113^e^ session
+      du CIPM.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-24 (2024)
+  identifier: 113-24
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finances
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-10-16'
+    message: décide que le budget pour 2025 doit être conforme au budget approuvé
+      par la CGPM à sa 27^e^ réunion (2022) concernant les dépenses, en mettant à
+      jour les montants relatifs aux coûts de personnel et d’électricité tels qu’ils
+      ont été présentés par le directeur du BIPM au Sous-comité du CIPM sur les finances
+      et au CIPM.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-25 (2024)
+  identifier: 113-25
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finances
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-10-16'
+    message: décide de réviser la valeur du point applicable aux traitements le 1^er^
+      janvier 2025, conformément à l’article 10.2 du Statut applicable aux membres
+      du personnel, en appliquant une augmentation de 2,5 %, ce qui permettra au BIPM
+      de faire face à ses obligations financières et à ses besoins de fonctionnement
+      essentiels tout en protégeant les intérêts du personnel, compte tenu du taux
+      d’inflation particulièrement élevé en France.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-26 (2024)
+  identifier: 113-26
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finances
+  considerations: []
+  actions:
+  - type: decides
+    date_effective: '2024-10-16'
+    message: décide de réviser la valeur du point applicable aux pensions le 1^er^
+      janvier 2025, conformément à l’article 17.4 du Règlement de la Caisse de retraite
+      et de prévoyance, en appliquant une augmentation de 2,5 %, ce qui permettra
+      au BIPM de faire face à ses obligations financières et d’assurer la soutenabilité
+      à long terme de la Caisse de retraite tout en protégeant les intérêts des retraités,
+      compte tenu du taux d’inflation particulièrement élevé en France.
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-27 (2024)
+  identifier: 113-27
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Finances
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2024-10-16'
+    message: Rappelant les Décisions CIPM/106-07 (2017), CIPM/109-12 (2020), CIPM/110-18
+      (2021), CIPM/111-15 (2022) et CIPM/112-31 (2023), et suite à la recommandation
+      du Sous-comité du CIPM sur les finances formulée lors de sa réunion du 12 juin
+      2024 après avoir examiné les réserves du BIPM, le CIPM décide d’autoriser un
+      quatrième transfert exceptionnel de trois millions d’euros des fonds non réservés
+      à la Caisse de retraite ; ce transfert sera réalisé avant la fin de 2024.
+  actions: []
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-28 (2024)
+  identifier: 113-28
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - Internal rules
+  considerations:
+  - type: recalling / further recalling
+    date_effective: '2024-10-16'
+    message: Rappelant les Décisions CIPM/110-08 (2021), CIPM/110-25 (2021), CIPM/112
+      32 (2023) et CIPM/113-18 (2024), le CIPM approuve la version 1.3 des Règles
+      de fonctionnement du CIPM (document CIPM Rules of procedure), qui amende la
+      Règle 27 afin de permettre à un représentant de la Commission des conditions
+      d’emploi du BIPM (CCE) d’assister en tant qu’observateur aux parties des sessions
+      du CIPM au cours desquelles sont examinées des propositions concernant les conditions
+      d’emploi. Le CIPM demande au personnel du siège du BIPM de publier cette version
+      amendée des Règles de fonctionnement du CIPM et de mettre à jour le Compendium
+      en conséquence.
+  actions: []
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-29 (2024)
+  identifier: 113-29
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - BIPM / Général
+  considerations:
+  - type: recognizing
+    date_effective: '2024-10-16'
+    message: |-
+      reconnaît _Metrologia_ comme la revue de prédilection pour rendre compte des progrès de la métrologie pure et appliquée au plus haut niveau, tels que les meilleurs travaux de recherche entrepris par les laboratoires nationaux de métrologie et menés sous les auspices des comités consultatifs et forums du CIPM.
+
+      Le CIPM demande aux comités consultatifs et forums de nommer chacun un ou plusieurs ambassadeurs de __Metrologia__, afin de renforcer leurs liens avec _Metrologia_ et d’identifier des sujets d’intérêt pour les numéros spéciaux.
+
+      Dans l’intérêt de la communauté de la métrologie, le CIPM demande au BIPM de poursuivre un modèle de publication en libre accès pour __Metrologia__, même si cela conduit à une perte de revenus pour le BIPM.
+
+      Le CIPM recommande de créer une entité séparée pour la publication des rapports de comparaison et demande au BIPM d’identifier et de mettre en place un mécanisme approprié à cet effet.
+  actions: []
+- dates:
+  - '2024-10-16'
+  subject: CIPM
+  type: decision
+  title: Décision CIPM/113-30 (2024)
+  identifier: 113-30
+  url: https://www.bipm.org/fr/committees/ci/cipm/113-_3-2024
+  categories:
+  - CCs et WGs
+  considerations: []
+  actions:
+  - type: approves
+    date_effective: '2024-10-16'
+    message: |-
+      approuve les changements suivants les changements suivants concernant la composition des Comités consultatifs :
+
+      CCL :
+
+      * INTI (Argentine) : membre
+      * RISE (Suède) : membre
+      * SCL (Hong-Kong, Chine) : observateur
+
+      CCT :
+
+      * INM (Colombie) : observateur

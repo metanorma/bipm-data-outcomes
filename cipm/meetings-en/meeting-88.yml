@@ -43,9 +43,7 @@ resolutions:
       * all global navigation satellite systems be designed so that it is possible to use their signals for time and frequency comparisons,
       * these systems broadcast, in addition to their own System Time (ST):
       +
-
       .. the time difference between ST and a real-time realization of UTC and TAI;
       .. a prediction of the time differences between ST and UTC and TAI,
-
       * manufacturers develop receivers and processing systems designed for time and frequency comparison purposes.
   doi: 10.59161/CIPM1999REC1E

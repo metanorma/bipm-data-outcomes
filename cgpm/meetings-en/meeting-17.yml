@@ -22,45 +22,62 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1983-10-21'
-    message: |-
-      *considering*
-
-      * that the present definition does not allow a sufficiently precise realization of the metre for all requirements,
-      * that progress made in the stabilization of lasers allows radiations to be obtained that are more reproducible and easier to use than the standard radiation emitted by a krypton 86 lamp,
-      * that progress made in the measurement of the frequency and wavelength of these radiations has resulted in concordant determinations of the speed of light whose accuracy is limited principally by the realization of the present definition of the metre,
-      * that wavelengths determined from frequency measurements and a given value for the speed of light have a reproducibility superior to that which can be obtained by comparison with the wavelength of the standard radiation of krypton 86,
-      * that there is an advantage, notably for astronomy and geodesy, in maintaining unchanged the value of the speed of light recommended in 1975 by the 15th CGPM in its Resolution 2 (
-      +
-      stem:[c]
-      +
-      = stem:[299 792 458 "m"/"s"]),
-      * that a new definition of the metre has been envisaged in various forms all of which have the effect of giving the speed of light an exact value, equal to the recommended value, and that this introduces no appreciable discontinuity into the unit of length, taking into account the relative uncertainty of stem:[ +-  4]
-      +
-      ´
-      +
-      10
-      +
-      ^-9^
-      +
-      of the best realizations of the present definition of the metre,
-      * that these various forms, making reference either to the path travelled by light in a specified time interval or to the wavelength of a radiation of measured or specified frequency, have been the object of consultations and deep discussions, have been recognized as being equivalent and that a consensus has emerged in favour of the first form,
-      * that the Comité Consultatif pour la Définition du Mètre (CCDM) is now in a position to give instructions for the practical realization of such a definition, instructions which could include the use of the orange radiation of krypton 86 used as standard up to now, and which may in due course be extended or revised,
+    message: considering that the present definition does not allow a sufficiently
+      precise realization of the metre for all requirements,
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that progress made in the stabilization of lasers allows
+      radiations to be obtained that are more reproducible and easier to use than
+      the standard radiation emitted by a krypton 86 lamp,
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that progress made in the measurement of the frequency and
+      wavelength of these radiations has resulted in concordant determinations of
+      the speed of light whose accuracy is limited principally by the realization
+      of the present definition of the metre,
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that wavelengths determined from frequency measurements and
+      a given value for the speed of light have a reproducibility superior to that
+      which can be obtained by comparison with the wavelength of the standard radiation
+      of krypton 86,
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that there is an advantage, notably for astronomy and geodesy,
+      in maintaining unchanged the value of the speed of light recommended in 1975
+      by the 15th CGPM in its Resolution 2 (stem:[c = 299 792 458 "m"/"s"]),
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that a new definition of the metre has been envisaged in
+      various forms all of which have the effect of giving the speed of light an exact
+      value, equal to the recommended value, and that this introduces no appreciable
+      discontinuity into the unit of length, taking into account the relative uncertainty
+      of stem:[ +-  4 * 10^(-9)] of the best realizations of the present definition
+      of the metre,
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that these various forms, making reference either to the
+      path travelled by light in a specified time interval or to the wavelength of
+      a radiation of measured or specified frequency, have been the object of consultations
+      and deep discussions, have been recognized as being equivalent and that a consensus
+      has emerged in favour of the first form,
+  - type: considering
+    date_effective: '1983-10-21'
+    message: considering that the Comité Consultatif pour la Définition du Mètre (CCDM)
+      is now in a position to give instructions for the practical realization of such
+      a definition, instructions which could include the use of the orange radiation
+      of krypton 86 used as standard up to now, and which may in due course be extended
+      or revised,
   actions:
   - type: decides
     date_effective: '1983-10-21'
-    message: |-
-      *decides*
-
-      . The metre is the length of the path travelled by light in vacuum during a time interval of 1/299 792 458 of a second.
-      . The definition of the metre in force since 1960, based upon the transition between the levels 2p
-      +
-      ~10~
-      +
-      and 5d
-      +
-      ~5~
-      +
-      of the atom of krypton 86, is abrogated.
+    message: decides The metre is the length of the path travelled by light in vacuum
+      during a time interval of 1/299 792 458 of a second.
+  - type: decides
+    date_effective: '1983-10-21'
+    message: decides The definition of the metre in force since 1960, based upon the
+      transition between the levels 2p~10~ and 5d~5~ of the atom of krypton 86, is
+      abrogated.
   doi: 10.59161/CGPM1983RES1E
   notes: |-
     The relative uncertainty given here corresponds to three standard deviations in the data considered. +

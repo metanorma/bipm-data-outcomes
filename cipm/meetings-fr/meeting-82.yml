@@ -22,21 +22,22 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1993-09-23'
-    message: |-
-      _considérant_
-
-      * que l'exactitude relative d'un nombre croissant d'étalons primaires de fréquence approche maintenant 1 × 10
-      +
-      ^-14^
-      +
-      ,
-      * que de nouvelles configurations ont été proposées qui semblent avoir des possibilités encore plus élevées en matière d'exactitude,
-      * qu'à un niveau d'exactitude de l'ordre de 1 × 10
-      +
-      ^-14^
-      +
-      ou mieux on doit tenir compte de corrections qui étaient jusqu'ici considérées comme non significatives ou comme insuffisamment connues,
-      * qu'une étape essentielle pour établir avec confiance l'exactitude des étalons primaires est de pouvoir comparer entre eux des étalons indépendants de construction différente,
+    message: considérant que l'exactitude relative d'un nombre croissant d'étalons
+      primaires de fréquence approche maintenant stem:[1 * 10^(-14)],
+  - type: considering
+    date_effective: '1993-09-23'
+    message: considérant que de nouvelles configurations ont été proposées qui semblent
+      avoir des possibilités encore plus élevées en matière d'exactitude,
+  - type: considering
+    date_effective: '1993-09-23'
+    message: considérant qu'à un niveau d'exactitude de l'ordre de stem:[1 * 10^(-14)]
+      ou mieux on doit tenir compte de corrections qui étaient jusqu'ici considérées
+      comme non significatives ou comme insuffisamment connues,
+  - type: considering
+    date_effective: '1993-09-23'
+    message: considérant qu'une étape essentielle pour établir avec confiance l'exactitude
+      des étalons primaires est de pouvoir comparer entre eux des étalons indépendants
+      de construction différente,
   actions:
   - type: recommends
     date_effective: '1993-09-23'

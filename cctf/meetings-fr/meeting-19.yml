@@ -37,477 +37,25 @@ resolutions:
 
       que les fréquences des transitions suivantes soient incluses ou mises à jour dans la liste des fréquences étalons recommandées :
 
-      * la transition optique non perturbée 3
-      +
-      __s__
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 3
-      +
-      __s__
-      +
-      3
-      +
-      __p__
-      +
-
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      de l'ion de
-      +
-      ^27^
-      +
-      Al
-      +
-      ^+^
-      +
-      , à la fréquence de
-      +
-      __f__
-      +
-      ~27Al+~
-      +
-      = stem:[1 121 015 393 207 857","3 "Hz"] avec une incertitude-type relative estimée de 1,9 × 10
-      +
-      ^−15^
-      +
-      .
+      * la transition optique non perturbée 3__s__^2^ ^1^S~0~ - 3__s__3__p__ ^3^P~0~ de l'ion de ^stem:[27^(Al)]+^, à la fréquence de stem:[f]~27Al+~ = stem:[1 121 015 393 207 857","3 "Hz"] avec une incertitude-type relative estimée de 1,9 × 10^−15^.
       +
       Il est recommandé que le CIPM approuve cette radiation comme représentation secondaire de la seconde ;
-      * la transition optique non perturbée 5
-      +
-      __d__
-      +
-      ^10^
-      +
-      6
-      +
-      __s__
-      +
-
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 5
-      +
-      __d__
-      +
-
-      +
-      ^9^
-      +
-      6
-      +
-      __s__
-      +
-      ^2^
-      +
-
-      +
-      ^2^
-      +
-      D
-      +
-      ~5/2~
-      +
-      de l'ion de
-      +
-      ^199^
-      +
-      Hg
-      +
-      ^+^
-      +
-      , à la fréquence de
-      +
-      __f__
-      +
-      ~199Hg+~
-      +
-      = stem:[1 064 721 609 899 145","3 "Hz"] avec une incertitude-type relative estimée de 1,9 × 10
-      +
-      ^−15^
-      +
-      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 6
-      +
-      __s__
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 6
-      +
-      __s__
-      +
-      6
-      +
-      __p__
-      +
-
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      de l'atome neutre de
-      +
-      ^199^
-      +
-      Hg, à la fréquence de
-      +
-      __f__
-      +
-      ~199Hg~
-      +
-      = stem:[1 128 575 290 808 162 "Hz"] avec une incertitude-type relative estimée de 1,7 × 10
-      +
-      ^−14^
-      +
-      ;
-      * la transition optique non perturbée 6
-      +
-      __s__
-      +
-
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 4
-      +
-      __f__
-      +
-
-      +
-      ^13^
-      +
-      6
-      +
-      __s__
-      +
-      ^2^
-      +
-
-      +
-      ^2^
-      +
-      stem:["F"]
-      +
-      ~7/2~
-      +
-      de l'ion de
-      +
-      ^171^
-      +
-      Yb
-      +
-      ^+^
-      +
-      , à la fréquence de
-      +
-      __f__
-      +
-      ~171Yb+~
-      +
-      (octupôle) = stem:[642 121 496 772 645","6 "Hz"] avec une incertitude-type relative estimée de 1,3 × 10
-      +
-      ^−15^
-      +
-      .
+      * la transition optique non perturbée 5__d__^10^6__s__ ^2^S~1/2~ - 5__d__ ^9^6__s__^2^ ^2^D~5/2~ de l'ion de ^stem:[199^(Hg)]+^, à la fréquence de stem:[f]~199Hg+~ = stem:[1 064 721 609 899 145","3 "Hz"] avec une incertitude-type relative estimée de 1,9 × 10^−15^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 6__s__^2^ ^1^S~0~ - 6__s__6__p__ ^3^P~0~ de l'atome neutre de ^199^Hg, à la fréquence de stem:[f]~199Hg~ = stem:[1 128 575 290 808 162 "Hz"] avec une incertitude-type relative estimée de 1,7 × 10^−14^ ;
+      * la transition optique non perturbée 6__s__ ^2^S~1/2~ - 4__f__ ^13^6__s__^2^ ^2^stem:["F"]~7/2~ de l'ion de ^stem:[171^(Yb)]+^, à la fréquence de stem:[f]~171Yb+~ (octupôle) = stem:[642 121 496 772 645","6 "Hz"] avec une incertitude-type relative estimée de 1,3 × 10^−15^.
       +
       Il est recommandé que le CIPM approuve cette radiation comme représentation secondaire de la seconde ;
-      * la transition optique non perturbée 6
-      +
-      __s__
-      +
-
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      (stem:["F" = 0], stem:["m"]
-      +
-      ~stem:["F"]~
-      +
-      = 0) - 5
-      +
-      __d__
-      +
-
-      +
-      ^2^
-      +
-      D
-      +
-      ~3/2~
-      +
-      (stem:["F" = 2], stem:["m"]
-      +
-      ~stem:["F"]~
-      +
-      = 0) de l'ion de
-      +
-      ^171^
-      +
-      Yb
-      +
-      ^+^
-      +
-      , à la fréquence de
-      +
-      __f__
-      +
-      ~171Yb+~
-      +
-      (quadripôle) = stem:[688 358 979 309 307","1 "Hz"] avec une incertitude-type relative estimée de 3 × 10
-      +
-      ^−15^
-      +
-      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 5
-      +
-      __s__
-      +
-
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 4
-      +
-      __d__
-      +
-
-      +
-      ^2^
-      +
-      D
-      +
-      ~5/2~
-      +
-      de l'ion de
-      +
-      ^88^
-      +
-      Sr
-      +
-      ^+^
-      +
-      , à la fréquence de
-      +
-      __f__
-      +
-      ~88Sr+~
-      +
-      = stem:[444 779 044 095 485","3 "Hz"] avec une incertitude-type relative estimée de 4,0 × 10
-      +
-      ^−15^
-      +
-      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 4
-      +
-      __s__
-      +
-
-      +
-      ^2^
-      +
-      S
-      +
-      ~1/2~
-      +
-      - 3
-      +
-      __d__
-      +
-
-      +
-      ^2^
-      +
-      D
-      +
-      ~5/2~
-      +
-      de l'ion de
-      +
-      ^40^
-      +
-      Ca
-      +
-      ^+^
-      +
-      , à la fréquence de
-      +
-      __f__
-      +
-      ~40Ca+~
-      +
-      = stem:[411 042 129 776 395 "Hz"] avec une incertitude-type relative estimée de 1,5 × 10
-      +
-      ^−14^
-      +
-      ;
-      * la transition optique non perturbée 1S - 2S de l'atome neutre de
-      +
-      ^1^
-      +
-      stem:["H"], à la fréquence de
-      +
-      __f__
-      +
-      ~1H~
-      +
-      = stem:[1 233 030 706 593 518 "Hz"] avec une incertitude-type relative estimée de 1,2 × 10
-      +
-      ^−14^
-      +
-      .
+      * la transition optique non perturbée 6__s__ ^2^S~1/2~ (stem:["F" = 0], stem:["m"_("F") = 0]) - 5__d__ ^2^D~3/2~ (stem:["F" = 2], stem:["m"_("F") = 0]) de l'ion de ^stem:[171^(Yb)]+^, à la fréquence de stem:[f]~171Yb+~ (quadripôle) = stem:[688 358 979 309 307","1 "Hz"] avec une incertitude-type relative estimée de 3 × 10^−15^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 5__s__ ^2^S~1/2~ - 4__d__ ^2^D~5/2~ de l'ion de ^stem:[88^(Sr)]+^, à la fréquence de stem:[f]~88Sr+~ = stem:[444 779 044 095 485","3 "Hz"] avec une incertitude-type relative estimée de 4,0 × 10^−15^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 4__s__ ^2^S~1/2~ - 3__d__ ^2^D~5/2~ de l'ion de ^stem:[40^(Ca)]+^, à la fréquence de stem:[f]~40Ca+~ = stem:[411 042 129 776 395 "Hz"] avec une incertitude-type relative estimée de 1,5 × 10^−14^ ;
+      * la transition optique non perturbée 1S - 2S de l'atome neutre de stem:[""_(1) "H"], à la fréquence de stem:[f_(1H) = 1 233 030 706 593 518 "Hz"] avec une incertitude-type relative estimée de 1,2 × 10^−14^.
       +
       Remarque : Cette fréquence correspond à la moitié de l’écart en énergie entre les états 1S et 2S ;
-      * la transition optique non perturbée 5
-      +
-      __s__
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 5
-      +
-      __s__
-      +
-      5
-      +
-      __p__
-      +
-
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      de l'atome neutre de
-      +
-      ^87^
-      +
-      Sr, à la fréquence de
-      +
-      __f__
-      +
-      ~87Sr~
-      +
-      = stem:[429 228 004 229 873","4 "Hz"] avec une incertitude-type relative estimée de 1 × 10
-      +
-      ^−15^
-      +
-      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
-      * la transition optique non perturbée 6
-      +
-      __s__
-      +
-      ^2^
-      +
-
-      +
-      ^1^
-      +
-      S
-      +
-      ~0~
-      +
-      - 6
-      +
-      __s__
-      +
-      6
-      +
-      __p__
-      +
-
-      +
-      ^3^
-      +
-      P
-      +
-      ~0~
-      +
-      de l'atome neutre de
-      +
-      ^171^
-      +
-      Yb, à la fréquence de
-      +
-      __f__
-      +
-      ~171Yb~
-      +
-      = stem:[518 295 836 590 865","0 "Hz"] vec une incertitude-type relative estimée de 2,7 × 10
-      +
-      ^−15^
-      +
-      .
+      * la transition optique non perturbée 5__s__^2^ ^1^S~0~ - 5__s__5__p__ ^3^P~0~ de l'atome neutre de ^87^Sr, à la fréquence de stem:[f_(87Sr) = 429 228 004 229 873","4 "Hz"] avec une incertitude-type relative estimée de 1 × 10^−15^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde) ;
+      * la transition optique non perturbée 6__s__^2^ ^1^S~0~ - 6__s__6__p__ ^3^P~0~ de l'atome neutre de ^171^Yb, à la fréquence de stem:[f]~171Yb~ = stem:[518 295 836 590 865","0 "Hz"] vec une incertitude-type relative estimée de 2,7 × 10^−15^.
       +
       Il est recommandé que le CIPM approuve cette radiation comme représentation secondaire de la seconde ;
-      * la transition quantique hyperfine non perturbée de l’état fondamental de l’atome de
-      +
-      ^87^
-      +
-      Rb, à la fréquence de
-      +
-      __f__
-      +
-      ~87Rb~
-      +
-      = stem:[6 834 682 610","904 312 "Hz"] avec une incertitude-type relative estimée de 1,3 × 10
-      +
-      ^−15^
-      +
-      (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde).
+      * la transition quantique hyperfine non perturbée de l’état fondamental de l’atome de ^87^Rb, à la fréquence de stem:[f_(87Rb) = 6 834 682 610","904 312 "Hz"] avec une incertitude-type relative estimée de 1,3 × 10^−15^ (cette radiation a déjà été approuvée par le CIPM comme représentation secondaire de la seconde).
 
       Remarque : La valeur de l'incertitude-type est supposée correspondre à un niveau de confiance de 68 %. Toutefois, étant donné le nombre très limité de résultats disponibles, il se peut que, rétrospectivement, cela ne s'avère pas exact.
   - type: requests
@@ -535,7 +83,6 @@ resolutions:
 
       * que le Bureau international des poids et mesures (BIPM) a amélioré de façon constante et par divers moyens la visibilité des informations qu’il fournit dans le domaine du temps et des fréquences, notamment en permettant leur téléchargement à partir du site internet du BIPM, ces informations comprenant :
       +
-
       ** les données horaires obtenues à partir d'étalons primaires et secondaires,
       ** les données opérationnelles de comparaisons de temps,
       ** les données de sauvegarde de comparaisons de temps,
@@ -545,7 +92,6 @@ resolutions:
       ** les produits intermédiaires nécessaires à la création des produits officiels du BIPM,
       ** les produits et données associés à des projets spécifiques, expérimentaux, et/ou non officiels, tels que le Temps universel coordonné rapide (UTCr),
       ** d’autres publications,
-
       * que ces informations sont fréquemment utilisées dans le cadre d'études, qu’elles soient officielles, non officielles, publiées, informelles ou pédagogiques,
       * que ces informations sont utilisées par les fabricants souhaitant évaluer et améliorer la qualité de leurs produits,
       * que la diffusion publique de ces informations est très utile à la communauté du temps et des fréquences, et qu’elle est essentielle pour améliorer le Temps universel coordonné (UTC),
@@ -591,24 +137,21 @@ resolutions:
       une fois par semaine,
   - type: noting
     date_effective: '2012-09-14'
-    message: |-
-      *notant*
-
-      * que le fait de contribuer à l'UTCr permet aux laboratoires du temps de mieux piloter leur réalisation locale UTC(
-      +
-      stem:[k]
-      +
-      ) sur l’échelle de référence UTC,
-      * que les membres du personnel du Département du temps du BIPM doivent continuer à assurer la publication mensuelle de la
-      +
-      _Circulaire T_
-      +
-      du BIPM, qui constitue le seul moyen d'établir la traçabilité des réalisations locales UTC(
-      +
-      stem:[k]
-      +
-      ) à l'UTC,
-      * que la production et la publication de l'UTCr, de façon régulière et dans les délais, imposent des contraintes de temps significatives aux membres du personnel du Département du temps du BIPM et requièrent un moyen de dissémination fiable,
+    message: notant que le fait de contribuer à l'UTCr permet aux laboratoires du
+      temps de mieux piloter leur réalisation locale stem:["UTC" (k)] sur l’échelle
+      de référence UTC,
+  - type: noting
+    date_effective: '2012-09-14'
+    message: notant que les membres du personnel du Département du temps du BIPM doivent
+      continuer à assurer la publication mensuelle de la _Circulaire T_ du BIPM, qui
+      constitue le seul moyen d'établir la traçabilité des réalisations locales stem:["UTC"
+      (k)] à l'UTC,
+  - type: noting
+    date_effective: '2012-09-14'
+    message: notant que la production et la publication de l'UTCr, de façon régulière
+      et dans les délais, imposent des contraintes de temps significatives aux membres
+      du personnel du Département du temps du BIPM et requièrent un moyen de dissémination
+      fiable,
   actions:
   - type: recommends
     date_effective: '2012-09-14'
@@ -696,18 +239,33 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '2012-09-14'
-    message: |-
-      *recommande*
-
-      * aux laboratoires participant au calcul de l'UTC de mettre à niveau leurs équipements afin de passer à des systèmes de réception multifréquences et multiconstellations permettant d’effectuer des mesures de code et des mesures de phase des porteuses,
-      * aux organismes mettant au point des logiciels pour les comparaisons de temps de mettre à niveau leurs solutions multirécepteurs et multiconstellations,
-      * au BIPM d’élaborer en collaboration avec les organisations régionales de métrologie des directives concernant l’étalonnage des nouveaux équipements multifréquences et multiconstellations,
-      * au BIPM de continuer à organiser et conduire, dans les laboratoires, des campagnes de mesure des retards de ces nouveaux équipements du GNSS, avec le soutien des organisations régionales de métrologie pour ce qui concerne les comparaisons régionales,
-      * à l'ensemble des laboratoires, et en particulier à ceux jouant un rôle unique dans le calcul du Temps atomique international (TAI) tels que les laboratoires pivots et ceux contribuant directement à la Section 5 de la
-      +
-      _Circulaire T_
-      +
-      du BIPM, de fournir des données obtenues à partir d'au moins trois récepteurs GNSS traçables à leur réalisation locale de l'UTC, ce qui permettrait de vérifier la stabilité des retards de leurs équipements.
+    message: recommande aux laboratoires participant au calcul de l'UTC de mettre
+      à niveau leurs équipements afin de passer à des systèmes de réception multifréquences
+      et multiconstellations permettant d’effectuer des mesures de code et des mesures
+      de phase des porteuses,
+  - type: recommends
+    date_effective: '2012-09-14'
+    message: recommande aux organismes mettant au point des logiciels pour les comparaisons
+      de temps de mettre à niveau leurs solutions multirécepteurs et multiconstellations,
+  - type: recommends
+    date_effective: '2012-09-14'
+    message: recommande au BIPM d’élaborer en collaboration avec les organisations
+      régionales de métrologie des directives concernant l’étalonnage des nouveaux
+      équipements multifréquences et multiconstellations,
+  - type: recommends
+    date_effective: '2012-09-14'
+    message: recommande au BIPM de continuer à organiser et conduire, dans les laboratoires,
+      des campagnes de mesure des retards de ces nouveaux équipements du GNSS, avec
+      le soutien des organisations régionales de métrologie pour ce qui concerne les
+      comparaisons régionales,
+  - type: recommends
+    date_effective: '2012-09-14'
+    message: recommande à l'ensemble des laboratoires, et en particulier à ceux jouant
+      un rôle unique dans le calcul du Temps atomique international (TAI) tels que
+      les laboratoires pivots et ceux contribuant directement à la Section 5 de la
+      _Circulaire T_ du BIPM, de fournir des données obtenues à partir d'au moins
+      trois récepteurs GNSS traçables à leur réalisation locale de l'UTC, ce qui permettrait
+      de vérifier la stabilité des retards de leurs équipements.
   doi: 10.59161/CCTF2012REC4F
 - dates:
   - '2012-09-14'
@@ -765,11 +323,9 @@ resolutions:
 
       * aux laboratoires nationaux de métrologie, aux fournisseurs de réseaux à fibre optique, aux agences spatiales, aux gouvernements nationaux, aux organisations régionales de métrologie, au Comité international des poids et mesures (CIPM), à l'Union internationale des télécommunications (UIT) et aux autres organismes concernés :
       +
-
       ** de poursuivre avec vigueur le déploiement des réseaux de comparaisons de temps et de fréquences par fibre optique à l'échelle continentale,
       ** d'encourager et de soutenir activement les travaux de recherche visant à améliorer de façon significative les comparaisons de temps et de fréquences sur des distances intercontinentales,
       ** de se consulter et de coordonner leurs actions afin d’accéder aux infrastructures nécessaires pour mettre en œuvre les nouvelles méthodes de comparaisons de temps et de fréquences, et afin d’identifier les synergies de ces infrastructures avec d'autres applications,
-
       * au BIPM de participer activement à ces avancées, notamment en préparant les données de comparaisons d'horloges effectuées à l’aide des nouvelles méthodes de comparaisons de temps et de fréquences afin que ces données puissent être utilisées pour la réalisation des échelles de temps.
   doi: 10.59161/CCTF2012REC5F
 - dates:
@@ -806,11 +362,7 @@ resolutions:
 
       . il est possible d'obtenir une échelle de temps continue : le BIPM réalise et maintient une telle échelle de temps,
       . l'UTC sans discontinuités dues à l’insertion de secondes intercalaires constitue une échelle de temps de référence continue,
-      . les concepts de continuité et d'uniformité doivent s’appliquer
-      +
-      strictement
-      +
-      aux échelles de temps de référence,
+      . les concepts de continuité et d'uniformité doivent s’appliquer strictement aux échelles de temps de référence,
       . l'unité d'une grandeur métrologique quelle qu’elle soit est unique, c'est pourquoi une échelle de temps spécifique devrait être unique,
       . lors de la redéfinition d’une grandeur métrologique, l’invariance de son unité doit être assurée ; en ce qui concerne la seconde du Système international d'unités (SI), l'échelle correspondante doit être continue et uniforme,
       . le terme « coordonné » dans « Temps universel coordonné » implique que les laboratoires nationaux de métrologie coordonnent leurs efforts pour l’établir, et ne se réfère en rien à la direction du Soleil par rapport à une position donnée à la surface de la Terre,

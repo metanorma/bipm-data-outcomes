@@ -102,11 +102,9 @@ resolutions:
 
       * that governments, industry, academia, and civil society have been working toward a comprehensive digital transformation for many years, and, in so doing, are:
       +
-
       ** establishing systems to collect, aggregate, analyse and interpret digital data,
       ** introducing networked sensor systems for diverse scientific and industrial applications,
       ** sharing data at local, national, regional and international levels,
-
       * the essential role of the International System of Units (SI) in providing confidence in the accuracy and global comparability of measurements needed for international trade, manufacturing, human health and safety, protection of the environment, global climate studies and scientific research,
   - type: acknowledging
     date_effective: '2022-11-18'
@@ -141,7 +139,6 @@ resolutions:
       * the CIPM to continue its outreach and engagement initiatives to ensure that the Metre Convention naturally extends its role as the globally accepted anchor of trust for metrology into the digital era,
       * the CIPM to undertake the development and promotion of an SI Digital Framework, that will include the following features:
       +
-
       ** a globally accepted digital representation of the SI, compatible with, and useable within, digital data exchange standards and protocols, whilst maintaining compatibility with existing non-digital solutions,
       ** facilitating use of digital certificates in the existing robust infrastructure for the world-wide recognition and acceptance of calibration and measurement capabilities,
       ** the adoption of the FAIR principles (Findable, Accessible, Interoperable, and Reusable) for digital metrological data and metadata, ensuring that other communities recognize the critical importance of metrological traceability for measurement data, the latter being an established requisite for building trust,
@@ -174,21 +171,23 @@ resolutions:
       (1991),"
   - type: considering
     date_effective: '2022-11-18'
-    message: |-
-      *considering*
-
-      * the essential role of the International System of Units (SI) in providing confidence in the accuracy and global comparability of measurements needed for international trade, manufacturing, human health and safety, protection of the environment, global climate studies and scientific research,
-      * the benefits of encouraging the use of SI units by providing new SI prefixes for scientific communities that depend on measurements that are not covered by the current range,
-      * the needs of data science in the near future to express quantities of digital information using orders of magnitude in excess of 10
-      +
-      ^24^
-      +
-      ,
-      * the importance of timely action to prevent unofficial prefix names being
-      +
-      _de facto_
-      +
-      adopted in other communities,
+    message: considering the essential role of the International System of Units (SI)
+      in providing confidence in the accuracy and global comparability of measurements
+      needed for international trade, manufacturing, human health and safety, protection
+      of the environment, global climate studies and scientific research,
+  - type: considering
+    date_effective: '2022-11-18'
+    message: considering the benefits of encouraging the use of SI units by providing
+      new SI prefixes for scientific communities that depend on measurements that
+      are not covered by the current range,
+  - type: considering
+    date_effective: '2022-11-18'
+    message: considering the needs of data science in the near future to express quantities
+      of digital information using orders of magnitude in excess of stem:[10^(24)],
+  - type: considering
+    date_effective: '2022-11-18'
+    message: considering the importance of timely action to prevent unofficial prefix
+      names being _de facto_ adopted in other communities,
   actions:
   - type: decides
     date_effective: '2022-11-18'
@@ -331,19 +330,18 @@ resolutions:
   considerations:
   - type: recalling / further recalling
     date_effective: '2022-11-18'
-    message: |-
-      *recalling* that
-
-      * the CGPM at its 13th meeting (1967) defined the second as “the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom”,
-      * the CGPM at its 26th meeting (2018) revised the definitions of the base units of the SI including the second, which it defined by taking the fixed numerical value of the caesium frequency stem:[ sf Delta  nu ]
-      +
-      ~Cs~
-      +
-      , which is the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"], which is equal to stem:["s"]
-      +
-      ^-1^
-      +
-      ,
+    message: recalling that the CGPM at its 13th meeting (1967) defined the second
+      as “the duration of 9 192 631 770 periods of the radiation corresponding to
+      the transition between the two hyperfine levels of the ground state of the caesium
+      133 atom”,
+  - type: recalling / further recalling
+    date_effective: '2022-11-18'
+    message: recalling that the CGPM at its 26th meeting (2018) revised the definitions
+      of the base units of the SI including the second, which it defined by taking
+      the fixed numerical value of the caesium frequency stem:[ sf Delta  nu ]~Cs~,
+      which is the unperturbed ground-state hyperfine transition frequency of the
+      caesium 133 atom, to be 9 192 631 770 when expressed in the unit stem:["Hz"],
+      which is equal to stem:["s"^(-1)],
   - type: noting
     date_effective: '2022-11-18'
     message: noting that optical frequency standards based on different species and
@@ -403,7 +401,6 @@ resolutions:
       * that in 1921, such ambition was embodied in the Convention under Article III that provides for any State to accede to the Convention “[…] by notifying its accession to the French Government […]”,
       * the relevance and importance placed in promoting and facilitating wider participation as expressed in particular by the CGPM in:
       +
-
       ** Resolution 14 adopted by the CGPM at its 11th meeting (1960),
       ** Resolution 2 and Resolution 3 adopted by the CGPM at its 21st meeting (1999),
       ** Resolution 3 and Resolution 4 adopted by the CGPM at its 22nd meeting (2003),
@@ -529,11 +526,7 @@ resolutions:
     message: |-
       *decides* that
 
-      * the annual dotation of the BIPM, as defined in Article 6 (1921) of the Regulations annexed to the Metre Convention, will be set in such a way that, for those States that are Parties to the Metre Convention at the time of the 27th meeting of the CGPM, it shall be
-      +
-      ^1^
-      +
-      :
+      * the annual dotation of the BIPM, as defined in Article 6 (1921) of the Regulations annexed to the Metre Convention, will be set in such a way that, for those States that are Parties to the Metre Convention at the time of the 27th meeting of the CGPM, it shall be^1^:
 
       [cols=1]
       |===

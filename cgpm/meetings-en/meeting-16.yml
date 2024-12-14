@@ -102,30 +102,46 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1979-10-12'
-    message: |-
-      *considering*
-
-      * that despite the notable efforts of some laboratories there remain excessive divergences between the results of realizations of the candela based upon the present black body primary standard,
-      * that radiometric techniques are developing rapidly, allowing precisions that are already equivalent to those of photometry and that these techniques are already in use in national laboratories to realize the candela without having to construct a black body,
-      * that the relation between luminous quantities of photometry and radiometric quantities, namely the value of 683 lumens per watt for the spectral luminous efficacy of monochromatic radiation of frequency 540 x 10
-      +
-      ^12^
-      +
-      hertz, has been adopted by the Comité International des Poids et Mesures (CIPM) in 1977,
-      * that this value has been accepted as being sufficiently accurate for the system of luminous photopic quantities, that it implies a change of only about 3 % for the system of luminous scotopic quantities, and that it therefore ensures satisfactory continuity,
-      * that the time has come to give the candela a definition that will allow an improvement in both the ease of realization and the precision of photometric standards, and that applies to both photopic and scotopic photometric quantities and to quantities yet to be defined in the mesopic field,
+    message: considering that despite the notable efforts of some laboratories there
+      remain excessive divergences between the results of realizations of the candela
+      based upon the present black body primary standard,
+  - type: considering
+    date_effective: '1979-10-12'
+    message: considering that radiometric techniques are developing rapidly, allowing
+      precisions that are already equivalent to those of photometry and that these
+      techniques are already in use in national laboratories to realize the candela
+      without having to construct a black body,
+  - type: considering
+    date_effective: '1979-10-12'
+    message: considering that the relation between luminous quantities of photometry
+      and radiometric quantities, namely the value of 683 lumens per watt for the
+      spectral luminous efficacy of monochromatic radiation of frequency stem:[540
+      * 10^(12)] hertz, has been adopted by the Comité International des Poids et
+      Mesures (CIPM) in 1977,
+  - type: considering
+    date_effective: '1979-10-12'
+    message: considering that this value has been accepted as being sufficiently accurate
+      for the system of luminous photopic quantities, that it implies a change of
+      only about 3 % for the system of luminous scotopic quantities, and that it therefore
+      ensures satisfactory continuity,
+  - type: considering
+    date_effective: '1979-10-12'
+    message: considering that the time has come to give the candela a definition that
+      will allow an improvement in both the ease of realization and the precision
+      of photometric standards, and that applies to both photopic and scotopic photometric
+      quantities and to quantities yet to be defined in the mesopic field,
   actions:
   - type: decides
     date_effective: '1979-10-12'
-    message: |-
-      *decides*
-
-      . The candela is the luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540 x 10
-      +
-      ^12^
-      +
+    message: decides The candela is the luminous intensity, in a given direction,
+      of a source that emits monochromatic radiation of frequency stem:[540 * 10^(12)]
       hertz and that has a radiant intensity in that direction of 1/683 watt per steradian.
-      . The definition of the candela (at the time called new candle) adopted by the CIPM in 1946 by reason of the powers conferred by the 8th CGPM in 1933, ratified by the 9th CGPM in 1948, then amended by the 13th CGPM in 1967, is abrogated.
+  - type: decides
+    date_effective: '1979-10-12'
+    message: decides The definition of the candela (at the time called new candle)
+      adopted by the CIPM in 1946 by reason of the powers conferred by the 8th CGPM
+      in 1933, ratified by the 9th CGPM in 1948, then amended by the 13th CGPM in
+      1967, is abrogated.
   doi: 10.59161/CGPM1979RES3E
   notes: |-
     Photopic vision is detected by the cones on the retina of the eye, which are sensitive to a high level of luminance (stem:[L] > ca. stem:[10 "cd"/"m"^(2)]) and are used in daytime vision. Scotopic vision is detected by the rods of the retina, which are sensitive to low level luminance (stem:[L] < ca. stem:[10^(-3) "cd"/"m"^(2)]), used in night vision. In the domain between these levels of luminance both cones and rods are used, and this is described as mesopic vision. +
@@ -274,11 +290,7 @@ resolutions:
 
       where stem:[x] represents the repartition percentage calculated for the People's Republic of China from the United Nations coefficient in force on the 1st January 1980 on applying the procedure adopted by the 11th CGPM,
 
-      * that following the adherence of the People's Republic of China to the Convention du Metre, the annual budget which serves as the base for the calculation of the budget for the years 1981-1984 is obtained by multiplying the annual budget of the BIPM for the year 1980 voted by the 15th CGPM, by a factor (100 +
-      +
-      stem:[x]
-      +
-      )/100,
+      * that following the adherence of the People's Republic of China to the Convention du Metre, the annual budget which serves as the base for the calculation of the budget for the years 1981-1984 is obtained by multiplying the annual budget of the BIPM for the year 1980 voted by the 15th CGPM, by a factor stem:[(100 + x)/100],
   - type: accepts
     date_effective: '1979-10-12'
     message: accepting without any opposing vote the principle of the proposal of
@@ -287,32 +299,18 @@ resolutions:
   actions:
   - type: decides
     date_effective: '1979-10-12'
-    message: |-
-      *decides*
-
-      * that the fixed part of the annual budget of the Bureau International shall be increased in such a way that the sum of the fixed part and the complementary part (defined in Article 6 (1921) of the Rules annexed to the Convention du Metre) for the member States of the Convention du Metre at the time of the 16th CGPM, be obtained for the years 1981, 1982, 1983 et 1984 by multiplying the base budget by 1,12, (1,12)
-      +
-      ^2^
-      +
-      , (1,12)
-      +
-      ^3^
-      +
-      and (1,12)
-      +
-      ^4^
-      +
-      respectively.
+    message: decides that the fixed part of the annual budget of the Bureau International
+      shall be increased in such a way that the sum of the fixed part and the complementary
+      part (defined in Article 6 (1921) of the Rules annexed to the Convention du
+      Metre) for the member States of the Convention du Metre at the time of the 16th
+      CGPM, be obtained for the years 1981, 1982, 1983 et 1984 by multiplying the
+      base budget by 1,12, (1,12)^2^, (1,12)^3^ and (1,12)^4^ respectively.
   - type: decides
     date_effective: '1979-10-12'
     message: |-
       *decides*
 
-      * that as from January 1st 1981 the maximum and minimum repartition percentages adopted by the 11th CGPM will be multiplied by a factor 100/(100 +
-      +
-      stem:[x]
-      +
-      ),
+      * that as from January 1st 1981 the maximum and minimum repartition percentages adopted by the 11th CGPM will be multiplied by a factor stem:[100/(100 + x)],
 
       where stem:[x] represents the repartition percentage calculated for the People's Republic of China, from the United Nations coefficient in force on January 1st 1980, on applying the procedure adopted by the 11th CGPM.
   doi: 10.59161/CGPM1979RES7E

@@ -25,95 +25,24 @@ resolutions:
     message: |-
       *rappelant*
 
-      *
-
+      * {empty}
+      +
       qu’en 1983 la 17^e^ Conférence générale des poids et mesures (CGPM) a adopté une nouvelle définition du mètre,
-
       * qu’à la même date la Conférence générale a invité le Comité international des poids et mesures (CIPM)
       +
-
       ** à établir des instructions pour la réalisation pratique de la nouvelle définition du mètre (la mise en pratique),
       ** à choisir des radiations qui puissent être recommandées comme étalons de longueur d'onde pour la mesure interférentielle des longueurs et à établir des instructions pour leur emploi,
       ** à poursuivre les études entreprises pour améliorer ces étalons et à compléter ou réviser par la suite ces instruction,
-
       * qu’en réponse à cette invitation le CIPM a adopté la Recommandation 1 (CI-1983) (mise en pratique de la définition du mètre) avec pour effet
       +
-
       ** que le mètre soit réalisé par l’une des méthodes suivantes :
       +
-
       [type=a]
-      ... au moyen de la longueur l du trajet parcouru dans le vide par une onde électromagnétique plane pendant la durée
-      +
-      stem:[t]
-      +
-      ; cette longueur est obtenue à partir de la mesure de la durée
-      +
-      __t__
-      +
-      , en utilisant la relation
-      +
-      stem:[l]
-      +
-       =
-      +
-      __c__
-      +
-      ~0~
-      +
-       ·
-      +
-      stem:[t]
-      +
-      et la valeur de la vitesse de la lumière dans le vide
-      +
-      __c__
-      +
-      ~0~
-      +
-       = stem:[299 792 458 "m"/"s"],
-      ... au moyen de la longueur d’onde dans le vide l d’une onde électromagnétique plane de fréquence
-      +
-      stem:[f]
-      +
-      ; cette longueur d’onde est obtenue à partir de la mesure de la fréquence
-      +
-      __f__
-      +
-      , en utilisant la relation
-      +
-      _λ_
-      +
-       =
-      +
-      __c__
-      +
-      ~0~
-      +
-      /
-      +
-      stem:[f]
-      +
-      et la valeur de la vitesse de la lumière dans le vide
-      +
-      __c__
-      +
-      ~0~
-      +
-      = stem:[299 792 458 "m"/"s"],
+      ... au moyen de la longueur l du trajet parcouru dans le vide par une onde électromagnétique plane pendant la durée stem:[t] ; cette longueur est obtenue à partir de la mesure de la durée stem:[t], en utilisant la relation stem:[l = c_(0) * t] et la valeur de la vitesse de la lumière dans le vide stem:[c_(0) = 299 792 458 "m"/"s"],
+      ... au moyen de la longueur d’onde dans le vide l d’une onde électromagnétique plane de fréquence stem:[f] ; cette longueur d’onde est obtenue à partir de la mesure de la fréquence stem:[f], en utilisant la relation _λ_ = stem:[c_(0) / f] et la valeur de la vitesse de la lumière dans le vide stem:[c_(0) = 299 792 458 "m"/"s"],
       ... au moyen de l’une des radiations de la liste ci-dessous, radiations pour lesquelles on peut utiliser la valeur donnée de la longueur d’onde dans le vide ou de la fréquence, avec l’incertitude indiquée, pourvu que l’on observe les conditions spécifiées et le mode opératoire reconnu comme approprié ;
-
       ** que dans tous les cas les corrections nécessaires soient appliquées pour tenir compte des conditions réelles telles que diffraction, gravitation ou imperfection du vide ;
-      ** que dans le contexte de la relativité générale, le mètre est considéré comme une unité de longueur propre. Sa définition s’applique donc seulement dans un domaine spatial suffisamment petit, pour lequel les effets de la non-uniformité du champ gravitationnel peuvent être ignorés (notons, qu’à la surface de la Terre, cet effet est d’environ 1 × 10
-      +
-      ^-16^
-      +
-      par mètre d’altitude en valeur relative). Dans ce cas, les seuls effets à prendre en compte sont ceux de la relativité restreinte. Les méthodes locales, préconisées en b) et c) pour réaliser le mètre, fournissent le mètre propre, mais la méthode préconisée en a) ne le permet pas nécessairement. La méthode préconisée en a) devrait donc être restreinte aux longueurs l suffisamment courtes pour que les effets prévus par la relativité générale soient négligeables par rapport aux incertitudes de mesure. Si ce n’est pas le cas, il convient de se référer au rapport du Groupe de travail du Comité consultatif du temps et des fréquences (CCTF) sur l’application de la relativité générale à la métrologie pour l’interprétation des mesures (Application of general relativity to metrology, Metrologia, 1997,
-      +
-      **34**
-      +
-      , 261-290),
-
+      ** que dans le contexte de la relativité générale, le mètre est considéré comme une unité de longueur propre. Sa définition s’applique donc seulement dans un domaine spatial suffisamment petit, pour lequel les effets de la non-uniformité du champ gravitationnel peuvent être ignorés (notons, qu’à la surface de la Terre, cet effet est d’environ stem:[1 * 10^(-16)] par mètre d’altitude en valeur relative). Dans ce cas, les seuls effets à prendre en compte sont ceux de la relativité restreinte. Les méthodes locales, préconisées en b) et c) pour réaliser le mètre, fournissent le mètre propre, mais la méthode préconisée en a) ne le permet pas nécessairement. La méthode préconisée en a) devrait donc être restreinte aux longueurs l suffisamment courtes pour que les effets prévus par la relativité générale soient négligeables par rapport aux incertitudes de mesure. Si ce n’est pas le cas, il convient de se référer au rapport du Groupe de travail du Comité consultatif du temps et des fréquences (CCTF) sur l’application de la relativité générale à la métrologie pour l’interprétation des mesures (Application of general relativity to metrology, Metrologia, 1997, **34**, 261-290),
       * que le CIPM avait recommandé une liste de radiations à cet effet ;
   - type: recalling / further recalling
     date_effective: '2002-10-11'
@@ -180,21 +109,8 @@ resolutions:
 
       * que la liste des radiations recommandées donnée par le CIPM en 1997 (Recommandation 1 (CI-1997)) soit remplacée par la liste de radiations ci-dessous*, qui inclut ;
       +
-
       ** des valeurs mises à jour de la fréquence des atomes de calcium et d’hydrogène refroidis et de l’ion piégé de strontium,
-      ** la valeur de la fréquence de nouvelles espèces d’ions refroidis, y compris de l’ion piégé de Hg
-      +
-      ^+^
-      +
-      , de l'ion piégé d'In
-      +
-      ^+^
-      +
-      , et de l'ion piégé d'Yb
-      +
-      ^+^
-      +
-      ,
+      ** la valeur de la fréquence de nouvelles espèces d’ions refroidis, y compris de l’ion piégé de Hg^+^, de l'ion piégé d'In^+^, et de l'ion piégé d'Yb^+^,
       ** des valeurs mises à jour de la fréquence de lasers asservis sur le rubidium, de lasers à grenat d’yttrium-aluminium dopé au néodyme (Nd:YAG) et de lasers à hélium-néon (He-Ne) asservis sur l’iode, de lasers à hélium-néon asservis sur le méthane, et de lasers à dioxyde de carbone asservis sur le tétroxyde d’osmium à 10 μm,
       ** des valeurs de la fréquence d’étalons pour les télécommunications optiques, y compris les lasers asservis sur le rubidium et l’acétylène.
   doi: 10.59161/CIPM2002REC1F
@@ -216,24 +132,20 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '2002-10-11'
-    message: |-
-      *considérant* que
-
-      * la définition actuelle de l’unité SI d’équivalent de dose (sievert) comprend un facteur «
-      +
-      stem:[N]
-      +
-      » (produit de tous les autres facteurs de multiplication) prescrit par l’International Commission on Radiological Protection (ICRP),
-      * l’ICRP et l’International Commission on Radiation Units and Measurements (ICRU) ont décidé de supprimer ce facteur stem:["N"] qui n’est plus considéré comme nécessaire,
-      * la définition actuelle de l’équivalent de dose
-      +
-      stem:[H]
-      +
-      dans le Système international d’unités, qui comprend le facteur
-      +
-      __N__
-      +
-      , porte à confusion,
+    message: considérant que la définition actuelle de l’unité SI d’équivalent de
+      dose (sievert) comprend un facteur « stem:[N] » (produit de tous les autres
+      facteurs de multiplication) prescrit par l’International Commission on Radiological
+      Protection (ICRP),
+  - type: considering
+    date_effective: '2002-10-11'
+    message: considérant que l’ICRP et l’International Commission on Radiation Units
+      and Measurements (ICRU) ont décidé de supprimer ce facteur stem:["N"] qui n’est
+      plus considéré comme nécessaire,
+  - type: considering
+    date_effective: '2002-10-11'
+    message: considérant que la définition actuelle de l’équivalent de dose stem:[H]
+      dans le Système international d’unités, qui comprend le facteur stem:[N], porte
+      à confusion,
   actions:
   - type: decides
     date_effective: '2002-10-11'
@@ -254,7 +166,7 @@ resolutions:
 
       Le Comité décide donc de maintenir la dernière phrase de l’explication sous la forme suivante :
 
-      Afin d’éviter tout risque de confusion entre la dose absorbée stem:[D] et l’équivalent de dose __H__, il faut employer les noms spéciaux pour les unités correspondantes, c’est-à-dire qu’il faut utiliser le nom gray au lieu de joule par kilogramme pour l’unité de dose absorbée stem:[D] et le nom sievert au lieu de joule par kilogramme pour l’unité d’équivalent de dose stem:[H].
+      Afin d’éviter tout risque de confusion entre la dose absorbée stem:[D] et l’équivalent de dose stem:[H], il faut employer les noms spéciaux pour les unités correspondantes, c’est-à-dire qu’il faut utiliser le nom gray au lieu de joule par kilogramme pour l’unité de dose absorbée stem:[D] et le nom sievert au lieu de joule par kilogramme pour l’unité d’équivalent de dose stem:[H].
   doi: 10.59161/CIPM2002REC2F
   notes: Voir aussi https://doi.org/10.1088/0952-4746/25/1/008[__J. Radiol. Prot.__,
     2005, **25**, 97-100]

@@ -22,16 +22,19 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering*
-
-      * Resolution 11 of the 20th General Conference, which requested the International Committee to study and report on the long-term needs relating to metrology,
-      * the study which was completed in 1997 after extensive international consultations,
-      * the resultant report, entitled
-      +
-      __National and international needs relating to metrology: International collaborations and the role of the BIPM__
-      +
-      , which was sent by the International Committee in 1998 to the governments of the Member States,
+    message: considering Resolution 11 of the 20th General Conference, which requested
+      the International Committee to study and report on the long-term needs relating
+      to metrology,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the study which was completed in 1997 after extensive international
+      consultations,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: 'considering the resultant report, entitled __National and international
+      needs relating to metrology: International collaborations and the role of the
+      BIPM__, which was sent by the International Committee in 1998 to the governments
+      of the Member States,'
   - type: noting
     date_effective: '1999-10-15'
     message: "*notes* the discussion in the report of the International Committee
@@ -191,22 +194,41 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering* that
-
-      * the effects on the geosphere and biosphere of industrial and commercial activities and of many other human pursuits, as well as natural phenomena, and the consequences for human health and well-being are the subject of major studies worldwide,
-      * governments are increasingly faced with decisions of great economic and political significance concerning the regulation of these activities,
-      * the policies of governments are influenced by studies depending critically on accurate and mutually compatible measurements often requiring very large economic investments,
-      * much of the important scientific evidence required for decisions by governments comes from measurements of small changes in certain key parameters, measurements sometimes extending over several decades,
-      * certain critical measurements have traditionally been made in
-      +
-      _ad hoc_
-      +
-
-      +
-      units, based upon special instrumentation or procedures, and not in the well-characterized and internationally agreed SI units,
-      * experience over many years has shown that measurements not directly linked to the SI cannot be relied upon in the long term, cannot be compared with similar measurements made elsewhere and do not adequately bring out possible relationships with measurements made in other scientific disciplines,
-      * increasing demands for reliability in measurements made for medical and therapeutic purposes are leading to more demanding regulation in these areas,
+    message: considering that the effects on the geosphere and biosphere of industrial
+      and commercial activities and of many other human pursuits, as well as natural
+      phenomena, and the consequences for human health and well-being are the subject
+      of major studies worldwide,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that governments are increasingly faced with decisions of
+      great economic and political significance concerning the regulation of these
+      activities,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that the policies of governments are influenced by studies
+      depending critically on accurate and mutually compatible measurements often
+      requiring very large economic investments,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that much of the important scientific evidence required for
+      decisions by governments comes from measurements of small changes in certain
+      key parameters, measurements sometimes extending over several decades,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that certain critical measurements have traditionally been
+      made in _ad hoc_ units, based upon special instrumentation or procedures, and
+      not in the well-characterized and internationally agreed SI units,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that experience over many years has shown that measurements
+      not directly linked to the SI cannot be relied upon in the long term, cannot
+      be compared with similar measurements made elsewhere and do not adequately bring
+      out possible relationships with measurements made in other scientific disciplines,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that increasing demands for reliability in measurements made
+      for medical and therapeutic purposes are leading to more demanding regulation
+      in these areas,
   actions:
   - type: recommends
     date_effective: '1999-10-15'
@@ -423,17 +445,23 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering* that
-
-      * many important research activities are in progress at temperatures below stem:[0.65 "K"],
-      * these researches require an accepted temperature scale which closely represents thermodynamic temperatures,
-      * the direct measurement of thermodynamic temperature is often difficult and time-consuming at temperatures below stem:[0.65 "K"] down to a few millikelvin, but at temperatures much lower than this direct measurements once again become feasible,
-      * considerable work has already been accomplished towards the development of a temperature scale for the range from stem:[0.65 "K"] down to stem:[1 "mK"] based on the melting pressure of
-      +
-      ^3^
-      +
-      He,
+    message: considering that many important research activities are in progress at
+      temperatures below stem:[0.65 "K"],
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that these researches require an accepted temperature scale
+      which closely represents thermodynamic temperatures,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that the direct measurement of thermodynamic temperature
+      is often difficult and time-consuming at temperatures below stem:[0.65 "K"]
+      down to a few millikelvin, but at temperatures much lower than this direct measurements
+      once again become feasible,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that considerable work has already been accomplished towards
+      the development of a temperature scale for the range from stem:[0.65 "K"] down
+      to stem:[1 "mK"] based on the melting pressure of stem:[""_(3) "He"],
   actions:
   - type: invites / further invites
     date_effective: '1999-10-15'
@@ -541,19 +569,33 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering*
-
-      * the importance for human health and safety of facilitating the use of SI units in the fields of medicine and biochemistry,
-      * that a non-SI unit called "unit", symbol U, equal to 1 µmol · min
-      +
-      ^-1^
-      +
-      , which is not coherent with the SI, has been in widespread use in medicine and biochemistry since 1964 for expressing catalytic activity,
-      * that the absence of a special name for the SI coherent derived unit mole per second has led to results of clinical measurements being given in various local units,
-      * that the use of SI units in medicine and clinical chemistry is strongly recommended by the international unions in these fields,
-      * that the International Federation of Clinical Chemistry and Laboratory Medicine has asked the Consultative Committee for Units to recommend the special name katal, symbol kat, for the SI unit mole per second,
-      * that while the proliferation of special names represents a danger for the SI, exceptions are made in matters related to human health and safety (15th General Conference, 1975, Resolutions 8 and 9, 16th General Conference, 1979, Resolution 5),
+    message: considering the importance for human health and safety of facilitating
+      the use of SI units in the fields of medicine and biochemistry,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that a non-SI unit called "unit", symbol U, equal to 1 µmol
+      · min^-1^, which is not coherent with the SI, has been in widespread use in
+      medicine and biochemistry since 1964 for expressing catalytic activity,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that the absence of a special name for the SI coherent derived
+      unit mole per second has led to results of clinical measurements being given
+      in various local units,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that the use of SI units in medicine and clinical chemistry
+      is strongly recommended by the international unions in these fields,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that the International Federation of Clinical Chemistry and
+      Laboratory Medicine has asked the Consultative Committee for Units to recommend
+      the special name katal, symbol kat, for the SI unit mole per second,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering that while the proliferation of special names represents
+      a danger for the SI, exceptions are made in matters related to human health
+      and safety (15th General Conference, 1975, Resolutions 8 and 9, 16th General
+      Conference, 1979, Resolution 5),
   - type: noting
     date_effective: '1999-10-15'
     message: "*noting* that the name katal, symbol kat, has been used for the SI unit
@@ -581,18 +623,29 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1999-10-15'
-    message: |-
-      *considering*
-
-      * the importance of the work carried out by the Bureau International des Poids et Mesures (BIPM) and the services it renders to Member States of the Metre Convention,
-      * the considerable efforts made by the BIPM to enhance the efficiency of its operation, and its commitment to continue these efforts,
-      * the conclusions of the report
-      +
-      __National and international needs relating to metrology: International collaborations and the role of the BIPM__
-      +
-      ,
-      * the decision of the International Committee, based on this report, to broaden the responsibilities of the BIPM,
-      * the recommendation in the report that, in recognition of the difficult economic situation now existing in many Member States of the Metre Convention, the BIPM annual dotation be held constant in real terms during the quadrennium 2001-2004 at the level determined by the 20th General Conference for the year 2000,
+    message: considering the importance of the work carried out by the Bureau International
+      des Poids et Mesures (BIPM) and the services it renders to Member States of
+      the Metre Convention,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the considerable efforts made by the BIPM to enhance the
+      efficiency of its operation, and its commitment to continue these efforts,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: 'considering the conclusions of the report __National and international
+      needs relating to metrology: International collaborations and the role of the
+      BIPM__,'
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the decision of the International Committee, based on this
+      report, to broaden the responsibilities of the BIPM,
+  - type: considering
+    date_effective: '1999-10-15'
+    message: considering the recommendation in the report that, in recognition of
+      the difficult economic situation now existing in many Member States of the Metre
+      Convention, the BIPM annual dotation be held constant in real terms during the
+      quadrennium 2001-2004 at the level determined by the 20th General Conference
+      for the year 2000,
   - type: noting
     date_effective: '1999-10-15'
     message: noting that on 1 January 1999, the new currency, the euro, came into

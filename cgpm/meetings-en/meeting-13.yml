@@ -46,12 +46,13 @@ resolutions:
   - type: decides
     date_effective: '1967-10-16'
     message: |-
-      *decides*
-
-      . The SI unit of time is the second defined as follows:
+      decides The SI unit of time is the second defined as follows:
       +
       "The second is the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom";
-      . Resolution 1 adopted by the CIPM at its meeting of 1956 and Resolution 9 of the 11th CGPM are now abrogated.
+  - type: decides
+    date_effective: '1967-10-16'
+    message: decides Resolution 1 adopted by the CIPM at its meeting of 1956 and Resolution
+      9 of the 11th CGPM are now abrogated.
   doi: 10.59161/CGPM1967RES1E
   notes: |-
     At its 1997 meeting, the CIPM affirmed that this definition refers to a caesium atom at rest at a thermodynamic temperature of stem:[0 "K"]. +
@@ -96,15 +97,15 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: |-
-      *considering*
-
-      * the names "degree Kelvin" and "degree", the symbols "°K" and "deg" and the rules for their use given in Resolution 7 of the 9th CGPM (1948), in Resolution 12 of the 11th CGPM (1960), and the decision taken by the Comité International des Poids et Mesures in 1962 (PV,
-      +
-      **30**
-      +
-      , 27),
-      * that the unit of thermodynamic temperature and the unit of temperature interval are one and the same unit, which ought to be denoted by a single name and a single symbol,
+    message: considering the names "degree Kelvin" and "degree", the symbols "°K"
+      and "deg" and the rules for their use given in Resolution 7 of the 9th CGPM
+      (1948), in Resolution 12 of the 11th CGPM (1960), and the decision taken by
+      the Comité International des Poids et Mesures in 1962 (PV, **30**, 27),
+  - type: considering
+    date_effective: '1967-10-16'
+    message: considering that the unit of thermodynamic temperature and the unit of
+      temperature interval are one and the same unit, which ought to be denoted by
+      a single name and a single symbol,
   actions:
   - type: decides
     date_effective: '1967-10-16'
@@ -127,11 +128,7 @@ resolutions:
   doi: 10.59161/CGPM1967RES3E
   notes: |-
     At its 1980 meeting, the CIPM approved the report of the 7th meeting of the CCU, which requested that the use of the symbols "°K" and "deg" no longer be permitted.
-     See
-    +
-    https://www.bipm.org/utils/en/pdf/CI-2005-2-EN.pdf[Recommendation 2 (CI-2005)]
-    +
-    of the CIPM on the isotopic composition of water entering in the definition of the kelvin.
+     See https://www.bipm.org/utils/en/pdf/CI-2005-2-EN.pdf[Recommendation 2 (CI-2005)] of the CIPM on the isotopic composition of water entering in the definition of the kelvin.
 - dates:
   - '1967-10-16'
   subject: CGPM
@@ -177,17 +174,15 @@ resolutions:
   considerations:
   - type: considering
     date_effective: '1967-10-16'
-    message: |-
-      *considering*
-
-      * the definition of the unit of luminous intensity ratified by the 9th CGPM (1948) and contained in the "Resolution concerning the change of photometric units" adopted by the Comité International des Poids et Mesures in 1946 (PV,
-      +
-
-      +
-      **20**
-      +
-      , 119) in virtue of the powers conferred by the 8th CGPM (1933),
-      * that this definition fixes satisfactorily the unit of luminous intensity, but that its wording may be open to criticism,
+    message: considering the definition of the unit of luminous intensity ratified
+      by the 9th CGPM (1948) and contained in the "Resolution concerning the change
+      of photometric units" adopted by the Comité International des Poids et Mesures
+      in 1946 (PV, **20**, 119) in virtue of the powers conferred by the 8th CGPM
+      (1933),
+  - type: considering
+    date_effective: '1967-10-16'
+    message: considering that this definition fixes satisfactorily the unit of luminous
+      intensity, but that its wording may be open to criticism,
   actions:
   - type: decides
     date_effective: '1967-10-16'

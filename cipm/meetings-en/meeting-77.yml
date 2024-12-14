@@ -27,31 +27,16 @@ resolutions:
       of the representations of the volt and the ohm,"
   - type: considering
     date_effective: '1988-10-06'
-    message: |-
-      *considering*
-
-      * that a detailed study of the results of the most recent determinations leads to a value of stem:[483 597.9 "GHz"/"V"] for the Josephson constant,
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      , that is to say, for the quotient of frequency divided by the potential difference corresponding to the
-      +
-      stem:[n]
-      +
-      = 1 step in the Josephson effect,
-      * that the Josephson effect, together with this value of
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      , can be used to establish a reference standard of electromotive force having a one-standard-deviation uncertainty with respect to the volt estimated to be 4 parts in 10
-      +
-      ^7^
-      +
-      , and a reproducibility which is significantly better,
+    message: considering that a detailed study of the results of the most recent determinations
+      leads to a value of stem:[483 597.9 "GHz"/"V"] for the Josephson constant, stem:[K_("J")],
+      that is to say, for the quotient of frequency divided by the potential difference
+      corresponding to the stem:[n = 1] step in the Josephson effect,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considering that the Josephson effect, together with this value of stem:[K_("J")],
+      can be used to establish a reference standard of electromotive force having
+      a one-standard-deviation uncertainty with respect to the volt estimated to be
+      4 parts in stem:[10^(7)], and a reproducibility which is significantly better,
   - type: considering
     date_effective: '1988-10-06'
     message: "*is of the opinion* that no change in this recommended value of the
@@ -59,25 +44,22 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '1988-10-06'
-    message: |-
-      *recommends*
-
-      * that stem:[483 597.9 "GHz"/"V"] exactly be adopted as a conventional value, denoted by
-      +
-      __K__
-      +
-      ~stem:["J" 90]~
-      +
-      for the Josephson constant,
-      +
-      __K__
-      +
-      ~stem:["J"]~
-      +
-      ,
-      * that this new value be used from 1 January 1990, and not before, to replace the values currently in use,
-      * that this new value be used from this same date by all laboratories which base their measurements of electromotive force on the Josephson effect, and
-      * that from this same date all other laboratories adjust the value of their laboratory reference standards to agree with the new adopted value,
+    message: recommends that stem:[483 597.9 "GHz"/"V"] exactly be adopted as a conventional
+      value, denoted by stem:[K]~stem:["J" 90]~ for the Josephson constant, stem:[K_("J")],
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommends that this new value be used from 1 January 1990, and not before,
+      to replace the values currently in use,
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommends that this new value be used from this same date by all laboratories
+      which base their measurements of electromotive force on the Josephson effect,
+      and
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommends that from this same date all other laboratories adjust the
+      value of their laboratory reference standards to agree with the new adopted
+      value,
   - type: calls upon
     date_effective: '1988-10-06'
     message: '*draws the attention* of laboratories to the fact that the new value
@@ -86,7 +68,7 @@ resolutions:
       E 72.'
   doi: 10.59161/CIPM1988REC1E
   notes: The 26th CGPM in 2018 (Resolution 1) abrogated the adoption of a conventional
-    value for __K__~stem:["J"]~.
+    value for stem:[K_("J")].
 - dates:
   - '1988-10-06'
   subject: CIPM
@@ -107,33 +89,25 @@ resolutions:
       of the representations of the volt and the ohm,"
   - type: considering
     date_effective: '1988-10-06'
-    message: |-
-      *considering*
-
-      * that most existing laboratory reference standards of resistance change significantly with time,
-      * that a laboratory reference standard of resistance based on the quantum Hall effect would be stable and reproducible,
-      * that a detailed study of the results of the most recent determinations leads to a value of 25 812.807 Ω for the von Klitzing constant,
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      , that is to say, for the quotient of the Hall potential difference divided by current corresponding to the plateau
-      +
-      stem:[i]
-      +
-      = 1 in the quantum Hall effect,
-      * that the quantum Hall effect, together with this value of
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      , can be used to establish a reference standard of resistance having a one-standard-deviation uncertainty with respect to the ohm estimated to be 2 parts in 10
-      +
-      ^7^
-      +
-      , and a reproducibility which is significantly better,
+    message: considering that most existing laboratory reference standards of resistance
+      change significantly with time,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considering that a laboratory reference standard of resistance based
+      on the quantum Hall effect would be stable and reproducible,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considering that a detailed study of the results of the most recent determinations
+      leads to a value of 25 812.807 Ω for the von Klitzing constant, stem:[R_("K")],
+      that is to say, for the quotient of the Hall potential difference divided by
+      current corresponding to the plateau stem:[i = 1] in the quantum Hall effect,
+  - type: considering
+    date_effective: '1988-10-06'
+    message: considering that the quantum Hall effect, together with this value of
+      stem:[R_("K")], can be used to establish a reference standard of resistance
+      having a one-standard-deviation uncertainty with respect to the ohm estimated
+      to be 2 parts in stem:[10^(7)], and a reproducibility which is significantly
+      better,
   - type: considering
     date_effective: '1988-10-06'
     message: "*is of the opinion* that no change in this recommended value of the
@@ -141,36 +115,29 @@ resolutions:
   actions:
   - type: recommends
     date_effective: '1988-10-06'
-    message: |-
-      *recommends*
-
-      * that 25 812.807 Ω exactly be adopted as a conventional value, denoted by
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      , for the von Klitzing constant,
-      +
-      __R__
-      +
-      ~stem:["K"]~
-      +
-      ,
-      * that this value be used from 1 January 1990, and not before, by all laboratories which base their measurements of resistance on the quantum Hall effect,
-      * that from this same date all other laboratories adjust the value of their laboratory reference standards to agree with
-      +
-      __R__
-      +
-      ~K-90~
-      +
-      ,
-      * that in the use of the quantum Hall effect to establish a laboratory reference standard of resistance, laboratories follow the most recent edition of the technical guidelines for reliable measurements of the quantized Hall resistance drawn up by the Comité Consultatif d'Électricité and published by the Bureau International des Poids et Mesures, and
+    message: recommends that 25 812.807 Ω exactly be adopted as a conventional value,
+      denoted by stem:[R_(K-90)], for the von Klitzing constant, stem:[R_("K")],
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommends that this value be used from 1 January 1990, and not before,
+      by all laboratories which base their measurements of resistance on the quantum
+      Hall effect,
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommends that from this same date all other laboratories adjust the
+      value of their laboratory reference standards to agree with stem:[R_(K-90)],
+  - type: recommends
+    date_effective: '1988-10-06'
+    message: recommends that in the use of the quantum Hall effect to establish a
+      laboratory reference standard of resistance, laboratories follow the most recent
+      edition of the technical guidelines for reliable measurements of the quantized
+      Hall resistance drawn up by the Comité Consultatif d'Électricité and published
+      by the Bureau International des Poids et Mesures, and
   doi: 10.59161/CIPM1988REC2E
   notes: |-
     At its 89th meeting in 2000, the CIPM approved the declaration of the 22nd meeting of the CCEM on the use of the value of the von Klitzing constant.
 
-    The 26th CGPM in 2018 (Resolution 1) abrogated the adoption of a conventional value for __K__~stem:["J"]~.
+    The 26th CGPM in 2018 (Resolution 1) abrogated the adoption of a conventional value for stem:[K_("J")].
 - dates:
   - '1988-10-06'
   subject: CIPM

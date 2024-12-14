@@ -6,7 +6,192 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
 pdf: https://www.bipm.org/documents/20126/30859692/JCRB30.pdf/aaf285f9-aaa8-42fe-0ddd-baf7ee852696
-resolutions: []
+resolutions:
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-1 (2013)
+  identifier: 30-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - CMCs
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: The JCRB Executive Secretary will develop text on "greying-out CMCs"
+      and reinstating "greyed-out CMCs" for CIPM MRA-D-04 for approval at the next
+      meeting of the JCRB.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-2 (2013)
+  identifier: 30-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - QMS
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2013-03-20'
+    message: The RMOs should make available their guidance documents on QS and CMC
+      review from their websites.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-3 (2013)
+  identifier: 30-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: |-
+      The JCRB Executive Secretary will place the following items on the agenda of the 31st JCRB meeting: +
+      - The performance and vitality of DIs; +
+      -What is the purpose of the KCDB? What is its impact on NMIs and stakeholders? Who uses it and what are its successes?
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-4 (2013)
+  identifier: 30-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - KCDB
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: The RMOs to submit papers addressing the two agenda items listed in Action
+      30/3 for circulation one month prior to the 31st JCRB meeting.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: action
+  title: Action JCRB/30-5 (2013)
+  identifier: 30-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - Meetings
+  considerations: []
+  actions:
+  - type: requests
+    date_effective: '2013-03-20'
+    message: The JCRB Executive Secretary to write to NIM (China) to confirm the venue
+      for the 31st JCRB meeting (September 18-19, 2013) and to advise RMO representatives
+      to the JCRB accordingly.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/30-1 (2013)
+  identifier: 30-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - CMC review
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - The JCRB strongly encourages the CCs and the RMOs to use the BIPM Web Forum as
+    a tool for effective information exchange and consider increased use of the "fast
+    track" to promote more rapid processing of CMCs.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/30-2 (2013)
+  identifier: 30-2
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - CMC review
+  - CMCs
+  considerations:
+  - type: recognizing
+    date_effective: '2013-03-20'
+    message: The JCRB recognizes the maturity and effectiveness of the CMC review
+      process and the degree of trust established between the RMOs. Consequently,
+      the JCRB strongly recommends that duplication, resulting from RMO reviewing
+      the same CMCs during interregional review, be reduced wherever possible.
+  actions: []
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/30-3 (2013)
+  identifier: 30-3
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - CMC review
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2013-03-20'
+    message: The JCRB recommends that RMOs pay greater attention to the appropriate
+      guidelines during intra RMO review in order to improve the efficiency of the
+      inter RMO review of CMCs.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/30-4 (2013)
+  identifier: 30-4
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - Comparisons
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2013-03-20'
+    message: The JCRB recommends that the CIPM regularly monitors the status of Key
+      Comparison reports in order to minimize the number of reports experiencing significant
+      delays.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: recommendation
+  title: Recommendation JCRB/30-5 (2013)
+  identifier: 30-5
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - Guidance documents
+  considerations: []
+  actions:
+  - type: recommends
+    date_effective: '2013-03-20'
+    message: |-
+      The JCRB recommends to the CIPM to approve minor changes to CIPM MRA documentation (updating the references, cross references and resolving minor inconsistencies) as presented in JCRB-30/08.1. The changes relate to the following documents:
+
+      * CIPM/2005-06REV;
+      * CIPM MRA-D-02;
+      * CIPM MRA-G-01;
+      * CIPM MRA-D-04;
+      * CIPM MRA-D-05.
+- dates:
+  - '2013-03-20'
+  subject: JCRB
+  type: resolution
+  title: Resolution JCRB/30-1 (2013)
+  identifier: 30-1
+  url: https://www.bipm.org/en/committees/jc/jcrb/30-2013
+  categories:
+  - CMC review
+  - CMCs
+  considerations: []
+  actions: []
+  x-unparsed:
+  - "In order to decrease the time taken for the inter-RMO review of CMCs, the JCRB
+    resolves to revise CIPM MRA-D-04 as follows:\n\n\n\tThe time to indicate \"intention
+    to review\" will be reduced from 6 to 3 weeks (with a reminder after 2 weeks);\n\tThe
+    deadline for submission of the RMO review report will be made a \"hard deadline\"
+    (with a reminder 3 weeks before);\n\n\tThe deadline for approval of CMCs will
+    be reduced from 6 to 3 weeks (with a reminder after 2 weeks)."
 working_documents:
 - title: JCRB/30-06
   pdf: https://www.bipm.org/documents/20126/32647331/working-document-cc-jc-private-ID-5636/942f7c87-511c-f9cf-3269-92f2fb7e6b02
