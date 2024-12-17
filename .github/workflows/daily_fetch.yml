@@ -1,14 +1,13 @@
-# Daily fetch from website
-
 name: daily-fetch
 
 on:
-    schedule:
-     # Runs at UTC 1 am every day
-     # Run at every 10 minutes for test
-     - cron: '0 0 * * *'
+  schedule:
+  - cron: '0 0 * * *' # Runs at UTC 0:00 am every day
+  workflow_dispatch:
 
-    workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   fetch:
@@ -43,15 +42,12 @@ jobs:
         mv ./data/* ./
         ls -A
 
-    - name: Push new data
-      env:
-        CI_COMMIT_MESSAGE: Daily Update
-        CI_COMMIT_AUTHOR: Daily Update
-        CI_COMMIT_EMAIL: metanorma@ribose.com
-      run: |
-        test -d cipm
-        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-        git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
-        git add . || :
-        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || :
-        git push || :
+    - uses: peter-evans/create-pull-request@v7
+      with:
+        title: Daily Fetch ${{ github.event.repository.updated_at }}
+        committer: Daily Update <metanorma@ribose.com>
+        add-paths: .
+        labels: automerge
+        delete-branch: true
+        commit-message: Daily Update
+        branch: update/bipm-fetch-daily
