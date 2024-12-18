@@ -46,6 +46,10 @@ jobs:
       with:
         title: Daily Fetch ${{ github.event.repository.updated_at }}
         committer: Daily Update <metanorma@ribose.com>
+        reviewers: |
+          andrew2net
+          opoudjis
+          ronaldtse
         add-paths: .
         labels: automerge
         delete-branch: true
