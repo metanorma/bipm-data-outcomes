@@ -184,6 +184,180 @@ resolutions:
 - dates:
   - '2015-03-10'
   subject: CIPM
+  type: recommendation
+  title: Recommandation du CIPM aux laboratoires nationaux de métrologie sur la façon
+    de gérer les corrections apportées à l’unité de masse telle que maintenue par
+    le BIPM
+  identifier: 1
+  url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015/resolution-1
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754
+  reference_name: Comptes rendus du 104e CIPM (2015), 2016
+  reference_page: 54
+  approvals:
+  - message: Le Comité international des poids et mesures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant que les mesures de masse effectuées par les laboratoires
+      nationaux de métrologie dans le cadre de la comparaison clé CCM.M-K4 d’étalons
+      de stem:[1 "kg"] en acier inoxydable présentent une uniformité satisfaisante
+      au niveau international,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant que les incertitudes des aptitudes en matière de mesures
+      et d’étalonnages (CMCs) concernant les étalons de masse de stem:[1 "kg"] sont
+      comprises entre 28 µg et 1 850 µg,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant que les déterminations expérimentales de la constante de
+      Planck serviront de base à la définition à venir du kilogramme pour l’adoption
+      du « nouvel SI »,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant qu’une campagne extraordinaire d’étalonnage de masses à l’aide
+      du prototype international du kilogramme a été réalisée au BIPM de janvier 2014
+      à janvier 2015,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant que l’unité de masse telle que maintenue par le BIPM (traçable
+      au prototype international du kilogramme lors de la troisième vérification périodique
+      menée de 1988 à 1992) a varié de 35 µg au cours des 22 années passées,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant qu’un modèle mathématique établi par le BIPM a permis de
+      reproduire cette variation de masse depuis la troisième vérification périodique
+      jusqu’en 2014,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant que le BIPM mettra à jour les certificats émis entre le 1^er^
+      janvier 2003 et le 31 décembre 2013 pour les étalonnages d’étalons de masse
+      de stem:[1 "kg"],
+  actions:
+  - type: decides
+    date_effective: '2015-03-10'
+    message: décide que les résultats déjà publiés des comparaisons clés conduites
+      par le CCM ne seront pas corrigés mais que le Groupe de travail du CCM sur la
+      dissémination du kilogramme conseillera les organisations régionales de métrologie
+      afin que les degrés d’équivalence obtenus lors des comparaisons clés régionales
+      soient liés de manière cohérente,
+  - type: recommends
+    date_effective: '2015-03-10'
+    message: recommande aux laboratoires nationaux de métrologie effectuant des déterminations
+      expérimentales de la constante de Planck de mettre à jour leurs résultats en
+      tenant compte des corrections que le BIPM leur a fournies,
+  - type: recommends
+    date_effective: '2015-03-10'
+    message: recommande aux laboratoires nationaux de métrologie qui recevront des
+      certificats d’étalonnage mis à jour par le BIPM de prendre les mesures appropriées
+      afin d’informer leurs clients de la correction apportée aux certificats concernés
+      et d’utiliser pour leurs futurs étalonnages les valeurs de masse mises à jour.
+  doi: 10.59161/CIPM2015REC1F
+- dates:
+  - '2015-03-10'
+  subject: CIPM
+  type: recommendation
+  title: Mises à jour de la liste des fréquences étalons
+  identifier: 2
+  url: https://www.bipm.org/fr/committees/ci/cipm/104-_1-2015/resolution-2
+  reference: https://www.bipm.org/documents/20126/17315032/CIPM104.pdf/58613b2e-93d4-ae0d-dc1c-66852cbe5754
+  reference_name: Comptes rendus du 104e CIPM (2015), 2016
+  reference_page: 160
+  approvals:
+  - message: Le Comité international des poids et mesures (CIPM),
+  considerations:
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant qu’une liste commune des « valeurs recommandées de fréquences
+      étalons destinées à la mise en pratique de la définition du mètre et aux représentations
+      secondaires de la seconde » a été établie,
+  - type: considering
+    date_effective: '2015-03-10'
+    message: considérant que le Groupe de travail commun au CCL et au CCTF sur les
+      étalons de fréquence a examiné plusieurs fréquences candidates afin de mettre
+      à jour cette liste,
+  actions:
+  - type: recommends
+    date_effective: '2015-03-10'
+    message: "*recommande*\n\nque les fréquences des transitions suivantes soient
+      mises à jour dans la liste des fréquences étalons recommandées :\n\n* la transition
+      optique non perturbée 6s^2 1^ S~0~ - 6s6p ^3^P~0~ de l'atome neutre de ^199^Hg,
+      \n+\nà la fréquence de stem:[f]~199Hg~ = stem:[1 128 575 290 808 154\",\"8 \"Hz\"]
+      avec une incertitude-type relative estimée de 6 × 10^-16 ^;\n* la transition
+      optique non perturbée 6s ^2^S~½~ - 4f^13^ 6s^2 2^stem:[\"F\"]~7/2~ de l'ion
+      de ^stem:[171^(Yb)]+^, \n+\nà la fréquence de f171Yb+ (octupôle) = stem:[642
+      121 496 772 645\",\"0 \"Hz\"] avec une incertitude-type relative estimée de
+      stem:[6 * 10^(-16)] (cette radiation a déjà été approuvée par le CIPM comme
+      représentation secondaire de la seconde) ;\n* la transition optique non perturbée
+      6s ^2^S~½~ (stem:[F = 0], stem:[m_(\"F\") = 0]) - 5d 2D3/2 (stem:[F = 2], stem:[m_(\"F\")
+      = 0]), \n+\nà la fréquence de 171Yb^+^ f171Yb+ (quadripôle) = stem:[688 358
+      979 309 308\",\"3 \"Hz\"] avec une incertitude-type relative estimée de stem:[6
+      * 10^(-16)] (cette radiation a déjà été approuvée par le CIPM comme représentation
+      secondaire de la seconde) ;\n* la transition optique non perturbée 5s ^2^S~½~
+      - 4d ^2^D~5/2~ de l'ion de ^stem:[88^(Sr)]+^, \n+\nà la fréquence de stem:[f]~88Sr+~ = stem:[444
+      779 044 095 486\",\"6 \"Hz\"] avec une incertitude-type relative estimée de
+      stem:[1\",\"6 * 10^(-15)] (cette radiation a déjà été approuvée par le CIPM
+      comme représentation secondaire de la seconde) ;\n* la transition optique non
+      perturbée 4s ^2^S~½~ - 3d ^2^D~5/2~ de l'ion de ^stem:[40^(Ca)]+^, \n+\nà la
+      fréquence de stem:[f]~40Ca+~ = stem:[411 042 129 776 398\",\"4 \"Hz\"] avec
+      une incertitude-type relative estimée de 1,2 × 10^-14;^\n* la transition optique
+      non perturbée 1S - 2S de l'atome neutre de 1H, \n+\nà la fréquence de stem:[f_(1H)] = 1 stem:[233
+      030 706 593 514 \"Hz\"] avec une incertitude-type relative estimée de 9 × 10^-15.^\n\nRemarque
+      : cette fréquence correspond à la moitié de l’écart en énergie entre les états
+      1S et 2S ;\n\n* la transition optique non perturbée 5s^2 1^S ~0~ - 5s5p ^3^P
+      ~0~ de l'atome neutre de ^87^Sr, \n+\nà la fréquence de stem:[f_(87Sr) = 429
+      228 004 229 873\",\"2 \"Hz\"] avec une incertitude-type relative estimée de
+      stem:[5 * 10^(-16)] (cette radiation a déjà été approuvée par le CIPM comme
+      représentation secondaire de la seconde) ;\n* la transition optique non perturbée
+      6s^2 1^S~0~ - 6s6p ^3^P~0~ de l'atome neutre de ^171^Yb, \n+\nà la fréquence
+      de stem:[f]~171Yb~ = stem:[518 295 836 590 864\",\"0 \"Hz\"] avec une incertitude-type
+      relative estimée de stem:[2 * 10^(-15)] (cette radiation a déjà été approuvée
+      par le CIPM comme représentation secondaire de la seconde) ;\n* la transition
+      hyperfine non perturbée de l’état fondamental de l’atome de ^87^Rb,\n+\nà la
+      fréquence de stem:[f_(87Rb)] = 6 834 682 stem:[610\",\"904 310 \"Hz\"] avec
+      une incertitude-type relative estimée de stem:[7 * 10^(-16)] (cette radiation
+      a déjà été approuvée par le CIPM comme représentation secondaire de la seconde)."
+  - type: recommends
+    date_effective: '2015-03-10'
+    message: |-
+      *recommande* par ailleurs
+
+      que les fréquences des transitions suivantes soient incluses dans la liste des fréquences étalons recommandées :
+
+      * Molécule absorbante de ^127^I~2~, composante a~1~ du spectre d’absorption saturée, transition R(36) 32-0.
+
+      Les valeurs
+
+      [cols=1]
+      |===
+      | stem:[f_(a1) = 564 074 632","42 "MHz"]
+
+      | Î»~a1~ = stem:[531 476 582","65 "fm"]
+
+      |===
+
+      +
+      avec une incertitude-type relative estimée de stem:[1 * 10^(-10)] s’appliquent à la radiation d’un laser à diode à rétroaction répartie doublé en fréquence, asservi à l’aide d’une cellule d’iode située à l’extérieur du laser.
+
+      * Atome absorbant de ^87^Rb, transition 5S~1/2~ - 5P~3/2~, croisement de niveaux entre les composantes hyperfines d et f de l’absorption saturée à 780 nm (transition D2).
+
+      Les valeurs
+
+      [cols=1]
+      |===
+      | stem:[f]~d/f crossover~ = stem:[384 227 981","9 "MHz"]
+
+      | Î»~d/f crossover~ = stem:[780 246 291","6 "fm"]
+
+      |===
+
+      +
+      avec une incertitude-type relative estimée de stem:[5 * 10^(-10)] s’appliquent à la radiation d’un laser accordable à diode et à cavité externe, asservi sur la résonance de croisement de niveaux d/f dans une cellule de rubidium située à l’extérieur du laser.
+
+      Remarque : La valeur de l’incertitude-type est supposée correspondre à un niveau de confiance de 68 %. Toutefois, étant donné le nombre très limité de résultats disponibles, il se peut que, rétrospectivement, cela ne s’avère pas exact.
+  doi: 10.59161/CIPM2015REC2F
+- dates:
+  - '2015-03-10'
+  subject: CIPM
   type: decision
   title: Décision CIPM/104-1 (2015)
   identifier: 104-1
