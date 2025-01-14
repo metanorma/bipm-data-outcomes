@@ -4,6 +4,9 @@ metadata:
 categories:
 - title: Documents de référence
   documents:
+  - title: "[CCTF] TF - CCTF-WGMRA Guideline 1: The Service Category classification
+      system for T&F CMC entries (2025)"
+    pdf: https://www.bipm.org/documents/20126/35550160/TF_services.pdf/a2ce53fc-80f0-b8fe-0271-3385c1be121b
   - title: "[CCTF] CCTF Guidelines for Planning, Organizing, Conducting and Reporting
       Key, Supplementary and Pilot Comparisons"
     pdf: https://www.bipm.org/documents/20126/30132586/cc-publication-ID-518/9a746860-62a0-9952-1660-3c68f725b006
@@ -19,9 +22,6 @@ categories:
   - title: "[CCTF] Time and Frequency Supplementary Guide for Appendices B and C of
       the CIPM MRA"
     pdf: https://www.bipm.org/documents/20126/30132563/cc-publication-ID-496/b1dd7425-edf8-a5cf-12f9-af967287c0a1
-  - title: "[CCTF] TF - CCTF-WGMRA Guideline 1: The Service Category classification
-      system for T&F CMC entries (2013)"
-    pdf: https://www.bipm.org/documents/20126/35550160/TF_services.pdf/a2ce53fc-80f0-b8fe-0271-3385c1be121b
   - title: "[CCTF] CCTF-WGMRA Guideline 2: The estimation of uncertainties for T&F
       CMC entries"
     pdf: https://www.bipm.org/documents/20126/30132319/cc-publication-ID-308/db728ea3-d6c3-c978-aa3f-e34341c63991
