@@ -7,3 +7,14 @@ metadata:
   url: https://www.bipm.org/en/committees/cc/ccri/wg/ccri-webinar/2024-12-05
   workgroup: ccri-webinar
 resolutions: []
+working_documents:
+- title: CCRI-Webinar/2024-801
+  pdf: https://www.bipm.org/documents/20126/267637880/What+is+the+Decay+Data+Evaluation+Project/86c4efa2-6cb2-3a8f-2f1a-c35d7b52f103
+  description: What is the Decay Data Evaluation Project
+  author: Xavier MOUGEOT
+  date: 24/01/2025
+- title: CCRI-Webinar/2024-802
+  pdf: https://www.bipm.org/documents/20126/267637902/DDEP+evaluation+of+Cs-137/b7ed4b11-3a88-cd3b-3c40-b5674f406fb8
+  description: DDEP evaluation of Cs-137
+  author: Sylvain LEBLOND
+  date: 24/01/2025
