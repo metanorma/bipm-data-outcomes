@@ -1,6 +1,6 @@
 ---
 metadata:
-  title: Hybrid Workshop on High-Energy Neutron Fields
+  title: 'Atelier: "Neutron Beams at High Energy: Applications and Metrology"'
   identifier: '2025-07-07'
   date: '2025-07-08'
   source: BIPM - Pavillon de Breteuil
@@ -8,7 +8,149 @@ metadata:
   workgroup: ccri-iii-
 resolutions: []
 working_documents:
-- title: CCRI(III)/Workshop-2025-01
+- title: CCRI(III)/Workshop-2025-00
   pdf: https://www.bipm.org/documents/20126/269258955/Information-Sheet/fb148433-4cde-1029-9464-62b62f05f9c7
   description: Information Sheet
   author: ''
+- title: CCRI(III)/2025-WS-100
+  pdf: https://www.bipm.org/documents/20126/276574997/0.2025-07-07_WS_Introduction_Andreas_Zimbal/4b4ce732-f01c-31d2-2f9e-cb5b62590e6b
+  description: Activities of the Section CCRI(III) - Neutron Metrology
+  author: A. Zimbal
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-101
+  pdf: https://www.bipm.org/documents/20126/276575019/1.IAEA+VSemkova+UCANS11+1/e77cc16d-d26e-425d-2b01-1e07a60eb79f
+  description: IAEA activities in support of development and utilization of neutron
+    sources
+  author: V. Semkova
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-102
+  pdf: https://www.bipm.org/documents/20126/276575041/2.IAEA_Neutron+Radiobiology_July2025_update/935b7480-daa9-064e-536b-f76a92016401
+  description: Neutron Radiobiology - The need to bridge experimental gaps for future
+    space missions
+  author: C. Vandevoorde
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-103
+  pdf: https://www.bipm.org/documents/20126/276575059/3..2025-07-07-DLR-ME-SBA-Matthi%C3%A4_nBHEAM_Vienna/17f4a8a1-91ec-1dc6-a7b8-5a73bd1365dc
+  description: Radiation Exposure from Neutrons in Spaceflight and Aviation
+  author: D. Matthiä
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-104
+  pdf: https://www.bipm.org/documents/20126/276575085/4.nBEAM2025_NdabeniNB_final/601752da-117f-2a30-f4e2-7a3a694453c7
+  description: Towards an ISO-accredited fast neutron beam facility at iThemba LABS
+  author: Z. Ndabeni
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-105
+  pdf: https://www.bipm.org/documents/20126/276575107/5.nBHEAM_Masuda_r/a02a9737-c38b-e470-6ee5-3f57ceb2c74c
+  description: Characterization of high-energy neutron standard fields and study of
+    calibration methods
+  author: A. Masuda
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-106
+  pdf: https://www.bipm.org/documents/20126/276575125/6.nBHEAM2025-Shima/7ee67628-84b5-760f-c819-27d590ac55b3
+  description: High energy mono-energetic and white neutron sources in RCNP
+  author: T. Shima
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-107
+  pdf: https://www.bipm.org/documents/20126/276575151/7.nBHEAM-Manna/7df141ab-5d21-9ac4-dc5d-07547de91a2c
+  description: 'The neutron Time-of-Flight facility, n_TOF at CERN: Status and perspectives'
+  author: A. Manna
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-108
+  pdf: https://www.bipm.org/documents/20126/276575170/8.70MeV%7E100MeV+neutron+field+at+CIAE-Li/0d2c2708-2e30-cf6e-7604-e834e7847663
+  description: 70 MeV~100 MeV Quasi-monoenergetic neutron reference fields in China
+  author: J. Yu
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-109
+  pdf: https://www.bipm.org/documents/20126/276575196/9.iaea+july+25+Mastinu/82b96f0b-5657-f9ff-46b2-2a8549101036
+  description: NEPIR (NEutron and Proton Irradiation) facility at INFN-LNL
+  author: P. Mastinu
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-110
+  pdf: https://www.bipm.org/documents/20126/276575214/10.Introduction+of+a+new+test+area+for+neutron_IAEA_202507_Mayer+Sabine/be693a21-f2b4-2cd7-ef1d-034bd00d0bf5
+  description: Introduction of a new test area for neutron detection instruments with
+    a dominant high-energy neutron component at PSI
+  author: S. Mayer
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-111
+  pdf: https://www.bipm.org/documents/20126/276575236/11.20250707_nBHEAM_MB_v/7ad0bb96-3ded-99ad-caae-a3a9545c3840
+  description: A high intensity & high energy neutron activation station at the CERN
+    Beam Dump Facility
+  author: M. Bacak
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-112
+  pdf: https://www.bipm.org/documents/20126/276575258/12.IAEA-7-8July2025-Cazzaniga/d95bb446-ce0f-7b2a-5913-2dd5865fe6bc
+  description: Evaluation of spectrum and fluxes of the ChipIrfacility for atmospheric
+    neutron testing of electronics
+  author: C. Cazzaniga
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-113
+  pdf: https://www.bipm.org/documents/20126/276575284/13.THutton_DetectorResponseFunctions_nBHEAM2025/e2644cd0-5582-317f-bd59-bfe406a174f9
+  description: Detector response functions for in situ high energy neutron spectrometry
+  author: T. Hutton
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-114
+  pdf: https://www.bipm.org/documents/20126/276575302/14.Cirillo_NBHEAM25/f0db1e5f-320f-4c05-2bbd-9dc67e0150db
+  description: Development of a portable monitor for cosmic ray neutron observations
+  author: A. Cirillo
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-115
+  pdf: https://www.bipm.org/documents/20126/276575324/15.nBHEAM2025_Cimmino_v02/daba98ef-4fdf-c5c6-2490-0dc1f805b887
+  description: Challenges and requirements for neutron dosimetry at laser-driven accelerators
+  author: A. Cimmino
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-116
+  pdf: https://www.bipm.org/documents/20126/276575350/16.PLEE_nBHEAM2025.0702.FINAL/106a1cc6-b273-e8a9-9c8b-da646410ab1b
+  description: A new GEANT4 fission physics model for simulation of high-energy neutron
+    detection and measurements
+  author: P. Lee
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-117
+  pdf: https://www.bipm.org/documents/20126/276626236/17.2025-07_Dietz-nBHEAM_WS-DDX_release/c589d583-ebf5-5e22-f641-7a0ff495af84
+  description: Experiment for Double-Differential Cross Section Measurement with the
+    Emission of Light Charged Particles from High Energy Neutrons on Carbon at n_TOF
+  author: M. Dietz
+  date: 31/07/2025
+- title: CCRI(III)/2025-WS-118
+  pdf: https://www.bipm.org/documents/20126/276575394/18.nBHEAM2025_EJLEE/b7a14746-f57e-a92c-40ad-69e6a2b1aa67
+  description: Measurement of High-Energy Neutrons penetrating Shields from GeV protons
+    on a Thick Copper Target
+  author: E. Lee
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-119
+  pdf: https://www.bipm.org/documents/20126/276575412/19.MPETIT_IAEA_20250707_v03/9bbcb1fd-fd15-b584-d0ac-ab916f0cbab2
+  description: EURADOS tak on improving the description of nuclear reactions between
+    nucleons and light nuclei, notably C-12, N-14 and O-16
+  author: M. Petit
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-201
+  pdf: https://www.bipm.org/documents/20126/276577943/1.2025-07-08+Neutron+metrology+Why+and+How-N.Roberts/24cd761b-8f91-98f8-251c-bbda548db3ba
+  description: 'Neutron Metrology: Why and How?'
+  author: N. Roberts
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-202
+  pdf: https://www.bipm.org/documents/20126/276577967/2.2025-07-08_Workplace_Fields_Pozzi/e4b934a8-9dff-38d9-4395-9e6074c020b9
+  description: Challenges and developments in Neutron Metrology for high energy workplace
+    radiation fields
+  author: F. Pozzi
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-203
+  pdf: https://www.bipm.org/documents/20126/276577985/3.Andy+Buffler_nBHEAM2025_IAEA_8Jul2025/1b014884-2655-41bb-442b-362d45fa9078
+  description: 'Quasi-monoenergetic high energy neutron fields: present status and
+    future prospects'
+  author: A. Buffler
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-204
+  pdf: https://www.bipm.org/documents/20126/276578009/4.IAEA_CCRI_2025_Nolte_Instrumentation/239518f0-4f72-3557-93e9-17101512d54b
+  description: Instruments for High-Energy Neutron Metrology
+  author: R. Nolte
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-205
+  pdf: https://www.bipm.org/documents/20126/276578031/5.Capote-nBHEAM-2025/bdee2a6b-f239-f7c4-18f2-c9a18facdb4d
+  description: Neutron Reference Data for high energy applications
+  author: R. Capote
+  date: 30/07/2025
+- title: CCRI(III)/2025-WS-206
+  pdf: https://www.bipm.org/documents/20126/276578055/6.hirtz/faa5fc6a-86fb-011e-6af0-f9844b5ee004
+  description: Uncertainties of MC calculations
+  author: J. Hirtz
+  date: 30/07/2025

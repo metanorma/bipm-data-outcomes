@@ -6,3 +6,8 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcgm/25-2022
 resolutions: []
+working_documents:
+- title: JCGM/2022-00-Agenda
+  pdf: https://www.bipm.org/documents/20126/77780705/JCGM-2022-00-Agenda/41001c87-4002-8b97-79e4-1161538e4b5c
+  description: Provisional agenda
+  author: BIPM

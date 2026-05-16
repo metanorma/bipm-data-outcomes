@@ -6,3 +6,8 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/jc/jcgm/27-2025
 resolutions: []
+working_documents:
+- title: JCGM/2025-00-Agenda
+  pdf: https://www.bipm.org/documents/20126/266845976/JCGM-2025-00-Agenda/2c4652cd-15a6-6647-7621-2d4853669d94
+  description: Draft agenda for the 27th meeting of the JCGM (January 2025)
+  author: BIPM

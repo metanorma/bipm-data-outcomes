@@ -7,3 +7,29 @@ metadata:
   url: https://www.bipm.org/fr/committees/cc/ccri/wg/ccri-webinar/2025-04-24
   workgroup: ccri-webinar
 resolutions: []
+working_documents:
+- title: CCRI-Webinar/2025-400
+  pdf: https://www.bipm.org/documents/20126/271981113/400+-+CCRI+Webinar+-+April+2025+-+Welcome/0b25a135-4c26-4446-e1c2-1e9a1225302b
+  description: CCRI Webinar - April 2025 - Welcome
+  author: Vincent Gressier
+  date: 25/04/2025
+- title: CCRI-Webinar/2025-401
+  pdf: https://www.bipm.org/documents/20126/271981135/401+-+Introduction+-+P+Toroi/1b03d2b7-68e9-3107-1e0b-f6ec91296fe7
+  description: Introduction
+  author: Paula Toroi
+  date: 25/04/2025
+- title: CCRI-Webinar/2025-402
+  pdf: https://www.bipm.org/documents/20126/271981157/402+-+Update+of+reference+radiation+qualities++-+S+Pojtinger/efadca10-97d8-7e47-c105-becae7ddacac
+  description: Update of reference radiation qualities
+  author: Stefan Pojtinger
+  date: 25/04/2025
+- title: CCRI-Webinar/2025-403
+  pdf: https://www.bipm.org/documents/20126/271981095/403+-+Definition+of+XMM+measurement+quantities+-+M+Zivanovic/6efcbd7d-e3f7-bb66-091b-17bac5c873a2
+  description: Definition of XMM measurement quantities
+  author: Miloš Živanović
+  date: 25/04/2025
+- title: CCRI-Webinar/2025-404
+  pdf: https://www.bipm.org/documents/20126/271981183/404+-+Clinical+implementation+of+new+procedures++-+C+Bjelac+Olivera/3223cf4c-f512-d947-d3c1-7ee0c922cd0a
+  description: Clinical implementation of new procedures
+  author: Olivera Ciraj Bjelac
+  date: 25/04/2025

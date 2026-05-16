@@ -8,3 +8,9 @@ metadata:
   url: https://www.bipm.org/fr/committees/cc/ccri/wg/ccri-webinar/2025-10-15
   workgroup: ccri-webinar
 resolutions: []
+working_documents:
+- title: CCRI-Webinar/2025-500
+  pdf: https://www.bipm.org/documents/20126/273435789/Webinar-challenges-Monte-Carlo/92c8a027-64bb-a530-fae2-b82faab16328
+  description: Announcement - CCRI Webinar on "Challenges with Monte Carlo Simulation
+    in Ionizing Radiation Metrology
+  author: ''

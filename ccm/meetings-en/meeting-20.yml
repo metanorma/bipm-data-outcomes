@@ -6,3 +6,150 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/en/committees/cc/ccm/20-2025
 resolutions: []
+working_documents:
+- title: CCM/2025-00-A
+  pdf: https://www.bipm.org/documents/20126/274585543/Agenda-20th_CCM_2025/85d2a70c-024d-3263-0f06-6e02e2a2e1e8
+  description: Agenda of the 20th CCM meeting
+  author: G. Macdonald & H. Fang
+  date: 19/06/2025
+- title: CCM/2025-00-B
+  pdf: https://www.bipm.org/documents/20126/274586102/CCM-25_00-B_Participant-list/e799b1be-d7b0-57a6-d46e-3d4efa986504
+  description: List of participants 20th CCM meeting
+  author: BIPM
+  date: 19/06/2025
+- title: CCM/2025-03-1
+  pdf: https://www.bipm.org/documents/20126/275215474/CCM-25_03-1_CIPM-update/2a13ddd6-d21d-1391-7d54-4cb2ec848357
+  description: Update on the CIPM decisions
+  author: G. Macdonald
+  date: 02/07/2025
+- title: CCM/2025-03-2
+  pdf: https://www.bipm.org/documents/20126/275187393/CCM-25_03-2_BIPM-report/31dbdd23-b52d-3e60-9be6-1d7e46f3d797
+  description: Report from the BIPM
+  author: M. Milton
+  date: 01/07/2025
+- title: CCM/2025-05
+  pdf: https://www.bipm.org/documents/20126/275215491/CCM-25_05_WGS-report/e136adc3-3f30-ced3-c0ed-6028492f8ed6
+  description: WGS report
+  author: G. Macdonald
+  date: 02/07/2025
+- title: CCM/2025-06-1
+  pdf: https://www.bipm.org/documents/20126/275177154/CCM-25_06-1_WGDV-Report/75f554b3-9755-bcd3-bc63-c188926052d9
+  description: WGDV report
+  author: D. Eppers
+  date: 01/07/2025
+- title: CCM/2025-06-2
+  pdf: https://www.bipm.org/documents/20126/275177171/CCM-25_06-2_WGFF-Report/5551f7e2-c947-724b-dcf3-7a28b97c60f6
+  description: WGFF report
+  author: B. Mickan
+  date: 01/07/2025
+- title: CCM/2025-06-3
+  pdf: https://www.bipm.org/documents/20126/275177192/CCM-25_06-3_WGFT-Report/42bdb408-0442-a3d5-b08b-a2bd1b176325
+  description: WGFT report
+  author: A. Knott
+  date: 01/07/2025
+- title: CCM/2025-06-4
+  pdf: https://www.bipm.org/documents/20126/275177217/CCM-25_06-4_WGG-Report/99bb1ca2-3f60-ffe5-5241-349d4b6b5d7e
+  description: WGG report
+  author: S. Wu
+  date: 01/07/2025
+- title: CCM/2025-06-5
+  pdf: https://www.bipm.org/documents/20126/275177234/CCM-25_06-5_WGH-Report/777caba4-fce5-649c-f1ac-0039da699497
+  description: WGH report
+  author: F. Menelao
+  date: 01/07/2025
+- title: CCM/2025-06-6
+  pdf: https://www.bipm.org/documents/20126/275177260/CCM-25_06-6_WGPV-Report/cb9290b7-00c1-685b-37bc-425f049e212f
+  description: WGPV report
+  author: J. Scherschligt
+  date: 01/07/2025
+- title: CCM/2025-06-7
+  pdf: https://www.bipm.org/documents/20126/275177277/CCM-25_06-7_WGM_TGPfD-Kg-Report/44896737-0dae-2711-fe32-3493e211c763
+  description: WGM & TGPfD-kg report
+  author: S. Davidson
+  date: 01/07/2025
+- title: CCM/2025-08
+  pdf: https://www.bipm.org/documents/20126/275187418/CCM-25_08_BIPM-MassLaboratories_Report/4454cf21-c699-83d2-fe71-8d946ae56240
+  description: Work program of the BIPM mass laboratories
+  author: M. Stock
+  date: 01/07/2025
+- title: CCM/2025-10-1
+  pdf: https://www.bipm.org/documents/20126/275187439/CCM-25_10-1_JCRB-report/9c5057c3-6fcb-2a7e-b12d-597c106cff99
+  description: JCRB report
+  author: K. Yamazawa
+  date: 01/07/2025
+- title: CCM/2025-10-2
+  pdf: https://www.bipm.org/documents/20126/275187464/CCM-25_10-2_KCDB-report/eb1df653-7afe-78a3-7ad4-3cdc61496075
+  description: KCDB report
+  author: S. Maniguet
+  date: 01/07/2025
+- title: CCM/2025-11-1
+  pdf: https://www.bipm.org/documents/20126/275177712/CCM-25_11-1_AFRIMETS-report/14d82072-86ae-20ca-9649-32693fa46ea2
+  description: AFRIMETS report
+  author: AFRIMETS
+  date: 01/07/2025
+- title: CCM/2025-11-2
+  pdf: https://www.bipm.org/documents/20126/275177729/CCM-25_11-2_APMP-report/69726c92-c79f-7eab-fbfc-ff4470139acd
+  description: APMP report
+  author: APMP
+  date: 01/07/2025
+- title: CCM/2025-11-3
+  pdf: https://www.bipm.org/documents/20126/275177750/CCM-25_11-3_COOMET-report/dc4a5b70-7ae1-38b8-e326-d6fd0c91258a
+  description: COOMET report
+  author: COOMET
+  date: 01/07/2025
+- title: CCM/2025-11-4
+  pdf: https://www.bipm.org/documents/20126/275177771/CCM-25_11-4_EURAMET-report/86d4aa22-b795-99fc-474f-e3b2d309448b
+  description: EURAMET report
+  author: EURAMET
+  date: 01/07/2025
+- title: CCM/2025-11-5
+  pdf: https://www.bipm.org/documents/20126/275177793/CCM-25_11-5_SIM-report/bbe2d4d4-bdb1-e922-5fd5-f18dd1634329
+  description: SIM report
+  author: SIM
+  date: 01/07/2025
+- title: CCM/2025-12
+  pdf: https://www.bipm.org/documents/20126/275215517/CCM-25_12_Decisions+%26+Actions/0cd1b8a1-4009-9170-03c9-66a4cfc72632
+  description: Decisions & Actions
+  author: CCM
+  date: 02/07/2025
+- title: CCM/2025-D1-1
+  pdf: https://www.bipm.org/documents/20126/275228051/CCM-25_D1-1_CMI/8c177c06-fab0-9552-c3af-75808607e0c0
+  description: Metrological traceability for the measurements of the intraocular pressure
+  author: D. Pražák
+  date: 02/07/2025
+- title: CCM/2025-D1-2
+  pdf: https://www.bipm.org/documents/20126/275262516/CCM-25_D1-2_PTB/d5176d49-2210-634e-4d21-5d4893d1bb84
+  description: Advancing Photonic Pressure Standards
+  author: T. Rubin
+  date: 03/07/2025
+- title: CCM/2025-D1-3
+  pdf: https://www.bipm.org/documents/20126/275228089/CCM-25_D1-3_NMI/cb4a38e4-0a7c-8811-4e96-49ac79b9f1df
+  description: First realization of a fully-primary optical pressure scale with two-color
+    measurement
+  author: Y. Yang
+  date: 02/07/2025
+- title: CCM/2025-D1-4
+  pdf: https://www.bipm.org/documents/20126/275228110/CCM-25_D1-4_NIST/9315511a-8119-b56b-bbf9-85cc034e18a9
+  description: Measuring Vacuum with Cold Atoms
+  author: J. Scherschligt
+  date: 02/07/2025
+- title: CCM/2025-D2-1
+  pdf: https://www.bipm.org/documents/20126/275260657/CCM-25_D2-1_NIST/8088f5f5-2e7e-e9ea-0452-66454377c51f
+  description: NIST Decision Tree for Consensus Building
+  author: A. Possolo
+  date: 03/07/2025
+- title: CCM/2025-D2-2
+  pdf: https://www.bipm.org/documents/20126/275228131/CCM-25_D2-2_PTB/82a63a97-173f-68f7-ebc1-d4d6e0ca807d
+  description: Degree of equivalence for KCs – past practice in WGFF and actual considerations
+  author: B. Mickan
+  date: 02/07/2025
+- title: CCM/2025-D2-3
+  pdf: https://www.bipm.org/documents/20126/275279490/CCM-25_D2-3_PTB/0a747b08-8f54-cf99-9278-b626ef04bc00
+  description: The Digital Metrological Expert
+  author: D. Hutzschenreuter
+  date: 03/07/2025
+- title: CCM/2025-D2-4
+  pdf: https://www.bipm.org/documents/20126/275228173/CCM-25_D2-4_BIPM/3f04db4f-10fd-0a41-20eb-4639fc68a988
+  description: SI Reference Point Status
+  author: F. Meynadier
+  date: 02/07/2025
