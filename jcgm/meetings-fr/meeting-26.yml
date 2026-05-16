@@ -6,3 +6,8 @@ metadata:
   source: BIPM - Pavillon de Breteuil
   url: https://www.bipm.org/fr/committees/jc/jcgm/26-2024
 resolutions: []
+working_documents:
+- title: JCGM/2024-00-Agenda
+  pdf: https://www.bipm.org/documents/20126/116588965/JCGM-2023-00-Agenda/1b40f440-f58d-84ad-a76e-ae223c39093a
+  description: Draft agenda for the 26th meeting of the JCGM (December 2023)
+  author: BIPM
